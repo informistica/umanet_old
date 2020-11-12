@@ -1,0 +1,1139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono i problemi di natura sostanziale nel whistleblowing._Expo_6_5_sin_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono i problemi di natura sostanziale nel whistleblowing.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Ma vi sono soprattutto problemi di natura sostanziale, il whistleblowing scatena conflitti di interesse perch&#233; &#232; difficile conciliare l&#8217;interesse pubblico alla emersione di azioni illecite con il mantenimento della reputazione dell&#8217;ente e la tutela dei presunti responsabili di illeciti.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>il whistleblowing non &#232; uno strumento di prevenzione efficace<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>l'istituto del whistleblowing ha costi di gestione elevati <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Le modalit&#224; con cui effettuare le segnalazioni non sono sicure<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>il whistleblowing scatena conflitti di interesse <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text> E' evidente il conflitto per il quale le persone non comunicano condotte o fatti corruttivi._Expo_6_5_sin_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p> E' evidente il conflitto per il quale le persone non comunicano condotte o fatti corruttivi.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>   Ancora, &#232; evidente il conflitto fra diritto a comunicare condotte o fatti corruttivi entro l&#8217;ente, diritti delle persone a vario titolo
+coinvolte nella situazione e diritto all'anonimato del denunciante.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>si, perch&#233; sono distratti e disinteressati a ci&#242; che accade nell'ente   <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>si, perch&#233; la gente ha paura che la loro riservatezza non venga rispettata<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, molte persone parlano lo stesso di questi fatti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessuna delle precedenti.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>Chi &#232; stato individuato per evitare i fenomeni corruttivi ._Expo_6_5_sin_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Chi &#232; stato individuato per evitare i fenomeni corruttivi .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Con l&#8217;Orientamento dell&#8217;Autorit&#224; Nazionale Anticorruzione (A.N.AC.) n. 40 del 11 giugno 2014, tale soggetto &#232; stato individuato nel Responsabile della prevenzione della corruzione (RPC),   a cui &#232; affidato il delicato e importante compito di proporre strumenti e misure per contrastare fenomeni corruttivi&#8221;
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Responsabile della prevenzione  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Responsabile della produzione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Responsabile delle finanze<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Agente dell'arma dei carabinieri<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono alcune delle novit&#224; che potrebbero essere introdotte in futuro._Expo_6_5_sin_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono alcune delle novit&#224; che potrebbero essere introdotte in futuro.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> In futuro  verr&#224; inserita  la regola per cui a ricevere le segnalazioni sar&#224; il RPC e che la tutela sar&#224; garantita al pubblico dipendente che nell&#8217;interesse dell&#8217;integrit&#224; della pubblica amministrazione, in buona fede, segnala condotte illecite di cui &#232; venuto a conoscenza in ragione del proprio rapporto di lavoro.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La regola per cui a ricevere le segnalazioni sar&#224; il RPC e che la tutela del segnalante non sar&#224; garantita <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>La regola per cui a ricevere le segnalazioni sar&#224; il RPC e che la tutela del segnalante sar&#224; garantita <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessuno segnaler&#224; alcun pericolo senza permesso<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessuna delle precedenti.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="multichoice">
+		<name>
+			<text>L&#8217;istituto del whistleblowing &#232; riconosciuto nell&#8217;ambito della comunit&#224; internazionale come,_Expo_6_5_sin_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L&#8217;istituto del whistleblowing &#232; riconosciuto nell&#8217;ambito della comunit&#224; internazionale come,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L&#8217;istituto del whistleblowing &#232; riconosciuto nell&#8217;ambito della comunit&#224; internazionale come meccanismo essenziale alla emersione di illeciti di interesse pubblico e alla conseguente capacit&#224; dei paesi di contrastarli. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>meccanismo all' immersione di illeciti di interesse pubblico<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>meccanismo essenziale alla emersione di illeciti di interesse privato<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>meccanismo essenziale alla emersione di illeciti di interesse pubblico<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>meccanismo all' immersione di illeciti di interesse privato<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="multichoice">
+		<name>
+			<text>la possibilit&#224; di segnalare la violazione di illeciti senza temere ritorsioni contribuisce ad, _Expo_6_5_sin_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>la possibilit&#224; di segnalare la violazione di illeciti senza temere ritorsioni contribuisce ad, <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>la possibilit&#224; di segnalare la violazione di illeciti senza temere ritorsioni che contribuisce ad una societ&#224; aperta e tollerante, dove ciascuno fa propria la responsabilit&#224; di creare una cultura di fiducia e integrit&#224;.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p> una societ&#224; tollerante<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p> una societ&#224; aperta <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>una societ&#224; chiusa e tollerante<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>una societ&#224; aperta e tollerante<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono gli ostacoli pi&#249; diffusi all&#8217;attivit&#224; di segnalazione_Expo_6_5_sin_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono gli ostacoli pi&#249; diffusi all&#8217;attivit&#224; di segnalazione<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Due sono gli ostacoli pi&#249; diffusi all&#8217;attivit&#224; di segnalazione, la paura di subire ritorsioni da parte di datori di lavoro e colleghi e la sfiducia nella risposta alle questioni segnalate, ovvero che qualcosa verr&#224; fatto.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Non esiste un reale bisogno di segnalare gli illeciti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Mancanza di strumenti di segnalazione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Sfiducia nella risposta alle questioni segnalate<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Paura di subire ritorsioni e sfiducia nella risposta alle questioni segnalate <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="multichoice">
+		<name>
+			<text>Condizioni che ogni ordinamento che voglia promuovere il W dovrebbe garantire,_Expo_6_5_sin_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Condizioni che ogni ordinamento che voglia promuovere il W dovrebbe garantire,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Due sono le condizioni che ogni ordinamento che voglia promuovere con seriet&#224; questo istituto dovrebbe garantire, la chiarezza del processo e la certezza della protezione.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Certezza di ricevere premi in denaro<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Certezza di ricevere promozioni lavorative<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Certezza della protezione e chiarezza del processo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessuna delle precedenti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="multichoice">
+		<name>
+			<text>l&#8217;articolo 54bis &#232; stato inserito nel corpo del Testo Unico del Pubblico Impiego da cosa._Expo_6_5_sin_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>l&#8217;articolo 54bis &#232; stato inserito nel corpo del Testo Unico del Pubblico Impiego da cosa.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> la legge 109(legge severino)ha inserito
+l&#8217;articolo 54bis nel corpo del Testo Unico del Pubblico Impiego (T.U.P.I., d. lgs.
+165-2001)
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>da un referendum popolare <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>da una petizione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>dalla legge Severino<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>da una proposta di legge al senato<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="multichoice">
+		<name>
+			<text>cosa dispone questa norma._Expo_6_5_sin_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>cosa dispone questa norma.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>questa legge prevede che quando un utente fa una segnalazione non subisca ritorsioni di nessun tipo e che la sua identit&#224; rimanga anonima per prevenire ci&#242;
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>un rimborso al segnalatore<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>nessuna ritorsione e l'identit&#224; secretata<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>protezione a livello giudiziario<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>un giorno di memoria<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="multichoice">
+		<name>
+			<text>Il monitoraggio del Whistleblower in quante direzioni si &#232; svolto._Expo_6_5_sin_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il monitoraggio del Whistleblower in quante direzioni si &#232; svolto.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il monitoraggio del progetto 'Whistleblower'  si &#232; svolto in due direzioni, 
+Da una parte, sono state considerate le segnalazioni pervenute all&#8217;A.N.AC. a partire dal mese di settembre 2014 fino al 31 maggio 2016.
+Dall&#8217;altra, &#232; stato realizzato un monitoraggio su un campione costituito da 34 amministrazioni e 6 societ&#224; pubbliche.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1 <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>2<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>3<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>4<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="multichoice">
+		<name>
+			<text>L'acronimo RPC cosa indica._Expo_6_5_sin_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'acronimo RPC cosa indica.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Con l&#8217;Orientamento dell&#8217;Autorit&#224; Nazionale Anticorruzione (A.N.AC.) n. 40 del 11 giugno 2014, tale soggetto &#232; stato individuato nel Responsabile della prevenzione della corruzione (RPC)
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Responsabile della prevenzione della corruzione  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p> Responsabile delle pratica della corruzione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Responsabile delle produzioni e competizioni<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p> Remote Procedure Call<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="multichoice">
+		<name>
+			<text>Quale di queste informazioni riguardo al whisteblower &#232; vera._Expo_6_5_sin_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quale di queste informazioni riguardo al whisteblower &#232; vera.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il whistleblower possiede informazioni tendenzialmente pi&#249; &#8220;qualificate&#8221;, ossia pi&#249; circostanziate, dettagliate e supportate da documentazione probatoria, che permettono al RPC di decodificare pi&#249; facilmente anche quei meccanismi corruttivi pi&#249; &#8220;sofisticati&#8221;, che in modo opaco si sono insinuati nella struttura organizzativa e nella prassi comportamentale dell&#8217;amministrazione pubblica. 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Possiede informazioni poco dettagliate<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Serve a prevenire infiltrazioni esterne nelle informazioni <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>E' un database che contiene i dati principali delle segnalazioni<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Possiede informazioni supportate da documentazione probatoria<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="multichoice">
+		<name>
+			<text>Tra i casi di Whistleblower che si sono presentati al PCaW nel 2013,_Expo_6_5_sin_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Tra i casi di Whistleblower che si sono presentati al PCaW nel 2013,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il 60% del campione di whistleblowers non ha ricevuto alcuna risposta alla segnalazione da parte della dirigenza. Del restante 40% che ha ottenuto una risposta, si &#232; trattato di atti formali di ritorsione come retrocessioni, sospensioni o azioni disciplinari.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>I segnalatori sono stati tutti puniti con ritorsioni<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Il 60% non ha avuto risposta mentre il 40% sono stati puniti con ritorsioni  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il 10% non ha avuto risposta mentre il 90% sono stati premiati<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il 60% dei segnalatori ha ritrattato.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="multichoice">
+		<name>
+			<text>La Camera Alta del Parlamento dei Paesi Bassi ha adottato una legge istitutiva della &#8220;Casa del Whistleblower&#8221;, che introduce,_Expo_6_5_sin_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La Camera Alta del Parlamento dei Paesi Bassi ha adottato una legge istitutiva della &#8220;Casa del Whistleblower&#8221;, che introduce,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il 1&#176; marzo 2016, la Camera Alta del Parlamento dei Paesi Bassi ha adottato una legge istitutiva della &#8220;Casa del Whistleblower&#8221; che introduce una protezione legale per dipendenti pubblici e privati che segnalano condotte illecite sul luogo di lavoro. La &#8220;Casa&#8221; &#232; divisa in una sezione &#8220;consultiva&#8221; ed una &#8220;investigativa&#8221;, tenute rigorosamente separate.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Una protezione legale per dipendenti pubblici e privati che non segnalano condotte illecite sul luogo di lavoro. <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Una punizione amministrativa per coloro che segnalano le condotte illecite.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Non introduce nessun vero provvedimento.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Una protezione legale per dipendenti pubblici e privati che segnalano condotte illecite sul luogo di lavoro.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="multichoice">
+		<name>
+			<text>quali appellativi  vengono dati al whistleblower._Expo_6_5_sin_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>quali appellativi  vengono dati al whistleblower.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Questo &#8220;nuovo modo&#8221; di essere dipendente pubblico, che con le sue segnalazioni pu&#242; richiamare l&#8217;attenzione di autorit&#224; interne o esterne su condotte di illegalit&#224;, viene ingiustamente riferito con gli appellativi spione, delatore, traditore.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>socievole  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>simpatico<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>furbo e ingannevole<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>spione, delatore, traditore<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="multichoice">
+		<name>
+			<text>grazie anche alla MIUR cosa viene lanciato._Expo_6_5_sin_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>grazie anche alla MIUR cosa viene lanciato.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Questo perch&#232;  proprio per aiutare la &#8220;nazionalizzazione&#8221; dell&#8217;istituto e farlo conoscere ai nostri giovani, classe dirigente del futuro 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>un nuovo 'progetto'<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>un &#8220;concorso di idee&#8221; per la ricerca del nome da dare al whistleblower nostrano<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>nuovi principi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>diversi tipi di aspettative <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 18 -->
+	<question type="multichoice">
+		<name>
+			<text>per contrastare la cultura del silenzio molti paesi cosa hanno introdotto._Expo_6_5_sin_18</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>per contrastare la cultura del silenzio molti paesi cosa hanno introdotto.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Al fine di ovviare a tali danni e contrastare la cultura del silenzio, molti paesi hanno
+introdotto forme varie di incentivi per i segnalanti, che vanno da forme di riconoscimento
+pi&#249; o meno pubbliche a vere e proprie ricompense finanziarie. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>nulla<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>incentivi tramite premi ,per i segnalanti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>un pacco di prodotti artigianali per tutti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>un sistema per sfavorire i seggnalanti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 19 -->
+	<question type="multichoice">
+		<name>
+			<text>quanti  paesi accettano   la regolamentazione dell&#8217;onere della prova  all&#8217;azione di ritorsione._Expo_6_5_sin_19</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>quanti  paesi accettano   la regolamentazione dell&#8217;onere della prova  all&#8217;azione di ritorsione.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La tutela viene rafforzata in alcuni Paesi dalla previsione di uno spazio temporaledurante il quale la tutela stessa deve essere garantita. In Belgio, per esempio, il whistleblower &#232; protetto da ritorsioni fino a 2 anni successivi alla conclusione della vicenda giudiziaria o amministrativa scaturita dalla segnalazione.
+Ma l&#8217;elemento pi&#249; rilevante della tutela riguarda senza dubbio la regolamentazione dell&#8217;onere della prova nel procedimento relativo all&#8217;azione di ritorsione.
+ Molti Paesi, ad eccezione della Germania, accettano la buona pratica di addossare al datore di lavoro l&#8217;onere di provare che l&#8217;eventuale azione nei confronti del dipendente-segnalante sia stata presa indipendentemente dall&#8217;azione di segnalazione
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p> Molti Paesi  accettano la buona pratica di addossare al datore di lavoro l&#8217;onere di provare  l&#8217;eventuale azione <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>nessun paese<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>sono i paesi pi&#249; poveri<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>lo zimbawe<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 20 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa evidenzia l'A.N.A.C._Expo_6_5_sin_20</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa evidenzia l'A.N.A.C.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Perch&#233; &#233; segnalato dagli atti di segnalazione al Parlamento e al Governo
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La scelta migliore <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>L'utilit&#224; dell'azienda<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>I necessari interventi normativi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessuna delle risposte precedenti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 21 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa si stipula con con Libera e Transparency International-Italia._Expo_6_5_sin_21</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa si stipula con con Libera e Transparency International-Italia.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>perch&#233; permettono di adattarsi secondo specifiche esigenze
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Niente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Protocolli<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Contratti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Idee<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

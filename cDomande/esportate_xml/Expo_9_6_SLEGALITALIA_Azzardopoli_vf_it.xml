@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="truefalse">
+		<name>
+			<text>I casin&#242; sono costruiti apposta per far rimanere pi&#249; tempo i giocatori._Expo_9_6_vf_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I casin&#242; sono costruiti apposta per far rimanere pi&#249; tempo i giocatori.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>&#200; vera perch&#233; i casin&#242; vengono costruiti con sedie confortevoli, con il permesso di fumare e senza orologi, tutti fattori che invogliano i giocatori a rimanere di pi&#249;.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="truefalse">
+		<name>
+			<text>Le quasi-vittorie spingono il giocatore a smettere di giocare._Expo_9_6_vf_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Le quasi-vittorie spingono il giocatore a smettere di giocare.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Falso, perch&#233; se un giocatore perde la partita sfiorando il risultato la voglia di rivincita sale alle stelle, quindi invogliano i giocatori a giocare.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="truefalse">
+		<name>
+			<text>Nei casino' si cerca di non far capire al giocatore da quanto tempo si trova all'interno_Expo_9_6_vf_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Nei casino' si cerca di non far capire al giocatore da quanto tempo si trova all'interno<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Vero, in tutti i casino' ad esempio non ci sono orologi e finestre cosi da non far capire al giocatore da quanto tempo si trova all'interno.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="truefalse">
+		<name>
+			<text>Il gioco d'azzardo non coinvolge chi ti sta attorno._Expo_9_6_vf_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il gioco d'azzardo non coinvolge chi ti sta attorno.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il gioco d'azzardo coinvolge chi ti sta intorno. tutti i problemi accumulati col gioco,economici e non, ricadono sui loro familiari
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="truefalse">
+		<name>
+			<text>L'eccessivo utilizzo del gioco &#232; riconosciuto come malattia_Expo_9_6_vf_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'eccessivo utilizzo del gioco &#232; riconosciuto come malattia<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il gioco &#232; riconosciuto come malattia infatti vi sono centri specializzati per il recupero dei malati. Molto spesso questa informazione non &#232; diffusa, molti non sono a conoscenza di poter accedere ad assistenza economica e psicologica gratuitamente.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="truefalse">
+		<name>
+			<text>I bambini sono totalmente immuni dal gioco d'azzardo._Expo_9_6_vf_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I bambini sono totalmente immuni dal gioco d'azzardo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>I bambini e anche gli adolescenti, secondo una statistica accertata, in buona percentuale hanno gi&#224; avuto a che fare con il gioco d'azzardo, quali 'gratta e vinci' e schedine sportive
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="truefalse">
+		<name>
+			<text>Ludopatia &#232; il termine corretto per definire i dipendenti da gioco d'azzardo._Expo_9_6_vf_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Ludopatia &#232; il termine corretto per definire i dipendenti da gioco d'azzardo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Con ludopatia si definiscono i dipendenti da gioco non d'azzardo.
+I dipendenti da gioco d'azzardo sono classificati come 'Dipendente d'azzardo patologico' 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="truefalse">
+		<name>
+			<text>Il gioco d'azzardo &#232; illegale in Italia._Expo_9_6_vf_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il gioco d'azzardo &#232; illegale in Italia.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il gioco d'azzardo in Italia &#232; illegale, ma lo Stato attraverso leggi e normative &#232; riuscito a bypassare questa illegalit&#224;
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="truefalse">
+		<name>
+			<text>Il gioco d'azzardo pu&#242; considerarsi una vera e propria malattia_Expo_9_6_vf_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il gioco d'azzardo pu&#242; considerarsi una vera e propria malattia<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Si, perch&#232; numerose persone sono rimaste dipendenti dal gioco e hanno bisogno di aiuto per curare la loro dipendenza
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="truefalse">
+		<name>
+			<text>Il gioco d'azzardo e' solo un problema economico._Expo_9_6_vf_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il gioco d'azzardo e' solo un problema economico.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Falso, perch&#233; il gioco crea una sorta di magnetismo con il giocatore che, anche se non si hanno soldi, si cerca in tutti i modi di giocare.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="truefalse">
+		<name>
+			<text>Il gioco d'azzardo si verifica anche tra i minorenni._Expo_9_6_vf_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il gioco d'azzardo si verifica anche tra i minorenni.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Numerose ricerche dicono che molti minorenni giocano d'azzardo, sopratutto a giochi tipo scommesse, in particolare quelle calcistiche.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="truefalse">
+		<name>
+			<text>Il gioco d'azzardo ti incolla psicologicamente, provocando dipendenza tramite poche vittorie ogni tanto e molte sconfitte_Expo_9_6_vf_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il gioco d'azzardo ti incolla psicologicamente, provocando dipendenza tramite poche vittorie ogni tanto e molte sconfitte<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La spiegazione &#232; ovvia, si serve di un meccanismo mentale che fa credere al giocatore di essere nel giusto e di poter vincere se la fortuna gira dalla sua parte
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="truefalse">
+		<name>
+			<text>Negli ultimi anni in carcere sono aumentate le vittime di usura_Expo_9_6_vf_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Negli ultimi anni in carcere sono aumentate le vittime di usura<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Le vittime di usura spesso sono strettamente collegato al vizio del gioco, le quali sono sempre pi&#249; in aumento
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="truefalse">
+		<name>
+			<text>Una persona pu&#242; guarire totalmente dalla dipendenza dal gioco._Expo_9_6_vf_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Una persona pu&#242; guarire totalmente dalla dipendenza dal gioco.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Un dipendente dal gioco guarisce da ci&#242; anche se il periodo di 'riabilitazione' &#232; lungo e coinvolge tutti i famigliari
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="truefalse">
+		<name>
+			<text>Pu&#242; essere definito l'identikit di un perfetto giocatore dipendente._Expo_9_6_vf_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Pu&#242; essere definito l'identikit di un perfetto giocatore dipendente.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La dipendenza da gioco pu&#242; colpire ogni tipo di persona, dai ragazzini agli anziani, da donne a uomini, da ricchi a poveri. Questo perch&#233; il gioco rappresenta i piacere del rischio e provoca l'illusione a realizzare sogni con una vincita in grado di compensare le perdite ma, soprattutto, in grado a portare a vincere e ancora vincere.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="truefalse">
+		<name>
+			<text>La dipendenza da gioco d'azzardo pu&#242; essere paragonata alla dipendenza da droghe._Expo_9_6_vf_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La dipendenza da gioco d'azzardo pu&#242; essere paragonata alla dipendenza da droghe.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>E' vero perch&#233; quando una persona &#232; fissata con il gioco d'azzardo i suoi pensieri si concentrano tutti sul gioco.
+Il bisogno di andare a giocare diventa incontrollabile e lo porta a fare cose che generalmente non farebbe, lo stesso accade nei tossicodipendenti 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="truefalse">
+		<name>
+			<text>La dipendenza dal gioco d'azzardo crea problemi solo al giocatore_Expo_9_6_vf_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La dipendenza dal gioco d'azzardo crea problemi solo al giocatore<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Falso perch&#233; crea molti problemi tra i familiari del giocatore perch&#233; spesso pur di giocare mentono ai familiari e si giocano tutto lo stipendio che dovrebbe servire per portare avanti una famiglia
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

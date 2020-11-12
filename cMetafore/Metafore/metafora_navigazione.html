@@ -1,0 +1,221 @@
+<!doctype html>
+<html>
+
+<head>
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://www.umanetexpo.net/expo2015Server/UECDL/css/bootstrap2.min.css">
+    <!-- Theme CSS -->
+    <link rel="stylesheet" href="https://www.umanetexpo.net/expo2015Server/UECDL/css/style.css">
+    <!-- Color CSS -->
+    <link rel="stylesheet" href="https://www.umanetexpo.net/expo2015Server/UECDL/css/themes.css">
+    <!-- Bootstrap -->
+    <script src="https://www.umanetexpo.net/expo2015Server/UECDL/js/bootstrap.min.js"></script>
+    <title>Simula Navigazione</title>
+</head>
+
+
+
+
+<script language="JavaScript">
+    var contSi, contNo, Autista, Destinazione, Carburante, Luogo, Strada, Strada_OK, Strada_KO, Cespugli, Lupo, Cestino, Motivato, Testata, v;
+    var plurale, plurale1, volere, dovere, fare, avere, raggiungere, scegliere, avvicinarsi, avvicinarsi1, avvicinarsi2, allontanarsi, allontanarsi1, scontrarsi, continuare, ti_vi;
+
+
+    function aggiornaStoria() {
+        var narrazione = "";
+
+        if (document.parametri.txtAutista.value != "")
+            Autista = document.getElementById("txtAutista").value.toUpperCase(); //riferimento tramite Id
+        else
+            Autista = "SOGGETTO";
+        if (document.parametri.txtDestinazione.value != "")
+            Destinazione = document.parametri.txtDestinazione.value.toUpperCase(); //riferimento tramite gerarchia DOM
+        else
+            Destinazione = "OBIETTIVO";
+        if (document.parametri.txtCarburante.value != "")
+            Carburante = document.parametri.txtCarburante.value.toUpperCase();
+        else
+            Carburante = "MOTIVAZIONE";
+        if (document.parametri.txtLuogo.value != "")
+            Luogo = document.parametri.txtLuogo.value.toUpperCase();
+        else
+            Luogo = "SITUAZIONE";
+        if (document.parametri.txtStrada.value != "")
+            Strada = document.parametri.txtStrada.value.toUpperCase();
+        else
+            Strada = "COMPORTAMENTO";
+        if (document.parametri.txtStrada_OK.value != "")
+            Strada_OK = document.parametri.txtStrada_OK.value.toUpperCase();
+        else
+            Strada_OK = "COMPORTAMENTO ADEGUATO";
+        if (document.parametri.txtStrada_KO.value != "")
+            Strada_KO = document.parametri.txtStrada_KO.value.toUpperCase();
+        else
+            Strada_KO = "COMPORTAMENTO INADEGUATO";
+        if (document.parametri.txtCespugli.value != "")
+            Cespugli = document.parametri.txtCespugli.value.toUpperCase();
+        else
+            Cespugli = "FEEDBACK";
+        if (document.parametri.txtLupo.value != "")
+            Lupo = document.parametri.txtLupo.value.toUpperCase();
+        else
+            Lupo = "CONSEGUENZE NEGATIVE";
+        if (document.parametri.txtCestino.value != "")
+            Cestino = document.parametri.txtCestino.value.toUpperCase();
+        else
+            Cestino = "ATTACCAMENTI";
+
+        plurale = Autista.search(/ e /i); //se è presente e oppure E è >0
+        plurale1 = Autista.search(","); //faccio mettere ; per indicare il prurale
+        if ((plurale == -1) && (plurale1 == -1)) {
+            volere = "vuoi";
+            raggiungere = "raggiungerai";
+            avere = "hai";
+            scegliere = "scegli";
+            avvicinarsi = "ti avvicina";
+            avvicinarsi1 = "avvicinarti";
+            avvicinarsi2 = "avvicinarsi";
+            allontanarsi = "ti allontana";
+            allontanarsi1 = "ti sei allontanato troppo hai";
+            scontrarsi = "e ti sei scontrato";
+            continuare = "continua";
+            fare = "ci sei quasi fai";
+            dovere = "devi";
+            ti_vi = "ti";
+        }
+        else {
+            volere = "volete";
+            raggiungere = "raggiungerete";
+            avere = "avete";
+            scegliere = "scegliete";
+            avvicinarsi = "vi avvicina";
+            avvicinarsi2 = "avvicinarsi";
+            avvicinarsi1 = "avvicinarvi";
+            allontanarsi = "vi allontana";
+            allontanarsi1 = "vi siete allontanati troppo avete";
+            scontrarsi = "e vi siete scontrati";
+            continuare = "continuate";
+            fare = "ci siete quasi fate";
+            dovere = "dovete";
+            ti_vi = "vi";
+        }
+        narrazione = narrazione + "\n " + Autista + " " + volere + "  raggiungere " + Destinazione + " ?";
+        narrazione = narrazione + "NO! <br>\n\n  Mancando " + Carburante.replace("voglia", "") + " per raggiungere " + Destinazione + " , " + Autista + " nel contesto " + Luogo + " non " + raggiungere + " l'obiettivo ! ";
+        narrazione = narrazione + "<br>\n\n " + Autista + " " + volere + " raggiungere " + Destinazione + " ?";
+        narrazione += "<br>\n\n   " + Autista + "  quale  " + Strada + " " + scegliere + " ?  ";
+        narrazione += "<br>\n\nATTENZIONE  " + Autista + "  la scelta  " + Strada_KO + " " + allontanarsi + " da  " + Destinazione;
+        narrazione += "<br>\n\n " + Cespugli + " " + ti_vi + " segnalano il pericolo ! ";
+        narrazione += "<br>\n\n :-(  " + Autista + "  " + allontanarsi1 + " scelto la strada chiusa  " + Strada_KO + " " + scontrarsi + " con " + Lupo + " \n ";
+        narrazione += "<br>\n\n  " + Autista + "  per risolvere la situazione " + dovere + "  abbandonare  " + Cestino + " cosi' da " + avvicinarsi1 + " a " + Destinazione + "  ";
+        narrazione += "<br>\n\n  " + Autista + "  quale  " + Strada + " " + scegliere + " ?  ";
+        narrazione += "<br>\n\n  " + Autista + "  la scelta  " + Strada_OK + " " + avvicinarsi + " a  " + Destinazione + "  " + continuare + " così !  ";
+        narrazione += "<br>\n\n Coraggio " + fare + " l'ultimo passo ! '";
+        narrazione += "<br>\n :-) COMPLIMENTI  " + Autista + " " + avere + " raggiunto " + Destinazione + "!!!";
+
+        document.getElementById("storia").innerHTML = narrazione;
+    }
+
+</script>
+
+
+
+
+<body onload="aggiornaStoria();" class='theme-blue' data-layout-sidebar="fixed" data-layout-topbar="fixed">
+
+    <div class="container-fluid" id="content">
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="box">
+                    <div class="box-title">
+                        <h3><a href="http://www.umanetexpo.net/informistica/UWWW/Navigazione/Navigazione.html" target="_blank">Presentazione</a> narr@azione</h3>
+                  
+                    </div>
+
+                    <div class="box-content" id="storia">
+                    </div>
+
+                    <div class="box-content">
+                        <form name="parametri">
+                            <div class="control-group">
+                                <label for="textfield" class="control-label"><b>Autista</b></label>
+                                <div class="controls">
+                                    <input type="text" oninput="aggiornaStoria();" placeholder="SOGGETTO protagonista"  class="input-xxlarge" name="txtAutista" id="txtAutista">
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label for="textfield" class="control-label"><b>Destinazione</b></label>
+                                <div class="controls">
+                                    <input type="text" oninput="aggiornaStoria();"  placeholder="OBIETTIVO da raggiungere" class="input-xxlarge" name="txtDestinazione" id="txtDestinazione">
+                                </div>
+                            </div>
+                            <div class="control-group">
+                                <label for="textfield" class="control-label"><b>Carburante</b></label>
+                                <div class="controls">
+                                    <input type="text" oninput="aggiornaStoria();"  placeholder="MOTIVAZIONE che spinge verso l'obiettivo" class="input-xxlarge"  name="txtCarburante" id="txtCarburante">
+                                </div>
+                            </div>
+
+                            <div class="control-group">
+                                <label for="textfield" class="control-label"><b>Luogo</b></label>
+                                <div class="controls">
+                                    <input type="text" oninput="aggiornaStoria();"  placeholder="CONTESTO in cui si svolge l'azione" class="input-xxlarge" name="txtLuogo" id="txtLuogo">
+                                </div>
+                            </div>
+
+                            <div class="control-group">
+                                <label for="textfield" class="control-label"><b>Strada</b></label>
+                                <div class="controls">
+                                    <input type="text" oninput="aggiornaStoria();" placeholder="COMPORTAMENTO"  class="input-xxlarge" name="txtStrada" id="txtStrada">
+                                </div>
+                            </div>
+
+                            <div class="control-group">
+                                <label for="textfield" class="control-label"><b>Strada_OK</b></label>
+                                <div class="controls">
+
+                                    <input type="text" oninput="aggiornaStoria();" placeholder="COMPORTAMENTO ADEGUATO"  class="input-xxlarge" name="txtStrada_OK" id="txtStrada_OK">
+                                </div>
+                            </div>
+
+                            <div class="control-group">
+                                <label for="textfield" class="control-label"><b>Strada_KO</b></label>
+                                <div class="controls">
+                                    <input type="text" oninput="aggiornaStoria();" placeholder="COMPORTAMENTO INADEGUATO" class="input-xxlarge" name="txtStrada_KO"  id="txtStrada_KO">
+                                </div>
+                            </div>
+
+                            <div class="control-group">
+                                <label for="textfield" class="control-label"><b>Cespugli</b></label>
+                                <div class="controls">
+                                    <input type="text" oninput="aggiornaStoria();" placeholder="FEEDBACK"   class="input-xxlarge" name="txtCespugli" id="txtCespugli">
+                                </div>
+                            </div>
+
+                            <div class="control-group">
+                                <label for="textfield" class="control-label"><b>Lupo</b></label>
+                                <div class="controls">
+                                    <input type="text" oninput="aggiornaStoria();" placeholder="CONSEGUENZE NEGATIVE"  class="input-xxlarge" name="txtLupo" id="txtLupo">
+                                </div>
+                            </div>
+
+                            <div class="control-group">
+                                <label for="textfield" class="control-label"><b>Cestino</b></label>
+                                <div class="controls">
+                                    <input type="text" oninput="aggiornaStoria();"  placeholder="ATTACCAMENTI da lasciare andare" class="input-xxlarge"  name="txtCestino" id="txtCestino">
+                                </div>
+                            </div>
+
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+    </div>
+
+
+
+</body>
+
+</html>

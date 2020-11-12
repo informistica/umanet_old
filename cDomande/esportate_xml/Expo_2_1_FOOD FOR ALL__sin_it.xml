@@ -1,0 +1,1244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>cos'e' ChooseMyPlate._Expo_2_1_sin_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>cos'e' ChooseMyPlate.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>ChooseMyPlate
+sono le linee guida per gli americani, stilate e aggiornate ogni cinque anni dallo
+United States Department of Agriculture (USDA) e dal Department of Health and Human
+Services (HHS), e realizzate per individui dai 2 anni in su in condizioni normali di salute. I nutrizionisti americani raccomandano di seguire una dieta costituita principalmente da frutta, verdura, cereali integrali e prodotti lattiero-caseari a basso contenuto di grassi. In quantit&#224; minori, vanno consumati carne, pesce,legumi, uova e frutta secca, prestando attenzione a cibi gi&#224; salati o dolcificati e contenenti grassi saturi, nonch&#233; alle bevande dolci. Oltre a consigli nutrizionali, sono raccomandate un&#8217;attivit&#224; fisica costante e una maggiore attenzione al calcolo del fabbisogno calorico giornaliero.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Un sito che ti permettere di scegliere la tua dieta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Linee guida per il consumo degli alimenti in modo corretto per gli americani<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Un gioco di cucina<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Una catena di ristoranti che promuove una cucina salutare<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa si intende per diete sostenibili._Expo_2_1_sin_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa si intende per diete sostenibili.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La definizione di dieta sostenibile &#232; emersa nel 2010 durante il Simposio Internazionale sulla Biodiversit&#224; e la Sostenibilit&#224; delle Diete, 'Le diete sostenibili sono diete a basso impatto ambientale che contribuiscono alla sicurezza alimentare e nutrizionale nonch&#233; a una vita sana per le generazioni presenti e future. Concorrono alla protezione e al rispetto della biodiversit&#224; e degli ecosistemi, sono accettabili culturalmente, economicamente eque e accessibili, adeguate, sicure e sane sotto il profilo nutrizionale e, contemporaneamente, ottimizzano le risorse naturali e umane'.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Le diete sostenibili sono diete a basso impatto ambientale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Le diete sostenibili sono diete a forte impatto ambientale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Le diete sostenibili eliminano ogni forma di grassi e carboidrati<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Sono diete economiche<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>la biodiversit&#224; vegetale della terra &#232; in pericolo, _Expo_2_1_sin_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>la biodiversit&#224; vegetale della terra &#232; in pericolo, <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Un tipo di produzione che deve essere messa in discussione in un mondo le cui risorse sono in esaurimento
+La biodiversit&#224; vegetale della Terra &#232; in pericolo, 
+il 75% delle risorse genetiche del Pianeta si &#232; gi&#224; estinto, e si prevede che un altro terzo di ci&#242; che ne rimane scomparir&#224; entro il 2050.
+Consumare un&#8217;ampia variet&#224; di frutta e verdura, pertanto, pu&#242; recare benefici sia alla nostra salute sia alla salvaguardia dell&#8217;ambiente.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>il 70% delle risorse genetiche del Pianeta si &#232; gi&#224; estinto,<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>il 50% delle risorse genetiche del Pianeta si &#232; gi&#224; estinto,<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>il 75% delle risorse genetiche del Pianeta si &#232; gi&#224; estinto<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>il 90% delle risorse genetiche del Pianeta si &#232; gi&#224; estinto,<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>cosa puo' aiutare a migliorare la fertilita' dei terreni._Expo_2_1_sin_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>cosa puo' aiutare a migliorare la fertilita' dei terreni.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il consumo di frutta, verdura, cereali e legumi locali pu&#242; contribuire a migliorare la fertilit&#224; dei terreni, a tutelare le riserve idriche e a proteggere la biodiversit&#224;. Sono diverse le organizzazioni e le campagne di sensibilizzazione in tutto il mondo che stanno prendendo in considerazione la relazione tra salute e sostenibilit&#224; ambientale aiutando le persone a scegliere cibi salutari, privi di rischi e a basso impatto ambientale
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>consumo di molta carne<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>il consumo OGM<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>il consumo di frutta, verdura, cereali e legumi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>il consumo di prodotti esteri<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="multichoice">
+		<name>
+			<text>che funzione ha la piramide (del cibo)._Expo_2_1_sin_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>che funzione ha la piramide (del cibo).<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il BCFN, ad esempio, ha come scopo programmatico quello di far s&#236; che le persone comprendano le conseguenze delle loro scelte alimentari tramite la cosiddetta Doppia Piramide. La Piramide aiuta i consumatori a seguire una dieta salutare privilegiando al tempo stesso quegli alimenti che hanno il minore impatto in termini ambientali. E gli alimenti che dovremmo consumare di meno a prescindere, come i cibi confezionati, i dolci e la carne rossa, risultano essere anche quelli pi&#249; dannosi per l&#8217;ambiente.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>aiuta i consumatori a seguire una dieta poco salutare e con molti impatto ambientale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>aiuta i consumatori a seguire una dieta poco salutare ma con minor impatto ambientale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>aiuta i consumatori a seguire una dieta salutare privilegiando alimenti con maggior impatto ambientale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>aiuta i consumatori a seguire una dieta salutare privilegiando alimenti con minor impatto ambientale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="multichoice">
+		<name>
+			<text>come dovrebbe cambiare l'alimentazione per avere un minor impatto ambientale._Expo_2_1_sin_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>come dovrebbe cambiare l'alimentazione per avere un minor impatto ambientale.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Nel 2009, la commissione del Regno Unito per lo sviluppo sostenibile ha pubblicato una relazione le cui conclusioni affermavano che i cambiamenti nel regime alimentare che comportano i maggiori benefici sia per la salute sia per l&#8217;ambiente riguardano la riduzione del consumo di carne e latticini e una drastica limitazione nel consumo di alimenti ricchi di grassi e zuccheri.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>l'aumento del consumo di carne, latticini e di alimenti ricchi di grassi e zuccheri<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>aumento del consumo di carne e latticini e una drastica limitazione nel consumo di alimenti ricchi di grassi e zuccheri<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>la riduzione del consumo di carne e latticini e una drastica limitazione nel consumo di alimenti ricchi di grassi e zuccheri<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>non mangiare pi&#249; carne o latticini ma al contrario cibarsi soprattutto di cibi ricchi di grassi e zucchero per poter bilanciare l'assenza di carne<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="multichoice">
+		<name>
+			<text>da quante sezioni &#232; formato 'il piatto del benessere alimentare'_Expo_2_1_sin_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>da quante sezioni &#232; formato 'il piatto del benessere alimentare'<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Sulla stessa linea la Food Standards Agency ha proposto l&#8217;Eatwell Plate (&#8220;il piatto del benessere alimentare&#8221;), diviso in cinque sezioni, con lo scopo di esemplificare una dieta bilanciata. Le sezioni pi&#249; ampie sono quelle che comprendono frutta, verdura e cereali. Alimenti quali carne, pesce, uova, fagioli, latte e latticini, e i cibi ricchi di grassi o di zuccheri, sono consentiti solo in quantit&#224; minori. In tutto il mondo, le linee guide nazionali sull&#8217;alimentazione stanno incoraggiando lo sviluppo di diete che prevedono un consumo maggiore di alimenti a basso impatto ecologico e un minore consumo di cibi che contribuiscono al degrado ambientale.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>3<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>5<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>8<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>4<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="multichoice">
+		<name>
+			<text>cosa usano Polonia, Cina e Giappone per mostrare una dieta equilibrata alla popolazione._Expo_2_1_sin_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>cosa usano Polonia, Cina e Giappone per mostrare una dieta equilibrata alla popolazione.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La piramide alimentare raccomandata in Polonia utilizza delle foto per mostrare ai consumatori cosa dovrebbero mangiare di pi&#249;, o di meno, ogni giorno, in particolare evidenzia l&#8217;importanza di consumare pi&#249; cereali e di limitare il consumo di carne e pesce.In Cina la popolazione &#232; incoraggiata a seguire la &#8220;pagoda alimentare&#8221; che raccomanda un maggior apporto alla dieta di patate dolci, legumi e fagioli di soia, e un minore consumo di olio e sale.In Giappone le scelte alimentari consigliate vengono illustrate da un grafico a forma di trottola che suggerisce un consumo maggiore di cereali, vegetali
+e pesce piuttosto che di frutta e latticini, e include consigli sull&#8217;attivit&#224; fisica e sulla quantit&#224; giornaliera consentita di snack e bevande.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>in Polonia, foto, in Cina la 'pagoda alimentare' e in Giappone grafico a forma di rottola<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>in Polonia, foto, in Cina la grafico a forma di rottola e in Giappone 'pagoda alimentare'<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>in Polonia, grafico a forma di rorrola, in Cina la 'pagoda alimentare' e in Giappone delle foto<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>in Polonia, la 'pagoda alimentare', in Cina le foto e in Giappone grafico a forma di rottola<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="multichoice">
+		<name>
+			<text>le diete tradizionali propongono cibi..._Expo_2_1_sin_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>le diete tradizionali propongono cibi...<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Le diete tradizionali che hanno accompagnato le comunit&#224; per secoli &#8211; e in qualche caso millenni &#8211; spesso comprendono una variet&#224; di prodotti locali a chilometro zero, tra cui legumi e cereali integrali. Cos&#236; che si possano sfruttare le risorse del proprio territorio limitando gli agenti inquinanti come mezzi di trasporto(navi, camion, treni...) che, oltre ad essere dannosi per l'ambiente, richiedono anche costi aggiuntivi tra cui le spese aggiuntive al prodotto, e una diretta conseguenza di tutto questo &#232; l'aumento dei prezzi dei prodotti.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>...a chilometro zero, cio&#232; del proprio territorio <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>... di territori oltre oceano<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>...a chilometro elevato, cio&#232; lontani dal terrirorio che li richiede ma sempre delle stesso continente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>...di regioni povere, cos&#236; che comprando il cibo queste si possano arricchire<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="multichoice">
+		<name>
+			<text>i cibi pi&#249; salutari e nutrienti sono anche quelli che...._Expo_2_1_sin_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>i cibi pi&#249; salutari e nutrienti sono anche quelli che....<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Immaginate cosa accadrebbe se scegliessimo il cibo che mangiamo non solo tenendo conto dei valori nutrizionali e del sapore ma anche della sua sostenibilit&#224; ambientale. La buona notizia &#232; che questi aspetti sono tra loro collegati,I CIBI PIU' SALUTARI E PIU' NUTRIENTI SONO ANCHE QUELLI CHE , tendenzialmente, HANNO UN MINOR IMPATTO NEGATIVO SULLE RISORSE DEL PIANETA. 
+per esempio,
+Prendiamo una dieta con un consumo eccessivo di carne, &#232; ricca di grassi e colesterolo, e pu&#242; essere responsabile di problemi di obesit&#224;, diabete e di disturbi cardiovascolari. inoltre allevare bestiame danneggia il nostro territorio, consumando risorse.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>hanno, tendenzialmente, un maggiore impatto negativo sulle risorse del pianeta  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>non hanno niente a che fare con l'andamento del pianeta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>hanno, tendenzialmente, un minore impatto negativo sulle risorse del pianeta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>rovinano il pianeta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="multichoice">
+		<name>
+			<text>Quale di questi Paesi ha eseguito un aumento di consumazione di carne negli ultimi 20 anni ._Expo_2_1_sin_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quale di questi Paesi ha eseguito un aumento di consumazione di carne negli ultimi 20 anni .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Per molti governi , lo sviluppo &#232; la strada per salvare le persone dalla povert&#224; ; tuttavia lo sviluppo comporta anche che i popoli chiedano pi&#249; carne . Ne &#232; un semplice esempio il consumo di carne della Cina, che &#232; quadruplicato negli ultimi 20 anni.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>India<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Giappone <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Corea del Sud<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Cina<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="multichoice">
+		<name>
+			<text>Chi &#232; stato il primo uomo a dare un morso ad un hamburger prodotto con cellule animali coltivate in laboratorio '_Expo_2_1_sin_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Chi &#232; stato il primo uomo a dare un morso ad un hamburger prodotto con cellule animali coltivate in laboratorio '<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Nell&#8217;agosto 2013, durante un affollato evento mediatico a Londra, lo scrittore gastronomico Josh Schonwald ha vissuto un momento che lui stesso ha definito 'Momento Neil Armstrong'.  &#200; stato il primo uomo a dare un morso a un hamburger prodotto con cellule animali coltivate in laboratorio, tessuto muscolare bovino colorato e aromatizzato con zafferano, barbabietola rossa, uovo e caramello. Il boccone rappresenta il culmine di quattro anni di lavoro dello scienziato olandese Mark Post, al costo di 250.000 euro.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Mark Schonworld<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Josh Schonwald<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Robert Benwald<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Thomas Highworld<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="multichoice">
+		<name>
+			<text>nel 2050 la cina potrebbe rivelarsi un problema._Expo_2_1_sin_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>nel 2050 la cina potrebbe rivelarsi un problema.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>la cina con il passare degli anni potrebbe diventare un problema. aumentando di popolazione il popolo ha bisogno di una maggiore quantita di cibo che sa5rebbe necessaria a sfamare quasi tutta la popolazione globale
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>si,la popolazione aumentando di numero potrebbe aver bisogno di tutto il cibo necessario a nutrire quasi tutto il pianeta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, la popolazione consuma poco cibo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, la cina non e una popolazione carnivora<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, la cina per il suo nutrimento, usa solo riso<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="multichoice">
+		<name>
+			<text>il problema della fame nel mondo potrebbe scomparire con una popolazione vegetariana._Expo_2_1_sin_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il problema della fame nel mondo potrebbe scomparire con una popolazione vegetariana.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>il problema della fame nel mondo puo essere risolto trasformando il nostro pianeta carnivoro in un pianeta vegetariano. senza il consumo di carne il foraggio utilizzato per cibare gli animali potrebbe essere utilizzato per sfamare la popolazione eleminando quasi del tuttoil problema della fame nel mondo
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>si, il foraggio animale sarebbe utilizzato per sfamare la popolazione e non piu gli animali destinate al macello<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, ci sarebbe un problema di diete<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>si, se si vuole consumare carne, comprando quella creata geneticamente in laboratorio<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, il foraggio non puo essere usato come cibo umano<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="multichoice">
+		<name>
+			<text>troppo consumo di carne potrebbe causare dei problemi alla salute._Expo_2_1_sin_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>troppo consumo di carne potrebbe causare dei problemi alla salute.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  il solo consumo di carne puo creare dei problemi al nostro organismo e come conseguenze si possono avere delle malattie anche gravi al cuore causando una carenza di vitamine e un accesso di altre sostanze grasse che posso ostruire le vene e le arterie
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>si, puo creare delle malattie al sangue  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, si puo consumare solo carne senza consumo di vegetali<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>si, il solo consumo di carne puo creare dei problemi al cuore<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, la carne e un alimento che contiene anche sostanze vegetali<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="multichoice">
+		<name>
+			<text>quanto consuma il mondo in foraggio._Expo_2_1_sin_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>quanto consuma il mondo in foraggio.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> la Cina, una delle piu grandi terre popolate del mondo, consuma ogni anno circa 1-3 del consumo mondiale di foraggio per poter nutrire e poi macellare gli animali per immettere la carne sul mercato carnivoro.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>solo la cina circa 1-3 del consumo globale <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>poco solo un 1-3 di tutto il foraggio disponibile<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>il foraggio non viene utilizzato per la nostra catena alimentare<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>molto, circa i 2-3 del foraggio disponibile in tutto il mondo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="multichoice">
+		<name>
+			<text>il mondo carnivoro &#232; pericoloso._Expo_2_1_sin_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il mondo carnivoro &#232; pericoloso.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> il mondo carnivoro e pericoloso, la carne utilizzata per sfamare la popolazione arriva da allevamenti all'ingrasso.
+per sfamare gli animali poi macellati vengono utilizzate quantita di foraggio necessarie a sfamaer quasi tutta la popolazione globale
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>no,pur consumando carne c'e abbastanza cibo per tutto il pianeta <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p> si,consumando carne vienen utilizzato troppo foraggio per gli animali,necessario per cibare quasi tutta la popolazione globale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no,la carne &#232; un prodotto vegetale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>si, il consumo di carne crea sprechi di foraggio che potrebbero sfamare tutta la popolazione globale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 18 -->
+	<question type="multichoice">
+		<name>
+			<text>si puo omettere la carne dalla nostra alimentazione._Expo_2_1_sin_18</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>si puo omettere la carne dalla nostra alimentazione.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> la carne non e un alimento principale nella nostra alimentazione, puo essere omessa e con cereali e legumi possono essere integrate le stesse proteine che fornirebbe una bella bistecca
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>si, con i vegetali e possibile sostituirla completamente, seguendo una dieta <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, con i vegetali non si danno al corpo le proteine necessarie.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>si ,ma consumando molta frutta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, la carne e un alimento fondamentale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 19 -->
+	<question type="multichoice">
+		<name>
+			<text>esiste un nuovo modo di produrre carne._Expo_2_1_sin_19</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>esiste un nuovo modo di produrre carne.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> la carene puo essere prodotta in modo diverso, senza mettere gli animali all' ingrasso. come.dopo anni di studio e stato scoperto un modo di ricostrure il tessuto muscolare animale e quindi di poter creare la carne il modo reale senza poter piu macellare gli animali e quindi risparmiando grandi quantita di foraggio
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>si, dopo anni di ricerca e stato scoperto un modo per produrre carne senza macellare gl ianumali,semplicemente ricostruendo il tessuto muscolare il la<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, la carne non puo essere riprodotta in modo sperimentale <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>si, usando la carne di pesce<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, la care e un alimento dato in natura e quindi non ricostruibile in modo sperimentale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 20 -->
+	<question type="multichoice">
+		<name>
+			<text>i concimi possono danneggiare il pianeta._Expo_2_1_sin_20</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>i concimi possono danneggiare il pianeta.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> i concimi sono sostanze naturali in quanto sono 'creati' con il letame degli animali (mucche o cavalli) e quindi non creano problemi all' ambiente 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>si, sono sostanze create in laboratorio <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>no, i concimi sono sostanze naturali<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, sono sostanze create con le bucce di cereali<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>si, in quanto sono sostanze create con rifiuti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 21 -->
+	<question type="multichoice">
+		<name>
+			<text>I fertilizzanti possono danneggiare il pianeta._Expo_2_1_sin_21</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I fertilizzanti possono danneggiare il pianeta.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  i fertilizzanti possono danneggiare l'ambiente, a contrario dei concimi sono creati in laboratorio in modo chimico e quindi possono modificare la crescita delle coltivazioni e danneggiare l'ambiente
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, sono sostanze naturali  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, sono sostanze create dagli scarti di cibo <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>si, sono sostanze create il laboratorio <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, sono sostanze create con animali in putefrazione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 22 -->
+	<question type="multichoice">
+		<name>
+			<text> facendo crescere un pollo intero creiamo degli scarti._Expo_2_1_sin_22</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p> facendo crescere un pollo intero creiamo degli scarti.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> ultimemente si sta cercando un modo di poter creare un alimento che possa sviluppare solo il petto e le cosce del pollo in modo da non creare scarti di cibo
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, non vengono creati scarti <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>si, molte parti del pollo vengono poi scartate creando degli avanzi di cibo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p> si, infatti si sta creando un cibo geneticamente modificato che faccia sviluppare solo petto e cosce evitando sprechi di cibo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>no, il pollo viene utilizzato completamente per creare del cibo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 23 -->
+	<question type="multichoice">
+		<name>
+			<text>Dove &#232; apparsa la questione della carne._Expo_2_1_sin_23</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Dove &#232; apparsa la questione della carne.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La questione della carne &#232; apparsa raramente nei numerosi vertici e incontri governativi tenuti sulla sicurezza alimentare da quando i prezzi del cibo hanno iniziato per la prima volta a raggiungere picchi preoccupanti nel 2008. Per molti governi, lo sviluppo &#232; la strada per salvare le persone dalla povert&#224;; tuttavia lo sviluppo comporta anche che i popoli chiedano pi&#249; carne.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>negli incontri della sicurezza alimentare<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>nelle case <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>nelle aziende alimentari<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>nelle aziende agricole<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

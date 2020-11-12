@@ -1,0 +1,583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="truefalse">
+		<name>
+			<text> Whistleblower &#232; un dipendente che, dall&#8217;interno del proprio ente  segnala condotte illecite _Expo_6_5_vf_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p> Whistleblower &#232; un dipendente che, dall&#8217;interno del proprio ente  segnala condotte illecite <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Whistleblower &#232; il nome inglese del dipendente che, dall&#8217;interno del proprio ente di appartenenza (pubblico o privato), segnala condotte illecite non nel proprio interesse individuale, ma nell&#8217;interesse pubblico.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="truefalse">
+		<name>
+			<text>l&#8217;accoglienza che ha ricevuto il whistleblowing nell&#8217;ordinamento italiano &#232; stato esaltante_Expo_6_5_vf_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>l&#8217;accoglienza che ha ricevuto il whistleblowing nell&#8217;ordinamento italiano &#232; stato esaltante<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L'accoglienza &#232; stata tiepida perch&#233; i pubblici dipendenti non avvertono il suo utilizzo come strumento di prevenzione della corruzione, non vogliono creare problemi ai colleghi chepotrebbero essere coinvolti in affari illeciti..
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="truefalse">
+		<name>
+			<text>il whistleblowing scatena conflitti di interesse _Expo_6_5_vf_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il whistleblowing scatena conflitti di interesse <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Vero,  il conflitto &#232; tra l&#8217;interesse pubblico alla emersione di azioni illecite e  l&#8217;integrit&#224; dell&#8217;ente; tra l&#8217;autorit&#224; dei pubblici poteri e la reputazione delle persone che si pensa essere responsabili di condotte corruttive;
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="truefalse">
+		<name>
+			<text>E&#8217; difficile bilanciare il diritto dell&#8217;ente e il diritto della collettivit&#224;_Expo_6_5_vf_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>E&#8217; difficile bilanciare il diritto dell&#8217;ente e il diritto della collettivit&#224;<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> E&#8217; assai difficile attuare un bilanciamento fra il diritto dell&#8217;ente a pretendere fedelt&#224;, riservatezza e discrezione da parte dei propri dipendenti e il diritto alla libert&#224; di espressione e il diritto della collettivit&#224; di conoscere informazioni che rivestono un interesse pubblico.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="truefalse">
+		<name>
+			<text>Resta ancora molto da fare per sviluppare un tale clima culturale favorevole al whistleblowing_Expo_6_5_vf_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Resta ancora molto da fare per sviluppare un tale clima culturale favorevole al whistleblowing<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La possibilit&#224; di segnalare la violazione di illeciti senza temere ritorsioni che contribuisce ad una societ&#224; aperta e tollerante, dove ciascuno fa propria la responsabilit&#224; di creare una cultura di fiducia e integrit&#224;. Vi &#232; la consapevolezza del fatto che resta ancora molto da fare per sviluppare un tale clima culturale.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="truefalse">
+		<name>
+			<text>Sono i dipendenti di una organizzazione i soggetti pi&#249; facilmente in grado di osservare episodi di corruzione e mala gestione_Expo_6_5_vf_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Sono i dipendenti di una organizzazione i soggetti pi&#249; facilmente in grado di osservare episodi di corruzione e mala gestione<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Sono i dipendenti di una organizzazione (pubblica o privata) i soggetti pi&#249; facilmente in grado di osservare episodi di corruzione e mala gestione ed &#232; grazie alle loro segnalazioni che molti degli scandali finanziari degli ultimi anni sono stati perseguiti.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="truefalse">
+		<name>
+			<text>il rispetto alla protezione da ritorsioni non prevede una tutela._Expo_6_5_vf_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il rispetto alla protezione da ritorsioni non prevede una tutela.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Rispetto alla protezione da ritorsioni, la maggioranza dei Paesi OCSE che ha preso parte al sondaggio del 2014, prevede una tutela per il segnalante dalle tipiche azioni ritorsive da parte del datore di lavoro (licenziamento, trasferimenti, cambio di mansioni, riduzione di retribuzione o benefici, richiesta di esami medici).
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="truefalse">
+		<name>
+			<text>Alcuni ordinamenti si preoccupano di contemperare la protezione dell&#8217;identit&#224; del whistleblower._Expo_6_5_vf_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Alcuni ordinamenti si preoccupano di contemperare la protezione dell&#8217;identit&#224; del whistleblower.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>perch&#232; usano le esigenze investigative delle autorit&#224; preposte all&#8217;accertamento
+dell&#8217;illecito e con il diritto di difesa dell&#8217;accusato. Es, Italia e Irlanda dove la divulgazione dell&#8217;identit&#224; del whistleblower &#232; ammessa quando necessaria per l&#8217;effettivo svolgimento delle indagini riguardanti l&#8217;attivit&#224; illecita denunciata.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="truefalse">
+		<name>
+			<text>il Public Concern at Work (PcsW) &#232; un'organizzazione non profit_Expo_6_5_vf_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il Public Concern at Work (PcsW) &#232; un'organizzazione non profit<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Il Public Concern at Work (PcaW) &#232; un&#8217;organizzazione non profit fondata nel 1993. Nel corso degli ultimi 20 anni, attraverso la hotline messa a disposizione
+da PCaW, oltre 14.000 segnalatori o potenziali segnalatori hanno ricevuto sostegno nel loro difficile cammino.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="truefalse">
+		<name>
+			<text>La Camera Alta del Parlamento dei Paesi Bassi ha rifiutato la legge della 'Casa del Whistleblower'_Expo_6_5_vf_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La Camera Alta del Parlamento dei Paesi Bassi ha rifiutato la legge della 'Casa del Whistleblower'<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il 1&#176; marzo 2016, la Camera Alta del Parlamento dei Paesi Bassi ha adottato una legge istitutiva della &#8220;Casa del Whistleblower&#8221; che introduce una protezione
+legale per dipendenti pubblici e privati che segnalano condotte illecite sul luogo di lavoro.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="truefalse">
+		<name>
+			<text> Una applicazione pi&#249; &#8220;piena e partecipata&#8221; dell&#8217;istituto potrebbe giungere dalla riforma dell&#8217;art. 54bis del T.U.P.I_Expo_6_5_vf_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p> Una applicazione pi&#249; &#8220;piena e partecipata&#8221; dell&#8217;istituto potrebbe giungere dalla riforma dell&#8217;art. 54bis del T.U.P.I<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Un importante contributo verso una applicazione pi&#249; &#8220;piena e partecipata&#8221; dell'istituto del whistleblower  potrebbe giungere dalla riforma dell&#8217;art. 54bis del T.U.P.I. con il quale espressamente si estende la disciplinare anche al settore privato.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="truefalse">
+		<name>
+			<text>Per evitare condotte discriminatorie nei confronti dei whistleblower verranno introdotte sanzioni per chi fa azioni discriminanti_Expo_6_5_vf_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per evitare condotte discriminatorie nei confronti dei whistleblower verranno introdotte sanzioni per chi fa azioni discriminanti<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Al fine di scoraggiare condotte discriminatorie nei confronti del segnalante viene anche introdotta una sanzione amministrativa pecuniaria che va a carico del responsabile della condotta medesima.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="truefalse">
+		<name>
+			<text>La &#8220;legge anticorruzione&#8221; e il Codice di comportamento hanno individuato nel superiore gerarchico il soggetto per ricevere le segnalazioni _Expo_6_5_vf_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La &#8220;legge anticorruzione&#8221; e il Codice di comportamento hanno individuato nel superiore gerarchico il soggetto per ricevere le segnalazioni <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La &#8220;legge anticorruzione&#8221; e il Codice di comportamento hanno individuato nel superiore gerarchico il soggetto interno all&#8217;amministrazione per ricevere le segnalazioni del whistleblower
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="truefalse">
+		<name>
+			<text>I casi di mala gestione non riguardano mai i superiori gerarchici_Expo_6_5_vf_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I casi di mala gestione non riguardano mai i superiori gerarchici<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Spesso le condotte illecite e i casi di mala gestio di cui il whistleblower viene a conoscenza riguardano proprio i superiori gerarchici, ponendo un ostacolo operativo al segnalante e l&#8217;esigenza di individuare un altro soggetto che, compatibilmente con la funzione, possa ricevere la segnalazione.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="truefalse">
+		<name>
+			<text>Il RPC ha il compito di contrastare la politica del whistleblowing _Expo_6_5_vf_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il RPC ha il compito di contrastare la politica del whistleblowing <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il RPC (Responsabile Per la Corruzione) ha il compito di adottare la misura di prevenzione di whistleblowing nel Piano triennale di prevenzione della corruzione (PTPC) e di ricevere la segnalazione del whistleblower.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="truefalse">
+		<name>
+			<text>Nella prima fase del processo, il RPC cura la ricezione, l&#8217;analisi della segnalazione e l&#8217;avvio del procedimento istruttorio_Expo_6_5_vf_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Nella prima fase del processo, il RPC cura la ricezione, l&#8217;analisi della segnalazione e l&#8217;avvio del procedimento istruttorio<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Nella prima fase del processo, il RPC cura la ricezione, l&#8217;analisi della segnalazione e  l&#8217;avvio del procedimento istruttorio, i cui esiti saranno trasmessi, per i rispettivi profili di 13 competenza, all&#8217;Ufficio dei provvedimenti disciplinari, all&#8217;A.N.AC., alla Procura della Repubblica, alla Procura della Corte dei Conti o al Dipartimento della Funzione Pubblica.
+
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="truefalse">
+		<name>
+			<text> Il RPC si &#232; dovuto scontrare con le molteplici carenze normative e i diversi aspetti di criticit&#224;_Expo_6_5_vf_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p> Il RPC si &#232; dovuto scontrare con le molteplici carenze normative e i diversi aspetti di criticit&#224;<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Nei primi anni di applicazione della normativa, il RPC( Responsabile della prevenzione della corruzione) si &#232; dovuto scontrare con le molteplici carenze normative e i diversi aspetti di criticit&#224; che hanno inciso sul marginale utilizzo e sul mal funzionamento di questo strumento di prevenzione.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 18 -->
+	<question type="truefalse">
+		<name>
+			<text>per superare questa criticit&#224; bisogna aspettare_Expo_6_5_vf_18</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>per superare questa criticit&#224; bisogna aspettare<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Per superare le carenze normative evidenziate e non far perdere efficacia a questo strumento di prevenzione, &#232;, pertanto, di fondamentale importanza che i vertici di ciascuna amministrazione effettuino un forte investimento sul RPC (Responsabile della prevenzione della corruzione).
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 19 -->
+	<question type="truefalse">
+		<name>
+			<text>L&#8217;Autorit&#224; con l&#8217;emanazione di linee guida colma le lacune normative_Expo_6_5_vf_19</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L&#8217;Autorit&#224; con l&#8217;emanazione di linee guida colma le lacune normative<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Perch&#233; fornisce indicazioni interpretative sugli snodi pi&#249; problematici della norma primaria e individua soluzioni operative che semplificano la procedura per la gestione del processo di whistleblowing.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 20 -->
+	<question type="truefalse">
+		<name>
+			<text>la continua azione comune con i RPC rende pi&#249; semplice individuare gli strumenti per radicare progressivamente l&#8217;istituto giuridico_Expo_6_5_vf_20</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>la continua azione comune con i RPC rende pi&#249; semplice individuare gli strumenti per radicare progressivamente l&#8217;istituto giuridico<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Perch&#233; le resistenze nel contesto culturale del Paese, per dare all&#8217;istituto una disciplina pi&#249; organica nell&#8217;ordinamento giuridico, a tutela del principio di buona amministrazione
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

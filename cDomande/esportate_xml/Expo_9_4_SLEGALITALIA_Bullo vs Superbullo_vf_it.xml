@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="truefalse">
+		<name>
+			<text>Superbullo per divertirti prendi in giro gli altri e condividi sui social_Expo_9_4_vf_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Superbullo per divertirti prendi in giro gli altri e condividi sui social<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Star bene con se stessi facendo star male qualcun'altro &#232; un gioco che il superbullo ha smesso di giocare.  Per star bene con se stesso non ha pi&#249; bisogno di aggredire qualcun'altro utilizzando i social come strumento di offesa. 
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="truefalse">
+		<name>
+			<text>Superbullo se qualcuno si comporta in modo scorretto fischi un fallo di gioco_Expo_9_4_vf_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Superbullo se qualcuno si comporta in modo scorretto fischi un fallo di gioco<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Dopo essersi evoluto dall'immaturit&#224; del Bullo alla maturit&#224; del Superbullo, consapevole che non possiamo delegare agli altri la responsabilit&#224; di vigilare sul rispetto dei principi fondamentali, il Superbullo assume il ruolo dell'arbitro della legalit&#224; e denuncia i comportamenti insostenibili.
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="truefalse">
+		<name>
+			<text>Bullo quando tu ti sostieni c'&#232; qualcun'altro che &#232; oppresso_Expo_9_4_vf_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Bullo quando tu ti sostieni c'&#232; qualcun'altro che &#232; oppresso<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La relazione simmetrica io vinco-tu perdi, detta anche connessione SiNo, &#232; la modalit&#224; tipica di agire del Bullo. Per star bene con se stesso (Si) deve far sta male qualcun'altro (No)
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="truefalse">
+		<name>
+			<text>Superbullo quando tu ti diverti anche gli altri si divertono_Expo_9_4_vf_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Superbullo quando tu ti diverti anche gli altri si divertono<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Consapevole che nella vita conviene giocare giochi a somma positiva in cui tutti vincono, connessione SiSi, il Superbullo agisce non col fine di ottenere il miglior risultato per s&#233; (come faceva quando era ancora Bullo), ma di ottenere il miglior risultato per il gruppo, e quindi, indirettamente, migliore anche per s&#233;.  
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="truefalse">
+		<name>
+			<text>Bullo ti interessa fare ci&#242; che &#232; meglio per te e per gli altri _Expo_9_4_vf_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Bullo ti interessa fare ci&#242; che &#232; meglio per te e per gli altri <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il Bullo fondamentalmente  &#232; interessato solo al proprio tornaconto ed &#232; quindi vittima dell'egoismo. 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="truefalse">
+		<name>
+			<text>Superbullo quando entri in contrasto passi facilmente alle mani _Expo_9_4_vf_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Superbullo quando entri in contrasto passi facilmente alle mani <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Nell'arte della guerra la migliore strategia &#232; quella di vincere senza giungere allo scontro militare, troppo sottile e raffinata per la rozza percezione del Bullo che usa la violenza, anzich&#233; l'astuzia, per risolvere i contrasti.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="truefalse">
+		<name>
+			<text>Bullo chi &#232; diverso non merita rispetto e va deriso_Expo_9_4_vf_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Bullo chi &#232; diverso non merita rispetto e va deriso<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Crescendo e superando la fase del Bullo un giorno capir&#224; che la diversit&#224; &#232; un valore, ma per ora quando il Bullo vede una persona diversa spesso ne approfitta per nutrirsi, come un vampiro, delle emozioni negative che suscita nella persona che prende di mira e sfotte.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="truefalse">
+		<name>
+			<text>Superbullo quando offendi gli altri ti preoccupi e chiedi scusa_Expo_9_4_vf_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Superbullo quando offendi gli altri ti preoccupi e chiedi scusa<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il Superbullo &#232; consapevole dell'unit&#224; e interdipendenza di tutte le cose e che nella Rete della Vita vige il principio di azione e reazione. Tramite anelli di retroazione i comportamenti eccessi creano uno stress nel sistema che ritorna all'origine. Chi opprime diventa oppresso, mentre chi sostiene sar&#224; sostenuto, tramite una causalit&#224; circolare. Forte di questa visione per il Superbullo &#232; facile e conveniente chiedere scusa.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="truefalse">
+		<name>
+			<text>Bullo quando parli male degli altri poi chiedi scusa _Expo_9_4_vf_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Bullo quando parli male degli altri poi chiedi scusa <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Chi opprime diventa oppresso, chi diffama sar&#224; diffamato. Il Superbullo ha imparato a volersi bene, sa che quello che fa agli altri e come se lo facesse a se stesso, quando si rende conto di aver parlato male poi &#232; capace di riconosce l'eccesso e  chiedere scusa.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="truefalse">
+		<name>
+			<text>Il cyberbullo compie minacce,insulti, prepotenze tramite strumenti digitali _Expo_9_4_vf_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il cyberbullo compie minacce,insulti, prepotenze tramite strumenti digitali <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Insulti, persecuzioni e minacce in chat o tramite sms, sono le modalit&#224; prevalenti con cui si compiono atti di bullismo online, seguite dall&#8217;invio o pubblicazione di foto o filmati e dalla creazione di profili falsi. Il cyberbullo nascosto dietro uno schermo tramite queste modalit&#224; non dimostra di certo il suo coraggio e la sua forza. 
+
+
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="truefalse">
+		<name>
+			<text>Quando il bullo colpisce bisogna reagire con violenza alla violenza_Expo_9_4_vf_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quando il bullo colpisce bisogna reagire con violenza alla violenza<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La violenza genera altra violenza, non &#232; possibile spegnere il fuoco utilizzando il fuoco, la persona saggia che vuole spegnere l'incendio ne &#232; consapevole ed agisce di conseguenza.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="truefalse">
+		<name>
+			<text>Bullo per divertirti prendi in giro gli altri ed agisci su internet_Expo_9_4_vf_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Bullo per divertirti prendi in giro gli altri ed agisci su internet<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Star bene con se stessi facendo star male qualcun'altro &#232; un gioco che appassiona le persone meno evolute. Il Bullo per star bene con se stesso ha ancora bisogno di aggredire qualcun'altro, magari nascondendosi dietro uno schermo per paura.  
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="truefalse">
+		<name>
+			<text>Bullo dicendo (Porti sfortuna) non colpisci l'aspetto psicologico_Expo_9_4_vf_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Bullo dicendo (Porti sfortuna) non colpisci l'aspetto psicologico<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il Bullo pu&#242; colpire l'aspetto fisico, ad esempio riferendosi ad obesit&#224; e bruttezza, oppure gli affetti famigliari, insultando i genitori, ma anche aspetti psicologici dicendo porti sfortuna.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="truefalse">
+		<name>
+			<text>Il Superbullo non si alimenta con le emozioni negative generate nel bulleggiato_Expo_9_4_vf_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il Superbullo non si alimenta con le emozioni negative generate nel bulleggiato<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'analogia con il vampiro che succhia il sangue alle sue vittime per nutrirsi, non &#232; pi&#249; adatta per descrivere il Superbullo perch&#233; ha migliorato la sua alimentazione. Non ha pi&#249; bisogno di sostenersi opprimendo una vittima, &#232; capace di alimentarsi in modo sostenibile.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="truefalse">
+		<name>
+			<text>La dieta del bullo prevede un tot di emozioni negative al giorno_Expo_9_4_vf_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La dieta del bullo prevede un tot di emozioni negative al giorno<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Come il vampiro, essere mitologico o folcloristico che sopravvive nutrendosi dell'essenza vitale (generalmente sotto forma di sangue) di altre creature, cos&#236; il Bullo facendo star male qualcun altro, sopravvive al proprio horror quotidiano traendo nutrimento dalle emozioni negative generate.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="truefalse">
+		<name>
+			<text>Il Superbullo difende le vittime fischiando un fallo di gioco_Expo_9_4_vf_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il Superbullo difende le vittime fischiando un fallo di gioco<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Non possiamo pi&#249; delegare agli altri la responsabilit&#224; di migliorare il mondo in cui viviamo. La societ&#224; distratta assolve i comportamenti scorretti e si autoassolve per non essere capace di vigilare sul rispetto della legalit&#224;. Per contrastare questa deriva il Superbullo assume il ruolo di garante e arbitro della legalit&#224; e della sostenibilit&#224; 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

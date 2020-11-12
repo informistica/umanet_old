@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="truefalse">
+		<name>
+			<text>L'etica &#232; partigiana_Expo_7_1_vf_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'etica &#232; partigiana<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>un'etica globale o planetaria non &#232; partigiana,al servizio di un paese o di una cultura al di sopra di altri paesi o culture,il principio fondamentale &#232; trattare gli altri come ti aspetti che gli altri trattano te.
+questa &#232; una regola aurea universale.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="truefalse">
+		<name>
+			<text> Adottare l'epica segnifica vivere in povert&#224; o in estrema frugalit&#224;     _Expo_7_1_vf_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p> Adottare l'epica segnifica vivere in povert&#224; o in estrema frugalit&#224;     <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La guerra rappresenta anche un grande spreco di risorse finanziarie, basti pensare che la spesa militare nel mondo ammonta a 2 miliardi di dollari al giorno.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="truefalse">
+		<name>
+			<text>La principale cultura in America &#232; quella dei moderni. _Expo_7_1_vf_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La principale cultura in America &#232; quella dei moderni. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La principale cultura in America &#232; la cultura dei Moderni, I Moderni sono risoluti sostenitori della societ&#224; consumistica, condividono la razionalit&#224; che l&#8217;ha plasmato e ha fatto degli USA la pi&#249; grande economia al mondo.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="truefalse">
+		<name>
+			<text>I Creativi culturali sono pessimi consumatori di arte e cultura. _Expo_7_1_vf_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I Creativi culturali sono pessimi consumatori di arte e cultura. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  I Creativi culturali abbracciano un diverso insieme di valori e di credenze, e di conseguenza adottano diversi stili di vita. Sono forti consumatori di arte e cultura, ed &#232; pi&#249; probabile che coltivino molteplici attivit&#224; sociali, sia come singoli che come professionisti.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="truefalse">
+		<name>
+			<text> I Moderni sono convinti che il corpo &#232; come una macchina._Expo_7_1_vf_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p> I Moderni sono convinti che il corpo &#232; come una macchina.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> I moderni sono convinti che,
+Pi&#249; grande &#232; meglio, le organizzazioni sono come macchine e che quindi il corpo umano &#232; come una macchina, che efficienza e rapidit&#224; sono le priorit&#224; essenziali.
+
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="truefalse">
+		<name>
+			<text>Nel villaggio globale il posto di lavoro sicuro, nei paesi industriali, appartiene al passato._Expo_7_1_vf_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Nel villaggio globale il posto di lavoro sicuro, nei paesi industriali, appartiene al passato.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Nel villaggio globale il posto di lavoro sicuro, nei paesi industriali, appartiene al passato perche' gli investimenti circolano nella maggior parte dei casi nei paesi ricchi dove si hanno migliori possibilita' di generare rapidi e grossi guadagni.
+
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="truefalse">
+		<name>
+			<text>Nei paesi poveri la poverta' e' aggravata dalla fame, dalla mancanza di lavoro e dalle condizioni di degrado._Expo_7_1_vf_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Nei paesi poveri la poverta' e' aggravata dalla fame, dalla mancanza di lavoro e dalle condizioni di degrado.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Nei paesi poveri la poverta' e' aggravata dalla fame, dalla mancanza di lavoro e dalle condizioni di degrado. 
+L'uomo sfrutta troppo l'ambiente e lo rovina pensando solo a se stesso, soprattutto se si trova in un ceto sociale alto, fregandosene delle popolazioni dei paesi poveri.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="truefalse">
+		<name>
+			<text>Pressioni demografiche, povert&#224;, fanatismo e una gran variet&#224; di minacce ambientali e disastri non innescano cambiamenti concreti nel modo in cui la gente pensa._Expo_7_1_vf_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Pressioni demografiche, povert&#224;, fanatismo e una gran variet&#224; di minacce ambientali e disastri non innescano cambiamenti concreti nel modo in cui la gente pensa.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Ma non sono solo energia e petrolio a essere sprecati. Secondo il United States Department of Agriculture (USDA) la produzione agricola degli Stati Uniti &#232; responsabile dell&#8217;80% del consumo di acqua potabile di tutto il Paese e sfrutta circa il 50% delle terre utilizzabili. Buttare via i prodotti alimentari vuol dire aver consumato tutta quest&#8217;acqua e questa terra inutilmente.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="truefalse">
+		<name>
+			<text>Vengono avviate delle riforme nel sistema monetario mondiale. Viene messa in circolazione una valuta mondiale dal riformato World Bank Group, tarata in base alla grandezza della popolazione invece che del poterie finanziario._Expo_7_1_vf_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Vengono avviate delle riforme nel sistema monetario mondiale. Viene messa in circolazione una valuta mondiale dal riformato World Bank Group, tarata in base alla grandezza della popolazione invece che del poterie finanziario.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Ma non sono solo energia e petrolio a essere sprecati. Secondo il United States Department of Agriculture (USDA) la produzione agricola degli Stati Uniti &#232; responsabile dell&#8217;80% del consumo di acqua potabile di tutto il Paese e sfrutta circa il 50% delle terre utilizzabili. Buttare via i prodotti alimentari vuol dire aver consumato tutta quest&#8217;acqua e questa terra inutilmente.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="truefalse">
+		<name>
+			<text>Di fronte a noi abbiamo una sola possibilit&#224; di futuro_Expo_7_1_vf_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Di fronte a noi abbiamo una sola possibilit&#224; di futuro<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Di fronte a noi abbiamo non solo un futuro possibile, ma molti futuri, scenario catastrofico e scenario di pace
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="truefalse">
+		<name>
+			<text>I primi segnali dello scenario di crollo saranno la diffusione di malattie mortali come AIDS_Expo_7_1_vf_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I primi segnali dello scenario di crollo saranno la diffusione di malattie mortali come AIDS<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  I primi segnali dello scenario di crollo saranno l'insufficienza dei raccolti agricoli,diffusione di malattie come HIV-AIDS,guerre per l'acqua,milioni di rifugiati climatici e ondate di emigranti.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="truefalse">
+		<name>
+			<text>Intraprendendo la strada del catastrofismo avremo come risultato una riduzione delle guerre_Expo_7_1_vf_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Intraprendendo la strada del catastrofismo avremo come risultato una riduzione delle guerre<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il risultato dell'intraprendenza di un percorso catastrofico culminer&#224; con l'aumento delle guerre regionali.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="truefalse">
+		<name>
+			<text>Un altro aspetto rilevante per il nostro sviluppo personale e' quello della visione._Expo_7_1_vf_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Un altro aspetto rilevante per il nostro sviluppo personale e' quello della visione.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Ma non sono solo energia e petrolio a essere sprecati. Secondo il United States Department of Agriculture (USDA) la produzione agricola degli Stati Uniti &#232; responsabile dell&#8217;80% del consumo di acqua potabile di tutto il Paese e sfrutta circa il 50% delle terre utilizzabili. Buttare via i prodotti alimentari vuol dire aver consumato tutta quest&#8217;acqua e questa terra inutilmente.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="truefalse">
+		<name>
+			<text>La vita e' un incidente avvenuto per caso in questo cosmo che si autoevolve._Expo_7_1_vf_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La vita e' un incidente avvenuto per caso in questo cosmo che si autoevolve.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La vita non e' un incidente avvenuto per caso in questo cosmo che si autoevolve, fa parte della sua grandiosa architettura, nella quale ritroviamo un'armonia comprensiva e un supremo disegno.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

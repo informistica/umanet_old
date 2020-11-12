@@ -1,0 +1,442 @@
+
+root { 
+    display: block;
+}
+
+body {
+    max-width: 1024px;
+    margin: 0px auto 8px auto;
+    padding: 0px 20px;
+    color: #111;
+}
+
+.bloc {
+    display: block;
+}
+
+nav.header, nav.sommario {
+    margin: 18px 0;
+    background-color: #0b1022;
+    border-radius: 10px;
+}
+
+
+
+div#headbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 1001;
+    width: 100%;
+    display: table;
+    clear: both;
+    background-color: #fbde2d;
+    color: #0b1022;
+}
+
+div#headbar .contenuto {
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0px 20px;
+}
+
+nav li {
+    display: inline-block;
+    margin: 10px 15px 11px 15px;
+    font-size: 1.25em;
+}
+
+nav.header .home a {
+    background:url('../img/icons/home.png');
+    background-repeat: no-repeat;
+    padding-left: 30px;
+    /* list-style-image:url('../img/icons/home.png');*/
+}
+
+nav.header .home a:hover {
+    background:url('../img/icons/home-hover.png');
+    background-repeat: no-repeat;
+    -webkit-transition: all 250ms ease-in-out;
+    -moz-transition: all 250ms ease-in-out;
+    -ms-transition: all 250ms ease-in-out;
+    -o-transition: all 250ms ease-in-out;
+    transition: all 250ms ease-in-out;
+}
+
+nav li a {
+    color: #fff;
+}
+
+nav li a:hover {
+    color: #fbde2d;
+}
+
+.item1 {
+    max-width: 1024px;
+    display: block;
+    clear: both;
+    margin-top: 0px;
+    margin-bottom: 60px;
+    
+}
+
+.item2 {
+    max-width: 400px;
+    display: inline-block;
+    clear: none;
+    margin: 20px;
+    border: #0b1022 solid 10px;
+    border-radius: 10px;
+    padding: 25px;
+    background-color: #fbde2d;
+    -webkit-transition: all 250ms ease-in-out;
+    -moz-transition: all 250ms ease-in-out;
+    -ms-transition: all 250ms ease-in-out;
+    -o-transition: all 250ms ease-in-out;
+    transition: all 250ms ease-in-out;
+}
+
+.guest {
+
+}
+
+.item2:hover {
+    background: none;
+}
+
+a {
+    color: #8da6ce;
+    font-weight: bold;
+    text-decoration: none;
+    -webkit-transition: all 250ms ease-in-out;
+    -moz-transition: all 250ms ease-in-out;
+    -ms-transition: all 250ms ease-in-out;
+    -o-transition: all 250ms ease-in-out;
+    transition: all 250ms ease-in-out;
+}
+
+article.item2 a {
+    color: #2c3e50;
+}
+
+/*article.guest a {
+    color: #fff;
+}*/
+
+a:hover, article.item2 a:hover {
+    color: #61ce3c;
+}
+
+h1 {
+    font-size: 1.8em;
+}
+
+h2 {
+    background-color: #0b1022;
+    border-radius: 10px;
+    color: #fff;
+    padding: 20px;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+h2:hover {
+    color: #fbde2d;
+    padding-left: 40px;
+}
+
+h3 {
+    margin-top: 40px;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+h3:hover {
+    color: #fbde2d;
+}
+
+h2.fbcolor:hover, h3.fbcolor:hover {
+    color: #3b5997;
+}
+
+h2.gpcolor:hover, h3.gpcolor:hover {
+    color: #d95333;
+}
+
+div#headbar h1 a {
+    color: #000;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+}
+
+div#headbar h1 a:hover {
+    color: #fff;
+}
+
+img {
+    width: 100%;
+    border-radius: 10px;
+    -webkit-transition: all 250ms ease-in-out;
+    -moz-transition: all 250ms ease-in-out;
+    -ms-transition: all 250ms ease-in-out;
+    -o-transition: all 250ms ease-in-out;
+    transition: all 250ms ease-in-out;
+}
+
+img:hover {
+    opacity: 0.8;
+}
+
+div.risultato {
+    border-left: #3b5997 solid 5px;
+    margin: 0 0 20px 60px;
+    padding-left: 20px;
+}
+
+div.abstract {
+    background-color: #fff;
+    border-radius: 0 10px 10px 0px;
+    border: solid 2px #0b1022;
+    display: table;
+}
+
+div.abstract h3 {
+    font-size: 2em;
+    margin: 0;
+}
+
+div.abstract p {
+    font-size: 1.25em;
+    margin: 0;
+    font-style: italic; 
+}
+
+div.abstract h3:hover {
+    color: #fff;
+}
+
+div.abstract.fbcolor {
+    border: solid 2px #3b5997;
+}
+
+div.abstract.gpcolor {
+    border: solid 2px #d95333;
+}
+
+div.leftabs {
+    float: left;
+    padding: 25px;
+    color: #fff;
+    margin-right: 20px;
+}
+
+div.leftabs.fbcolor {
+    background-color: #3b5997;
+}
+
+div.leftabs.gpcolor {
+    background-color: #d95333;
+}
+
+div.rightabs {
+    padding: 20px;
+}
+
+.half {
+    width: 48%;
+    display: inline-table;
+}
+
+.right {
+    padding-left: 1%;
+    float: right;
+}
+
+.left {
+    padding-right: 1%;
+    float: left;
+}
+
+.fright {
+    float: right;
+    margin: 15px auto;
+}
+
+.fleft {
+    float: left;
+    margin: 15px auto;
+}
+
+.blocco {
+    width: 100%;
+    display: table;
+    clear: both;
+    margin-top: 30px;
+}
+
+pre {
+    max-width: 1004px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.margineheader {
+    display: block;
+    clear: both;
+    margin: 120px 0 0 0;
+}
+
+div.marginealto {
+    display: block;
+    clear: both;
+    margin: 110px 0 0 0;
+}
+
+div#foobar {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    z-index: 1001;
+    width: 100%;
+    height: 81px;
+    margin: 0;
+    padding-top: 10px;
+    background: #0b1022;
+    clear: both;
+}
+
+div#foobar .sfondo {
+    height: 100%;
+    margin: 0px;
+    padding: 1px;
+    background: #0b1022;
+}
+
+div#foobar .contenuto {
+    max-width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 20px;
+    color: #fff;
+    font-size: small;
+}
+
+.mtb {
+    margin: 20px 0;
+}
+
+/*-------------------------------------
+Stili:
+HTML -> giallo: #f1c40f
+JavaScript -> verde: #27ae60
+CSS -> turchese: 1abc9c
+PHP -> azzurro: 3498db
+Python -> ametista: 9b59b6
+-------------------------------------*/
+
+.bc-html, div#headbar.bc-html {
+    background-color: #f1c40f;
+}
+
+.bc-js, div#headbar.bc-js {
+    background-color: #27ae60;
+}
+
+.bc-css, div#headbar.bc-css {
+    background-color: #1abc9c;
+}
+
+.bc-php, div#headbar.bc-php {
+    background-color: #3498db;
+}
+
+.bc-py, div#headbar.bc-py {
+    background-color: #9b59b6;
+}
+
+/*-------------------------------------
+Labels
+-------------------------------------*/
+
+.label {
+    position: fixed;
+    bottom: 200px;
+    border: #0b1022 solid 5px;
+    border-radius: 5px;
+    padding: 10px;
+    z-index: 1000;
+}
+
+.snippets, .sinlabel {
+    left: -5px;
+}
+
+.libraries, .dxlabel {
+    right: -5px;
+}
+
+@media screen and (max-width: 768px) {
+    .half {
+        width: 100%;
+    }
+
+    .right {
+        padding-left: 0%;
+        float: left;
+    }
+
+    .left {
+       padding-right: 0%;
+       float: left;
+    }
+    
+    .fright {
+        float: left;
+    }
+    
+    nav.header {
+        margin: 0 0 15px 0;
+    }
+    
+    nav li {
+        display: inline-block;
+        margin: 10px 15px 10px 15px;
+        font-size: 1em;
+    }
+    
+    nav.header .home a {
+        background:url('../img/icons/home-18.png');
+        background-repeat: no-repeat;
+    }
+    
+    nav.header .home a:hover {
+        background:url('../img/icons/home-hover-18.png');
+        background-repeat: no-repeat;
+    }
+    
+    .guest {
+        background-color: #27ae60;
+    }
+    
+    h1 {
+        font-size: 1.5em;
+    }
+    
+    div.margineheader {
+        margin: 130px 0 0 0;
+    }
+    
+    .display768 {
+        display: none;
+    }
+}

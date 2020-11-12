@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>L'elexpo come produce energia. _Expo_U_2_1_sin_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'elexpo come produce energia. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Se si produce energia in modo autonomo il pianeta non subir&#224; sfruttamenti, in caso contrario il pianeta perder&#224; le sue risorse non rinnovabili.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Affidandosi a multinazionali che abusano delle risorse del pianeta <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Abusando delle risorse naturali<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>In modo autonomo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Usando dei criceti che producono energia elettrica<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>La strategia migliore di espansione da seguire &#232; _Expo_U_2_1_sin_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La strategia migliore di espansione da seguire &#232; <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Per espandersi bisogna seguire una via diplomatica perch&#233; in questo modo il mondo non &#232; costretto ad assistere a guerre che rischiano di infierire sulle risorse umane.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Attendere la distruzione del pianeta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Fare guerre in tutte le parti del mondo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Attaccare i paesi pi&#249; deboli<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Seguire vie diplomatiche in modo da non distruggere il pianeta e il genere umano<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>Chi aspira a un futuro migliore dovrebbe.._Expo_U_2_1_sin_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Chi aspira a un futuro migliore dovrebbe..<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Chi aspira a un futuro migliore dovrebbe informarsi sul ciclo di vita dei prodotti poich&#233; questo influisce sull'inquinamento del pianeta e comprare prodotti a caso potrebbe arricchire grosse aziende che non tengono presente l'inquinamento del pianeta e ignora il riciclo o utilizza materiali poco adeguati 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>comprare prodotti scelti a caso <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>informarsi sul ciclo di vita dei prodotti <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>ignorare le idee di riciclo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>continuare con un comportamento SiNo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>Per un futuro sostenibile _Expo_U_2_1_sin_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per un futuro sostenibile <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Per un futuro pi&#249; sostenibile non ci resta altro che trovare un equilibrio adeguato tra noi consumatori e ci&#242; di cui abbiamo veramente bisogno evitando di ricercare altri beni materiali. E' quindi necessario rendersi conto che un comportamento SiNo, in cui l'egoismo prevale sull'altruismo, non ci permetter&#224; di soddisfare i bisogni autentici del genere umano. Per cui, continuare a comportarsi come se niente fosse, non ci aiuter&#224; ad uscirne illesi. 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>bisogna ricercare pi&#249; beni materiali <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>&#232; meglio avere un comportamento SiNo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>va bene comportarsi come se niente fosse <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>bisogna trovare un equilibrio tra risorsa e consumi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="multichoice">
+		<name>
+			<text>Per limitare gli sprechi d'acqua _Expo_U_2_1_sin_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per limitare gli sprechi d'acqua <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Visto che bisogna limitare gli sprechi d'acqua e, i metodi utilizzati fino adesso non sono stati sufficientemente soddisfacenti, &#232; bene migliorare la gestione delle risorse in modo da non arrivare con una situazione disperata tra un centinaio di anni 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>bisogna migliorare la gestione delle risorse<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>&#232; meglio continuare come se niente fosse<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>dobbiamo imporre una legge che vieti l'utilizzo di questa durante 20 ore su 24<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>bisogna mantenere le vecchie infrastrutture <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="multichoice">
+		<name>
+			<text>Per una pace duratura nel Mondo_Expo_U_2_1_sin_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per una pace duratura nel Mondo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Viste le esperienze che ci riporta la storia, non &#232; utile utilizzare la guerra come strategia di espansione poich&#233; mette alla prova gli stati e distrugge la popolazione, bisogna quindi evitare di creare armi potenti e non ci aiuter&#224; mantenere una politica in cui si pensa ai beni del singolo stato, bens&#236; &#232; bene utilizzare la diplomazia come strategia di conservazione
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>si pu&#242; utilizzare la guerra come strategia di espansione <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>si possono creare altre armi potenti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>si pu&#242; creare una politica in cui si pensa ai beni del singolo stato<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Si deve usare la diplomazia come strategia di conservazione <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="multichoice">
+		<name>
+			<text>Per nuove fonti energetiche alternative al petrolio_Expo_U_2_1_sin_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per nuove fonti energetiche alternative al petrolio<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Per creare delle nuove fonti energetiche alternative al petrolio non bisogna dimenticare ci&#242; che abbiamo imparato fino adesso visto che ci pu&#242; insegnare e guidare sulla strada giusta per creare una tecnologia per le fonti rinnovabili e quindi staccarsi dallo sfruttamento del petrolio e fonti fossili
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>bisogna dimenticare gli effetti ottenuti fino adesso e ricominciare dall'inizio<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>bisogna creare una tecnologia per le fonti rinnovabili<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>si pu&#242; rimanere attaccatti allo sfruttamento di petrolio e fonti fossili<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>si pu&#242; investire nello sfruttamento di petrolio ed energie non rinnovabili<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="multichoice">
+		<name>
+			<text>Per ridurre l'impatto ambientale delle attivita' umane bisogna,_Expo_U_2_1_sin_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per ridurre l'impatto ambientale delle attivita' umane bisogna,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L'uomo sostenibile(2.2) deve trovare un equilibrio tra consumi e risorse riducendo quindi l' impatto ambientale per quanto riguarda le attivit&#224; umane.
+Bisogna quindi puntare su un'economia basata su un consumo sostenibile e controllato mantenendo un atteggiamento corretto nei confronti delle risorse naturali che il nostro pianeta ci offre. Non bisogna quindi continuare a negare i rischi del nostro comportamento e cominciare a prendere in atto e sensibilizzare l'opinione . Perch&#233; se continuiamo con questo comportamento scorretto la temperatura del nostro pianeta potrebbe aumentare a causa dei nostri atteggiamenti insostenibili che potrebbero anche portare a sconvolgimenti climatici sempre pi&#249; violenti.   
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Sensibilizzare l'opinione pubblica  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Alimentare la temperatura del pianeta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Adottare comportamenti insostenibili<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Negare i rischi dei comportamenti Si e No<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="multichoice">
+		<name>
+			<text>La nazione sostenibile per avere una pace duratura nel mondo deve,_Expo_U_2_1_sin_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La nazione sostenibile per avere una pace duratura nel mondo deve,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La nazione sostenibile per instaurare un equilibrio nel mondo tra le grandi potenze ed evitare guerre e  focolai di violenza deve usare la diplomazia come strategia di conservazione al fine di evitare un mondo in guerra continua.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Usare la diplomazia come strategia di conservazione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Usare la guerra come strategia di espansione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Utilizzare rivolte e manifestazioni di protesta come atti per prendere il potere<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Instaurare accordi con le grandi potenze per spazzar via le piccole<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="multichoice">
+		<name>
+			<text>L'uomo sostenibile per ridurre lo spreco di acqua e migliorare le condizioni del pianeta deve,_Expo_U_2_1_sin_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'uomo sostenibile per ridurre lo spreco di acqua e migliorare le condizioni del pianeta deve,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L'uomo sostenibile  deve abbandonare l'abitudine allo spreco e alla cattiva gestione per sostituirlo con la loro limitazione e avviare cos&#236; un pianeta in condizioni migliori.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Continuare come se niente fosse<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Limitare gli sprechi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Esaurire le risorse<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Continuare con la cattiva gestione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="multichoice">
+		<name>
+			<text>L'elexpo per ripristinare il codice di equilibrio deve,_Expo_U_2_1_sin_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'elexpo per ripristinare il codice di equilibrio deve,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L'elexpo deve fare cio che &#232; meglio per il gruppo e per l'ambiente perch&#232; ci sono troppe persone agiscono in modo competitivo ed egoista incentrato sulla popolarit&#224;.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Fare ci&#242; che &#232; meglio per s&#233; e per il gruppo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Fare ci&#242; che &#232; meglio per s&#233;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Fare alleanze con gli altri per migliorarsi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Fregarsene degli altri e del gruppo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="multichoice">
+		<name>
+			<text>Per arrivare a un consumo consapevole e ad un futuro migliore bisogna,_Expo_U_2_1_sin_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per arrivare a un consumo consapevole e ad un futuro migliore bisogna,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>   L'Uomo sostenibile essendo consapevole del consumo che effettua deve per&#242; tener conto e aspirare a un futuro migliore. E' giusto consumare ma bisogna anche imporsi dei limiti perch&#233; un  consumo eccessivo in ogni cosa non &#232; un bene tenendo conto quindi della consapevolezza del consumo.Quindi bisogna sempre essere informati su ci&#242; che compriamo,tenendo conto della provenienza del prodotto e del suo smaltimento utilizzando gli appositi cassonetti per effettuare la raccolta differenziata. Se prendiamo questo tipo di precauzioni tutti insieme possiamo far diminuire la crescita dell' inquinamento e  inoltre dobbiamo tener conto del ciclo di vita di un prodotto e ridurre a zero il consumo dei prodotti scadenti ed inquinanti.
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Ignorare tutto quello che c'&#232; prima e dopo ci&#242; che consumo ora.   <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Porsi domande sulla provenienza e smaltimento di ci&#242; che consumo ora.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p> continuare ad ignorare il ciclo di vita di un prodotto.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>consumare prodotti scadenti ed inquinanti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="multichoice">
+		<name>
+			<text>Per ridurre l'impatto ambientale delle attivita' umane bisogna,_Expo_U_2_1_sin_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per ridurre l'impatto ambientale delle attivita' umane bisogna,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  L'uomo sostenibile deve trovare un equilibrio tra consumi e risorse riducendo quindi l' impatto ambientale per quanto riguarda le attivit&#224; umane.
+Bisogna quindi puntare su un'economia basata su un consumo sostenibile e controllato mantenendo un atteggiamento corretto nei confronti delle risorse naturali che il nostro pianeta ci offre. Non bisogna quindi continuare a negare i rischi del nostro comportamento e cominciare a prendere in atto e sensibilizzare l'opinione . Perch&#233; se continuiamo con questo comportamento scorretto la temperatura del nostro pianeta potrebbe aumentare a causa dei nostri atteggiamenti insostenibili che potrebbero anche portare a sconvolgimenti climatici sempre pi&#249; violenti.   
+
+ 
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Sensibilizzare l'opinione pubblica  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Alimentare la temperatura del pianeta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Adottare comportamenti insostenibili<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Negare i rischi dei comportamenti Si e No<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="multichoice">
+		<name>
+			<text>Per ridurre l'impronta ecologica del consumare bisogna,_Expo_U_2_1_sin_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per ridurre l'impronta ecologica del consumare bisogna,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  L'Uomo sostenibile dovrebbe porsi inizialmente delle domande sulla provenienza e smaltimento dei prodotti che consumiamo riducendo l'impronta ecologica del consumare e quindi avendo una certa consapevolezza di ci&#242;. Tutte queste dritte bisognerebbe metterle in pratica ogni volta che ogni prodotto finisce nel nostro carrello della spesa e non bisogna tener conto dell economicit&#224; del prodotto ma bens&#236; della qualit&#224; e comprarlo solo dopo essere certi di ci&#242; che si sta acquistando considerando la provenienza e il successivo smaltimento del prodotto. Solo pochi produttori sono interessati a realizzare prodotti finiti di ottima qualit&#224; , e la pigrizia dei restanti produttori porta a non  informarsi sul ciclo di vita del prodotto legittimando i produttori a ridurre i costi e la qualit&#224; ma non l' impatto ambientale.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Comprare a priori il prodotto al prezzo pi&#249; basso. <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>non informarsi sul ciclo di vita del prodotto.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>ridurre i costi e la qualit&#224; ma non l'impatto ambientale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Comprare dopo aver considerato provenienza e smaltimento  del prodotto. <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="multichoice">
+		<name>
+			<text>Per la volonta' di rispettare il pianeta terra bisogna,_Expo_U_2_1_sin_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per la volonta' di rispettare il pianeta terra bisogna,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L'uomo sostenibile deve comprare dopo aver considerato provenienza e smaltimento  del prodotto e per fare ci&#242; &#232; necessario un atto di volont&#224; per il rispetto del nostro pianeta. Quindi bisogna consumare in modo sostenibile e assumere un atteggiamento corretto nei confronti dei mezzi di informazione e utilizzarli per i giusti obiettivi. Dobbiamo evitare di comportarci come se niente fosse e informarsi sul consumo critico e sulle multinazionali che non rispettano l'ambiente da boicottare. Sono pochi i prodotti del commercio equo e solidale presenti nei supermercati e la maggior parte delle persone non considera perch&#233; rimane sulle proprie vecchie abitudini . Bisogna tutti insieme contro lo sfruttamento delle risorse ambientali e umani .
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Continuare come se niente fosse <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>mantenere le vecchie abitudini d'acquisto<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>legittimare lo sfruttamento  delle risorse, ambientali ed umane. <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Informarsi sul consumo critico e sulle multinazionali da boicottare<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="multichoice">
+		<name>
+			<text>Per aspirare a un futuro migliore bisogna,_Expo_U_2_1_sin_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per aspirare a un futuro migliore bisogna,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'uomo sostenibile deve aspirare a un futuro sostenibile e migliore per il pianeta Terra, mantenendo un atteggiamento corretto nei confronti del pianeta su cui abita. Evitando quindi di ricercare materiali futili ma deve equilibrare le risorse con i consumi evitando anche degli squilibri climatici e dei comportamenti insostenibili che possono portare solo a un peggioramento del nostro futuro.
+
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>alimentare gli squilibri climatici inquinando l'ambiente  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Ricercare piu' beni materiali<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Trovare un equilibrio tra risorse e consumi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>adottare comportamenti insostenibili<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="multichoice">
+		<name>
+			<text>l'elexpo di fronte ad un problema come reagisce._Expo_U_2_1_sin_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>l'elexpo di fronte ad un problema come reagisce.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'elexpo non si scoraggia di fronte ai problemi anzi si impegna e li risolve nel migliore dei modi.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Si scoraggia e molla tutto<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Finge che il problema non esista<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Ragiona e si impegna per risolvere il problema nel migliore dei modi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Si arrabbia sbraita e grida<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 18 -->
+	<question type="multichoice">
+		<name>
+			<text>l'elexpo di fronte ad un problema come reagisce._Expo_U_2_1_sin_18</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>l'elexpo di fronte ad un problema come reagisce.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'elexpo
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Si scoraggia e molla tutto<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Finge che il problema non esista<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Ragiona e si impegna per risolvere il problema nel migliore dei modi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Si arrabbia sbraita e grida<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 19 -->
+	<question type="multichoice">
+		<name>
+			<text>L'uomo sostenibile per avere un atteggiamento consapevole_Expo_U_2_1_sin_19</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'uomo sostenibile per avere un atteggiamento consapevole<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>E' NECESSARIO SMETTERE DI RICERCARE PIU' BENI MATERIAL ED ABBANDONARE  I COMPORTAMENTI INSOSTENIBILI (SINO) (IO VINCO - TU PERDI)  IL CUI IMPATTO AMBIENTALE GENERA FORTI SQUILIBRI CLIMATICI ALTRIMENTI SI REALIZZERA' UN FUTURO PEGGIORE PER LA NOSTRA E LE FUTURE GENERAZIONI.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>deve assumere atteggiamenti NONO(io perdo-tu perdi)<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>deve dimenticare le vecchie abitudini<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>deve continuare a fare come la maggior parte degli uomini <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>deve cercare un equilibrio tra risorse e consumi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 20 -->
+	<question type="multichoice">
+		<name>
+			<text>Per avere il cosi detto occhio bianco cosa deve fare l'elexpo_Expo_U_2_1_sin_20</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per avere il cosi detto occhio bianco cosa deve fare l'elexpo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Conoscere le problematiche e sostenere tentativi di soluzione &#232; utile per poter aiutare il pianeta
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Ignorare le problematiche moderne legate a cibo e ambiente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Inquinare senza alcun freno<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Pulire la propria casa il prima possibile<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Conoscere le problematiche e sostenere tentativi di soluzione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 21 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa bisogna fare per fermare i contrasti internazionali._Expo_U_2_1_sin_21</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa bisogna fare per fermare i contrasti internazionali.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Quando l'oppressore smette di invadere e perseguitare l'oppresso tutti i contrasti svaniranno.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>L'oppressore agisce con l'imperialismo e l'oppresso reagisce con il terrorismo <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>L'Oppressore smette di invadere l'oppresso. <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Continuare a farsi la guerra<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Lanciare la bomba atomica<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 22 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa bisogna fare per fermare i contrasti internazionali._Expo_U_2_1_sin_22</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa bisogna fare per fermare i contrasti internazionali.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Quando l'oppressore smette di invadere e perseguitare l'oppresso tutti i contrasti svaniranno.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>L'oppressore agisce con l'imperialismo e l'oppresso reagisce con il terrorismo <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>L'Oppressore smette di invadere l'oppresso. <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Continuare a farsi la guerra<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Lanciare la bomba atomica<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 23 -->
+	<question type="multichoice">
+		<name>
+			<text>Un uomo consapevole, quale consapevolezza del consumo deve avere._Expo_U_2_1_sin_23</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Un uomo consapevole, quale consapevolezza del consumo deve avere.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Un uomo consapevole si deve porre sempre delle domande da dove proviene il cibo, cos&#236; &#232; consapevole di cosa mangia
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Si deve porre domande sulla provenienza e smaltimento di ci&#242; che consumo ora.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Deve ignorare tutto quello che c'&#232; prima e dopo ci&#242; che consumo ora.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Deve solo preoccuparsi da dove provengono gli alimenti vegetali.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Si deve fidare di tutto quello che viene detto dalle grandi industrie.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 24 -->
+	<question type="multichoice">
+		<name>
+			<text>Un uomo sostenibile, aspira ad un futuro migliore per la terra. S&#236;, perch&#232;._Expo_U_2_1_sin_24</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Un uomo sostenibile, aspira ad un futuro migliore per la terra. S&#236;, perch&#232;.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Un uomo sostenibile deve trovare l'equilibrio tra le risorse comuni per il bene del pianeta, cos&#236; che tutti possano vivere bene un domani.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nega tutti i rischi perch&#232; &#232; convinto che non ci siano rischi.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Ricercare pi&#249; beni materiali per se stessi.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Per trovare un equilibrio tra le risorse comuni.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Ricercare dei beni materiali che danneggiano e sfruttano il pianeta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 25 -->
+	<question type="multichoice">
+		<name>
+			<text>Un uomo sostenibile, volendo ridurre lo spreco di acqua, a cosa punta per il bene collettivo._Expo_U_2_1_sin_25</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Un uomo sostenibile, volendo ridurre lo spreco di acqua, a cosa punta per il bene collettivo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Un uomo sostenibile si impegna a ridurre lo spreco di acqua, per limitare gli sprechi e salvaguardare le risorse del pianeta e migliorare le condizioni di esso
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Punta alla spreco di risorse del pianeta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Voglia di  migliorare la condizioni ambientali, limitando gli sprechi.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Vuole ridurre lo spreco di acqua per sfruttare questo vantaggio per poter poi sprecare pi&#249; in altri settori<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Vuole ridurre lo spreco per poter poi usare il risparmio per se stesso<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

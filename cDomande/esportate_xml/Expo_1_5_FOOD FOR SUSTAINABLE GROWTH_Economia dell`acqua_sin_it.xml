@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali di questi aspetti NON influenzeranno la domanda dell'acqua a livello mondiale in futuro._Expo_1_5_sin_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali di questi aspetti NON influenzeranno la domanda dell'acqua a livello mondiale in futuro.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Le principali cause di un possibile aumento della domanda dell'acqua in futuro sono,
+-L'incremento demografico e il processo di urbanizzazione
+-Lo sviluppo socio-economico e la produzione di biocarburanti
+-l&#8217;Aumento del benessere della popolazione con conseguente cambiamento delle abitudi alimentari
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>L'incremento demografico e il processo di urbanizzazione <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Lo sviluppo socio-economico e la produzione di biocarburanti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>l'Aumento del benessere della popolazione con conseguente cambiamento delle abitudi alimentari<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>L'aumento della produzione di prodotti alimentari generali<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali di queste aree di sviluppo tecnologico rilevanti per la futura gestione delle risorse idriche NON &#232; stato individuato dalle Nazioni Unite (durante il 'Water in a Changing World') ._Expo_1_5_sin_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali di queste aree di sviluppo tecnologico rilevanti per la futura gestione delle risorse idriche NON &#232; stato individuato dalle Nazioni Unite (durante il 'Water in a Changing World') .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Le Nazioni Unite hanno individuato, all&#8217;interno del rapporto Water in a Changing World (al quale si rimanda per un maggiore approfondimento di questo aspetto), alcune aree principali di sviluppo tecnologico rilevanti per la futura gestione delle risorse idriche, tra cui,
+- ricerca e sviluppo in campo ambientale;
+- energie rinnovabili e bioenergia;
+- nanotecnologie;
+- ICT (Information and Communication Technology);
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Ricerca e sviluppo in campo ambientale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Energie rinnovabili e bioenergia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Ricerca di nuove fonti idriche<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nanotecnologie<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>Nel 2030 quale sara' il settore con maggiore assorbimento idrico._Expo_1_5_sin_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Nel 2030 quale sara' il settore con maggiore assorbimento idrico.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Se la fotografia attuale della disponibilita' e degli impieghi di risorse idriche e' quella rappresentata nei paragrafi precedenti, le proiezioni future non suggeriscono una situazione molto diversa, si stima che nel 2030 l&#8217;agricoltura rappresentera' ancora il comparto con il maggiore assorbimento di risorse idriche mondiali 18, mentre il peso dell&#8217;industria rimarra' stabile o tutt&#8217;al piu' in lieve diminuzione, grazie soprattutto all&#8217;incremento di efficienza che caratterizzera' i processi produttivi. Il prelievo d&#8217;acqua per utilizzi domestici (a partire dalle necessita' igienico-sanitarie) subira' invece un rapido incremento, sorpassando il settore industriale.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Settore commerciale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Settore industriale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Settore domestico<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Settore agricolo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>Quante persone non hanno accesso ad acqua pulita._Expo_1_5_sin_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quante persone non hanno accesso ad acqua pulita.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>5,7 miliardi di persone hanno accesso ad acqua pulita&#8230; ma 800 milioni no.
+Quattro miliardi di persone dispongono di impianti igienico-sanitari di base&#8230; ma 2,5 miliardi no. 
+Questo perche' milioni di persone cercano di uscire dalla loro condizione di povert&#224;&#8230; mentre i pi&#249; ricchi utilizzano pi&#249; acqua del necessario.<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1 miliardo di persone <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>800 milioni<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>500 milioni<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1 miliardo e mezzo di persone<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="multichoice">
+		<name>
+			<text>Qual e' la politica innovativa che Barilla Center for Food e Nutrition vuole promuovere._Expo_1_5_sin_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Qual e' la politica innovativa che Barilla Center for Food e Nutrition vuole promuovere.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Abbiamo deciso di parlare per primi di water economy, ed e' proprio in quest&#8217;ottica che il Barilla Center for Food e Nutrition con questo documento vuole mettere  a disposizione della collettivita' le principali evidenze scientifiche, giuridiche, economiche e  sociali, che consentono a tutti di prendere parte alla discussione.       
+Perche' la sfida della water economy inizia adesso, per vincerla serve la collaborazione di ognuno di noi.                   
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>water distribution<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>food economy<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>food knowledge<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>water economy<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa e' l'impronta idrica di un prodotto._Expo_1_5_sin_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa e' l'impronta idrica di un prodotto.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L&#8217;impronta idrica di un prodotto (una commodity, un bene o un servizio) e' costituita dal volume d&#8217;acqua dolce consumata per produrlo, sommando tutte le fasi del ciclo di vita. Il confronto tra l&#8217;impronta idrica (espressa in metri cubi per tonnellata) di alcuni prodotti agricoli in alcuni Paesi del mondo esprime differenze notevoli sia confrontando i diversi prodotti tra loro, sia prendendo in considerazione il luogo di produzione.                                              
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Il volume d'acqua dolce consumata per produrlo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La quantit&#224; d'acqua dolce rilasciata dal prodotto durante la lavorazione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>L' ''impronta'' dell'acqua dolce lasciata sui materiali primari di un prodotto<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La percentuale d'acqua dolce presente in esso<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="multichoice">
+		<name>
+			<text>Qual &#232; il lago piu' colpito dai disastri ambientali._Expo_1_5_sin_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Qual &#232; il lago piu' colpito dai disastri ambientali.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il lago d&#8217;Aral e' vittima di uno dei piu' gravi disastri ambientali provocati dall&#8217;uomo. Con una superficie originaria di 68.000 km2, dal 1950 il lago si e' ridotto di circa l&#8217;85% a causa di un piano di coltura intensiva voluto dal regime sovietico nell&#8217;immediato Dopoguerra. L&#8217;acqua dei due fiumi immissari &#8211; Amu Darya e Syr Darya &#8211; e' stata prelevata, tramite l&#8217;uso di canali, per irrigare i vasti campi di cotone delle aree circostanti. Il piano di sfruttamento delle acque dei fiumi a scopo agricolo aveva il preciso scopo di &#171;far morire serenamente il lago d&#8217;Aral&#187;. La necessita' di acqua era infatti cosi' abbondante che il regime sovietico dichiaro' che l&#8217;enorme lago era ritenuto uno spreco di risorse idriche utili all&#8217;agricoltura, nonche' &#171;un errore della natura&#187; che andava corretto. Per questo motivo era necessario ridurre il lago a una grande palude acquitrinosa, affinche' fosse facilmente utilizzabile per la coltivazione del riso, utilizzando a tale scopo diserbanti e pesticidi che, per far posto alle piantagioni, hanno inquinato il terreno circostante. Gia' alla fine degli anni Ottanta, il lago aveva perso circa il 60% del suo volume rispetto alle origini, la sua profondita' era diminuita di circa 16 metri e la linea della costa era arretrata in alcuni punti anche di 150 chilometri lasciando al posto del lago un deserto di sabbia salata. Inoltre la pesca, attivit&#224; che nel 1950 garantiva 44.000 tonnellate di pesce all&#8217;anno, sostenendo in tal modo pi&#249; di 60.000 posti di lavoro, nel 1989 era letteralmente sparita. Oggi gran parte dell&#8217;area e' inabitabile, a causa del vento che spira costantemente trasportando sabbia salata e tossica e delle malattie respiratorie e renali che hanno un&#8217;incidenza altissima sulla popolazione locale.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Lago di Como<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Lago d'Aral<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Lago Ladoga<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Lago Titicaca<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="multichoice">
+		<name>
+			<text>Qual e' il settore 'idrovoro' per eccellenza._Expo_1_5_sin_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Qual e' il settore 'idrovoro' per eccellenza.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  L'agricoltura rappresenta il settore 'idrovoro' per eccellenza, in quanto sono necessarie grandi quantita' d'acqua per poter irrorare piccoli e grandi campi coltivati, pertanto si sta cercando di sviluppare nuovi sistemi d'irrigazione pi&#249; efficienti e nuovi metodi per raccogliere e riutilizzare l'acqua piovana.                            
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Settore dell'industria  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Settore terziario<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Settore dell'agricoltura<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Settore dell'alimentazione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="multichoice">
+		<name>
+			<text>Qual e' la quantita' standard di acqua pro capite stabilita dall'ONU. _Expo_1_5_sin_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Qual e' la quantita' standard di acqua pro capite stabilita dall'ONU. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Gli standard minimi indicati dall'ONU sono 20-50 litri di acqua dolce giornalieri pro capite, necessari ad assicurare i bisogni primari legati all'alimentazione e all'igiene.                                                                                
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>5-10 litri d'acqua al giorno  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>20-50 litri d'acqua al giorno<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>50-70 litri d'acqua al giorno<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>70-100 litri d'acqua al giorno<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="multichoice">
+		<name>
+			<text>Puo' essere utile ''privatizzare'' l'acqua._Expo_1_5_sin_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Puo' essere utile ''privatizzare'' l'acqua.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L&#8217;acqua &#232; un bene di tutti, quindi solamente un efficace sistema di controllo democratico pu&#242; costituire un&#8217;adeguata garanzia di fronte ai rischi derivanti da un inefficace modello di gestione della risorsa idrica, sia esso pubblico o &#8220;privatizzato&#8221;.                                                                 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Si, perche' e' pi&#249; efficiente della gestione pubblica <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>No, perche' pu&#242; comportare dei rischi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>No, perche' e' meno efficiente della gestione pubblica<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>S&#236;, tuttavia va posta sotto un efficace sistema di controllo democratico<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="multichoice">
+		<name>
+			<text>Perch&#232; di acqua ce ne &#232; sempre meno._Expo_1_5_sin_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Perch&#232; di acqua ce ne &#232; sempre meno.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> In molti paesi, l&#8217;acqua di irrigazione &#232; gratuita o ha un prezzo basso, quindi &#232; considerato come una risorsa abbondante. In realt&#224; &#232; scarsa e deve essere valutato di conseguenza. Dobbiamo anche ridefinire cosa si intende per &#8220;sicurezza&#8221;. Le minacce reali non sono alcune superpotenze armate, ma la scarsit&#224; d&#8217;acqua o cibo, il cambiamento climatico e il crescente numero di stati falliti.
+
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Perch&#232; scarseggiano le precipitazioni <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Perch&#232; non si riesce a raggiungere le sorgenti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Perch&#232; l'acqua viene inutilmente sprecata ogni giorno da milioni di persone<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>L'acqua non sta finendo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="multichoice">
+		<name>
+			<text>Quanta acqua consuma al giorno ogni italiano per le azioni primarie._Expo_1_5_sin_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quanta acqua consuma al giorno ogni italiano per le azioni primarie.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Secondo il rapporto 2007 dell'Istituto Ambiente Italia-Dexia (Ecosistema Urbano Europa), i palermitani consumano circa 169 litri di acqua al giorno (a testa) per uso domestico, mentre a Firenze i consumi scendono a 155 litri. Bari (154), Bologna (149) e Nicosia (143). Ai primi posti nel mondo c'&#232; Bristol con 294 litri pro capite, seguita da Parigi (287), Patrasso (285) e Stoccolma (210). Berlino consuma 163 litri, Londra segna 159 litri a cittadino al giorno, Madrid 140, mentre &#232; Heidelberg a registrare la quantit&#224; inferiore di uso di acqua nelle case, 103 litri al giorno per ogni cittadino. 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>70 litri <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>150 litri<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>169 litri<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>100 litri<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="multichoice">
+		<name>
+			<text>Quanta acqua c'&#232; sulla Terra._Expo_1_5_sin_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quanta acqua c'&#232; sulla Terra.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Fino a non molti decenni fa, si pensava che l&#8217;acqua praticamente inesauribile, oggi invece siamo tutti quanti ben consci di quanto questa risorsa sia limitata e preziosa. Ma quanta acqua abbiamo a disposizione. Pi&#249; o meno 1.390 milioni di Km cubici, di cui il 97.5% &#232; acqua salata presente nei mari e negli oceani e solo il 2,5% &#232; acqua &#8220;teoricamente&#8221; potabile.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>1.390 milioni di Km cubici, di cui il 97.5% &#232; acqua salata<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1.390 milioni di Km cubici, di cui il 97.5% &#232; acqua dolce<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1.390 milioni di Km quadrati, di cui il 97.5% &#232; acqua salata<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1.390 milioni di Km quadrati, di cui il 97.5% &#232; acqua dolce<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

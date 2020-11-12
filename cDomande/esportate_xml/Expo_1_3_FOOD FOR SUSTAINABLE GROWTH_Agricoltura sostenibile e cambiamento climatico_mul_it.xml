@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali settori verranno influenzati dall'aumento della temperatura globale._Expo_1_3_mul_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali settori verranno influenzati dall'aumento della temperatura globale.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Si suppone che i recenti cambiamenti osservati a livello regionale abbiano avuto
+con alta probabilit&#224; diversi impatti sui sistemi fisici e biologici (IPCC, 2007). La
+gravit&#224; di tali impatti varier&#224; in misura considerevole in relazione all&#8217;aumento
+della temperatura media, che interesser&#224; le diverse regioni.
+I principali settori del socio-ecosistema interessati sono,
+- il settore idrico, &#232; altamente probabile che in numerose regioni si verifichi una riduzione
+nella disponibilit&#224; delle risorse idriche;
+- gli ecosistemi e la biodiversit&#224;, &#232; plausibile che si assista a un aumento del rischio di
+estinzione di specie vegetali e animali;
+- il sistema costiero, le coste saranno esposte a maggiori rischi, inclusa l&#8217;erosione, dovuti
+al previsto l&#8217;innalzamento del livello del mare e al manifestarsi di eventi eccezionali;
+- il settore agroalimentare, le proiezioni indicano variazioni nella produttivit&#224; agricola e
+forestale e nella disponibilit&#224; di prodotti commestibili (in particolare il pesce);
+- il settore sanitario, vi &#232; una buona probabilit&#224; che i futuri cambiamenti climatici influenzeranno
+lo stato di salute delle popolazioni e la mortalit&#224;-disabilit&#224; connessa al
+manifestarsi di eventi climatici estremi e alla diffusione di malattie tropicali anche alle
+medie latitudini.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il settore industriale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Il settore idrico<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Il settore agroalimentare<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il settore metallurgico<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>E' una conseguenza del cambiamento climatico_Expo_1_3_mul_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>E' una conseguenza del cambiamento climatico<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Preparare una torta lo posso fare sia col brutto tempo che con un sole splendente, per cui le risposte attinenti riguardano l'incremento di piogge e alluvioni, quindi l'intensit delle precipitazioni
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>la regolarita' del cambiamento delle stagioni <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>incremento della frequenza-intensit di fenomeni estremi (inondazioni, periodi di siccit).<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>il rafforzamento dei ghiacciai<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>preparare una torta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

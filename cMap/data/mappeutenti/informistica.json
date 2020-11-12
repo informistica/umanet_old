@@ -1,0 +1,678 @@
+{"_comment": "Created with OWL2VOWL (version 0.3.3-SNAPSHOT), http://vowl.visualdataweb.org [Additional Information added by WebVOWL Exporter Version: 1.0.6]",
+"header": {
+"languages" : [ "Italiano" ],
+"title" : {
+"undefined" : "Mappa concettuale"
+},
+"description" : {
+"undefined" : "Capitolo/i 'Gestione dei processi', 'I modelli standard di riferimento per le reti'"
+}
+},
+"metrics": {
+"classCount":"1",
+"objectPropertyCount":22
+},
+"class": [ 
+{
+"id":"584",
+"type": "owl:Class"
+},
+{
+"id":"583",
+"type": "owl:equivalentClass"
+},
+{
+"id":"597",
+"type": "rdfs:Datatype"
+},
+{
+"id":"582",
+"type": "owl:Class"
+},
+{
+"id":"591",
+"type": "owl:equivalentClass"
+},
+{
+"id":"586",
+"type": "owl:Class"
+},
+{
+"id":"2147",
+"type": "owl:Nothing"
+},
+{
+"id":"2151",
+"type": "owl:Nothing"
+},
+{
+"id":"2157",
+"type": "owl:Nothing"
+},
+{
+"id":"2161",
+"type": "owl:Nothing"
+},
+{
+"id":"2164",
+"type": "owl:Nothing"
+},
+{
+"id":"2167",
+"type": "owl:Nothing"
+},
+{
+"id":"2169",
+"type": "owl:Nothing"
+},
+{
+"id":"2178",
+"type": "owl:Nothing"
+},
+{
+"id":"2182",
+"type": "owl:Nothing"
+},
+{
+"id":"2183",
+"type": "rdfs:Datatype"
+},
+{
+"id":"2184",
+"type": "rdfs:Datatype"
+},
+{
+"id":"588",
+"type": "owl:Class"
+},
+{
+"id":"589",
+"type": "owl:Class"
+},
+{
+"id":"593",
+"type": "rdfs:Datatype"
+},
+{
+"id":"592",
+"type": "rdfs:Datatype"
+},
+{
+"id":"585",
+"type": "owl:equivalentClass"
+},
+{
+"id":"587",
+"type": "rdfs:Datatype"
+},
+{
+"id":"590",
+"type": "rdfs:Datatype"
+}
+],
+"classAttribute": [
+{
+"label": {
+"IRI-based":"Architettura di rete"
+},
+"comment": {
+"undefined": "Nell'architettura di rete, struttura logica, si e' scelto un modello a strati che suddivide la complessita' delle comunicazioni. Esistono dei livelli che semplificano la struttura del messaggio.L'informazione passa da un livello superiore a quello inferiore e subisce delle trasformazioni che consentono alla fine di trasmetterlo su un canale fisico. I due host comunicanti creano la stessa architettura a strati e implementano uno o piu' protocolli ad ogni livello per consentire lo scambio di informazioni tra pari(peer level).Nel primo livello i peer comunicano direttamente tramite un canale fisico, la comunicazione tra peer level avviene in modo indiretto. Il messaggio viene trasmesso da un livello al suo pari, in realta' passa attraverso la comunicazione con il livello inferiore che a sua svolta consegna il messaggio al suo pari fino ad arrivare al canale fisico.Ogni elemento attivo in un livello si dice entity, infatti le entita' paritarie si dicono peer entity.Il concetto di peer entity e' fondamentale nel livello a strati, il livello N dell'host destinatario riceve un messaggio identico a quello che e' uscito dal livello N dell'host mittente(comunicazione logica).La comunicazione fisica prevede che ogni livello interagisca con i soli due strati adiacenti,in trasmissione il livello N riceve il messaggio dal livello N+1, lo elabora aggiungendovi le informazioni necessarie allo svolgimento delle proprie funzioni che saranno utili alla peer entity destinataria, infine lo invia al livello N-1;in ricezione il livello N riceve il messaggio dal livello N-1, lo elabora eliminando le informazioni che erano state aggiunte dal pari livello, infine lo invia al livello N+1.               HAI OTTENUTO 1 BONUS! (ID=584) (Autore=Awnee G.)"
+ },
+"id":"584"
+},
+{
+"label": {
+"IRI-based":"Protocolli"
+},
+"comment": {
+"undefined": "Nella definizione di un' architettura di rete per la comunicazione tra computer occorre,-Definire il modello, di riferimento ovvero numero di strati coinvolti,definizione delle definizioni svolte da ciascuno strato e delle relazione tra essi-Definire il servizio, ossia cio' che viene fornito da ciascun strato di rete-Specificare formalmente i protocolli e interfacce per descrivere come viene fornito un servizio dal singolo stratoRiguardo questo ultimo punto  un protocollo e' un insieme di regole che definiscono la comunicazione tra due strati di pari livello.Quindi definisce le modalita' con cui due entity comunicano.                   HAI OTTENUTO 1 BONUS!              HAI OTTENUTO 1 BONUS! (ID=583) (Autore=Balzarotti N.)"
+ },
+"attributes": [ "external" ],
+"id":"583"
+},
+{
+"label": {
+"IRI-based":"servizi e primitive"
+},
+"comment": {
+"undefined": "ogni strato offre un servizio a quello superiore con questo termine si individua cosa lo strato superiore voglia da quello sottostante per esempio una comunicazione broadcast o multicast un servizio che instaura una connessione tra mittente e destinatario (connection oriented )la fruizione di un servizio avviene tramite l'intefaccia definita da due livelli adiacenti esistono le primitive da usare per la comunicazione, tra le quali si effettua la richiesta del servizio o la ricezione delle informazioni              POTEVI OTTENERE 1 BONUS! MA NON SEI STATO FORTUNATO              HAI OTTENUTO 1 BONUS! (ID=597) (Autore=Galli L.)"
+ },
+"id":"597"
+},
+{
+"label": {
+"IRI-based":"Modello ISO-OSI"
+},
+"comment": {
+"undefined": "L'ISO (international organization for standardization) e' l'organismo di standardizzazione che per primo cerco' di definire in modo formale una modalita' per interconnettere i computer. Nel 1978 ISO specifico' un modello, chiamato OSI (open systems interconnection) che divenne il modello standard di riferimento per le reti di computer. Nel documento ISO 7498 dal titolo 'Basic Reference Model' sono descritti i principi base di questo standard. Negli anni successivi sono state emesse versioni aggiornate con nuove funzionalita', quali, per esempio, quelle relative alla sicurezza. Il modello OSI e' un'architettura a strati che suddivide le funzionalita', necessarie a realizzare reti aperte, in sette livelli. Per ognuno di questi sono stati definiti dei protocolli che realizzano le funzioni che deve svolgere lo specifico livello. Questi protocolli sono emessi dall'ISO insieme a un altro ente di standardizzazione, l'ITU (international telecommunications union) il quale ha specificato un insieme di protocolli sulla base del modello OSI che sono raccolti nella serie X (per esempio X.25, X.400, X.500).I sette strati sono,-Application Layer = [Si occupa delle applicazioni connesse alla rete]-Presentation Layer = [Fornisce una rappresentazione standard dei dati per le applicazioni]-Session Layer = [Gestisce le sessioni fra le applicazioni]-Transport Layer = [Fornisce la connessione end-to-end con controllo della congestione]-Network Layer = [Gestisce la connessione alla rete da parte dei livelli piu' alti]-Data Link Layer = [Provvede alla trasmissione dei dati sulla rete fisica]-Physical Layer = [Definisce le caratteristiche fisiche della rete]             POTEVI OTTENERE 1 BONUS! MA NON SEI STATO FORTUNATO (ID=582) (Autore=Bussolotti L.)"
+ },
+"id":"582"
+},
+{
+"label": {
+"IRI-based":"architettura TCP-IP"
+},
+"comment": {
+"undefined": "l'Architettura TCP-IP detta anche internet protocol suite , nata nel 1983, indica la struttura a strati dell'architettura e i protocolli definiti ad ogni livello , che sono in tutto 4 ed ognuno di questi e' indipendente ed svolge  azioni come l'identificazione delle risorse di rete (il physical layer), il funzinametno della rete internet (Networl Layer), la connessione end to end (Transport Layer) e i servizi di livello applicativo per internet (Application Layer) .fino ad oggi l'architettura TCP-IP si e' evoluta passsando dai 32 bit della versione 4 ai 128 della versione 6 (Network) in grado di gestire un numero elevato di utenti             POTEVI OTTENERE 1 BONUS! MA NON SEI STATO FORTUNATO (ID=591) (Autore=Casieri A.)"
+ },
+"id":"591"
+},
+{
+"label": {
+"IRI-based":"Il livello Network"
+},
+"comment": {
+"undefined": "Il livello Network ha i seguenti compiti fondamentali,- instradamento end-to-end dei messaggi su una rete utilizzando un indirizzamento univoco;- localizzazione degli eventuali instradamenti alternativi in caso di guasti.Un protocollo di livello Network deve pertanto conoscere la topologia della rete, scegliere di volta in volta il cammino migliore, eventualmente gestire il flusso dei dati e le congestioni, infine affrontare le problematiche derivanti dalla presenza di piu' reti con tecnologie di livello Physical diverse.Il livello Network e' il primo livello in grado di garantire una connettivita' end-to-end a livello WAN; deve quindi essere in grado di identificare univocamente ogni stazione sulla rete mediante un identificativo apposito.Il livello Network e' in grado di offrire sia servizi connessi(connection oriented) sia servizi non connessi (connectionless), dove i primi sono solitamente implementati tramite circuiti virtuali.             POTEVI OTTENERE 1 BONUS! MA NON SEI STATO FORTUNATO (ID=586) (Autore=Covelli M.)"
+ },
+"id":"586"
+},
+{
+"label": {
+"IRI-based":"Code multiple"
+},
+"comment": {
+"undefined": "I gestori dei processi di alcuni sistemi operativi classificano i processi in esecuzione in base ad alcuni criteri e li assegnano a code differenti quando sono in stato di Ready.Queste code sono gestite con algoritmi di schedulazione differenziati, ottimizzati per la specifica classe di processi.La piu' comune distinzione e' quella tra processi interattivi e processi non interattivi. (ID=2147) (Autore=Valentino M.)"
+ },
+"id":"2147"
+},
+{
+"label": {
+"IRI-based":"Round Robin"
+},
+"comment": {
+"undefined": "E' l'algoritmo di schedulazione che abbina la tecnica del time-sharing con la politica FIFO di selezione dei processi in coda nello stato di Ready consente all'utente di avere la sensazione di esecuzione contemporanea di piu' programmi interattivi. (ID=2151) (Autore=Satta F.)"
+ },
+"id":"2151"
+},
+{
+"label": {
+"IRI-based":"Sicurezza"
+},
+"comment": {
+"undefined": "La gestione della sicurezza e' ormai ritenuta una funzione indispensabile dei moderni sistemi operativi.Un sistema operativo deve autentificare gli utente al fine di non farli utilizzare operazioni non autorizzate che potrebbero compromettere il corretto funzionamento del computer.L'autenticazione avviene tramite una password segrete oppure utilizzando le impronte digitali.Le autorizzazioni delle applicazioni software che accedono alle risorse di un computer sono verificate tramite tecniche crittografiche.  (ID=2157) (Autore=Valentino M.)"
+ },
+"id":"2157"
+},
+{
+"label": {
+"IRI-based":"I Dati"
+},
+"comment": {
+"undefined": "I Dati elaborati da un processo sono registrate nelle aree di memoria riservate dal sistema operativo al processo stesso. (ID=2161) (Autore=Garavaglia  A.)"
+ },
+"id":"2161"
+},
+{
+"label": {
+"IRI-based":"Processo"
+},
+"comment": {
+"undefined": "Un processo rappresenta un programma in esecuzione, e' formato dal programma stesso, il suo stato (dati) e le risorse utilizzate.Il SO utilizza i processi per gestire piu' programmi in esecuzione contemporaneamente (multitasking).In caso siano aperte piu' istanze di uno stesso programma esse sono rappresentate da processi distinti perche' anche se il programma e' lo stesso, lo stato e le risorse utilizzate (es. file aperti) sono diversi. (ID=2164) (Autore=Crosa D.)"
+ },
+"id":"2164"
+},
+{
+"label": {
+"IRI-based":"Gli stati"
+},
+"comment": {
+"undefined": "Gli stati in cui un processo si puo' trovare sono,-esecuzione (running), il processo ha il controllo di un processore;-pronto (ready), il processo e' pronto ad essere eseguito, ed e' in attesa che lo scheduler lo metta in esecuzione;-in attesa o sospeso o bloccato (suspended o blocked), il processo ha eseguito una chiamata di sistema ed e' fermo in attesa del risultato. (ID=2167) (Autore=Garavaglia N.)"
+ },
+"id":"2167"
+},
+{
+"label": {
+"IRI-based":"CPU Bound"
+},
+"comment": {
+"undefined": "In processi che devono svolgere un'intensa attivita' di elaborazione di dati presenti in memoria, non rilasciano quasi mai il processore passando nello stato di Wait e sono definiti di tipo CPU-bound, cioe' dipendenti principalmente dalla disponibilita'  del processore. Esempi programmi di grafica o di editing (ID=2169) (Autore=Marino N.)"
+ },
+"id":"2169"
+},
+{
+"label": {
+"IRI-based":"I-O bound"
+},
+"comment": {
+"undefined": "         TROPPO CORTA! (ID=2178) (Autore=Luerti F.)"
+ },
+"id":"2178"
+},
+{
+"label": {
+"IRI-based":"PCB"
+},
+"comment": {
+"undefined": "E' un insieme di informazioni di un processo che consente al sistema operativo di interromperlo in qualsiasi momento per riprenderne successivamente l'esecuzione. Prende informazioni relative a PID che ha eseguito il processo, le risorse soft e hard del processo, lo stato del processo al momento della sua ultima interruzione e i dati necessari per il sistema   (ID=2182) (Autore=Garau T.)"
+ },
+"id":"2182"
+},
+{
+"label": {
+"IRI-based":"Vuoto"
+},
+"comment": {
+"undefined": "Vuoto         TROPPO CORTA! (ID=2183) (Autore=Admin                A.)"
+ },
+"id":"2183"
+},
+{
+"label": {
+"IRI-based":"Pieno"
+},
+"comment": {
+"undefined": "Pieno         TROPPO CORTA! (ID=2184) (Autore=Admin                A.)"
+ },
+"id":"2184"
+},
+{
+"label": {
+"IRI-based":"Pianificazione di reti IP - Subnetting "
+},
+"comment": {
+"undefined": "Per ottimizzare il traffico in una rete risulta particolarmente utile suddividerla in una serie di sottoreti logiche , collegate tra loro. Questa operazione prende il nome di subnetting e viene realizzata sacrificando alcuni dei bit delle classi superiori.Per far cio' bisogna stabilire il numero di subnet da creare attraverso una formula , x = |log2 N| +1 , e' buona norma abbondare con il numero di subnet in modo tale in futuro di dover ripianificare tutti gli indirizzi. Come detto , il subnetting e le subnet mask hanno il fondamentale scopo di ottimizzare il traffico evitando che i pacchetti inviati da un host rientrino nella stessa rete per raggiungere l'host. Il meccanismo che consente tutto cio' e' detto processo di messa in AND.             HAI OTTENUTO 1 BONUS! (ID=588) (Autore=Giannino S.)"
+ },
+"id":"588"
+},
+{
+"label": {
+"IRI-based":"CIDR (Classless InterDomain Routing)"
+},
+"comment": {
+"undefined": "Per cercare di porre rimedio a sprechi e carenze, in attesa dell'IPv6, nel 1993 e' stato introdotto un nuovo schema di indirizzamento, la CIDR (pronunciata 'saider'), anche nota come 'supernetting' perche' crea una super rete composta da piu' reti. In pratica la CIDR non applica subnetting ed elimina il concetto di classe di indirizzi (classes). Il suo utilizzo e' particolarmente indicato per gli indirizzi di rete in classe C (che e' la meno costosa) visto il ridotto numeri di bit con cui tale classe permette di goistrare. L'idea di partenza e' quella di assegnare a una rete una sequenza contigua di indirizzi in classe C senza fare subnetting, anziche' un unico e piu' costoso indirizzo in classe B (ce ne sono meno) con cui fare subnetting. La subnet mask andra' pero' calcolata correttamente, e dovra' essere una maschera di classe B, se si vuole far figurare gli indirizzi in classe C come sottoreti appartenenti a un'unica rete.Con la CIDR non e' corretto parlare di subnet mask, in quanto non esistono sottoreti e non viene fatto il subnetting. E' invece corretto far riferimento a una maschera per l'intera rete costituita dal blocco di indirizzi IP di rete consecutivi. In questo contesto nella 'slash notation' il 'prefix length' rappresenta il numeri di bit comuni a tutte le reti.Dunque con questa tecnica un singolo indirizzo IP puo' rappresentare un gruppo di indirizzi IP, snellendo le tabelle di routing, quindi semplificando e velocizzando il lavoro dei router e ottimizzando l'uso degli indirizzi IP. Ovviamente il router deve supportare le specifiche CIDR (RFC 1519).             POTEVI OTTENERE 1 BONUS! MA NON SEI STATO FORTUNATO              HAI OTTENUTO 1 BONUS! (ID=589) (Autore=Graziano L.)"
+ },
+"id":"589"
+},
+{
+"label": {
+"IRI-based":"DNS (domain name sistem)"
+},
+"comment": {
+"undefined": "il dns e' stato inserito come nuovo sistema di  gestione perche' il vecchio metodo di gestione  era utile solo con reti di piccole dimensioni ,infatti mano a mano che la rete cresceva si verificavano errori di bottle neck,impossibilita' duplicazione dei nomi, aggiornamenti continui ,dimensione file contenente la tabella con i nomi di dominio .il dns ha anche esso lo stesso sistema con tabella ,ma essa e' salvata in un data base e annulla questi problemi , con l'aggiunta dei tdl  che aggiunge la possibilita' di aggiungere il punto e poi la nazione o l'organizzazione che serve ad un determinato utente             HAI OTTENUTO 1 BONUS! (ID=593) (Autore=Mauri A.)"
+ },
+"id":"593"
+},
+{
+"label": {
+"IRI-based":"Protocollo ARP"
+},
+"comment": {
+"undefined": "Il Protocollo ARP e' necessario affinche' avvenga la comunicazione tra due host, infatti non e' sufficiente conoscere solo l'indirizzo IP ma serve conoscere anche il MAC address. Il protocollo ARP mappa un indirizzo IP nel suo MAC address corrispondente. Utilizza una cache ARP per mantenere una tabella con tutte le coppie IP-MAC a lui note. Il protocollo ARP funziona cosi', controlla se nella cache ARP e' presente l'indirizzo logico MAC corrispondente all'Ip del destinatario, se non c'e' allora il protocollo ARP stabilisce un iter basato su due tipi di messaggi, ARPrequesrt e ARPreply, 1) il mittente invia un pacchetto ARP con una ARPrequest che cntiene l'IP ed del destinatario e il suo IP e il suo MAC cosi' che possano essere aggiunti alla cache ARP, il pacchetto viene mandato al broadcast EthernetFF-FF-FF-FF-FF-FF. 2) tutti gli host ricevono l'ARPrequest e leggono l'IP che se corrisponde prepara un pacchetto ARP di risposta con una ARPreply contenente il MAC address, in caso contrario lo ignora.3) Il mittente aggiorna la sua cache ARP e inizia la comunicazione dopo aver ricevuto la risposta.             POTEVI OTTENERE 1 BONUS! MA NON SEI STATO FORTUNATO (ID=592) (Autore=Nicoletti D.)"
+ },
+"id":"592"
+},
+{
+"label": {
+"IRI-based":"Protocollo ICMP"
+},
+"comment": {
+"undefined": "Serve per monitorare la rete , viene utilizzato dai router o dagli host per comunicarsi i possibili insuccessi dell'instradamento dei pacchetti.ICMP e' un pacchetto che viene incapsulato nel pacchetto IP e ha quattro campi,-Type-Code-Checksum-Type Specific DataIl campo Type ha 8 bit che indicano il tipo di pacchetto trasmesso (0--38, 38--255 non sono assegnati)-Campo code, fornisce indicazioni aggiuntive non comprese nel campo Type-Checksum, contiene i bit per il controllo degli errori- Type Specific Data, informazioni che dipendono dal tipo di servizio offerto (Echo Request-Echo Reply)Le principali funzioni che un pacchetto ICMP sono,-fornire messaggi in output per testare la corretta configurazione di host sulla rete(tramite echo request-echo reply)-segnale un host-destinazione non raggiungibile perche' sconosciuta o il pacchetto e' troppo grande-avverte il mittente di rallentare l'invio dei pacchetti per problemi di congestione             POTEVI OTTENERE 1 BONUS! MA NON SEI STATO FORTUNATO (ID=585) (Autore=Schirinzi M.)"
+ },
+"id":"585"
+},
+{
+"label": {
+"IRI-based":"Comando PING"
+},
+"comment": {
+"undefined": "Attraverso i servizi Echo Request-Reply e Timestamp Request-Reply si ottengono informazioni statistiche sull'esito della trasmissione e sui tempi di percorrenza dei pacchetti.E' possibile utilizzare anche l'hostname al posto dell'indirizzo IP per esempio www.umanet.netPer aumentare il valore di timeout e' possibile utilizzare il comando, ping -w e inserire il valore in millisecondi (5s=5000ms).             POTEVI OTTENERE 1 BONUS! MA NON SEI STATO FORTUNATO (ID=587) (Autore=Schirinzi M.)"
+ },
+"id":"587"
+},
+{
+"label": {
+"IRI-based":"Comando TRACERT"
+},
+"comment": {
+"undefined": "Si occupa di ricavare il percorso seguito dai pacchetti sulle reti informatiche, ovvero l'indirizzo IP di ogni router attraversato per raggiungere il destinatario.Questa applicazione sfrutta una particolare caratteristica del protocollo IP, ovvero il campo TTL (time to live) del messaggio. Questo campo specifica il numero degli apparati di rete che il pacchetto potra' attraversare prima di essere dichiarato scaduto.L'opzione -d serve per visualizzare piu' velocemente il percorso del pacchetto.             POTEVI OTTENERE 1 BONUS! MA NON SEI STATO FORTUNATO (ID=590) (Autore=Schirinzi M.)"
+ },
+"id":"590"
+}
+],
+"property": [
+{
+"id":"2185",
+"type": "rdf:Property"
+},
+{
+"id":"2186",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2187",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2188",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2189",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2190",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2191",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2192",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2193",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2194",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2195",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2196",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2197",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2198",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2199",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2200",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2201",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2202",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"2203",
+"type": "owl:datatypeProperty"
+}
+],
+"propertyAttribute": [
+{
+"range":"2184",
+"label": {
+"IRI-based":"non e'"
+},
+"domain":"2183",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"2185"
+},
+{
+"range":"591",
+"label": {
+"IRI-based":"livelli di trasporto e di rete"
+},
+"domain":"583",
+"comment": {
+"undefined": " (Autore=Casieri A.)"
+},
+"attributes": [
+"object"
+],
+"id":"2186"
+},
+{
+"range":"583",
+"label": {
+"IRI-based":"il luogo fisico dove si compie cio'"
+},
+"domain":"591",
+"comment": {
+"undefined": " (Autore=Casieri A.)"
+},
+"attributes": [
+"object"
+],
+"id":"2187"
+},
+{
+"range":"589",
+"label": {
+"IRI-based":"nuovo schema di indirizzamento"
+},
+"domain":"591",
+"comment": {
+"undefined": " (Autore=Casieri A.)"
+},
+"attributes": [
+"object"
+],
+"id":"2188"
+},
+{
+"range":"582",
+"label": {
+"IRI-based":"null"
+},
+"domain":"595",
+"comment": {
+"undefined": " (Autore=Galli L.)"
+},
+"attributes": [
+"object"
+],
+"id":"2189"
+},
+{
+"range":"583",
+"label": {
+"IRI-based":"servizi legati"
+},
+"domain":"597",
+"comment": {
+"undefined": " (Autore=Galli L.)"
+},
+"attributes": [
+"object"
+],
+"id":"2190"
+},
+{
+"range":"582",
+"label": {
+"IRI-based":"Architettura su piu' livelli"
+},
+"domain":"584",
+"comment": {
+"undefined": " (Autore=Awnee G.)"
+},
+"attributes": [
+"object"
+],
+"id":"2191"
+},
+{
+"range":"583",
+"label": {
+"IRI-based":"Il luogo fisico dove si compie cio'"
+},
+"domain":"584",
+"comment": {
+"undefined": " (Autore=Awnee G.)"
+},
+"attributes": [
+"object"
+],
+"id":"2192"
+},
+{
+"range":"586",
+"label": {
+"IRI-based":"Indirizzi IP"
+},
+"domain":"591",
+"comment": {
+"undefined": " (Autore=Awnee G.)"
+},
+"attributes": [
+"object"
+],
+"id":"2193"
+},
+{
+"range":"587",
+"label": {
+"IRI-based":"Monitoraggio della rete attraverso"
+},
+"domain":"585",
+"comment": {
+"undefined": " (Autore=Schirinzi M.)"
+},
+"attributes": [
+"object"
+],
+"id":"2194"
+},
+{
+"range":"590",
+"label": {
+"IRI-based":"Monitoraggio della rete attraverso"
+},
+"domain":"585",
+"comment": {
+"undefined": " (Autore=Schirinzi M.)"
+},
+"attributes": [
+"object"
+],
+"id":"2195"
+},
+{
+"range":"585",
+"label": {
+"IRI-based":"controllo della rete creata"
+},
+"domain":"588",
+"comment": {
+"undefined": " (Autore=Schirinzi M.)"
+},
+"attributes": [
+"object"
+],
+"id":"2196"
+},
+{
+"range":"583",
+"label": {
+"IRI-based":"uno di questi protocolli e'"
+},
+"domain":"592",
+"comment": {
+"undefined": " (Autore=Schirinzi M.)"
+},
+"attributes": [
+"object"
+],
+"id":"2197"
+},
+{
+"range":"585",
+"label": {
+"IRI-based":"uno di questi protocolli e'"
+},
+"domain":"583",
+"comment": {
+"undefined": " (Autore=Schirinzi M.)"
+},
+"attributes": [
+"object"
+],
+"id":"2198"
+},
+{
+"range":"593",
+"label": {
+"IRI-based":"come viene implementato"
+},
+"domain":"594",
+"comment": {
+"undefined": " (Autore=Schirinzi M.)"
+},
+"attributes": [
+"object"
+],
+"id":"2199"
+},
+{
+"range":"586",
+"label": {
+"IRI-based":"L'instradamento dei messaggi avviene tramite"
+},
+"domain":"582",
+"comment": {
+"undefined": " (Autore=Bussolotti L.)"
+},
+"attributes": [
+"object"
+],
+"id":"2200"
+},
+{
+"range":"583",
+"label": {
+"IRI-based":"Comunicazione"
+},
+"domain":"584",
+"comment": {
+"undefined": " (Autore=Balzarotti N.)"
+},
+"attributes": [
+"object"
+],
+"id":"2201"
+},
+{
+"range":"588",
+"label": {
+"IRI-based":"In classe C"
+},
+"domain":"589",
+"comment": {
+"undefined": " (Autore=Graziano L.)"
+},
+"attributes": [
+"object"
+],
+"id":"2202"
+},
+{
+"range":"583",
+"label": {
+"IRI-based":"e' un"
+},
+"domain":"593",
+"comment": {
+"undefined": " (Autore=Mauri A.)"
+},
+"attributes": [
+"object"
+],
+"id":"2203"
+}
+]
+}

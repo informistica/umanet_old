@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>Gli atleti in genere con che alimenti tengono in forma muscoli e riflessi._Expo_2_1_mul_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Gli atleti in genere con che alimenti tengono in forma muscoli e riflessi.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Perche' la frutta fresca e' piena di proprieta' nutritive.A Wimbledon gli atleti mantengono in forma
+muscoli e riflessi con pane e crackers integrali,
+frutta fresca e secca e yogurt magro, e lo svizzero
+Roger Federer, che negli anni ha portato a
+casa 17 vittorie Grande Slam, e' un fan dichiarato
+della dieta mediterranea, prima di ogni match si
+prepara con un piatto di pasta o riso conditi con
+salsa di pomodoro.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>crackers integrali; <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>patatine<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>frutta fresca.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>carne rossa.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>In che modo Barack Obama (il presidente degli Stati Uniti) ha vinto la sua campagna elettorale._Expo_2_1_mul_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>In che modo Barack Obama (il presidente degli Stati Uniti) ha vinto la sua campagna elettorale.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Perche' se il presidente degli Stati Uniti Barack Obama ha sconfitto in campagna elettorale  il suo avversario John McCain,che faceva propaganda anche con i barbecue di maiale e manzo,dichiarando che era il suo piatto preferito . Per Obama invece e' una bella insalata di rucola e parmigiano.Quindi Obama ha vinto sostenendo la dieta mediterranea.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Promuovendo consumo di cibo fast food.  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Promuovendo alimentazione a base di carne<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>promuovendo la dieta mediterranea.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>facendo pubblicita'.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>La moglie del presidente degli Stati Uniti che metodo usa contro l'obesita'._Expo_2_1_mul_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La moglie del presidente degli Stati Uniti che metodo usa contro l'obesita'.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  E Michelle e&#8217; andata oltre.e&#8217; lei la fautrice dell&#8217;orto alla Casa Bianca e dei programmi contro l&#8217;obesita&#8217; infantile e punta sugli effetti benefici e salubri di una dieta ricca di frutta e verdura, oltre che sulla sua sostenibilit&#224; ambientale.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Promuove uno stile di vita sportivo.  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>promuove la dieta mediterranea e alto consumo di vegetali.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>promuove le cure dietetiche.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>promuove l'abolizione dei fast food.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono i cibi pi&#249; dannosi per la nostra salute e per l'ambiente._Expo_2_1_mul_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono i cibi pi&#249; dannosi per la nostra salute e per l'ambiente.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Gli alimenti che dovremmo consumare di meno a prescindere sono i cibi confezionati, i dolci e la carne rossa,che risultano essere anche quelli piu' dannosi per l&#8217;ambiente. Mangiare bene, secondo il BCFN, non ha soltanto effetti positivi sulla salute personale ma anche su quella del Pianeta. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>cibi confezionati <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>verdura<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>carne rossa<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>latticini<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="multichoice">
+		<name>
+			<text> Cosa puo' causare una dieta con un eccessivo consumo di carne._Expo_2_1_mul_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p> Cosa puo' causare una dieta con un eccessivo consumo di carne.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Una dieta con un consumo eccessivo di carne , e' ricca di grassi e colesterolo, e puo' essere responsabile di problemi di obesita', diabete e di disturbi cardiovascolari. Ed e' un&#8217;alimentazione con forti ricadute anche sull'ambiente,come dimostrano gli studi fatti dal Barilla Center for Food e Nutrition (BCFN), che raccontano per esempio che per produrre un solo chilo di carne sono necessari ben 15.400 litri di acqua.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>obesita' <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>anemia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>diabete<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>disturbi cardiovascolari<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono i cibi che gli studi fatti dalla BCFN hanno dimostrato che e' un'alimentazione con forti ricadute sull'impatto ambientale._Expo_2_1_mul_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono i cibi che gli studi fatti dalla BCFN hanno dimostrato che e' un'alimentazione con forti ricadute sull'impatto ambientale.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Gli alimenti che dovremmo consumare di meno a prescindere, come i cibi confezionati, i dolci e la carne rossa, risultano essere anche quelli piu' dannosi per l&#8217;ambiente. Mangiare bene, secondo il BCFN , non ha soltanto effetti positivi sulla salute personale ma anche su quella del Pianeta.Nel 2009, la commissione del Regno Unito per lo sviluppo sostenibile ha pubblicato una relazione le cui conclusioni affermavano che i cambiamenti nel regime alimentare che comportano i maggiori benefici sia per la salute sia per l&#8217;ambiente riguardano la riduzione del consumo di carne e latticini e una drastica limitazione nel consumo di alimenti ricchi di grassi e zuccheri.
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>carne   <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>frutta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>dolci<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>verdura<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa favorisce il consumo di frutta,verdura,cereali e legumi._Expo_2_1_mul_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa favorisce il consumo di frutta,verdura,cereali e legumi.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Consumare un&#8217;ampia variet&#224; di frutta e verdura, pertanto, puo' recare benee#64257;ci sia alla nostra salute sia alla salvaguardia dell&#8217;ambiente. Il consumo di frutta, verdura,cereali e legumi locali puo' contribuire a migliorare la fertilita' dei terreni, a tutelare le riserve idriche e a proteggere la biodiversita'.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>la fertilita' dei terreni agricoli <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>proteggere la biodiversita'<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>guadagno maggiore di soldi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>contribuisce il miglioramento nella tutela delle riserve idriche<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa serve alle persone la Piramide Alimentare._Expo_2_1_mul_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa serve alle persone la Piramide Alimentare.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il BCFN,ha come scopo programmatico quello di far si' che le persone comprendano le conseguenze delle loro scelte alimentari tramite la cosiddetta Doppia Piramide. La Piramide aiuta i consumatori a seguire una dieta salutare privilegiando al tempo stesso quegli alimenti che hanno il minore impatto in termini ambientali.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>a capire le conseguenze dei cibi che introduciamo nel nostro organismo;  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>a dare un equilibrio tra la nostra salute e le nostre scelte alimentari;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>a farci scegliere una dieta sostenibile e salutare;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>illustra la percentuale delle persone in sovvrappeso nel mondo;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa porta un'alimentazione scorretta._Expo_2_1_mul_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa porta un'alimentazione scorretta.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Un alimentazione scorretta,oltre che a rendere pi&#249; fragile la nostra presenza su questo pianeta,sottopone le risorse che in esso si trovano ad uno stress esagerato e irresponsabile e come spesso accade le abitudini, la comodit&#224; e la convenienza del momento prendono ilsopravvento su quello che potrebbe essere lo stilealimentare ideale; e quindi il pi&#249; delle volte ci nutriamomale danneggiando il Pianeta
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Ad ingrassare  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Rendiamo pi&#249; fragile,oltre che noi,anche il pianeta sottoponendo le risorse ad uno stress esagerato e irresponsabile<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>A vivere di meno<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>A fare tanta pip&#236;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa porta invece un alimentazione corretta._Expo_2_1_mul_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa porta invece un alimentazione corretta.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Per questo il BCFN ha messo a punto il modello della Doppia Piramide, che ha dimostrato cheun&#8217;alimentazione basata su un abbondante consumo
+di frutta, verdura e cereali, e su una moderata assunzione di prodotti di origine animale comeconsigliano appunto le principali linee guida nutrizionalinon solo ha degli effetti positivi sullasalute dell&#8217;uomo, ma &#232; buona anche per l&#8217;ambiente,avendo impatti pi&#249; bassi
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Ha effetti positivi sulla salute dell'uomo e anche per l'ambiente avendo impianti piu' bassi  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Ha effetti negativi sull'ambiente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Porta all'ingrassare<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Porta al dimagrimento<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="multichoice">
+		<name>
+			<text>Dove bisogna intervenire per fare in modo che tutti abbiano un'alimentazione corretta._Expo_2_1_mul_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Dove bisogna intervenire per fare in modo che tutti abbiano un'alimentazione corretta.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Bisogna intervenire lungo la filiera, sostenendo le aziende alimentari e offrendo informazioni su come rendere i propri prodotti piu' sostenibili e su come comunicarli(ad esempio realizzando packaging e pubblicita' che consentano di comprendere cosa si ha nel piatto e quali sono gli effetti
+di ogni alimento sull&#8217;ambiente.A questo si pu&#242; unire la grande distribuzione, veicolando imessaggi, rendendoli comprensibili e accessibilie, perch&#233; no, segnalando direttamente al consumatorequali sono i prodotti &#8220;buoni&#8221; e quali quelliche lo sono meno
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Sostenendo le aziende alimentari ed intervenire sulla filiera industriale  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Le mense scolastiche<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Casa propria<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nei fast food<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono gli indicatori sulla ricaduta dell'ambiente._Expo_2_1_mul_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono gli indicatori sulla ricaduta dell'ambiente.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Per farlo &#232; fondamentale seguire
+una dieta sostenibile, ovvero un&#8217;alimentazione la
+cui ricaduta sull&#8217;ambiente, misurata attraverso
+gli indicatori del Carbon, Water, Ecological e Nitrogen
+Footprint, sia la pi&#249; bassa possibile. Ed &#232;
+interessante notare come dallo studio del BCFN
+sul modello della Doppia Piramide la dieta mediterranea
+rappresenti, non solo per la salute ma
+anche per l&#8217;ambiente, la scelta migliore
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Carbon,Water e FootSprint <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Terra,cibo ed ecologia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Carbon, Water, Ecological e Nitrogen Footprint<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Non esistono indicatori<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="multichoice">
+		<name>
+			<text>Che impatto hanno le emissioni di C02 nei trasporti._Expo_2_1_mul_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Che impatto hanno le emissioni di C02 nei trasporti.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>sul fronte dei trasporti, &#232; interessante notare come quelli su camion,pur avendo elevata emissione di CO2, abbiano impatto per chilogrammo minore del trasportoaereo perch&#233; permettono di trasportare quantit&#224; di gran lunga maggiori. In generale possiamo riassumereche complessi processi di produzionee cicli di vita di un alimento hanno come conseguenza un maggiore impatto sull&#8217;ambiente. &#200;importante tenere a mente queste semplici considerazioni
+pianificando il tipo di spesa da fare eanche il modo di consumare il cibo, prediligendocomunque l&#8217;utilizzo di alimenti freschi e di stagionee prestando attenzione al tipo di packaging, che&#232; preferibile sia composto di materiali riciclati e asua volta riciclabile.                                     
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Maggiore di quello del trasporto aereo   <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Uguale al trasporto via mare<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Minore di quello del trasporto aereo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Uguale al trasporto aereo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="multichoice">
+		<name>
+			<text>Qual'e' il problema oggi._Expo_2_1_mul_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Qual'e' il problema oggi.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il problema oggi, o meglio, la sfida, &#232; quella di diffondere questi dati per fornire risposte concrete einfluenzare positivamente le abitudini alimentaridell&#8217;uomo, individuando i metodi comunicativipi&#249; efficaci e offrendo una serie di gesti quotidianiche possano guidare le nostre scelte verso la sostenibilit&#224;
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Diffondere questi dati per fornire risposte concrete e influenzare positivamente le nostre abitudini   <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Mangiare di meno<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Mangiare sano<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La sostenibilita' dell'ambiente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono gli alimenti di cui &#232; consigliabile fare ampio consumo. _Expo_2_1_mul_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono gli alimenti di cui &#232; consigliabile fare ampio consumo. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>   Perch&#232; sono cibi ricchi di proteine,vitamine e son cibi salutari;inoltre ci permettono di vivere una vita in salute e vivere a lungo,inoltre vengono anche prodotti attraverso coltivazioni di frutta e verdura permettendo agli agricoltori di lavorare.                                                                                                              .
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Patatine fritte,panini del Mac Donald,Kebap   <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Frutta,verdura,carne rossa<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Frutta,verdura,cereali,legumi,patate<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Dolci<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

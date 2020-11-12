@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>quali sono i 3 paradossi nutrizionali del nostro tempo._Expo_4_1_mul_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>quali sono i 3 paradossi nutrizionali del nostro tempo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>MORIRE PER FAME O PER OBESITA' .
+Oggi nel mondo per ogni persona 
+malnutrita, ce ne sono due che 
+sono obese o in sovrappeso
+NUTRIRE PERSONE, ANIMALI O AUTOMOBILI.
+Un terzo dell'intera produzione 
+alimentare globale &#232; destinato 
+alla nutrizione del bestiame, mentre 
+una quota crescente di terreni 
+agricoli &#232; destinata alla produzione
+di biocarburante, stiamo alimentando 
+le nostre automobili invece che le 
+nostre persone
+ALIMENTARI LO SPRECO O SFAMARE GLI AFFAMATI.
+Ogni anno nel mondo sono sprecate 
+1,3 miliardi di tonnellate di cibo, 
+ancora perfettamente commestibile,
+mentre 868 milioni di persone
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>morire per fame o per obesit&#224;.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>nutrire persone, animali o automobili.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>alimentare lo spreco o sfamare gli affamati.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>mangiare sano<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono i paradossi del nostro tempo_Expo_4_1_mul_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono i paradossi del nostro tempo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L&#8217;ANALISI DEGLI SCENARI GLOBALI DEL NOSTRO TEMPO METTONO IN EVIDENZA UN MONDO SEGNATO DA INSOSTENIBILI PARADOSSI
+1) Nel mondo per ogni persona malnutrita ce ne sono due obese o in sovrappeso
+2) Un terzo della produzione alimentare &#232; destinato agli animali e una quota crescente di terreni &#232; destinata alla produzione di biocarburanti
+3)Ogni anno nel mondo vengono sprecate 1,3 miliardi di tonnellate di cibo
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="25" format="html">
+			<text><![CDATA[<p>Nel mondo per ogni persona malnutrita ce ne sono due obese o in sovrappeso <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="25" format="html">
+			<text><![CDATA[<p>Un terzo della produzione alimentare &#232; destinato agli animali <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="25" format="html">
+			<text><![CDATA[<p>Una quota crescente di terreni &#232; destinata alla produzione di biocarburanti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="25" format="html">
+			<text><![CDATA[<p>Ogni anno nel mondo vengono sprecate 1,3 miliardi di tonnellate di cibo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa viene raccomandato alle istituzioni._Expo_4_1_mul_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa viene raccomandato alle istituzioni.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Alle istituzioni viene raccomandato di, utilizzare in modo equilibrato la leva del prezzo per scoraggiare il consumo abituale di junk food e incoraggiare, al contrario, l&#8217;acquisto di alimenti sani; incentivare le iniziative dei cosiddetti &#8220;orti urbani&#8221;; favorire la diffusione di una corretta informazione ed educazione alimentare;
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Puntare molto sul prezzo per vendere di pi&#249; anche prodotti di non ottima qualit&#224; <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Utilizzare in modo equilibrato la leva del prezzo, promuovere l'adozione di stili di vita e alimentari, incentivare le iniziative <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Incoraggiare le persone a comprare cibi non salutari<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Non educare i bambini e la gente ad una corretta educazione alimentare<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>Essere conviviali significa,_Expo_4_1_mul_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Essere conviviali significa,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>    &#8220;Convivialit&#224;&#8221; &#232; un termine che ha radici antiche e che descrive nel modo forse pi&#249; sintetico possibile lo spirito del Mediterraneo e del modo di vivere dei popoli che vi si sono
+affacciati, dall&#8217;antichit&#224; fino ad oggi.
+La convivialit&#224; &#232; al centro &#8211; ideale e al tempo stesso &#8220;fisico&#8221; &#8211; della meta-societ&#224; mediterranea e della sua cultura, che da migliaia di anni &#232; andata stratificandosi e codificandosi,
+giorno dopo giorno, in piccoli e grandi gesti e rituali.
+Convivialit&#224; &#232; un termine utilizzato, nel linguaggio corrente, per descrivere una situazione in cui vi sia un&#8217;atmosfera serena, allegra, aperta tra un insieme di persone.
+Tuttavia, se si ricostruisce la radice ultima del termine, si scopre in realt&#224; che la convivialit&#224; &#232; la condivisione, in senso ampio, di momenti della vita con altre persone; ma &#232;
+anche, in modo particolare, la condivisione del mangiare In latino
+convivium&#232; il &#8220;banchetto&#8221; e il verbo convivo, ad esso etimologicamente legato, significa &#8220;vivere insieme&#8221;, ma anche &#8220;mangiare insieme&#8221;. Non stupisce constatare che i popoli del mediterraneo legassero (e leghino ancor oggi) il
+fatto di condividere un momento di serenit&#224; e felicit&#224; con altre persone all&#8217;atto del mangiare insieme, al convivio, al banchetto. E viceversa.
+La parola &#8220;convivialit&#224;&#8221; parla, quindi, del cibo quale piacere e del cibo quale atto sociale. La convivialit&#224; descrive, in questo senso, uno degli aspetti centrali del concetto
+di Mediterraneit&#224;, l&#8217;attitudine ad interpretare il mangiare come esperienza sensoriale da condividere con altre persone. 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>convivere    <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Vivere insieme<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Mangiare insieme<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>che una cosa e' conveniente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

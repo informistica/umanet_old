@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="truefalse">
+		<name>
+			<text>La Groenlandia negli ultimi anni ha subito un' estesa perdita di massa glaciale._Expo_1_3_vf_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La Groenlandia negli ultimi anni ha subito un' estesa perdita di massa glaciale.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Le pi&#249; recenti evidenze riportano che anche la Groenlandia &#232; stata soggetta a un cambiamento pi&#249; rapido di quanto fosse stato previsto, subendo negli ultimi anni un' estesa perdita di massa glaciale (il 30% tra il 1979-2006). Non &#232; stato ancora stabilito se si tratti di un fenomeno temporaneo o se questo segnali un trend di lungo periodo (Norden, 2010).
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="truefalse">
+		<name>
+			<text>Comprendendo il 2011, tutti i primi undici anni del XXI secolo finora (2001-2011) si collocano tra i 13 periodi pi&#249; caldi registrati in 132 anni di documentazioni._Expo_1_3_vf_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Comprendendo il 2011, tutti i primi undici anni del XXI secolo finora (2001-2011) si collocano tra i 13 periodi pi&#249; caldi registrati in 132 anni di documentazioni.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Comprendendo il 2011, tutti i primi undici anni del XXI secolo finora (2001-2011) si collocano tra i 13 periodi pi&#249; caldi registrati in 132 anni di documentazioni. Solo un anno del XX secolo, il 1998, &#232; stato pi&#249; caldo del 2011. Esiste una tabella in cui e' riportata la classifica delle temperature medie annuali di oceani e terraferma considerati insieme e le anomalie per ciascuno degli anni del XXI secolo.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="truefalse">
+		<name>
+			<text>L' IPCC nel 2007 ha riportato che la temperatura media dell' aria registrato a livello globale nel periodo 1906-2005 &#232; stato di 0.74 gradi C._Expo_1_3_vf_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L' IPCC nel 2007 ha riportato che la temperatura media dell' aria registrato a livello globale nel periodo 1906-2005 &#232; stato di 0.74 gradi C.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L' IPCC nel 2007 ha riportato che la temperatura media dell' aria registrato a livello globale nel periodo 1906-2005 &#232; stato di 0.74 gradi C. Nella seconda met&#224; degli anni Settanta ha avuto inizio un periodo di rapido riscaldamento  con un aumento medio di 0.17 gradi C per decennio (1975-2005). Le osservazioni effettuate mostrano, quindi, come il processo di riscaldamento sia stato particolarmente accentuato negli ultimi cinquant' anni.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="truefalse">
+		<name>
+			<text>Il clima &#232; definito solo in base alla variazione decennale di forze esogene._Expo_1_3_vf_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il clima &#232; definito solo in base alla variazione decennale di forze esogene.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il clima non e' definito solo in base alla variazione decennale di forze esogene, ma occorre prestare una dovuta attenzione anche alla variabilit&#224; naturale del clima stesso. Il 2010 infatti, &#232; stato dominato da due fenomeni naturali interni al sistema climatico che hanno contribuito a determinare le condizioni atmosferiche osservate a livello globale.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="truefalse">
+		<name>
+			<text>Il 2010 &#232; stato dominato da un fenomeno naturale detto 'La Nina'._Expo_1_3_vf_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il 2010 &#232; stato dominato da un fenomeno naturale detto 'La Nina'.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il 2010 &#232; stato dominato da un fenomeno naturale detto 'El nino-oscillazione meridionale' che si verifica quando il Pacifico equatoriale e' pi&#249; caldo della norma. Questo fenomeno ha contribuito a determinare le condizioni atmosferiche osservate a livello globale. Al contrario 'La Nina' si verifica quando il Pacifico equatoriale e' pi&#249; freddo della norma.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="truefalse">
+		<name>
+			<text>Le pratiche di accrescimemento della biodiversit&#224; non constentono di limitare processi ecoglogici._Expo_1_3_vf_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Le pratiche di accrescimemento della biodiversit&#224; non constentono di limitare processi ecoglogici.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Le pratiche di conservazione e accrescimento della biodiversit&#224; consentono alle coltivazioni di imitare processi ecologici naturali, permettendo loro di rispondere ai cambiamenti e ridurre in tal modo eventuali rischi.Lo sfruttamento della diversit&#224; intra-e inter-specifica funge quale &#8220;assicurazione&#8221; contro futuri cambiamenti ambientali, aumentando la resilienza del sistema.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="truefalse">
+		<name>
+			<text>L'AGRICOLTURA &#200; CONTEMPORANEAMENTE UNA CAUSA  DEI CAMBIAMENTI  CLIMATICI E UNO DEI  SETTORI CHE NE  SUBISCE GLI EFFETTI._Expo_1_3_vf_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'AGRICOLTURA &#200; CONTEMPORANEAMENTE UNA CAUSA  DEI CAMBIAMENTI  CLIMATICI E UNO DEI  SETTORI CHE NE  SUBISCE GLI EFFETTI.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L&#8217;aumento della concentrrazione di CO2 nell&#8217;atmosfera e delle temperature, nel regime delle precipitazioni e nella frequenza di fenomeni estremi avranno ripercussioni non solo sul volume, sulla qualit&#224; e sulla stabilit&#224; della produzione agricola e zootecnica, ma anche sull&#8217;ambiente naturale in cui agisce l&#8217;agricoltura stessa.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="truefalse">
+		<name>
+			<text>&#232; il settore terziario che rappresenta la maggior fonte di reddito._Expo_1_3_vf_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>&#232; il settore terziario che rappresenta la maggior fonte di reddito.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La sicurezza alimentare di una popolazione mondiale in continua crescita e lo sviluppo economico e sociale dipendono in maniera sostanziale dal settore primario che secondo  la Banca Mondiale rappresenta la primaria fonte di reddito per 2,6 miliardi circa di persone, ovvero il 40% della popolazione mondiale. L&#8217;agricoltura, infatti, &#232; un settore chiave per la lotta alla povert&#224; e alla fame.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="truefalse">
+		<name>
+			<text>L'agricoltura pu&#242; essere una soluzione del cambiamento climatico._Expo_1_3_vf_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'agricoltura pu&#242; essere una soluzione del cambiamento climatico.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Tuttavia, il settore agricolo da un problema pu&#242; potenzialmente diventare una parte essenziale della sua soluzione, svolgendo un ruolo chiave nelle strategie di mitigazione e adattamento. Un approccio integrato, trasversale e olistico &#232; necessario al fine 
+di trasformare una minaccia in un&#8217;opportunit&#224; di sviluppo a basse emissioni e climaresiliente.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="truefalse">
+		<name>
+			<text>Il gas serra rilasciato dal settore primario &#232; uguale a quello rilasciato dagli altri settori._Expo_1_3_vf_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il gas serra rilasciato dal settore primario &#232; uguale a quello rilasciato dagli altri settori.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il profilo di emissione di gas serra del settore primario &#232; profondamente diverso da quello degli altri settori, come quello industriale o dei trasporti, poich&#233; &#232; fonte di protossido di azoto (N2O) e metano (CH4). Il primo viene rilasciato nell&#8217;atmosfera dai terreni agricoli,principalmente a causa della trasformazione microbica dei fertilizzanti azotati nel suolo; mentre il secondo &#232; generato dalla fermentazione enterica dei ruminanti (bovini e ovini),dalla decomposizione anaerobica delle deiezioni degli allevamenti e dalle coltivazioni di 
+riso in sommersione
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="truefalse">
+		<name>
+			<text>Si possono ridurre gli effetti del gas serra._Expo_1_3_vf_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Si possono ridurre gli effetti del gas serra.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Per affrontare la duplice sfida di ridurre i gas serra e contrastare gli effetti indotti dai cambiamenti climatici a livello locale, &#232; necessario instaurare-sfruttare le sinergie possibili tra mitigazione e adattamento,individuando e implementando provvedimenti in grado di abbattere le emissioni e rafforzare la resilienza degli ecosistemi agricoli e un uso pi&#249; sostenibile delle risorse naturali.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="truefalse">
+		<name>
+			<text>la riduzione delle emissioni pu&#242; avvenire migliorando la filiera agroalimentare._Expo_1_3_vf_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>la riduzione delle emissioni pu&#242; avvenire migliorando la filiera agroalimentare.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il 70% circa di questo potenziale si concentra nei Paesi in via di sviluppo , mentre l&#8217;11% circa del potenziale di abbattimento del settore proviene, invece, 
+dalla riduzione delle emissioni.Ulteriori riduzioni possono essere ottenute non solo apportando miglioramenti lungo la filiera agroalimentare, ma anche attraverso la produzione di energia da biomasse agricole, quali ad esempio residui di origine colturale e forestale, in sostituzione di altre fonti basate sui combustibili fossili.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="truefalse">
+		<name>
+			<text>La comunit&#224; internazionale si &#232; impegnata a contenere l'innalzamento della temperatura media globale entro i 2 gradi C rispetto al periodo pre-industriale_Expo_1_3_vf_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La comunit&#224; internazionale si &#232; impegnata a contenere l'innalzamento della temperatura media globale entro i 2 gradi C rispetto al periodo pre-industriale<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Bench&#233; l&#8217;alto grado di incertezza che caratterizza ancora la scienza del cambiamento climatico e dei suoi impatti non permetta di definire &#171;un chiaro e indiscutibile target&#187; e nonostante &#171;la traduzione diretta di livelli di temperatura in emissioni sia ancora azzardato&#187;(Randalls, 2010) la comunit&#224; internazionale si &#232; impegnata a contenere l&#8217;innalzamento della temperatura media globale entro i 2 gradi C rispetto al periodo pre-industriale.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="truefalse">
+		<name>
+			<text>L insieme di crescita demografica, urbanizzazione, mutamento degli stili alimentari e di consumo e crisi energetica, in mancanza di una governance globale, render&#224; sempre pi&#249; facile nei prossimi anni affrontare l'emergenza dei cambiamenti climatici_Expo_1_3_vf_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L insieme di crescita demografica, urbanizzazione, mutamento degli stili alimentari e di consumo e crisi energetica, in mancanza di una governance globale, render&#224; sempre pi&#249; facile nei prossimi anni affrontare l'emergenza dei cambiamenti climatici<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L ' insieme di crescita demografica, urbanizzazione, mutamento degli stili alimentari e di consumo e crisi energetica, in mancanza di una governance globale, render&#224; sempre pi&#249;  DIFFICILE nei prossimi anni affrontare l&#8217;emergenza dei cambiamenti climatici.                                                                                                          .
+La scala temporale &#232; determinante, non c&#8217;&#232; pi&#249; molto tempo davanti a noi per agire. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="truefalse">
+		<name>
+			<text>La crisi climatica &#232; aggravata dallo sfruttamento delle risorse, ancora pi&#249; intenso e rapido che in passato, nonostante la crisi economica._Expo_1_3_vf_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La crisi climatica &#232; aggravata dallo sfruttamento delle risorse, ancora pi&#249; intenso e rapido che in passato, nonostante la crisi economica.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La crisi climatica, infatti, &#232; aggravata dallo sfruttamento delle risorse, ancora pi&#249; intenso e rapido che in passato, nonostante la crisi economica.
+ In questo scenario l&#8217;agricoltura pu&#242; giocare un ruolo molto rilevante nella battaglia contro i cambiamenti climatici, a condizione che se ne correggano i modelli non sostenibili. La sfida pi&#249; importante &#232;, pertanto, trovare il modo per intervenire sull&#8217;agricoltura su una scala
+112 temporale molto pi&#249; breve di quella che abbiamo immaginato in passato, per renderla pi&#249; sostenibile e capace di adattarsi ai cambiamenti climatici. Ma in questo caso molte delle
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="truefalse">
+		<name>
+			<text>Le pratiche di conservazione e accrescimento della biodiversit&#224; consentono alle coltivazioni di non crescere in modo naturale e di provocare altri rischi_Expo_1_3_vf_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Le pratiche di conservazione e accrescimento della biodiversit&#224; consentono alle coltivazioni di non crescere in modo naturale e di provocare altri rischi<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Le pratiche di conservazione e accrescimento della biodiversit&#224; consentono alle coltivazio- ni di imitare processi ecologici naturali, rispondere ai cambiamenti e ridurre in tal modo eventuali rischi.
+La massimizzazione e valorizzazione della diversit&#224; intra- e interspecifica contribuiscono a limitare gli impatti di futuri cambiamenti ambientali, aumentando la resilienza e la capaci- t&#224; di adattamento di specie, habitat ed ecosistemi.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="truefalse">
+		<name>
+			<text>Devono essere favorite tutte le iniziative che agevolino il trasferimento, la diffusione e lo sviluppo del What-do e delle tecnologie necessarie._Expo_1_3_vf_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Devono essere favorite tutte le iniziative che agevolino il trasferimento, la diffusione e lo sviluppo del What-do e delle tecnologie necessarie.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Falso perche' , oggi,come e' stato raccomandato dalla BCFN , devono essere favorite tutte le iniziative che agevolino il trasferimento, la diffusione e lo sviluppo del know-how e delle tecnologie necessarie. Tali azioni devono riguardare l&#8217;intero processo di sviluppo tecnologico (attivit&#224; di ricerca, sviluppo, dimostrazione, diffusione e trasferimento) e interessare l&#8217;intera filiera produttiva.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 18 -->
+	<question type="truefalse">
+		<name>
+			<text>Alcuni hacker erano riusciti ad entrare nel server del CRU ._Expo_1_3_vf_18</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Alcuni hacker erano riusciti ad entrare nel server del CRU .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Secondo quanto riferito dai media, alcuni hacker erano riusciti ad entrare nel server del CRU (Centro per la ricerca Climatica) della University of East Anglia, il principale collaboratore scientifico dell'IPCC, e a trafugare circa un migliaio di mail dei climatologi del centro, pubblicandone il contenuto sul sito WikiLeaks.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 19 -->
+	<question type="truefalse">
+		<name>
+			<text>Obama non e' riuscito ad ottenere accordi con Cina, India, Sud Africa per limitare ilo riscaldamento globale ._Expo_1_3_vf_19</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Obama non e' riuscito ad ottenere accordi con Cina, India, Sud Africa per limitare ilo riscaldamento globale .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> In Cina Obama ha preannunciato la sua impossibilit&#224; a trovare accordi sul clima perche' l'ultima parola l'avrebbe avuta il congresso di Washington.  Nonostante le difficolta' Obama e' comunque riuscito ad ottenere accordi con Cina, India, Sud Africa per limitare il riscaldamento globale a 2 gradi C, definito da molti 'un buon punto di partenza'.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 20 -->
+	<question type="truefalse">
+		<name>
+			<text>A partire dagli anni 70 nelle zone tropicali e subtropicali ci sono state siccita' lunghe ed intense, _Expo_1_3_vf_20</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>A partire dagli anni 70 nelle zone tropicali e subtropicali ci sono state siccita' lunghe ed intense, <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>In linea con le pi&#249; alte temperature osservate e con la diminuzione delle precipitazioni, a partire dagli anni Settanta le zone tropicali e subtropicali sono state interessate da siccit&#224; pi&#249; lunghe e intense (IPCC, 2007).
+Anche la frequenza di forti precipitazioni &#232; aumentata nella maggior parte delle terre emerse, un dato, questo, coerente con il riscaldamento e con gli aumenti di vapore acqueo osservati in atmosfera (IPCC, 2007).
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 21 -->
+	<question type="truefalse">
+		<name>
+			<text>Nei paesi della fascia subtropicale, compresa tra 10 e 30 gradi di latitudine nord, &#232; stato rilevato  un aumento di precipitazioni,_Expo_1_3_vf_21</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Nei paesi della fascia subtropicale, compresa tra 10 e 30 gradi di latitudine nord, &#232; stato rilevato  un aumento di precipitazioni,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>         Nonostante le precipitazioni mostrino un&#8217;elevata variabilit&#224; spaziale e temporale, e bench&#233; per alcune regioni i dati disponibili siano limitati, nel periodo 1900-2005 &#232; stato possibile osservare significativi incrementi nelle parti orientali dell&#8217;America settentrionale e meridionale,nell&#8217;Europa settentrionale e nell&#8217;Asia settentrionale e centrale; mentre nei Paesi della fascia subtropicale (compresa tra i 10 e i 30 gradi di latitudine nord) sono state osservate delle diminuzioni.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 22 -->
+	<question type="truefalse">
+		<name>
+			<text>Nella dichiarazione (BCFN) viene riconosciuta l'importanza di allocare fondi e risorse finanziarie_Expo_1_3_vf_22</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Nella dichiarazione (BCFN) viene riconosciuta l'importanza di allocare fondi e risorse finanziarie<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Nella dichiarazione (BCFN) viene anche riconosciuta l&#8217;importanza di allocare fondi e risorse finanziarie per interventi volti a contrastare l&#8217;emissione di gas serra e lo sviluppo e il trasferimento di tecnologie e competenze nei Paesi in via di sviluppo. A tal riguardo, si auspica il lancio e la pronta attivazione del Green Climate Fund.
+Inoltre, si &#232; discusso delle criticit&#224; connesse alla limitatezza delle risorse idriche disponibili  .
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 23 -->
+	<question type="truefalse">
+		<name>
+			<text>Le problematiche del cambiamento climatico non sono un tema trattato dal BCFN_Expo_1_3_vf_23</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Le problematiche del cambiamento climatico non sono un tema trattato dal BCFN<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Un ulteriore punto di contatto con le tematiche affrontate dal BCFN &#232; quello relativo alle problematiche del cambiamento climatico dovuto all&#8217;aumento delle  emissioni nell&#8217; atmosfera di gas a effetto serra. Nel dettaglio la dichiarazione evidenzia che,
+- la gestione del fenomeno e delle minacce che ne conseguono (in particolar modo per i Paesi in via di sviluppo) costituisce una priorit&#224; immediata e urgente a      livello globale;
+- la cooperazione internazionale deve affrontare pi&#249; efficacemente il fenomeno, accelerando la riduzione globale delle emissioni di gas serra.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 24 -->
+	<question type="truefalse">
+		<name>
+			<text>Le discussioni svoltesi a Rio hanno segnato un passo in avanti nel processo per il superamento del PIL_Expo_1_3_vf_24</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Le discussioni svoltesi a Rio hanno segnato un passo in avanti nel processo per il superamento del PIL<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Le discussioni svoltesi a Rio hanno segnato un passo in avanti nel processo per il superamento del PIL come misuratore universale del benessere e per trovare indicatori alternativi per misurare la prosperit&#224; e il benessere. Sono state confermate l&#8217;importanza e l&#8217;utilit&#224; dei Sustainable Development Goals da affiancare ai Millennium Development Goals, ed &#232; stato dato mandato formale all&#8217;UN Statistical Commission per lanciare un programma di lavoro su queste tematiche.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 25 -->
+	<question type="truefalse">
+		<name>
+			<text>I risultati del summit di Rio sono stati molto soddisfacenti rispetta alle aspettative iniziali_Expo_1_3_vf_25</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I risultati del summit di Rio sono stati molto soddisfacenti rispetta alle aspettative iniziali<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Nonostante la portata e la rilevanza dell&#8217;evento a livello internazionale, secondo una larga parte dell&#8217;opinione pubblica i risultati conseguiti non sono stati per&#242; soddisfacenti rispetto alle aspettative iniziali.
+Questo &#232; in parte riconducibile alla situazione economica e geopolitica attuale, il summit ha avuto luogo durante gli ultimi mesi di campagna elettorale per le elezioni presidenziali statunitensi e in concomitanza con la profonda crisi dell&#8217;Eurozona. La mancata partecipazione alla conferenza di alcuni leader mondiali &#232;, infatti, da attribuire a ulteriori impegni politici e istituzionali pi&#249; pressanti.
+ I principali &#8220;assenti&#8221; sono stati il Presidente americano Barack Obama, il premier britannico David Cameron, la Cancelliera tedesca Angela Merkel e il presidente russo Vladimir Putin.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 26 -->
+	<question type="truefalse">
+		<name>
+			<text>Nel summit di Rio+20 il ruolo delle aziende e' stato molto attivo_Expo_1_3_vf_26</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Nel summit di Rio+20 il ruolo delle aziende e' stato molto attivo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Un aspetto positivo e di novit&#224; del vertice riguarda il ruolo delle aziende che &#232; stato, mai come in passato, molto attivo nei numerosi side events realizzati a margine del summit, confermando che almeno per una parte del mondo produttivo ha iniziato a declinare concretamente la green economy.
+Un altro punto a favore del summit &#232; il superamento, emerso negli appuntamenti precedenti, delle forti contrapposizioni tra Paesi sviluppati ed emergenti che, se confermato, forse aiuter&#224; a costruire un piano decennale di sviluppo pi&#249; concreto.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 27 -->
+	<question type="truefalse">
+		<name>
+			<text>Negli stessi giorni della Conferenza di Rio, circa 200 tra associazioni, sindacati, esponenti del mondo scientifico, leader delle popolazioni indigene hanno organizzato a C&#250;pula dos Povos un &#8220;Controvertice&#8221; della societ&#224; civile._Expo_1_3_vf_27</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Negli stessi giorni della Conferenza di Rio, circa 200 tra associazioni, sindacati, esponenti del mondo scientifico, leader delle popolazioni indigene hanno organizzato a C&#250;pula dos Povos un &#8220;Controvertice&#8221; della societ&#224; civile.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Da questo incontro sono emerse diverse proposte e ammonimenti nei confronti dei partecipanti a Rio+20. In particolare le associazioni hanno identificato i rischi di un &#8220;capitalismo verde&#8221;, la green economy dovrebbe invece diventare, secondo l&#8217;appello delle comunit&#224; locali, la via per assicurare a tutti l&#8217;accesso alle
+risorse, nel rispetto degli ecosistemi e dei loro ritmi.
+Tra le Ong che hanno espresso con pi&#249; forza alcuni moniti va ricordata Oxfam International che ricorda come la lotta alla povert&#224; e la protezione dell&#8217;ambiente
+siano cause inscindibilmente legate e non possano essere affrontate separatamente.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 28 -->
+	<question type="truefalse">
+		<name>
+			<text> l'agricoltura sostenibile soddisfa il bisogno primario del cibo._Expo_1_3_vf_28</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p> l'agricoltura sostenibile soddisfa il bisogno primario del cibo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>- l'agricoltura sostenibile soddisfa il bisogno primario del cibo
+- l'agricoltura sostenibile favorisce la convenienza economica delle operazioni legate alla produzione agricola
+- l'agricoltura sostenibile sostiene la qualit&#224; dell'ambiente e delle risorse naturali da cui dipende l'intero comparto dell'agricoltura
+- l'agricoltura sostenibile migliora la qualit&#224; di vita degli agricoltori e dell'intera societ&#224;
+- l'agricoltura sostenibile fa uso sapiente delle risorse a disposizione, integrando laddove possibile cicli biologici naturali
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 29 -->
+	<question type="truefalse">
+		<name>
+			<text>Negli ultimi anni si sta verificando una costante diminuzione dei ghiacci.._Expo_1_3_vf_29</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Negli ultimi anni si sta verificando una costante diminuzione dei ghiacci..<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Lo scioglimento dei ghiacciai &#232; causato dal forte inquinamento delle industrie, delle auto ecc... Inoltre lo scioglimento dei ghiacci provoca un rialzamento dei mari e degli oceani.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 30 -->
+	<question type="truefalse">
+		<name>
+			<text>L'innalzamento del livello del mare e' una conseguenza del cambiamento climatico_Expo_1_3_vf_30</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'innalzamento del livello del mare e' una conseguenza del cambiamento climatico<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Con l'aumento della temperatura (a causan dell'inquinamento) i ghiacci si sciolgono pi velocemente, riversando molta acqua nei mari e negli oceani
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 31 -->
+	<question type="truefalse">
+		<name>
+			<text>negli ultimi anni si sono verificati eventi meteorologici molto estremi_Expo_1_3_vf_31</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>negli ultimi anni si sono verificati eventi meteorologici molto estremi<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>negli ultimi anni si sono verificati eventi meteorologici veramente disastrosi come tsunami, trombe d'aria ecc.. la causa di tutto ci&#242; &#232; da attribuire all'inquinamento atmosferico e ai cambiamenti climatici
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 32 -->
+	<question type="truefalse">
+		<name>
+			<text>I cambiamenti climatici influenzano negativamente il settore agricolo_Expo_1_3_vf_32</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I cambiamenti climatici influenzano negativamente il settore agricolo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>I cambiamenti climatici (forte aumento-diminuzione della temperatura, elevate-scarse precipitazioni, sfasamento delle stagioni) influenzano negativamente l'agricoltura
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

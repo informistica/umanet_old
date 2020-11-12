@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>Perch&#232; &#232; importante mangiare le verdure._Expo_3_1_mul_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Perch&#232; &#232; importante mangiare le verdure.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Mangiare le verdure &#232; importante perch&#232; fanno bene alla salute e contribuiscono a migliorare l'ambiente dato che non vengono utilizzati prodotti chimici per coltivare altri cibi meno salutari. Le verdure non sono la chiave di una dieta sana ma contrubuiscono al miglioramento della propria salute.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Perch&#232; garantiscono una buona salute  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Perch&#232; danneggiano l'ambiente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Perch&#232; danno energia, fanno bene alla salute e all'ambiente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Perch&#232; possono essere un'ottima alternativa con altri cibi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>Antiossidanti e vitamine giocano un ruolo fondamentale dove._Expo_3_1_mul_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Antiossidanti e vitamine giocano un ruolo fondamentale dove.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>perche' sul ruolo neuroprotettivo
+delle vitamine E, C, del beta-carotene e
+dei flavonoidi, mentre sostituire i grassi saturi con
+quelli polinsaturi permette di limitare il rischio di
+demenze vascolari, determinate dal ridotto apporto
+di sangue al cervello legato al cattivo stato di
+vene e arterie.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>cuore<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>vasi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>tumori<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>ictus<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>Il cancro si pensa sia il risultato di cosa._Expo_3_1_mul_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il cancro si pensa sia il risultato di cosa.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>l&#8217;Agenzia Internazionale per
+la Ricerca sul Cancro (IARC) di Lione ha stimato
+che sovrappeso e inattivit&#224; fisica hanno un ruolo
+nel 20-35% dei cancri a mammella, colon, reni ed
+esofago, mentre all&#8217;alimentazione e ai chili di troppo
+&#232; certamente legato anche il tumore del colonretto,
+pi&#249; frequente nelle persone che consumano
+pi&#249; carne rossa e insaccati, e pi&#249; raro fra chi segue
+diete ricche di vitamine, fibre e antiossidanti. Secondo
+le valutazioni dell&#8217;OMS, nel 2010 un adulto
+su sei &#232; morto di cancro, mentre altre indagini
+hanno valutato che, solo negli Stati Uniti, i costi
+sanitari diretti per questa malattia sono saliti da
+1,3 miliardi del 1963 a 93 miliardi nel 2008.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>di cattiva alimentazione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>sovrappeso e inattivita' fisica<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>inquinamento<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>alimentazione ipocalorica<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>Gli esperti consigliano di sostituire o no i grassi saturi  con,_Expo_3_1_mul_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Gli esperti consigliano di sostituire o no i grassi saturi  con,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>perche' le diete eccessivamente ricche di grassi trans
+determinavano, solo in quel Paese, 30.000 morti
+all&#8217;anno per malattie cardiovascolari. Per questa
+ragione gli esperti consigliano di evitare assolutamente
+gli acidi grassi trans e di sostituire i grassi
+saturi con quelli insaturi, che invece hanno un effetto protettivo per il cuore e i vasi.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>grassi insaturi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>non sostituirli<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>sostituirli non cambierebbe nulla<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>acidi grassi trans<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono le altre cause che contribuiscono all'obesita' infantile._Expo_3_1_mul_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono le altre cause che contribuiscono all'obesita' infantile.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Altre cause, in grado di aumentare il rischio di obesit&#224; infantile sono, oltre ad una alimentazione non corretta, fattori di natura genetica, come ipotiroidismo o alterazioni surrenali e poca o assente attivit&#224; fisica.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>fattori di natura genetica<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p> poca o assente attivit&#224; fisica.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>non ci sono altre cause<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>eccesso di vitamine<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono i pilastri su cui si basa il progetto dell'Epode._Expo_3_1_mul_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono i pilastri su cui si basa il progetto dell'Epode.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La struttura di EPODE prevede un coordinamento centrale a livello statale e un&#8217;organizzazione locale coordinata da un capo di progetto. Il primo dei pilastri sui quali si basa il progetto EPODE e' l&#8217;impegno politico, un&#8217;azione politica locale forte e a lungo termine e' necessaria, infatti, per poter strutturare un&#8217;e'quipe locale stabile, sostenerla, coinvolgere gli attori sociali e la popolazione. Il secondo pilastro &#232; un coordinamento centrale che assicuri una formazione continuativa, dall&#8217;inizio alla fine, dei capi di progetto, che assista gli attori locali al fine di aiutare costantemente le famiglie a modificare i propri comportamenti con una dinamica di
+gruppo costante.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>che i bambini si cibino di un'alimentazione adeguata<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>che il progetto funzioni bene<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>ridurre i fast-food<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>un impegno politico<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono i pilastri su cui si basa il progetto dell'Epode._Expo_3_1_mul_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono i pilastri su cui si basa il progetto dell'Epode.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La struttura di EPODE prevede un coordinamento centrale a livello statale e un&#8217;organizzazione locale coordinata da un capo di progetto. Il primo dei pilastri sui quali si basa il progetto EPODE e' l&#8217;impegno politico, un&#8217;azione politica locale forte e a lungo termine e' necessaria, infatti, per poter strutturare un&#8217;e'quipe locale stabile, sostenerla, coinvolgere gli attori sociali e la popolazione. Il secondo pilastro e' un coordinamento centrale che assicuri una formazione continuativa, dall&#8217;inizio alla fine, dei capi di progetto, che assista gli attori locali al fine di aiutare costantemente le famiglie a modificare i propri comportamenti con una dinamica di gruppo costante.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>che i bambini si cibino di un'alimentazione adeguata<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>che il progetto funzioni bene<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>ridurre i fast-food<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>un impegno politico<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="multichoice">
+		<name>
+			<text>Quale &#232; l'obbiettivo dell'EPODE._Expo_3_1_mul_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quale &#232; l'obbiettivo dell'EPODE.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>lo fanno per non fare aumentare l'obesit&#224; nel mondo e anche per far dimagrire le persone.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>fare dimagrire la gente <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>far fare esercizi fisici alla gente <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Il suo obiettivo &#232; aiutare le famiglie a modificare in modo permanente i propri stili di vita, grazie a iniziative locali conformi alle direttive stat<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>a fare mangiare sano la gente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="multichoice">
+		<name>
+			<text>Quale &#232; l'obbiettivo dell'EPODE._Expo_3_1_mul_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quale &#232; l'obbiettivo dell'EPODE.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>lo fanno per non fare aumentare l'obesit&#224; nel mondo e anche per far dimagrire le persone perche l'obesit&#224; porta anche alla morte . Molti ragazzi o ragazze mangiamo talmente tante schifezze che non si rendono conto che fa molto male alla nostra salute .Mira a indirizzare le pratiche professionali di questi attori in modo permanente, affinch&#233; possano fornire alle famiglie un insieme di informazioni convergenti e concrete.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>fare dimagrire la gente <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>far fare esercizi fisici alla gente <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Il suo obiettivo &#232; aiutare le famiglie a modificare in modo permanente i propri stili di vita, grazie a iniziative locali conformi alle direttive stat<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>a fare mangiare sano la gente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono i risultati del programma EPODE.._Expo_3_1_mul_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono i risultati del programma EPODE..<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>riconfermando la validit&#224; della teoria a base del metodo .Oggi il metodo EPODE &#232; usato da una trentina di programmi, in pi&#249; di venti Paesi nel mondo, uniti nella rete EPODE International Network, creata nel 2011. In EUROPA,  45 milioni sono i bambini con la malattia obesit&#224; nel mondo. L'et&#224; dei bambini colpiti dall'obesit&#224; &#232; quella fra i 5 anni e i 17 anni.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>la prevalenza del sovrappeso e dell'obesit&#224; infantile &#232; scesa dal 22 al 9% nelle prime citt&#224; coinvolte nel progetto (in Francia e in Belgio),<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>l'obesita<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>l'anoressia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>gli esercizi fisici<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

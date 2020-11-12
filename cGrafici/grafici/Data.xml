@@ -1,0 +1,29 @@
+<chart caption='PUNTEGGI DEGLI STUDENTI' subcaption='23/9/2020' xAxisName='Studente' yAxisName='Punti' numberPrefix='P.'>
+<set label='Martignoni' value='348'/>
+<set label='Sciacovelli' value='348'/>
+<set label='Trezzi' value='342'/>
+<set label='Crosa' value='339'/>
+<set label='Merone' value='338'/>
+<set label='Agostoni' value='329'/>
+<set label='Frammartino' value='322'/>
+<set label='Castoldi' value='320'/>
+<set label='Grolla' value='317'/>
+<set label='Garavaglia' value='311'/>
+<set label='Trezzi' value='310'/>
+<set label='Colombo' value='306'/>
+<set label='Cantoni' value='298'/>
+<set label='Garavaglia' value='296'/>
+<set label='Ferrario' value='291'/>
+<set label='Satta' value='290'/>
+<set label='Boscaro' value='287'/>
+<set label='Marino' value='285'/>
+<set label='Pogliana' value='285'/>
+<set label='Aimone' value='281'/>
+<set label='Valentino' value='266'/>
+<set label='Luerti' value='247'/>
+<set label='Dicannavò' value='241'/>
+<set label='Sosa' value='237'/>
+<set label='Gambino' value='222'/>
+<set label='Arduca' value='212'/>
+<set label='Garau' value='193'/>
+</chart>

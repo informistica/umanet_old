@@ -1,0 +1,1642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa scrisse il giornalista Giuseppe Fava nei suoi articoli.._Expo_9_3_sin_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa scrisse il giornalista Giuseppe Fava nei suoi articoli..<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>   La risposta corretta &#232; la numero 3 perch&#233; Giovanni Fava era un giornalista che denunciava i fatti compiuti dalla mafia e fu una delle persone che la volle combattere. Fu ucciso nel 1984 da 5 colpi di pistola, senza che gli assassini furono mai stati catturati.
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Scrisse in favore della mafia, affinch&#233; i suoi atti non vengano mai pi&#249; denunciati  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Scrisse la cronaca delle partite del Palermo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Scrisse per denunciare le storture della societ&#224; mafiosa, le ingiustizie, i poteri corrotti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessuna delle precedenti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>Per cosa si 'festeggia' la giornata della Memoria e dell'impegno, il 21 marzo._Expo_9_3_sin_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per cosa si 'festeggia' la giornata della Memoria e dell'impegno, il 21 marzo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La risposta esatta &#232; la numero 4 perch&#232; in quella data si ricordano tutte le vittime della mafia. Essa &#232; stata voluta dall'associazione 'Libera', la quale &#232; attiva nel campo contro la mafia. Durante ci&#242; si leggono tutti i nomi delle persone uccise dalla mafia.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Per favorire la cura dei malati di Alzehimer<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Per ricordare le vittime dell'olocausto<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Per non dimenticarsi delle persone uccise in tutte le guerre del ventunesimo secolo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Per ricordare tutte le vittime della mafia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa dichiar&#242; il giornalista Giovanni Fava riguardo al giornalismo._Expo_9_3_sin_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa dichiar&#242; il giornalista Giovanni Fava riguardo al giornalismo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>   La risposte corretta &#232; la numero 1 perch&#233; lui riteneva che il giornalismo sarebbe potuto essere un importante mezzo per combattere le organizzazioni criminali, quali mafia, camorra, 'ndrangheta, in modo da riuscire condannare esse.
+
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Il giornalismo non pu&#242; pi&#249; essere soltanto ricerca della notizia, ma della verit&#224; su tutto quello che interessa la societ&#224;, il cittadino, l&#8217;uomo   <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il giornalismo serve a informare le persone dell'umore dei politici<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il giornalismo serve a elogiare la mafia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il giornalismo non serve a nulla.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>Chi &#232; Carlo Burgio._Expo_9_3_sin_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Chi &#232; Carlo Burgio.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Nato nel giugno 1996, dopo gli studi a 21 anni entra nel seminario della diocesi ambrosiana dove completa la formazione filosofica e teologica. Fondatore e presidente dell'Associazione Kayros , che dal 2000 gestisce comunit&#224; di accoglienza per minori e servizi educativi per adolescenti, dopo 10 anni di parrocchia diventa collaboratore di don Gino Rigoldi come cappellano dell'istituto penale minorile 'C. Beccaria' di Milano.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Un ex mafioso che si &#232; purificato <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>E' un cappellano di un istituto penale minorile<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Un semplice uomo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>E' un cappellano di un carcere <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa fece Emilio Alessandrini per il nostro Paese._Expo_9_3_sin_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa fece Emilio Alessandrini per il nostro Paese.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  La prima grande inchiesta di cui si occupa &#232; quella legata alla strage di Piazza Fontana del 12 dicembre 1969. Il 27 agosto del 1972 vengono incriminati Franco Freda e Giovanni Ventura. Il 6 febbraio del 1974 Alessandrini deposita in tribunale una requisitoria lunga e articolata in cui spiega il coinvolgimento di Freda e Ventura, racconta le responsabilit&#224; dei neofascisti, e, soprattutto, evidenzia i collegamenti fra l'eversione di destra e alcune frange degli apparati informativi dello Stato. 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Arrest&#242; Salvatore Riina;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Si fece magistrato;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Divent&#242; membro di Prima Linea.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessuna della precedenti risposte;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="multichoice">
+		<name>
+			<text>Rita Borsellino, quando le chiesero se avesse mai perdonato gli assassini di suo fratello rispose,_Expo_9_3_sin_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Rita Borsellino, quando le chiesero se avesse mai perdonato gli assassini di suo fratello rispose,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Non si pu&#242; perdonare una persona che non si &#232; pentita di ci&#242; che ha fatto, ma si pu&#242; cercare l&#8217;essenza di quell&#8217;uomo, capire come &#232; arrivato a ridursi in quel modo e compatirlo.
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>'S&#236;, perch&#233; tutti meritano il perdono'<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>'No, provo solo pena per loro'<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>'No, devono pagare per quello che hanno fatto'<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessuna delle precedenti.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="multichoice">
+		<name>
+			<text>Chi ha ucciso Paolo Borsellino._Expo_9_3_sin_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Chi ha ucciso Paolo Borsellino.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>    Paolo Borsellino fu ucciso dalla mafia il 19 luglio 1992 in un attentato in via D'Amelio .
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La 'ndrangheta  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La Camorra<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>La mafia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessuna di quelle prima<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa bisogna fare contro la mafia._Expo_9_3_sin_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa bisogna fare contro la mafia.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La mafia non &#232; un bene, &#232; una piaga del nostro Paese, inganna, estorce denaro ai cittadini, piega tutti sotto la sua volont&#224; e uccide, a seconda della necessit&#224;, uomini, donne e perfino bambini. Paolo Borsellino e il suo collega e amico Giovanni Falcone erano arrivati a sapere troppo riguardo la sua attivit&#224; e hanno pagato con la loro vita.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Subire i soprusi della mafia e stare in silenzio.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Bisogna avere il coraggio di denunciarla e di non avere niente a che fare.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Diventare un membro della sua organizzazione.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Non fare niente per paura.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="multichoice">
+		<name>
+			<text>Come si combatte la mafia._Expo_9_3_sin_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Come si combatte la mafia.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La mafia &#232; molto vicina a noi, come una piovra allunga i suoi tentacoli nella nostra societ&#224;, agisce come un cancro, lento ed inesorabile, la cui unica cura &#232; il coraggio, la consapevolezza, la  conoscenza delle persone che le si oppongono.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Ignorandoi il problema  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Vivendo nell'ignoranza<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Coraggio, consapevolezza, conoscenza delle persone che le si oppongono<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Pensando senza agire<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="multichoice">
+		<name>
+			<text>Che giorno commemora la lotta contro le mafie e le sue vittime._Expo_9_3_sin_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Che giorno commemora la lotta contro le mafie e le sue vittime.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La mafia &#232; molto vicina a noi, come una piovra allunga i suoi tentacoli nella nostra societ&#224;, agisce come un cancro, lento ed inesorabile, la cui unica cura &#232; il coraggio, la consapevolezza, la  conoscenza delle persone che le si oppongono.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il 25 marzo <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il 3 aprile<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Il 21 marzo <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Non esiste<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="multichoice">
+		<name>
+			<text>Le scuole dovrebbero continuare a proporre incontri come quello con la D. Borsellino._Expo_9_3_sin_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Le scuole dovrebbero continuare a proporre incontri come quello con la D. Borsellino.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> questi incontri, come quello con la Dottoressa Borsellino, servono per sensibilizzare gli studenti che molto spesso si sentono esclusi da questa parte di mondo che molto spesso &#232; vicino a quest'ultimi.
+servono per far capire ai giovani argomenti che possono non aver mai sentito parlare oppure pensando inutili.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>No, perch&#233; la mafia ormai sta scomparendo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Si, servono per sviluppare la cultura <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>No, sono inutili perch&#233; gli studenti perdono ore di scuola<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Si, servono per sensibilizzare gli studenti riguardo queste tematiche<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="multichoice">
+		<name>
+			<text>La mafia &#232; un bene._Expo_9_3_sin_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La mafia &#232; un bene.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La mafia non &#232; un bene, &#232; una piaga del nostro Paese, inganna, estorce denaro ai cittadini, piega tutti sotto la sua volont&#224; e uccide, a seconda della necessit&#224;, uomini, donne e perfino bambini.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Si, &#232; un bene per tutto il paese <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Forse<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Dipende dalle circostanze<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>No, &#232; una piaga del paese<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="multichoice">
+		<name>
+			<text>la mafia si pu&#242; definire una cosa 'lontana'._Expo_9_3_sin_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>la mafia si pu&#242; definire una cosa 'lontana'.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> la mafia esiste ed &#232; ovunque perch&#233; i cittadini e le autorit&#224;, invece di respingerla, la ignorano, non se ne curano e a volte sono consenzienti alla sua insinuazione nel territorio
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>si &#232; una cosa lontana <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>la mafia &#232; ovunque <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>la mafia non esiste pi&#249;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>&#232; solo in Enna<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="multichoice">
+		<name>
+			<text>Il giornalismo non pu&#242; essere soltanto la ricerca della notizia ma anche_Expo_9_3_sin_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il giornalismo non pu&#242; essere soltanto la ricerca della notizia ma anche<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Come disse Giuseppe Fava, il giornalismo non pu&#242; essere soltanto la ricerca della notizia ma anche ricerca della verit&#224; su tutto quello che interessa la societ&#224;, il cittadino, l'uomo.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La ricerca della soluzione pi&#249; comoda <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Celare verit&#224; scomode<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>La ricerca della verit&#224; <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La ricerca degli scandali<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="multichoice">
+		<name>
+			<text>Giuseppe Fava fu,_Expo_9_3_sin_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Giuseppe Fava fu,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Giuseppe Fava fu uno scrittore e un onesto giornalista, nei suoi articoli ha avuto il coraggio di denunciare le storture della societ&#224; mafiosa, le ingiustizie e i poteri corrotti
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Un mafioso<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Un attore<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Un carabiniere<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Uno scrittore<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="multichoice">
+		<name>
+			<text>Perch&#233; &#232; importante la giornata mondiale per il ricordo delle vittime della mafia._Expo_9_3_sin_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Perch&#233; &#232; importante la giornata mondiale per il ricordo delle vittime della mafia.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Abbiamo il dovere di continuare l'esempio lasciato dalle vittime e quindi dare loro giustizia e continuare con la ricerca della verit&#224; e combattere contro l'omert&#224; e l'illegalit&#224;
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Perch&#232; &#232; triste<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Per continuare l'esempio lasciato dalle stesse<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Perch&#232; dobbiamo ricordarci dell'esistenza della mafia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Perch&#232; non tutte le famiglie arrivano a fine mese<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="multichoice">
+		<name>
+			<text>Salvo Lima, Falcone e Borsellino, morirono tutti lo stesso anno, quale._Expo_9_3_sin_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Salvo Lima, Falcone e Borsellino, morirono tutti lo stesso anno, quale.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il 1992 fu un anno importante per Rita Borsellino, nel marzo viene   assassinato   Salvo   Lima,   punto  di  collegamento  fra  mafia  e  politica.  Si  pensava  cos&#236; che  sarebbe  stato  annullato  il  maxi  processo,  che  viene,  invece,  confermato  e  si  conclude  con  la  condanna  degli  imputati.  Questo  omicidio  &#232;  la  base  delle stragi del 1992, culminate con l&#8217;omicidio di Falcone a Capaci e, solo 57 giorni dopo, di Borsellino in via D&#8217;Amelio. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>1992<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1994<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1990<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1989<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 18 -->
+	<question type="multichoice">
+		<name>
+			<text>Come viene rappresentata la Mafia._Expo_9_3_sin_18</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Come viene rappresentata la Mafia.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Come una piovra allunga i suoi tentacoli nella nostra societ&#224;, agisce come un cancro, lento ed inesorabile, perch&#232; &#232; dappertutto anche senza rendercene conto.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p> Come una piovra allunga i suoi tentacoli nella nostra societ&#224;, agisce come un cancro, lento ed inesorabile<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Come una societ&#224; che aiuta le persone povere<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Come qualcosa di buono<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Come qualcosa da non considerare in quanto apparentemente non ci riguarda<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 19 -->
+	<question type="multichoice">
+		<name>
+			<text>Come fa la mafia ad avere una disponibilit&#224; economica cos&#236; elevata._Expo_9_3_sin_19</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Come fa la mafia ad avere una disponibilit&#224; economica cos&#236; elevata.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Oggi la mafia deve il suo potere alla grande disponibilit&#224; economica, ricicla molti soldi, fa molti prestiti usurai, spacciandoli come prestito senza impegno, legando cos&#236; le povere vittime in un laccio indissolubile.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Ricicla molti soldi, fa molti prestiti usurai, spacciandoli come prestito senza impegno.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Ruba nelle grandi banche.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il denaro deriva principalmente dallo spaccio di sostanze illegali.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessuna delle precedenti.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 20 -->
+	<question type="multichoice">
+		<name>
+			<text>Le importanti informazioni che Paolo Borsellino portava con s&#232;,_Expo_9_3_sin_20</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Le importanti informazioni che Paolo Borsellino portava con s&#232;,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Paolo Borsellino era, probabilmente, in possesso di informazioni molto importanti, annotate nella sua agenda rossa, che non venne pi&#249; ritrovata.
+Del resto il giudice Borsellino, dopo l&#8217;uccisione del collega e amico, era consapevole, di essere &#8220;un morte che cammina&#8221;. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Furono ritrovate insieme al suo cadavere.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Furono ritrovate carbonizzate.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Furono sequestrate dalla polizia al momento del ritrovo del cadavere.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>La sua agenda rossa non venne mai ritrovata.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 21 -->
+	<question type="multichoice">
+		<name>
+			<text>Le modalit&#224; di esecuzione degli omicidi di Falcone e Borsellino sono,_Expo_9_3_sin_21</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Le modalit&#224; di esecuzione degli omicidi di Falcone e Borsellino sono,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Le modalit&#224; di esecuzione dei due omicidi furono le stesse,
+grandi quantit&#224; di esplosivo, morte spettacolare, morte anche delle guardie del corpo. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Le stesse, entrambi sono stati sparati.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Casuali, i due sono stati uccisi in maniera diversa.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p> Le stesse, grandi quantit&#224; di esplosivo, morte spettacolare, morte anche delle guardie del corpo.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessuna delle precedenti risposte.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 22 -->
+	<question type="multichoice">
+		<name>
+			<text>Come ragisce R.Borsellino davanti i agli assassini di suo fratello._Expo_9_3_sin_22</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Come ragisce R.Borsellino davanti i agli assassini di suo fratello.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>A fine conferenza R.Borsellino  ha risposto dicendo che prova pena per loro.
+Inoltre non si pu&#242; perdonare una persona che non si &#232; pentita di ci&#242; che ha fatto, ma si pu&#242; cercare l&#8217;essenza di quell&#8217;uomo, capire come &#232; arrivato a ridursi in
+quel modo e compatirlo
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Prova piet&#224;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Prova vendetta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Prova rabbia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Prova ancor pi&#249; paura<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 23 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa successe nel 1992._Expo_9_3_sin_23</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa successe nel 1992.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il 1992 fu un anno importante per Rita Borsellino, nel marzo viene assassinato Salvo Lima, punto di collegamento fra mafia e politica. 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Bomba nucleare  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Inizio ISIS<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Muore un politico parlamentare<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Arrestati un sacco di clan<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 24 -->
+	<question type="multichoice">
+		<name>
+			<text>Perch&#233; il giornalino si chiama Emilio e la scuola Alessandrini._Expo_9_3_sin_24</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Perch&#233; il giornalino si chiama Emilio e la scuola Alessandrini.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il nostro giornalino e la nostra scuola, prendono il nome da Emilio Alessandrini, per esaltarne le gesta e onorare chi, forse, non meritava di essere nato in questo paese.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Da un calciatore  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Da un magistrato<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Da un vip<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Da un medico<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 25 -->
+	<question type="multichoice">
+		<name>
+			<text>Qual &#232; lo scopo dello spettacolo in memoria delle vittime della mafia._Expo_9_3_sin_25</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Qual &#232; lo scopo dello spettacolo in memoria delle vittime della mafia.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>I protagonisti  ci invitano a non restare in disparte, ma a inseguire i nostri sogni, sogni di un futuro migliore, che realizzeremo non casualmente, ma grazie
+all&#8217;impegno e alla buona volont&#224;. Possiamo costruire e dimenticarci delle tragedie combattendo per ci&#242; che &#232; giusto, quindi lo spettacolo ci sollecita
+a non soffermarci su ci&#242; che &#232; successo o sta succedendo, ma a risolvere ed andare avanti.
+Ad avere il coraggio di realizzare
+i nostri sogni proprio la dove
+siamo nati e dove ci troviamo.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Farci capire che &#232; importante lottare tutti assieme per contrastare la mafia.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Che la mafia compie buone azioni.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Che non dobbiamo fare nulla per contrastare la mafia.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Che dobbiamo andare a chiedere il pizzo.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 26 -->
+	<question type="multichoice">
+		<name>
+			<text>Chi &#232; Marisa Fiorani._Expo_9_3_sin_26</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Chi &#232; Marisa Fiorani.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Marisa Fiorani &#232; una persona comune; l'unica differenza &#232; che da quando ha perso la figlia a causa della mafia, si &#232; impegnata al fine di convincere tutti a combattere contro le associazioni mafiose.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>&#200; una mafiosa.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>&#200; un'attivista per l'uguaglianza dei diritti tra uomo e donna.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>&#200; una velina.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>&#200; una persona che si batte tutt'oggi contro la mafia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 27 -->
+	<question type="multichoice">
+		<name>
+			<text>In quale giorno mor&#236; il magistrato Paolo Borsellino._Expo_9_3_sin_27</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>In quale giorno mor&#236; il magistrato Paolo Borsellino.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Paolo Borsellino mor&#236; il 19 luglio 1992 in conseguenza all'attentato che gli fu fatto dalla mafia in via d'Amelio a Palermo solo 57 giorni dopo l'omicidio del collega magistrato Giovanni Falcone. 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>7 settembre 2008 <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>19 luglio 1992<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>24 aprile 1997<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>23 maggio 1992<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 28 -->
+	<question type="multichoice">
+		<name>
+			<text>Che fine ha fatto Don Pino Puglisi in seguito alla sua battaglia. _Expo_9_3_sin_28</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Che fine ha fatto Don Pino Puglisi in seguito alla sua battaglia. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Don Pino Puglisi ha portato avanti la sua battaglia fino alla morte per combattere al fine di non negare i suoi ideali in cui insegnava ai giovani ragazzi a vivere onestamente e allontanarsi dalla malavita.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Ha partecipato a vari programmi televisivi.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>&#200; passato a miglior vita.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>&#200; diventato un mafioso.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Ha scritto un libro.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 29 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa fare per combattere la mafia._Expo_9_3_sin_29</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa fare per combattere la mafia.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Sensibilizzare e aiutare la gente a capire e compiere azioni contro la mafia &#232; la cosa giusta da fare.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Ignorare tutto e proseguire con la propria vita  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Impegnarsi ad aiutare i mafiosi affinch&#233; non si abbiano problemi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Divulgare e sensibilizzare la gente sulle tematiche alla base della mafia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Niente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 30 -->
+	<question type="multichoice">
+		<name>
+			<text>Qual &#232; il messaggio per la lotta contro la mafia._Expo_9_3_sin_30</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Qual &#232; il messaggio per la lotta contro la mafia.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La cosa migliore e fondamentale, per il bene di noi stessi e degli altri, &#232;  socializzare e perseverare con i propri sogni ed ideali.
+ 
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Dimenticare quello che &#232; bene per noi stessi e seguire i pensieri della gente.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Entrare a far parte della mafia.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Non restare in disparte, ma inseguire i nostri sogni.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessuna delle risposte precedenti.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

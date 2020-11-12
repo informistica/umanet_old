@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>Come mai molti paesi soffrono la fame._Expo_1_2_sin_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Come mai molti paesi soffrono la fame.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Oltre al fatto che moltissimo cibo viene buttato perch&#232; avanza, sprecato perch&#232; non &#232; 'buono', c'&#232; da considerare il fatto che molti paesi, soprattutto poveri, non possono permettersi il lusso di sprecare il cibo in maniera gratuita come fa la stragrande maggioranza di noi tutti i giorni. Questi paesi soffrono dunque la fame a causa della mal distribuzione della ricchezza e dei beni alimentari, ma il vero problema sta nel fatto che molto cibo viene sprecato senza pensare che a molti farebbe comodo averlo.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>A causa della mal distribuzione della ricchezza e dei beni alimentari <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Perch&#232; non hanno abbastanza terreni in cui sviluppare l'agricoltura e l'allevamento<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>A causa dell'omofobia da parte dei paesi industrializzati<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessun paese soffre la fame<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

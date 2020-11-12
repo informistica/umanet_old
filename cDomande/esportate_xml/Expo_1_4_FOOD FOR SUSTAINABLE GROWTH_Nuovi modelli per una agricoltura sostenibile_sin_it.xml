@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>Su cosa si basa l'agricoltura biologica._Expo_1_4_sin_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Su cosa si basa l'agricoltura biologica.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L&#8217;agricoltura biologica &#232; stata definita dall&#8217;IFOAM (International Foundation of Organic Agriculture Movements) come &#171;un sistema di produzione che sostiene la salute dei suoli,degli ecosistemi e delle persone&#187;. Si fonda su processi ecologici, sulla salvaguardia della biodiversit&#224; e sull&#8217;adattamento dei cicli produttivi alle condizioni locali, piuttosto che sull&#8217;uso di costosi input. L&#8217;agricoltura biologica fonde tradizione, innovazione e scienza a beneficio dell&#8217;ambiente e promuove relazioni eque, oltre a una buona qualit&#224; di vita per tutti i soggetti coinvolti. Sono considerate pratiche di agricoltura biologica (per quanto adottate anche in modelli agricoli non definibili quali &#8220;biologici&#8221;), l&#8217;utilizzo di colture di copertura, l&#8217;avvicendamento delle colture, il sovescio, il compostaggio, l&#8217;uso di colture intercalari.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Si fonda su processi ecologici, sulla salvaguardia della biodiversIt&#224; e sull'andamento dei cicli produttivi alle condizioni locali<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Si basa su un'elevata ecologicit&#224;, espressa attraverso l'uso delle conoscenze locali e delle risorse naturali<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Si fonda sulla lavorazione minima o inesistente del suolo allo scopo di mantenere e preservare la sua struttura<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Si basa sul non utilizzo di prodotti chimici, prevede la rotazione delle colture ed effettua il controllo dei parassiti in maniera naturale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa e' il sequestro di carbonio._Expo_1_4_sin_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa e' il sequestro di carbonio.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Per sequestro di carbonio si intende la quantita' di CO2 che &#232; stata assorbita dal grano durante la sua crescita.                                                                                                                                                                      	
+Il valore viene normalmente mostrato separatamente dagli altri e non sommato in quanto	dal punto di vista scientifico non vi &#232; accordo sulle modalit&#224; di rendicontazione di questo dato.                                                                 
+                                                                                                                             
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La quantita' di CO2 che viene prodotta dal grano durante la sua crescita<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La quantita' di CO2 che viene consumata per produrre un 1kg di grano<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>La quantita' di CO2 che &#232; stata assorbita dal grano durante la sua crescita<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La quantita' di CO2 che viene rimossa dal ciclo di lavorazione del grano<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>In che cosa consiste la metodologia LCA_Expo_1_4_sin_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>In che cosa consiste la metodologia LCA<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>la metodologia LCA (Life Cycle Assessment, ovvero analisi del ciclo di vita), un metodo oggettivo di valutazione e quantificazione dei carichi energetici ambientali e degli impatti potenziali associati a un prodotto-processo-attivit&#224; lungo l&#8217;intero ciclo di vita, dall&#8217;acquisizione delle materie prime al fine vita (&#8220;dalla culla alla tomba&#8221;).
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>un metodo soggettivo per valutazioni dei carichi degli sprechi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>metodo oggettivo per la valutazione dei carichi degli sprechi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>un metodo di ricerca<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>una sessione informativa<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>Qual'&#232; l'alimento che impatta di pi&#249; sull'ambiente._Expo_1_4_sin_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Qual'&#232; l'alimento che impatta di pi&#249; sull'ambiente.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>la fase di coltivazione del grano duro, con le relative pratiche agronomiche, rappresenta, assieme alla cottura, una tra le pi&#249; importanti fasi in termini di impatto ambientale. Per fare un esempio specifico, prendendo le emissioni di gas serra, si pu&#242; notare come gli impatti pi&#249; importanti connessi con l&#8217;attivit&#224; di coltivazione siano dovuti all&#8217;utilizzo di fertilizzanti azotati e alle operazioni meccaniche, in particolare alle lavorazioni dei terreni.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>grano duro<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>carne bovina<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>carne ovina<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>sedano<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

@@ -1,0 +1,196 @@
+<!doctype html>
+<html>
+
+<head>
+	<!-- Bootstrap -->
+	<link rel="stylesheet" href="https://www.umanetexpo.net/expo2015Server/UECDL/css/bootstrap2.min.css">
+	<!-- Theme CSS -->
+	<link rel="stylesheet" href="https://www.umanetexpo.net/expo2015Server/UECDL/css/style.css">
+	<!-- Color CSS -->
+	<link rel="stylesheet" href="https://www.umanetexpo.net/expo2015Server/UECDL/css/themes.css">
+	<!-- Bootstrap -->
+	<script src="https://www.umanetexpo.net/expo2015Server/UECDL/js/bootstrap.min.js"></script>
+	<title>Simula Labirinto</title>
+</head>
+
+<script language="JavaScript">
+	var Topolino, Formaggio, Fame, Labirinto, Strada, Strada_OK, Strada_KO, Testata, Motivato;
+	//variabili per singolare plurale
+	var plurale, plurale1, volere, fare, avere, raggiungere, scegliere, allontanarsi, allontanarsi1, scontrarsi, continuare;
+
+
+	function aggiornaStoria() {
+		if (document.parametri.txtTopolino.value != "")
+			Topolino = document.parametri.txtTopolino.value.toUpperCase();
+		else
+			Topolino = "SOGGETTO";
+		if (document.parametri.txtFormaggio.value != "")
+			Formaggio = document.parametri.txtFormaggio.value.toUpperCase();
+		else
+			Formaggio = "OBIETTIVO";
+		if (document.parametri.txtFame.value != "")
+			Fame = document.parametri.txtFame.value.toUpperCase();
+		else
+			Fame = "MOTIVAZIONE";
+
+		if (document.parametri.txtLabirinto.value != "")
+			Labirinto = document.parametri.txtLabirinto.value.toUpperCase();
+		else
+			Labirinto = "CONTESTO";
+		if (document.parametri.txtStrada.value != "")
+			Strada = document.parametri.txtStrada.value.toUpperCase();
+		else
+			Strada = "COMPORTAMENTO";
+		if (document.parametri.txtStradaOK.value != "")
+			Strada_OK = document.parametri.txtStradaOK.value.toUpperCase();
+		else
+			Strada_OK = "COMPORTAMENTO ADEGUATO";
+		if (document.parametri.txtStradaKO.value != "")
+			Strada_KO = document.parametri.txtStradaKO.value.toUpperCase();
+		else
+			Strada_KO = "COMPORTAMENTO INADEGUATO";
+		if (document.parametri.txtTestata.value != "")
+			Testata = document.parametri.txtTestata.value.toUpperCase();
+		else
+			Testata = "CONSEGUENZE NEGATIVE";
+
+		plurale = Topolino.search(/ e /i); //se è presente e oppure E è >0
+		plurale1 = Topolino.search(","); //faccio mettere , per indicare il prurale
+		var narrazione = "";
+		if ((plurale == -1) && (plurale1 == -1)) {
+			volere = "vuoi";
+			raggiungere = "raggiungerai";
+			avere = "hai";
+			scegliere = "scegli";
+			avvicinarsi = "ti avvicina";
+			allontanarsi = "ti allontana";
+			allontanarsi1 = "ti sei allontanato troppo hai";
+			scontrarsi = "e ti sei scontrato";
+			continuare = "continua";
+			fare = "ci sei quasi fai";
+		}
+		else {
+			volere = "volete";
+			raggiungere = "raggiungerete";
+			avere = "avete";
+			scegliere = "scegliete";
+			avvicinarsi = "vi avvicina";
+			allontanarsi = "vi allontana";
+			allontanarsi1 = "vi siete allontanati troppo avete";
+			scontrarsi = "e vi siete scontrati";
+			continuare = "continuate";
+			fare = "ci siete quasi fate";
+		}
+		contSi = 0;
+		contNo = 0;
+		Motivato = 0;
+
+		narrazione += "\n\n " + Topolino + " " + volere + " raggiungere " + Formaggio + " ?";
+
+		//document.getElementById("storia").innerHTML=parametri.Storia.value;
+
+
+		narrazione += " NO! <br>\n\n Mancando " + Fame + " per raggiungere " + Formaggio + " , " + Topolino + " nel contesto " + Labirinto + " non " + raggiungere + " l'obiettivo ! ";
+		narrazione += "<br>\n\n " + Topolino + " " + volere + " raggiungere " + Formaggio + " ?" + "Si!";
+		narrazione += "<br>\n\n   " + Topolino + "  quale  " + Strada + " " + scegliere + " ?  ";
+
+		narrazione += "<br>\n\nATTENZIONE  " + Topolino + "  la scelta  " + Strada_KO + " " + allontanarsi + " da  " + Formaggio;
+		narrazione += "<br>\n\n :-(  " + Topolino + " " + allontanarsi1 + " scelto la strada chiusa  " + Strada_KO + " " + scontrarsi + " con " + Testata + " \n ";
+		narrazione += "<br>\n\n  " + Topolino + "  quale  " + Strada + " " + scegliere + " ?  ";
+		narrazione += "<br>\n\n  " + Topolino + "  la scelta  " + Strada_OK + " " + avvicinarsi + " a  " + Formaggio + "  " + continuare + " così !  ";
+		narrazione += "<br>\n\n Coraggio " + fare + " l'ultimo passo ! '";
+		narrazione += "<br>\n :-) COMPLIMENTI  " + Topolino + " " + avere + " raggiunto " + Formaggio + "!!!";
+
+		document.getElementById("storia").innerHTML = narrazione;
+	}
+
+</script>
+
+
+
+
+<body onload="aggiornaStoria();" class='theme-blue' data-layout-sidebar="fixed" data-layout-topbar="fixed">
+
+	<div class="container-fluid" id="content">
+		<div class="row-fluid">
+			<div class="span12">
+				<div class="box">
+					<div class="box-title">
+						<h3><a href="http://www.umanetexpo.net/informistica/UWWW/Metafore/Pagine/Topolino_nel_Labirinto.html" target="_blank">Presentazione</a> narr@azione</h3>
+				
+					</div>
+					<div class="box-content" id="storia">
+					</div>
+					<div class="box-content">
+						<form name="parametri" action="metafora_topolino.html">
+
+							<div class="control-group">
+								<label for="textfield" class="control-label"><b>Topolino</b></label>
+								<div class="controls">
+									<input type="text" placeholder="SOGGETTO protagonista" class="input-xxlarge" name="txtTopolino" oninput="aggiornaStoria();">
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label for="textfield" class="control-label"><b>Formaggio</b></label>
+								<div class="controls">
+									<input type="text" placeholder="OBIETTIVO da raggiungere" class="input-xxlarge" name="txtFormaggio" oninput="aggiornaStoria();">
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label for="textfield" class="control-label"><b>Fame</b></label>
+								<div class="controls">
+									<input type="text" placeholder="MOTIVAZIONE che spinge verso l'obiettivo" class="input-xxlarge" name="txtFame" oninput="aggiornaStoria();">
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label for="textfield" class="control-label"><b>Labirinto</b></label>
+								<div class="controls">
+									<input type="text" placeholder="CONTESTO in cui si svolge l'azione" class="input-xxlarge" name="txtLabirinto" oninput="aggiornaStoria();">
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label for="textfield" class="control-label"><b>Strada</b></label>
+								<div class="controls">
+									<input type="text" placeholder="COMPORTAMENTO" class="input-xxlarge" name="txtStrada" oninput="aggiornaStoria();">
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label for="textfield" class="control-label"><b>Strada OK</b></label>
+								<div class="controls">
+									<input type="text" placeholder="COMPORTAMENTO ADEGUATO" class="input-xxlarge" name="txtStradaOK" value="CORRETTO" oninput="aggiornaStoria();">
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label for="textfield" class="control-label"><b>Strada KO</b></label>
+								<div class="controls">
+									<input type="text" placeholder="COMPORTAMENTO INADEGUATO" class="input-xxlarge" name="txtStradaKO" value="SCORRETTO" oninput="aggiornaStoria();">
+								</div>
+							</div>
+
+							<div class="control-group">
+								<label for="textfield" class="control-label"><b>Testata</b></label>
+								<div class="controls">
+									<input type="text" placeholder="CONSEGUENZE NEGATIVE del comportamento inadeguato" class="input-xxlarge" name="txtTestata" value="CONSEGUENZE" oninput="aggiornaStoria();">
+								</div>
+							</div>
+
+						</form>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+	</div>
+
+
+
+</body>
+
+</html>

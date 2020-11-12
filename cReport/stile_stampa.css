@@ -1,0 +1,30 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px; font-size=14px;
+}
+A:link:unknown {
+	content: " [" attr(href) "]"
+}
+#header H1 {
+	FONT-SIZE: 26pt; FONT-FAMILY: Lucida,Georgia, serif
+}
+#col-sx H2 {
+	MARGIN-TOP: 2em; FONT-SIZE: 16pt; BORDER-BOTTOM: red 1mm solid; FONT-FAMILY: Lucida,Georgia, serif
+}
+#col-sx P {
+	FONT-SIZE: 12pt; MARGIN-LEFT: 2em; MARGIN-RIGHT: 2em; FONT-FAMILY: Lucida,Georgia, serif; TEXT-ALIGN: justify
+}
+#col-dx {
+	DISPLAY: none
+}
+#footer {
+	  POSITION: relative; HEIGHT: 50px; BACKGROUND-COLOR: white; TEXT-ALIGN: left
+}
+#footer P {
+	BORDER-TOP: red 1mm solid; FONT-SIZE: 9pt; FONT-FAMILY: Lucida,Georgia, serif
+}
+
+ table {
+table-layout: fixed;
+width: 90%;
+font-size:15px;
+}

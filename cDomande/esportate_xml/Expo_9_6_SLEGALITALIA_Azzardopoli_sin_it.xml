@@ -1,0 +1,703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>Perch&#232; le persone sviluppano problemi di gioco d'azzardo._Expo_9_6_sin_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Perch&#232; le persone sviluppano problemi di gioco d'azzardo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Chi ha problemi col gioco d&#8217;azzardo riferisce di giocare per sfuggire ai problemi, per stare meglio, per sentirsi importante, per sentirsi vivo. Queste persone sono anche convinte che possono fare soldi elaborando strategie per controllare l&#8217;esito del gioco. Ma si sa che la fortuna &#232; cieca, e non pu&#242; essere controllata!
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Per sfuggire ai problemi della vita<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Perch&#232; vogliono arricchirsi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Perch&#232; alle persone piace spendere<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Perch&#232; &#232; una cosa naturale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>Un giocatore si riconosce,_Expo_9_6_sin_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Un giocatore si riconosce,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Un giocatore patologico si riconosce dall'esaltazione di fronte a scommesse rischiose, pensiero ossessivo del gioco, rifiuto dall'idea di essere dipendenti, incapacit&#224; di resistere a scommesse e giochi d'azzardo
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Dalla capacit&#224; di resistere <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Dall'ossessione del gioco<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Dalla consapevolezza di essere dipendente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Dalla capacit&#224; di smettere quando vuole<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>Come comportarsi se la persona interessata rifiuta il supporto di un esperto._Expo_9_6_sin_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Come comportarsi se la persona interessata rifiuta il supporto di un esperto.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Capita spesso che la persona con il problema del gioco d'azzardo non sia consapevole e di conseguenza rifiuti ogni tipo di aiuto, negando di avere un problema. E' consigliabile per le persone che gli sono accanto di insistere nel voler affrontare tale problema cercando di creare una rete di supporto e consultando uno specialista.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Obbligarlo al supporto di un esperto<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Aspettare che sia lui a chiedere aiuto<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Insistere nel voler affrontare il problema<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Lasciarlo in pace<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>Perch&#232; ci sono poche entrate alla stato dal gioco nonostante l'enorme somma di soldi giocati._Expo_9_6_sin_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Perch&#232; ci sono poche entrate alla stato dal gioco nonostante l'enorme somma di soldi giocati.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Le tassazioni sono veramente basse sui i giochi pi&#249; giocati. Le uniche tasse corpose sono quei giochi giocati poco (Lotto, Superenalotto, ecc...)
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Perch&#232; governo ladro se li ruba tutti <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>I dati sono fasulli<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La mafia si intasca tutto<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Le tassazioni sono basse<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="multichoice">
+		<name>
+			<text>Un gioco veloce &#232; pi&#249; pericoloso di uno lento perch&#232;,_Expo_9_6_sin_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Un gioco veloce &#232; pi&#249; pericoloso di uno lento perch&#232;,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Un gioco veloce &#232; pi&#249; pericoloso di uno lento perch&#233; il giocatore non ha il tempo materiale di pensare a ci&#242; che sta facendo e riflettere.
+.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>&#200; pi&#249; divertente <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Richiede uno sforzo mentale maggiore<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Perch&#233; pu&#242; ucciderti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Non si ha tempo di pensare<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="multichoice">
+		<name>
+			<text>Come si chiama il gioco in Italia._Expo_9_6_sin_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Come si chiama il gioco in Italia.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  In Italia il gioco d'azzardo si chiama 'Gioco aleatorio con vincita in denaro' ed &#232; l'unico nome con il quale pu&#242; essere esercitato legalmente
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Gioco d'azzardo  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Gioco a scommessa<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Gioco aleatori con vincita di denaro<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Gioco casuale con premio<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="multichoice">
+		<name>
+			<text>Quanto vale il mercato delle scommesse._Expo_9_6_sin_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quanto vale il mercato delle scommesse.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Attualmente il mercato delle scommesse vale 10 milioni di euro.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>10 milioni di euro  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>25 milioni di euro<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>2.2 miliardi di euro<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>50 milioni di euro<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="multichoice">
+		<name>
+			<text>Con riciclaggio di denaro si intende._Expo_9_6_sin_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Con riciclaggio di denaro si intende.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il riciclaggio di denaro &#232; quell'insieme di operazioni mirate a dare una parvenza lecita a capitali la cui provenienza &#232; in realt&#224; illecita, rendendone cos&#236; pi&#249; difficile l'identificazione e il successivo eventuale recupero. In questo senso &#232; d'uso comune la locuzione di riciclaggio di denaro sporco.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Produrre soldi con materiali eco sostenibili<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Ripulire soldi provenienti da attivit&#224; illegali tramite un lavoro legale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Processo della banca che viene attuato una volta al mese<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Ripulire la banca nazionale dal denaro di natura illegale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="multichoice">
+		<name>
+			<text>Qual &#232; la differenza tra gioco e gioco d'azzardo._Expo_9_6_sin_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Qual &#232; la differenza tra gioco e gioco d'azzardo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il gioco d'azzardo &#232; contraddistinto dalla presenza di soldi e promessa di una vincita e quindi una dipendenza da esso pu&#242; essere veramente pericolosa
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nel gioco si vincono soldi finti <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Il gioco d'azzardo &#232; contraddistinto dalla presenza di soldi e promessa di una vincita<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il gioco &#232; contraddistinto dalla presenza di soldi e promessa di una vincita<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il gioco d'azzardo &#232; pi&#249; divertente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="multichoice">
+		<name>
+			<text>Durata media delle giocate delle slot machine._Expo_9_6_sin_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Durata media delle giocate delle slot machine.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La durata media di una giocata ad una slot machine &#232; di 7000 millesecondi
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>3 secondi <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>5 secondi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>7 secondi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>9 secondi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="multichoice">
+		<name>
+			<text>Lo stato condanna il gioco d'azzardo._Expo_9_6_sin_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Lo stato condanna il gioco d'azzardo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Lo Stato nonostante faccia campagne di sensibilizzazione nelle scuole oppure produce e trasmette pubblicit&#224; progresso consente il proliferare del gioco, per ottenere un profitto economico dalle tasse
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Si<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>No<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>No, ma non lo supporta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Si, ma ne trae comunque profitto<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="multichoice">
+		<name>
+			<text>Il poker in italia &#232; illegale. Se si In quale modalit&#224;._Expo_9_6_sin_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il poker in italia &#232; illegale. Se si In quale modalit&#224;.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il poker in Italia &#232; legale online e sui siti virtuali ma &#232; illegale su tavolo.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il poker in Italia &#232; illegale in qualsiasi modalit&#224; <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il poker in Italia &#232; sempre legale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Il poker in Italia &#232; legale solo virtuale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il poker in Italia &#232; legale solo terrestre<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="multichoice">
+		<name>
+			<text>Quale &#232; la forma di di gioco pi&#249; diffusa in Italia._Expo_9_6_sin_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quale &#232; la forma di di gioco pi&#249; diffusa in Italia.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Sono i gratta e vinci perch&#232; sono accessibili e facili da utilizzare.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Poker<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Slot machine<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Gratta e vinci<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessuna delle precedenti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

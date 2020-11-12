@@ -1,0 +1,903 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="truefalse">
+		<name>
+			<text>la legalit&#224; &#232; l'anello che salda la responsabilit&#224; individuale alla giustizia sociale_Expo_9_5_vf_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>la legalit&#224; &#232; l'anello che salda la responsabilit&#224; individuale alla giustizia sociale<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Perch&#232; per questo non bastano le regole. Le regole funzionano se incontrano coscienze critiche, responsabili, capaci di distinguere, di scegliere, di essere coerenti con quelle scelte.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="truefalse">
+		<name>
+			<text>Gli ex detenuti potranno migliorare il loro comportamento_Expo_9_5_vf_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Gli ex detenuti potranno migliorare il loro comportamento<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Gli ex detenuti potranno migliorare solo se hanno deciso di cambiare la loro vita e allontanarsi completamente dalla malavita
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="truefalse">
+		<name>
+			<text>Un giovane, e prima ancora un bambino, devono essere accompagnati a capire il senso del vivere insieme_Expo_9_5_vf_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Un giovane, e prima ancora un bambino, devono essere accompagnati a capire il senso del vivere insieme<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Per questo credo sia importante puntare sulla responsabilit&#224;, far capire a un giovane che il modo pi&#249; alto di realizzarsi &#232; quello di impegnare la propria libert&#224; per un fine pi&#249; alto dell'io.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="truefalse">
+		<name>
+			<text>l'educazione alla legalit&#224; non ci educa nei rapporti umani _Expo_9_5_vf_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>l'educazione alla legalit&#224; non ci educa nei rapporti umani <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  l'educazione alla legalit&#224; ci educa per i rapporti umani e per il rispetto degli altri e di se stessi.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="truefalse">
+		<name>
+			<text>E' vero che tutte le varie forme di corruzione e criminalit&#224; nascono dalla crescita dell'individualismo e della tendenza a fare i propri comodi_Expo_9_5_vf_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>E' vero che tutte le varie forme di corruzione e criminalit&#224; nascono dalla crescita dell'individualismo e della tendenza a fare i propri comodi<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>   Fattori determinanti dell'eclissi di legalit&#224; sono certo la crescita dell'individualismo, della tendenza a 'fare i propri comodi', di una libert&#224; individuale che s'afferma a scapito di quella collettiva. A questi fattori va per&#242; aggiunto l'effetto negativo di certi comportamenti pubblici.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="truefalse">
+		<name>
+			<text>Chi vive ai margini &#232; pi&#249; incline a delinquere rispetto a chi invece &#232; garantito_Expo_9_5_vf_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Chi vive ai margini &#232; pi&#249; incline a delinquere rispetto a chi invece &#232; garantito<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Combattere il crimine significa innanzitutto combattere le ingiustizie sociali, la distribuzione ingiusta di redditi e risorse, il sempre pi&#249; profondo solco che separa ricchezza e povert&#224;. 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="truefalse">
+		<name>
+			<text>La legalit&#224; si coltiva costruendo una societ&#224; viva, accogliente, eterogenea, formata da persone che sappiano vedere negli altri non un potenziale nemico ma un possibile amico._Expo_9_5_vf_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La legalit&#224; si coltiva costruendo una societ&#224; viva, accogliente, eterogenea, formata da persone che sappiano vedere negli altri non un potenziale nemico ma un possibile amico.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'educare nasce dentro questo orizzonte che salda la dimensione della convivenza alla cura della singola vita nella sua unicit&#224;. Ed &#232; propriamente un con-durre (ex-ducere) ogni esistenza fuori dal guscio degli istinti perch&#233; possa, nella libera espressione della sua diversit&#224;, diventare un bene per se stessa e per la societ&#224; di cui fa parte.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="truefalse">
+		<name>
+			<text>Nino Caponnetto ha lavorato nel pool anti-mafia_Expo_9_5_vf_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Nino Caponnetto ha lavorato nel pool anti-mafia<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Nino Caponnetto ha lavorato nel pool anti-mafia di Palermo dopo la morte di Rocco Chinnici diventandone anche capo
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="truefalse">
+		<name>
+			<text>Democrazia e legalit&#224; sono scollegate_Expo_9_5_vf_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Democrazia e legalit&#224; sono scollegate<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> democrazia e legalit&#224; sono collegate perch&#232;,come afferma l'ex capo di Stato Giorgio Napolitano, studio,lavoro e la possibilit&#224; di costruire un futuro sono le basi sia di democrazia che di legalit&#224;
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="truefalse">
+		<name>
+			<text>Secondo Lorenzo Milani &#232; giusto che i ragazzi si battano per la modifica delle regole._Expo_9_5_vf_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Secondo Lorenzo Milani &#232; giusto che i ragazzi si battano per la modifica delle regole.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  &#171;Non posso dire ai miei ragazzi che l'unico modo d'amare la legge &#232; d'obbedirla. Posso solo dir loro che dovranno tenere in tale onore le leggi da osservarle quando sono giuste (cio&#232; quando sono la forza del debole). Quando invece vedranno che non sono giuste (cio&#232; quando sanzionano il sopruso del forte) essi dovranno battersi perch&#233; siano cambiate&#187;. Lorenzo Milani
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="truefalse">
+		<name>
+			<text>E' sufficiente predicare la legalit&#224; presentandola sotto un ottica formale ._Expo_9_5_vf_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>E' sufficiente predicare la legalit&#224; presentandola sotto un ottica formale .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Non basta predicare la legalit&#224;, bisogna praticarla. Presentare la legalit&#224; solo in un'ottica formale, come un sistema di prescrizioni e divieti, significa mancare l'incontro con i giovani, con la loro voglia di cambiamento e di giustizia. 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="truefalse">
+		<name>
+			<text>Educazione e legalit&#224; sono due modi di pronunciare la parola 'noi'. _Expo_9_5_vf_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Educazione e legalit&#224; sono due modi di pronunciare la parola 'noi'. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Nell'educazione il 'noi' ha il volto della reciprocit&#224;, io e te siamo diversi, ma &#232; proprio sul terreno di questa comune diversit&#224; che possiamo incontrarci, riconoscerci, amarci. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="truefalse">
+		<name>
+			<text>E' importante puntare sulla responsabilit&#224;, far capire a un giovane che il modo pi&#249; alto di realizzarsi &#232; quello di impegnare la propria libert&#224; per un fine pi&#249; alto dell'io. _Expo_9_5_vf_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>E' importante puntare sulla responsabilit&#224;, far capire a un giovane che il modo pi&#249; alto di realizzarsi &#232; quello di impegnare la propria libert&#224; per un fine pi&#249; alto dell'io. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Fargli capire che 'responsabilit&#224;' significa vita libera dai calcoli e dalle paure; vita che costruisce la strada dei propri sogni. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="truefalse">
+		<name>
+			<text>&#171;La mafia &#232; interessata alla scuola. L'istruzione avvicina i giovani a comportarsi come mafiosi e aumenta le reclute all'interno di essa._Expo_9_5_vf_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>&#171;La mafia &#232; interessata alla scuola. L'istruzione avvicina i giovani a comportarsi come mafiosi e aumenta le reclute all'interno di essa.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>&#171;La mafia teme pi&#249; la scuola della giustizia. L'istruzione toglie erba sotto i piedi della cultura mafiosa&#187;
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="truefalse">
+		<name>
+			<text>L'educazione non  &#232; un atto di potere, ma di attenzione. _Expo_9_5_vf_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'educazione non  &#232; un atto di potere, ma di attenzione. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> si viene educati insieme, si stabiliscono delle regole e, sempre insieme, ci si assume delle responsabilit&#224;. 'Insieme' &#232; la parola chiave dell'educare.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="truefalse">
+		<name>
+			<text> La legalit&#224; &#232; sinonimo di potere_Expo_9_5_vf_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p> La legalit&#224; &#232; sinonimo di potere<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>     La legalit&#224; spesso tutela i forti ed &#232; forte con i deboli.Nel momento in cui la legalit&#224; viene usata come fonte di potere rischi di perdere tutta la sua uguaglianza e di andare incontro a corruzione
+ 
+ 
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="truefalse">
+		<name>
+			<text>L'uguaglianza &#232; un principio secondario della legalit&#224;_Expo_9_5_vf_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'uguaglianza &#232; un principio secondario della legalit&#224;<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Una legalit&#224; senza uguaglianza - dei diritti e dei doveri, dei cittadini di fronte alla legge - mina il legame sociale e accentua le distanze culturali ed economiche. &#200; l'uguaglianza il fondamento della legge, non viceversa
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 18 -->
+	<question type="truefalse">
+		<name>
+			<text>E' corretto non rispettare le regole, giustificati dal fatto che anche gli altri non lo facciano._Expo_9_5_vf_18</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>E' corretto non rispettare le regole, giustificati dal fatto che anche gli altri non lo facciano.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>   nella maggior parte dei giovani c'&#232; invece un senso di ribellione positiva, una voglia di non conformarsi che va intercettata e trasformata in impegno. Non basta 'predicare' la legalit&#224;, bisogna praticarla. il pensiero sopra indicato &#232; invece molto presente tra gli adulti 
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 19 -->
+	<question type="truefalse">
+		<name>
+			<text>Presentare la legalit&#224;  in un'ottica formale &#232; il miglior metodo per approcciarsi con i giovani_Expo_9_5_vf_19</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Presentare la legalit&#224;  in un'ottica formale &#232; il miglior metodo per approcciarsi con i giovani<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>la sola presentazione formale significa mancare l'incontro con i giovani, con la loro voglia di cambiamento e di giustizia
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 20 -->
+	<question type="truefalse">
+		<name>
+			<text>Chi riveste un ruolo pubblico non deve avere una doppia istanza etica(individuale e sociale), perch&#232; non deve rendere conto alla comunit&#224;_Expo_9_5_vf_20</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Chi riveste un ruolo pubblico non deve avere una doppia istanza etica(individuale e sociale), perch&#232; non deve rendere conto alla comunit&#224;<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>E' importante per un personaggio pubblico dare il buono esempio perch&#232; se ha comportamenti negativi ha ricadute gravi sul senso della legalit&#224;
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 21 -->
+	<question type="truefalse">
+		<name>
+			<text>Giovanni Paolo II si &#232; espresso riguardo la grave crisi di legalit&#224; dell'Italia_Expo_9_5_vf_21</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Giovanni Paolo II si &#232; espresso riguardo la grave crisi di legalit&#224; dell'Italia<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> 'Non c'&#232; chi non veda l'urgenza di un grande recupero di moralit&#224; personale e sociale, di legalit&#224;. Urge un recupero di legalit&#224;.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 22 -->
+	<question type="truefalse">
+		<name>
+			<text>Forme di corruzione e abuso spesso sono il viatico e l'anticamera della mafia_Expo_9_5_vf_22</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Forme di corruzione e abuso spesso sono il viatico e l'anticamera della mafia<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> I reati sono diventati  costume e sono stati depenalizzati nelle coscienze lasciando aperte le via a reati come la corruzione 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 23 -->
+	<question type="truefalse">
+		<name>
+			<text>La legalit&#224; esiste anche senza uguaglianza_Expo_9_5_vf_23</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La legalit&#224; esiste anche senza uguaglianza<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Una legalit&#224; senza uguaglianza - dei diritti e dei doveri, dei cittadini di fronte alla legge - mina il legame sociale e accentua le distanze culturali ed economiche. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 24 -->
+	<question type="truefalse">
+		<name>
+			<text>La legalit&#224; non va presentata solo in modo formale, ma in modo da essere compresa da tutti_Expo_9_5_vf_24</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La legalit&#224; non va presentata solo in modo formale, ma in modo da essere compresa da tutti<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Presentare la legalit&#224; solo in un'ottica formale, come un sistema di prescrizioni e divieti, significa mancare l'incontro con i giovani, con la loro voglia di cambiamento e di giustizia. 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 25 -->
+	<question type="truefalse">
+		<name>
+			<text>La scuola avvicina i ragazzi alle associazioni mafiose_Expo_9_5_vf_25</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La scuola avvicina i ragazzi alle associazioni mafiose<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>No, perch&#232; come dice Nino Caponnetto, ' La mafia teme pi&#249; la scuola della giustizia. L'istruzione toglie erba sotto i piedi della cultura mafiosa', per cui, se ai ragazzi venissero insegnati i valori della legalit&#224;, essi non cadrebbero nella trappola della mafia.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 26 -->
+	<question type="truefalse">
+		<name>
+			<text>Le famiglie delle vittime della mafia aiutano gli studenti o gli ex carcerati per combatterla _Expo_9_5_vf_26</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Le famiglie delle vittime della mafia aiutano gli studenti o gli ex carcerati per combatterla <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'aiuto di queste famiglie &#232; molto utile poich&#232; possono far capire a chi ha compiuto questi atti, oppure ai giovani, cosa vuol dire perdere qualcuno per qualcosa di sbagliato.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 27 -->
+	<question type="truefalse">
+		<name>
+			<text>La convivenza all'interno di una societ&#224; &#232; saldata dall'educazione alla legalit&#224;_Expo_9_5_vf_27</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La convivenza all'interno di una societ&#224; &#232; saldata dall'educazione alla legalit&#224;<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La legalit&#224; si coltiva costruendo una societ&#224; viva, accogliente, eterogenea, formata da persone che sappiano vedere negli altri non un potenziale nemico ma un possibile amico.
+L'educare salda la dimensione della convivenza alla cura della singola vita nella sua unicit&#224;. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 28 -->
+	<question type="truefalse">
+		<name>
+			<text>L'educare &#232; non farsi coinvolgere da un processo che non ammette 'distanze di sicurezza'._Expo_9_5_vf_28</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'educare &#232; non farsi coinvolgere da un processo che non ammette 'distanze di sicurezza'.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Educare &#232; svestirsi di ogni ruolo e funzione per incontrare gli altri fuori dagli schemi, dai percorsi battuti, dalle scorciatoie. E' farsi coinvolgere da un processo che non ammette 'distanze di sicurezza', n&#233; tecniche studiate a tavolino. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 29 -->
+	<question type="truefalse">
+		<name>
+			<text>La sicurezza nasce dalla presenza di responsabilit&#224;_Expo_9_5_vf_29</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La sicurezza nasce dalla presenza di responsabilit&#224;<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La sicurezza nasce dall'estensione dei diritti, cio&#232; delle responsabilit&#224;. Sicuro &#232; quel contesto sociale dove ogni persona si sente accolta e riconosciuta nella sua dignit&#224;, dotata dei mezzi materiali e culturali per vivere, lavorare, amare, coltivare sogni, sentimenti e passioni.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 30 -->
+	<question type="truefalse">
+		<name>
+			<text>La sicurezza nasce dall'estensione dei diritti_Expo_9_5_vf_30</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La sicurezza nasce dall'estensione dei diritti<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La sicurezza nasce dall'estensione dei diritti, cio&#232; delle responsabilit&#224;. Sicuro &#232; quel contesto sociale dove ogni persona si sente accolta e riconosciuta nella sua dignit&#224;.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 31 -->
+	<question type="truefalse">
+		<name>
+			<text>Il fine non &#232; la giustizia sociale_Expo_9_5_vf_31</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il fine non &#232; la giustizia sociale<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> richiamandoci al senso di una legalit&#224; che &#232; sempre un mezzo, mai un fine. Il fine &#232; la giustizia sociale. 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

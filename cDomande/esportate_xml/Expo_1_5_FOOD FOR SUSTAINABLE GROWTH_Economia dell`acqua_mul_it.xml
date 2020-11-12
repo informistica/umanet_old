@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>Per cosa &#232; maggiormente utilizzata l'acqua dolce._Expo_1_5_mul_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per cosa &#232; maggiormente utilizzata l'acqua dolce.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> A differenza di quello che si possa pensare l'acqua dolce non viene utilizzata solo per sodduisfare il fabbisogno idrico delle persone, ma viene usata soprattutto per l'agricoltura,circa il 70%.
+l fine di analizzare l&#8217;efficienza nell&#8217;uso delle risorse idriche disponibili va considerata anche la destinazione delle stesse. In questo senso i dati evidenziano chiaramente
+un&#8217;allocazione fortemente sbilanciata verso il settore agricolo, che da solo impiega circa il 70% dei consumi mondiali di acqua dolce. Tale valore &#232; ancor pi&#249; elevato nei Paesi
+a reddito medio-basso (in alcuni Paesi in via di sviluppo raggiunge il 95%), mentre in quelli sviluppati il peso dell&#8217;industria sui consumi totali &#232; largamente predominante (59%).
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Per il fabbisogno della popolazione  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Per scopi agricoli<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Per la produzione dell'energia idroelettrica<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Per riempire le piscine<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>Come sono considerati i consumi idrici. _Expo_1_5_mul_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Come sono considerati i consumi idrici. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Un consumo va considerato non solo in termini 'reali' (calcolando le quantita' che si usano per la cura di se stessi, per la cucina o per la pulizia della casa), ma anche 'virtuali' (in termini di impronta idrica), stimando cioe' tutta l'acqua che e' stata utilizzata lungo l'intero ciclo di vita di un qualunque prodotto o servizio acquistato.                                                           
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Reali  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Immaginari<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Complessi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Virtuali<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>Dove si trova il 2,5 % di acqua dolce potabile presente nel mondo._Expo_1_5_mul_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Dove si trova il 2,5 % di acqua dolce potabile presente nel mondo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il 2,5% dell'acqua dolce potabile presente nel mondo e' perlopiu' raccolta nei ghiacciai, nelle calotte artiche o a grandi profondit&#224; nel sottosuolo.
+                                                    
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Nelle falde acquifere sotterranee <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nei fiumi e nei laghi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nel mare<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Nelle calotte artiche e nei ghiacciai<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono i sistemi d'irrigazione piu' usati nei paesi a maggior consumo d'acqua in campo agricolo. (India,Pakistan,Bangladesh)_Expo_1_5_mul_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono i sistemi d'irrigazione piu' usati nei paesi a maggior consumo d'acqua in campo agricolo. (India,Pakistan,Bangladesh)<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La trasformazione dei sistemi di irrigazione in India, dai canali ai pozzi, hanno permesso l&#8217;utilizzo delle acque sotterranee prelevate attraverso milioni di bacini, favorendo i piccoli contadini, tuttavia essi non sono stati regolamentati.
+                                                                    
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Canali governativi <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Tutti i sistemi di irrigazione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Pozzi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Sistemi d'irrigazione alternativi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="multichoice">
+		<name>
+			<text>Dal punto di vista ambientale, quando l'acqua e' considerata 'scarsa'._Expo_1_5_mul_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Dal punto di vista ambientale, quando l'acqua e' considerata 'scarsa'.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Dal punto di vista ambientale l&#8217;acqua e' considerata 'scarsa' quando piu' del 75% delle risorse fluviali e sotterranee vengono prelevate per essere impiegate nell&#8217; agricoltura, nell&#8217; industria e per uso domestico, in questo caso lo sfruttamento si sta avvicinando al limite di sostenibilita' (o lo ha gia' oltrepassato).                      
+                           
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>Quando pi&#249; del 75 delle risorse fluviali e sotterranee vengono prelevate per essere impiegate nell'agricoltura <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>Quando pi&#249; del 75 delle risorse fluviali e sotterranee vengono prelevate per essere impiegate nell'uso domestico<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Quando pi&#249; del 75 delle risorse fluviali e sotterranee vengono prelevate per essere impiegate nell'uso commerciale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>Quando pi&#249; del 75 delle risorse fluviali e sotterranee vengono prelevate per essere impiegate nell'industria<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali prodotti hanno una maggiore impronta idrica._Expo_1_5_mul_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali prodotti hanno una maggiore impronta idrica.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>I prodotti dell&#8217;allevamento (carne, uova, latte e derivati) presentano un&#8217;impronta idrica maggiore rispetto a quelli coltivati, poich&#233; gli animali da allevamento consumano, in alcuni casi per diversi anni prima di essere trasformati in prodotti alimentari, una grande quantit&#224; di prodotti coltivati come nutrimento.
+Inoltre, l&#8217;impronta idrica di uno stesso prodotto pu&#242; variare notevolmente da luogo a luogo, dipendendo da fattori quali il clima, le tecniche agricole adottate, la resa dei raccolti, ecc... 
+Le diverse abitudini alimentari implicano dunque un maggiore o minore consumo di risorse idriche.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Latte e derivati<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Frutta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Uova e carne<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Verdura<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="multichoice">
+		<name>
+			<text>Per cosa utilizziamo maggiormente l'acqua in ambito domestico._Expo_1_5_mul_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per cosa utilizziamo maggiormente l'acqua in ambito domestico.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Ogni giorno usiamo grandi quatita' di acqua per molti scopi differenti, usiamo l'acqua per bere, lavare i piatti, fare la doccia, per tirare lo sciacquone, per preparare la cena e per molti altri scopi. Ma l'acqua &#232; usata non soltanto in usi domestici, gli esseri umani la usano anche nelle industrie e nell'agricoltura. Nell'agricoltura l'acqua &#232; usata principalmente per irrigare i raccolti, ma nelle industrie serve per molti differenti impieghi. Pu&#242; servire come ingrediente per la realizzazione di un prodotto, ma pu&#242; anche costituire una parte dell'intero processo di produzione. L'acqua pu&#242; essere usata per raffreddare sostanze nel processo di produzione, per trasporto ed condizionamento di materie prime, per ebollizione o cottura, per il flusso, come agente per la pulizia e per il trasporto del prodotto per mezzo in imbarcazioni.
+ALCUNI DATI,
+scarico del bagno, 21% di acqua
+perdite d'acqua, 5%
+lavare i piatti, 3%
+doccia,21%
+lavatrice, 21%
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>per lo sciacquone del bagno, per lavare i vestiti, per farci la doccia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>per bere, per cucinare, per lavare noi e per tenere pulita la casa<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>per annaffiare le piante e i fiori<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>per l'allestimento di piscine da giardino<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="multichoice">
+		<name>
+			<text>Perche' aumenta la domanda di acqua_Expo_1_5_mul_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Perche' aumenta la domanda di acqua<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>la popolazione del nostro pianeta &#232; in continuo aumento infatti si stima che tra non molti anni arriveremo a 9 miliardi di abitanti. pi&#249; persone ci sono pi&#249; cibo abbiamo bisogno ed ecco perch&#232; aumentano le aree coltivabili. di conseguenza dobbiamo nutrire e allevare pi&#249; aniumali i quali necessitano di acqua da bere
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>perch&#232; aumenta la popolazione del nostro pianeta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>perch&#232; aumentano le aree coltivabili<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>perch&#232; fa pi&#249; caldo quindi abbiamo pi&#249; sete<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>la domanda d'acqua &#232; ferma dal 2008<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="multichoice">
+		<name>
+			<text>Quando e' la giornata mondiale dell'Acqua._Expo_1_5_mul_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quando e' la giornata mondiale dell'Acqua.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L&#8217;organizzazione di una giornata internazionale per celebrare l&#8217;acqua venne raccomandata nel 1992 alla Conferenza delle Nazioni Unite su Ambiente e Sviluppo (UN-CED) e successivamente adottata dall&#8217;Assemblea Generale
+dell&#8217;ONU che, il 22 marzo 1993, organizzo' la prima Giornata Mondiale dell&#8217;Acqua.Questa ricorrenza e' stata prevista all&#8217;internodelle direttive dell&#8217;Agenda 21, risultato della conferenza di Rio de Janeiro del 3-14 giugno 1992, anche ricordata come il &#8220;summit della Terra&#8221;. Si e' trattato del primo incontro mondiale dei capi di stato sull&#8217;ambiente, che hanno dibattuto sui temi dei modelli di produzione, delle risorse di energia alternativa per sostituire l&#8217;utilizzo di combustibile fossile ritenuto responsabile del cambiamento climatico globale, dei sistemi di pubblico trasporto per ridurre le emissioni dei veicoli e infine della crescente scarsita' d&#8217;acqua. E' stato un evento senza precedenti sia in
+termini di impatto mediatico, sia di scelte politiche e di sviluppo che l&#8217;hanno seguita.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>ogni 24 giugno<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>ogni 15 novembre<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>ogni 22 marzo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>ogni 18 agosto<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

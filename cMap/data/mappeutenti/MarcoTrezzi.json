@@ -1,0 +1,15 @@
+{"_comment": "Created with OWL2VOWL (version 0.3.3-SNAPSHOT), http://vowl.visualdataweb.org [Additional Information added by WebVOWL Exporter Version: 1.0.6]",
+"header": {
+"languages" : [ "Italiano" ],
+"title" : {
+"undefined" : "Mappa concettuale"
+},
+"description" : {
+"undefined" : "Capitolo/i 'I modelli standard di riferimento per le reti'"
+}
+},
+"metrics": {
+"classCount":"1",
+"objectPropertyCount":22
+},
+}

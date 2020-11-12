@@ -1,0 +1,717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="truefalse">
+		<name>
+			<text>Sostenibilit&#224; significa ricercare un mantenimento della produzione agraria e della fertilit&#224; del suolo sul lungo periodo, riducendo i rischi ambientali legati alle pratiche agronomiche stesse&#8221;._Expo_1_4_vf_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Sostenibilit&#224; significa ricercare un mantenimento della produzione agraria e della fertilit&#224; del suolo sul lungo periodo, riducendo i rischi ambientali legati alle pratiche agronomiche stesse&#8221;.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Vero, in altre parole sostenibilit&#224; significa &#8220;ricercare un mantenimento della produzione agraria e della fertilit&#224; del suolo sul lungo periodo, riducendo i rischi ambientali legati alle pratiche agronomiche stesse&#8221;.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="truefalse">
+		<name>
+			<text>L'ultimo passo &#232; quello di coinvolgere gli imprenditori agricoli e gli esperti del settore per proteggere i sistemi agricoli ._Expo_1_4_vf_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'ultimo passo &#232; quello di coinvolgere gli imprenditori agricoli e gli esperti del settore per proteggere i sistemi agricoli .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Vero,l'ultimo passo &#232; quello di coinvolgere direttamente gli imprenditori agricoli e gli esperti del settore, affinch&#233; i concetti di sostenibilit&#224; e produttivit&#224; entrino a fare parte delle strategie aziendali quali aspetti della produzione assolutamente conciliabili. Al fine di centrare quest&#8217;ultimo obiettivo, a partire dalle prossime semine verranno messe in atto delle colture pilota in contesti rotazionali pi&#249; favorevoli, ma anche economicamente sostenibili, in una rete di aziende agricole distribuite in tutto il territorio nazionale.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="truefalse">
+		<name>
+			<text>I miglioramenti dei sistemi colturali hanno contribuito alla rovina delle pianure._Expo_1_4_vf_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I miglioramenti dei sistemi colturali hanno contribuito alla rovina delle pianure.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Falso,I miglioramenti dei sistemi colturali possono contribuire a mitigare le emissioni di gas a effetto serra. U no studio condotto in Canada nel 2011 ha determinato l&#8217;Impronta del Carbonio del grano duro prodotta in diversi sistemi colturali. I l grano duro &#232; stato coltivato in sistemi di rotazione quinquennale con combinazioni di colture di semi oleosi, legumi e cereali in Canada. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="truefalse">
+		<name>
+			<text>Il modello agricolo pi&#249; diffuso &#232; considerato un'evoluzione  dell'agricoltura._Expo_1_4_vf_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il modello agricolo pi&#249; diffuso &#232; considerato un'evoluzione  dell'agricoltura.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Vero,  il modello agricolo pi&#249; diffuso dei nostri tempi viene definito con diversi nomi, ovvero convenzionale, moderno, high-input e industriale, ed &#232; considerato l&#8217;evoluzione dell&#8217;agricoltura,n quanto ha incluso tecnologie raffinate che hanno notevolmente aumentato la produttivit&#224; del lavoro.Negli anni Sessanta e Settanta questo modello ha portato a sensazionali incrementi della produzione &#8211; in particolare di mais, riso e grano &#8211; attraverso l&#8217;introduzione di variet&#224; ad
+alto rendimento, monocolture, meccanizzazione e uso di prodotti agrochimici (pesticidi, erbicidi e fungicidi).
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="truefalse">
+		<name>
+			<text>il CEDICAM e' stato istituito per trovare una soluzione al problema del degrado._Expo_1_4_vf_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il CEDICAM e' stato istituito per trovare una soluzione al problema del degrado.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> il CEDICAM (Centro sviluppo integrale dei contadini della Mixteca Alta) e' stato fondato nel 1980 da jesus leon e un gruppo di agricoltori del Mixteca con l'intento di creare un'organizzazione cemocratica che promuovesse l'agricoltura sostenibile e la condivisione di progetti della comunita'.
+Il Centro e' stato istituito per trovare una soluzione al diffuso degrado ambientale della regione.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="truefalse">
+		<name>
+			<text>Per sistemi agricoli sostenibili si intendono quei modelli produttivi in grado di realizzare produzioni alimentari adeguate_Expo_1_4_vf_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per sistemi agricoli sostenibili si intendono quei modelli produttivi in grado di realizzare produzioni alimentari adeguate<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Per sistemi agricoli sostenibili si intendono quei modelli produttivi in primo luogo in grado di realizzare produzioni alimentari adeguate per qualit&#224; e quantit&#224;;in secondo luogo di garantire una giusta remunerazione economica per gli agricoltori; e infine di favorire la salvaguardia dei suoi agricoli e delle risorse naturali.
+                                                        
+                                                                                        
+                                                      
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="truefalse">
+		<name>
+			<text>L' analisi ha evidenziato che la fase di coltivazione del grano duro rappresenta una tra le meno importanti fasi in termini di impatto ambientale_Expo_1_4_vf_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L' analisi ha evidenziato che la fase di coltivazione del grano duro rappresenta una tra le meno importanti fasi in termini di impatto ambientale<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L' analisi ha evidenziato che la fase di coltivazione del grano duro rappresenta una tra le meno importanti in termini di impatto ambientale.                                                                                                                                                                                                                
+                                     
+       .
+
+
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="truefalse">
+		<name>
+			<text>Barilla ha promosso uno studio di tipo multidisciplinare che permettesse di considerare contemporaneamente i valori economico, produttivo, agronomico,ambientale e di sicurezza alimentare._Expo_1_4_vf_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Barilla ha promosso uno studio di tipo multidisciplinare che permettesse di considerare contemporaneamente i valori economico, produttivo, agronomico,ambientale e di sicurezza alimentare.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Barilla ha promosso uno studio di tipo multidisciplinare che permettesse di considerare contemporaneamente i valori economico, produttivo, agronomico,ambientale e di sicurezza alimentare, dopo aver valutato le caratteristiche dei principali sistemi culturali italiani nei quali &#232; coltivato il frumento duro.                                                                  
+                                               
+                                   
+                                                    
+           
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="truefalse">
+		<name>
+			<text>L' obiettivo finale non &#232; stato quello di identificare dei sistemi agricoli ' sostenibili'_Expo_1_4_vf_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L' obiettivo finale non &#232; stato quello di identificare dei sistemi agricoli ' sostenibili'<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L' obiettivo finale &#232; stato quello di identificare dei sistemi agricoli ' sostenibili' da poter successivamente validare nei vari territori di produzione nazionali, allo scopo anche di innalzare sia la qualit&#224; che la quantit&#224; delle materie prime                                    
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="truefalse">
+		<name>
+			<text>Gli studi agronomici ed economici sono stati supportati dalle valutazioni ambientali condotte utilizzando la metodologia LuCcA._Expo_1_4_vf_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Gli studi agronomici ed economici sono stati supportati dalle valutazioni ambientali condotte utilizzando la metodologia LuCcA.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Gli studi agronomici ed economici sono stati supportati dalle valutazioni ambientali condotte utilizzando la metodologia LCA e sintetizzate attraverso l utilizzo di alcuni indicatori,Impronta dell acqua e impronta ecologica e impronta del carbonio.
+                                                       
+                                
+
+                   
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="truefalse">
+		<name>
+			<text>L efficienza di utilizzo dell azoto nel frumento duro &#232; piu elevata negli avvicendamenti dell Italia Meridionale._Expo_1_4_vf_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L efficienza di utilizzo dell azoto nel frumento duro &#232; piu elevata negli avvicendamenti dell Italia Meridionale.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L efficienza di utilizzo dell azoto nel frumento duro &#232; piu elevata negli avvicendamenti dell Italia Centrale, in particolare alla fine del ciclo dell erba medica, coltura questa che lascia nel terreno consistenti quantit&#224; di azoto disponibile.                          
+                       
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="truefalse">
+		<name>
+			<text>Il rischio DON &#232; stato calcolato attraverso modelli matematici dell ' universit&#224; Iacubino della Puglia. _Expo_1_4_vf_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il rischio DON &#232; stato calcolato attraverso modelli matematici dell ' universit&#224; Iacubino della Puglia. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il rischio DON &#232; stato calcolato attraverso modelli matematici dell ' universit&#224; Cattolica di Piacenza, che attribuiscono met&#224; del rischio alle variabili climatiche e la rimanente met&#224; ai fattori agronomici.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="truefalse">
+		<name>
+			<text>Il tema delle 'buone pratiche agricole' pu&#242; essere considerato trasversale ai diversi paradigmi agricoli._Expo_1_4_vf_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il tema delle 'buone pratiche agricole' pu&#242; essere considerato trasversale ai diversi paradigmi agricoli.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il tema delle 'buone pratiche agricole' pu&#242; essere considerato trasversale ai diversi paradigmi agricoli poich&#233; in qualche modo &#232; possibile applicarle in ciascun tipo di agricoltura                                                                        
+                                                                                                                                                                    
+                                                                                                                                                                 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="truefalse">
+		<name>
+			<text>Ogni forma di agricoltura pu&#242; essere valutata in astratto _Expo_1_4_vf_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Ogni forma di agricoltura pu&#242; essere valutata in astratto <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Ogni forma di agricoltura non pu&#242; essere valutata in astratto, ma dev'essere sempre inserita in un contesto geografico, climatico, pedologico, economico e sociale 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="truefalse">
+		<name>
+			<text>L'agricoltura di conservazione &#232; un modello che promuove la lavorazione massima del suolo allo scopo di mantenere e preservare la sua struttura  _Expo_1_4_vf_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'agricoltura di conservazione &#232; un modello che promuove la lavorazione massima del suolo allo scopo di mantenere e preservare la sua struttura  <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'agricoltura di conservazione &#232; un modello che promuove la lavorazione massima del suolo allo scopo di mantenere e preservare la sua struttura; inoltre, ammette pratiche come la pacciamatura e non limita l'uso di sementi OGM o prodotti agrochimici, come avviene, invece, nell'agricoltura biologica 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="truefalse">
+		<name>
+			<text>L'agricoltura biologica &#232; stata definita dall'IFOAM come __un sistema di produzione che sostiene la salute dei suoli, degli ecosistemi e delle persone__._Expo_1_4_vf_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'agricoltura biologica &#232; stata definita dall'IFOAM come __un sistema di produzione che sostiene la salute dei suoli, degli ecosistemi e delle persone__.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'agricoltura biologica &#232; stata definita dall'IFOAM (International Foundation of Organic Agricolture Movements)come __un sistema di produzione che sostiene la salute dei suoli, degli ecosistemi e delle persone__. Si fonda su processi ecologici, sulla salvaguardia della biodiversit&#224; e sull'adattamento dei cicli produttivi alle condizioni locali piuttosto che sull'uso di costosi input.                             
+                                                                                                                                                             
+                                                                                        
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="truefalse">
+		<name>
+			<text>Il 'progetto Tigray' in Etiopia &#232; uno dei progetti che testimoniano come l'adozione dell'agricoltura biologica_Expo_1_4_vf_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il 'progetto Tigray' in Etiopia &#232; uno dei progetti che testimoniano come l'adozione dell'agricoltura biologica<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il 'progetto Tigray' in Etiopia &#232; uno dei progetti che testimoniano come l'adozione dell'agricoltura biologica possa aumentare considerevolmente le rese e, allo stesso tempo, determinare un maggiore accesso al cibo da parte delle fasce della popolazione considerate pi&#249; deboli secondo gli indici di povert&#224; (Edwards 2007).                                
+                                                                                                                                                                  
+                                                                                                                                                                       
+                                          
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 18 -->
+	<question type="truefalse">
+		<name>
+			<text>L'agricoltura sostenibile si caratterizza per un approccio concettuale e operativo sistemico_Expo_1_4_vf_18</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'agricoltura sostenibile si caratterizza per un approccio concettuale e operativo sistemico<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>E' vero infatti per un futuro di sostenibilit&#224; occorre sempre pi&#249; imparare a &#8220;tenere insieme&#8221;, secondo un approccio multidisciplinare, la dimensione sociale, quella ambientale, quella economica e quella della ricerca e sviluppo. Approcci tesi a perseguire obiettivi parziali, seppure in modo molto efficace, potranno cogliere al massimo qualche successo di breve termine su una delle dimensioni, ma non aiuteranno a vincere la sfida della sostenibilit&#224;.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 19 -->
+	<question type="truefalse">
+		<name>
+			<text>L'agricoltura sostenibile &#232; basata su un numero elevato di pratiche agricole innovative,_Expo_1_4_vf_19</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'agricoltura sostenibile &#232; basata su un numero elevato di pratiche agricole innovative,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L&#8217;agricoltura sostenibile &#232; basata su un numero elevato di pratiche agricole gi&#224; note.
+La conoscenza disponibile, fatta di nozioni scientifiche e prassi consolidate, si &#232; cristallizzata all'interno di alcuni grandi principi pratici ispiratori di un&#8217;attivit&#224; agricola realmente sostenibile. Si tratta, in estrema sintesi, di coltivare una pi&#249; ampia gamma di specie vegetali, partendo da un uso sistematico delle rotazioni culturali, minimizzare gli interventi meccanici sul terreno e mantenere una copertura protettiva organica sulla superficie del suolo. Queste pratiche-tecniche &#8211; associate all'uso di variet&#224; vegetali a elevato rendimento, all'impiego ottimizzato di fertilizzanti organici e inorganici, alla gestione integrata di parassiti e malattie attraverso pratiche appropriate e, quando necessario, all'efficiente gestione delle risorse idriche &#8211; consentono, a parit&#224; di macro modello di riferimento (HEI, LEI, IEI), di ottenere migliori prestazioni in termini di sostenibilit&#224;.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 20 -->
+	<question type="truefalse">
+		<name>
+			<text>Il &#8220;sapere&#8221; agronomico (ovvero dell'agricoltura) risulta molto diffuso,_Expo_1_4_vf_20</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il &#8220;sapere&#8221; agronomico (ovvero dell'agricoltura) risulta molto diffuso,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il &#8220;sapere&#8221; agronomico risulta poco diffuso.
+In ambito agricolo, &#232; stato accumulato nel corso del tempo un patrimonio di conoscenze disponibili di straordinario valore, oggi solo parzialmente utilizzate. In certe circostanze, questo sembra accadere per assenza di efficaci processi di trasferimento del 'know how'; 
+in altre, perch&#233; si ritiene che la tecnologia disponibile renda almeno in parte superflua una conoscenza approfondita delle dinamiche naturali.
+Emerge l&#8217;esigenza di rafforzare la base di capitale umano presente in agricoltura, colmando il gap tra conoscenza disponibile e  competenze individuali e di sistema. 
+Su questo aspetto occorrer&#224; programmare piani di investimento significativi, perch&#233; si tratta della premessa essenziale per ogni sviluppo nella direzione di una maggiore sostenibilit&#224;.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 21 -->
+	<question type="truefalse">
+		<name>
+			<text>La tecnologia e' un mezzo importante in ambito agricolo,_Expo_1_4_vf_21</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La tecnologia e' un mezzo importante in ambito agricolo,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Anche la tecnologia assume una connotazione diversa da quella troppo spesso prevalente. Oggi, infatti, quando si parla di tecnologia in agricoltura, ci si riferisce spesso solo al tema della produttivit&#224; e delle rese, che si pensa possano essere aumentate solo migliorando le singole variet&#224;. Tuttavia, fondamentale &#232; la capacit&#224; di adattamento, che si esprime nella gestione in chiave integrata e armonica di un ampio spettro di strumenti e logiche gestionali, variet&#224; vegetali resistenti agli stress, gestione di sistemi avanzati di irrigazione, approccio scientifico alla fertilizzazione ecc.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 22 -->
+	<question type="truefalse">
+		<name>
+			<text>le innovazioni introdotta negli ultimi tempi nell'agricoltura ha aumentato la produzione agricola_Expo_1_4_vf_22</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>le innovazioni introdotta negli ultimi tempi nell'agricoltura ha aumentato la produzione agricola<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>   Introducendo nuovi sistemi agricoli abbiamo ottenuto un sistema convenzionale e moderno che ha  notevolmente velocizzato il lavoro e di conseguenza ha aumentato la produttivit&#224; dei prodotti agricoli.
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 23 -->
+	<question type="truefalse">
+		<name>
+			<text>la monocultura permette di specializzare i fattori di coltura utilizzati adottando machine e prodotti agrochimici specifici_Expo_1_4_vf_23</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>la monocultura permette di specializzare i fattori di coltura utilizzati adottando machine e prodotti agrochimici specifici<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>la tecnica della monocultura permette di specializzare i fattori di coltura utilizzati adottando machine e prodotti agrochimici specifici utilizzandoli su molti ettari di terreno contemporaneamente, aumentando cosi' l'efficienza.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

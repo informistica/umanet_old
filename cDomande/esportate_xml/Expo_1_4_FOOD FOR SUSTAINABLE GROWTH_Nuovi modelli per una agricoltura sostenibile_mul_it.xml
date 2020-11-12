@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa s'intende per modelli produttivi._Expo_1_4_mul_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa s'intende per modelli produttivi.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Abbiamo detto che per sistemi agricoli sostenibili si intendono quei modelli produttivi in primo luogo in grado di realizzare produzioni alimentari adeguate per qualit&#224; e quantit&#224;; in secondo luogo, di garantire una giusta remunerazione economica per gli agricoltori; e infine, di favorire la salvaguardia dei suoli agricoli e delle risorse naturali. In altre parole sostenibilit&#224; significa &#8220;ricercare un mantenimento della produzione agraria e della fertilit&#224; del suolo sul lungo periodo, riducendo i rischi ambientali legati alle pratiche agronomiche stesse&#8221;.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>realizzare produzioni alimentari adeguate per quanit&#224; e qualit&#224;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>garantire un'adeguata remunerazione per il agricoltori<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>guadagnare il pi&#249; possibile in meno tempo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>salvaguardare i suoli agricoli e le risorse naturali<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa sono i sistemi agricoli sostenibili ._Expo_1_4_mul_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa sono i sistemi agricoli sostenibili .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Abbiamo detto che per sistemi agricoli sostenibili si intendono quei modelli produttivi in primo luogo in grado di realizzare produzioni alimentari adeguate per qualit&#224; e quantit&#224;; in secondo luogo, di garantire una giusta remunerazione economica per gli agricoltori; e infine, di favorire la salvaguardia dei suoli agricoli e delle risorse naturali.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>sono dei semplici modelli per l'agricoltura<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>sono modelli produttivi in grado di realizzare produzioni alimentari adeguate per  qualit&#224; e quantit&#224;;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>sono modelli in grado di garantire una giusta remunerazione economica per gli agricoltori<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>sono modelli in grado di favorire la salvaguardia dei suoli agricoli e delle  risorse naturali<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono le macro aree identificate dal punto di vista metodologico._Expo_1_4_mul_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono le macro aree identificate dal punto di vista metodologico.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Dal punto di vista metodologico sono state identificate 4 macro aree la pianura lombardo-veneta, la regione Emilia-Romagna, l&#8217;Italia centrale (Toscana, Marche Umbria)e l&#8217;Italia meridionale e insulare (Puglia, Basilicata e Sicilia) , per le quali sono stati individuati degli avvicendamenti colturali standard sufficientemente rappresentativi delle rotazioni nelle quali &#232; coltiv ato il frumento duro in Italia
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>a regione Emilia-Romagna,<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>la pianura lombardo-veneta,<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>l'Italia centrale <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>l'italia settentrionale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa sta per l'acronimo CA ._Expo_1_4_mul_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa sta per l'acronimo CA .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'agricoltura di conservazione (Conservation Agricolture - CA) &#232; un modello che promuove la lavorazione massima del suolo allo scopo di mantenere e preservare la sua struttura; inoltre, ammette pratiche come la pacciamatura e non limita l'uso di sementi OGM o prodotti agrochimici, come avviene, invece, nell'agricoltura biologica 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Conservation Agricolture<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Conservation Alimentation<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Climate Alimentation <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Climate Agricolture <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="multichoice">
+		<name>
+			<text>Alcuni di questi sono indicatori scelti durante la produzione del frumento. Quali._Expo_1_4_mul_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Alcuni di questi sono indicatori scelti durante la produzione del frumento. Quali.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Gli indicatori scelti sono diversi,                                                                                                                                                                                                                                                                                         
+-Produzione in granella, per ogni sistema analizzato sono state stimate le produzioni delle varie colture, compreso il frumento duro.
+-Carbon Footprint o Impronta del Carbonio,rappresenta	l&#8217;ammontare totale di GhG (Greenhouse Gases o gas serra),	ovvero quelle sostanze presenti in atmosfera che riescono a trattenere, la radiazione infrarossa emessa dalla superficie terrestre,dall&#8217;atmosfera e dalle nuvole.
+-Water Footprint o Impronta dell&#8217;Acqua, rappresenta il consumo d&#8217;acqua legato alla produzione di beni e servizi.
+-Ecological Footprint o Impronta Ecologica,misura l&#8217;area biologicamente	produttiva di mare e di terra necessaria per rigenerare le risorse consumate da una	popolazione umana e per assorbire i rifiuti corrispondenti.
+-Reddito lordo (RL), rappresenta la differenza fra la produzione Lorda vendibile e il Costo di produzione delle coltivazioni.
+-Efficienza di utilizzazione dell&#8217;azoto,rappresenta	la quantit&#224; di granella prodotta per unit&#224; di azoto distribuito sulla coltura	di frumento duro.
+-Rischio DON, esprime il rischio di contaminazione della granella da parte del deossinivalenolo (don), pericolosa micotossina che viene sviluppata da un gruppo di funghi patogeni	che attaccano la spiga del frumento duro.
+                                                                                                                                                                                                                                                                                   
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>Produzione in granella, per ogni sistema analizzatosono state stimate le produzioni delle varie colture,compresoil frumento duro  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>Carbon Footprint o Impronta del Carbonio, rappresental'ammontare totale di GhG (GreenhouseGases o gas serra)<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>Water Footprint o Impronta dell'Acqua, rappresenta il consumo d'acqua legato alla produzione di benie servizi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Manure Footprint o Impronta del Concime, rappresental'ammontare totale del concime utilizzato<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="multichoice">
+		<name>
+			<text>Da cosa sono caratterizzati i sistemi HEI (High External Input)._Expo_1_4_mul_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Da cosa sono caratterizzati i sistemi HEI (High External Input).<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> I sistemi HEI (High External Input) sono caratterizzati dal loro forte orientamento commerciale, dall&#8217;impiego di variet&#224; vegetali a elevata resa produttiva, dall&#8217;intensa meccanizzazione(che si accompagna a una bassa intensit&#224; di manodopera) e dalla dipendenza da fattori produttivi di natura sintetica (fertilizzanti e prodotti agrochimici).Si tratta di modelli di produzione finalizzati alla massimizzazione dell&#8217;output in condizioni di massima efficienza, grazie alle economie di scala conseguibili. La monocoltura e la coltivazione di specie vegetali geneticamente modificate (OGM) rappresentano l&#8217;estremizzazione di tale approccio.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>dalla sistemazione di nuovi sistemi agricoli <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>dall'impiego di variet&#224; vegetali a elevata resa produttiva, <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>dall'intensa meccanizzazione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p> dalla dipendenza da fattori produttivi di natura sintetica<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+	
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<title></title>
+</head>
+
+<body style="background: #F1F1F1; text-align: center;">
+	<div style="background: #FFF; font-family:Arial; width: 500px; padding: 20px; margin: 30px auto; text-align: left;">
+		<h1>Istruzioni</h1>
+		<p>Per poter scompattare il file direttamente sul server</p>
+		<ol>
+			<li>
+			Tramite ftp carica la cartella "minidesign-pclzip" nella directory in cui vuoi che vengano estratti i file.
+			</li>
+			<li>
+			Carica l'archivio da decomprimere nella cartella "minidesign-pclzip". 
+			</li>
+			<li>
+			Scrivi il nome del file nel form sottostante e invia i dati.<br />
+			I file saranno estratti nella stessa directory in cui si trova la cartella "minidesign-pclzip"
+			</li>
+			
+		</ol>
+		<div style="background: #FDFDFD; padding: 10px; border: 1px solid #ccc;">
+			<form method="get" action="unzip.php">
+				<p>Inserisci il nome del file comprensivo di estensione (deve trovarsi nella cartella "minidesign-pclzip"):</p>
+				<p style="font-size:small">Es.: file-esempio.zip</p>
+				<input type="text"name="nome">
+				<input type="submit" value="Unzip">
+                <br />CodiceAllievo <input type="text" name="CodiceAllievo" value="ciccio">
+                <br /> <input type="hidden" name="Cartella" value="<%=Cartella%>">
+                <br /> <input type="hidden" name="IDPARENT" value="<%=IDPARENT %>">
+                <br /> <input type="hidden" name="Materia" value="<%=Materia %>">
+                <br /> <input type="hidden" name="Social" value="<%=Social %>">
+                 <br /> <input type="hidden" name="homesito" value="<%=homesito%>">
+                
+            
+			</form>
+		</div>
+		 
+	</div>
+</body>
+</html>

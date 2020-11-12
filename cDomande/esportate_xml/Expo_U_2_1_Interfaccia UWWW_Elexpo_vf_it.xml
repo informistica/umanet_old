@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="truefalse">
+		<name>
+			<text>Al supermercato pur di far in fretta &#232; giusto prendere il primo prodotto che si trova senza controllare l'etichetta e confrontarla con altri prodotti._Expo_U_2_1_vf_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Al supermercato pur di far in fretta &#232; giusto prendere il primo prodotto che si trova senza controllare l'etichetta e confrontarla con altri prodotti.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>E' falso perche al supermercato bisogna confrontare i prodotti consultando l'etichetta per evitare consumi non necessari. bisogna solo consumare prodotti che rispettano l'ambiente
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="truefalse">
+		<name>
+			<text>L'elexpo, di fronte alle informazioni date dai media, deve continuare come se niente fosse_Expo_U_2_1_vf_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'elexpo, di fronte alle informazioni date dai media, deve continuare come se niente fosse<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Di fronte ai problemi che i media ci propongono tutti i giorni l'elexpo non deve rimanere indifferente, ma deve evolvere la consapevolezza delle persone per poter sensibilizzare tutti e affrontare i problemi del mondo. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="truefalse">
+		<name>
+			<text>L'elexp si deve impegnare a sensibilizzare l'opinione pubblica_Expo_U_2_1_vf_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'elexp si deve impegnare a sensibilizzare l'opinione pubblica<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Vero. In questo modo le persone possono capire come rendere il posto un mondo ecosostenibile per poter ridurre gli sprechi di risorse.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="truefalse">
+		<name>
+			<text>Per migliorare l'ambiente si deve ignorare tutto quello che c'&#232; prima e dopo ci&#242; che consumo ora _Expo_U_2_1_vf_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per migliorare l'ambiente si deve ignorare tutto quello che c'&#232; prima e dopo ci&#242; che consumo ora <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Falso. Perch&#233; sapere ci&#242; che avviene a quello che compriamo &#232; molto importante per capire come vengono creati e smaltiti i prodotti e, in base a questo, si pu&#242; capire se vengono riciclati oppure inquinano l'ambiente.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="truefalse">
+		<name>
+			<text>E' opportuno informarsi sul consumo critico e sulle multinazionali da boicottare_Expo_U_2_1_vf_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>E' opportuno informarsi sul consumo critico e sulle multinazionali da boicottare<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Vero. In questo modo &#232; possibile sapere se le multinazionali consumano in modo sostenibile oppure no.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="truefalse">
+		<name>
+			<text>Per migliorare l'ambiente si devono mantenere le vecchie infrastrutture _Expo_U_2_1_vf_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per migliorare l'ambiente si devono mantenere le vecchie infrastrutture <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Falso. Se vengono mantenute le vecchie infrastrutture il modo di consumare non pu&#242; cambiare il modo di rendere il mondo ecosostenibile.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="truefalse">
+		<name>
+			<text>E' opportuno informarsi sul consumo critico e sulle multinazionali da boicottare._Expo_U_2_1_vf_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>E' opportuno informarsi sul consumo critico e sulle multinazionali da boicottare.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>E' importante comprare dopo  aver considerato provenienza e smaltimento del prodotto per volonta' di rispettare il pianeta terra e consumare in modo sostenibile.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="truefalse">
+		<name>
+			<text>Bisogna comprare dopo aver considerato la provenienza e lo smaltimento del prodotto._Expo_U_2_1_vf_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Bisogna comprare dopo aver considerato la provenienza e lo smaltimento del prodotto.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Porsi domande sulla provenienza e smaltimento di ci&#242; checonsumo per ridurre l'impronta ecologica per un consumo consapevole.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="truefalse">
+		<name>
+			<text>Per  evolvere ed essere pi&#249; sostenibili bisogna  pensare a fare solo ci&#242; che &#232; meglio per s&#233;_Expo_U_2_1_vf_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per  evolvere ed essere pi&#249; sostenibili bisogna  pensare a fare solo ci&#242; che &#232; meglio per s&#233;<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il compito dell'Elexpo, quando interagisce con l'ambiente, &#232; quello di scegliere la strategia che conduce all'Ottimo di Pareto. Una situazione di reciproco sostegno in cui tutti vincono.  L'Elexpo &#232; una persona consapevole ed equilibrata capace di fare ci&#242; che &#232; meglio per s&#233;, per gli altri e per l'ambiente.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="truefalse">
+		<name>
+			<text>Cooperazione vuol dire fare ci&#242; che &#232; meglio per s&#233; e per il gruppo_Expo_U_2_1_vf_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cooperazione vuol dire fare ci&#242; che &#232; meglio per s&#233; e per il gruppo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Per ottenere il massimo guadagno per il gruppo &#232; necessario che si instauri una cooperazione tra i giocatori, vale a dire che tutti agiscano non col fine di ottenere solo il miglior risultato per s&#233;, ma di ottenere il miglior risultato per il gruppo, e quindi, indirettamente, ottenendo un risultato migliore anche per s&#233;.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="truefalse">
+		<name>
+			<text>Potenziale Elexpo per evolvere devi ricercare pi&#249; beni materiali_Expo_U_2_1_vf_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Potenziale Elexpo per evolvere devi ricercare pi&#249; beni materiali<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'UOMO NUOVO PUO' DIVENTARE UNA PERSONA CONSAPEVOLE (ELEXPO) SOLO SE ASPIRA AD UN FUTURO MIGLIORE. E' NECESSARIO CAMBIARE  ATTEGGIAMENTO NEI CONFRONTI DELLA TERRA E TROVARE UN NUOVO EQUILIBRIO TRA RISORSE E CONSUMI. PER RIUSCIRE E' NECESSARIO SMETTERE DI RICERCARE PIU' BENI MATERIAL ED ABBANDONARE  I COMPORTAMENTI INSOSTENIBILI (SINO) (IO VINCO - TU PERDI)  IL CUI IMPATTO AMBIENTALE GENERA FORTI SQUILIBRI CLIMATICI ALTRIMENTI SI REALIZZERA' UN FUTURO PEGGIORE PER LA NOSTRA E LE FUTURE GENERAZIONI.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="truefalse">
+		<name>
+			<text>Per trovare un equilibrio tra risorse e consumi &#232; necessario sensibilizzare l'opinione pubblica_Expo_U_2_1_vf_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per trovare un equilibrio tra risorse e consumi &#232; necessario sensibilizzare l'opinione pubblica<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'UOMO NUOVO DEVE RIDURRE L'IMPATTO AMBIENTALE DELLE ATTIVITA' UMANE  SOLO CAMBIANDO SU SCALA PERSONALE E GLOBALE E POSSIBILE ASPIRARE AD UN EQUILIBRIO TRA RISORSE E CONSUMI CHE SIA SOSTENIBILE. E' NECESSARIO CAMBIARE  ATTEGGIAMENTO NEI CONFRONTI DELLE RISORSE NATURALI. PER RIUSCIRE E' NECESSARIO SENSIBILIZZARE L'OPINIONE PUBBLICA E SMETTERE DI NEGARE  I RISCHI DEI COMPORTAMENTI SINO IL CUI IMPATTO AMBIENTALE GENERA UN PERICOLOSO AUMENTO DELLA TEMPERATURA DEL PIANETA.  ALTRIMENTI CI SARANNO  A SCONVOLGIMENTI CLIMATICI SEMPRE PIU' VIOLENTI.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="truefalse">
+		<name>
+			<text>Il pianeta &#232; in difficolt&#224; ed ha bisogno di te ma tu non puoi fare nulla per aiutare l'ambiente_Expo_U_2_1_vf_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il pianeta &#232; in difficolt&#224; ed ha bisogno di te ma tu non puoi fare nulla per aiutare l'ambiente<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Se ognuno di noi fa la sua parte, insieme potremo ottenere ci&#242; che &#232; necessario. 
+Potremo avere un impatto su coloro che decidono la politica e il destino della societ&#224;, 
+e motivarli affinch&#233; attuino i cambiamenti necessari.
+(Dal libro &#8220;Tu puoi cambiare il mondo&#8221;. E.Laszlo)
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="truefalse">
+		<name>
+			<text>Per evolvere la propria identit&#224; bisogna evitare di integrare nuove conoscenze _Expo_U_2_1_vf_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per evolvere la propria identit&#224; bisogna evitare di integrare nuove conoscenze <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Potenziale Elexpo, il rimanere attaccato ai soliti comportamenti &#224; ci&#242; che limita la tua evoluzione ed ostacola la sostenibilit&#224;. 
+Per superare le debolezze di un atteggiamento immutabile troppo centrato sui desideri e bisogni del Client Interno [IO], &#232; necessario integrare nuovi valori olistico  una fusione   per evolvere in un individuo  pi&#249; attento ai bisogni del Client Esterno [Ambiente]
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="truefalse">
+		<name>
+			<text>Concentrazione, conoscenza e voglia di essere pi&#249; sostenibili sono necessarie per equilibrarsi_Expo_U_2_1_vf_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Concentrazione, conoscenza e voglia di essere pi&#249; sostenibili sono necessarie per equilibrarsi<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il pianeta &#232; in difficolt&#224; ha bisogno di te, bisogna abbandonare l&#8217;abitudine a non considerare il vero mondo che esiste oggi.	 Essere persone concentrate su questioni importanti e motivate ad essere pi&#249; sostenibili sono condizioni necessarie per equilibrarsi.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="truefalse">
+		<name>
+			<text>L'abitudine a non considerare il vero mondo che esiste oggi &#232; un ostacolo al cambiamento_Expo_U_2_1_vf_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'abitudine a non considerare il vero mondo che esiste oggi &#232; un ostacolo al cambiamento<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Nonostante il numero di persone sensibili alle questioni della sostenibilit&#224; stiano costantemente crescente, come rilevano le ricerche sui creativi culturali, ancora troppe persone sono poco concentrate ed informate. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="truefalse">
+		<name>
+			<text>Il futuro dipende dalla scelta tra gli atteggiamenti assunti nei confronti della &#8220;vera realt&#224;&#8221;_Expo_U_2_1_vf_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il futuro dipende dalla scelta tra gli atteggiamenti assunti nei confronti della &#8220;vera realt&#224;&#8221;<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La pigrizia mentale del ripetere costantemente i soliti comportamenti porta alla lunga a vivere la vita senza consapevolezza di s&#233; e del mondo e quindi genera senso di insoddisfazione. E' fondamentale la scelta del tipo di atteggiamento nei confronti delle richieste di cambiamento che provengono dall'ambiente. Distrazione, ignoranza, egoismo, rigidit&#224;, sono lacci che il potenziale Elexpo deve saper spezzare.  
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 18 -->
+	<question type="truefalse">
+		<name>
+			<text>Concentrazione vuol dire ignorare le problematiche legate al cibo e all'ambiente  _Expo_U_2_1_vf_18</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Concentrazione vuol dire ignorare le problematiche legate al cibo e all'ambiente  <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Le persone che scelgono la pillola rossa della concentrazione e conoscenza hanno voglia di conoscere la vera realt&#224; e i suoi paradossi  
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 19 -->
+	<question type="truefalse">
+		<name>
+			<text>Concentrazione vuol dire sostenere i tentativi di soluzione dei paradossi iper-ipo_Expo_U_2_1_vf_19</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Concentrazione vuol dire sostenere i tentativi di soluzione dei paradossi iper-ipo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il potenziale Elexo si impegna nella soluzione dei paradossi iper-ipo iniziando a cambiare s&#233; stesso. Il modo migliore di cambiare il mondo &#232; cambiare s&#233; stessi.  Individua le anomalie iper-ipo nella vita quotidiana e sostiene il riequilibrio, aggiungendo ci&#242; che &#232; carente e togliendo ci&#242; che &#232; di troppo.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 20 -->
+	<question type="truefalse">
+		<name>
+			<text>Per sensibilizzare l'opinione pubblica bisogna diffondere consapevolezza_Expo_U_2_1_vf_20</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per sensibilizzare l'opinione pubblica bisogna diffondere consapevolezza<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'UOMO NUOVO ELEXPO DEVE SENSIBILIZZARE L'OPINIONE PUBBLICA. E' NECESSARIO CAMBIARE  ATTEGGIAMENTO NEI CONFRONTI DEI MEDIA. PER RIUSCIRE E' NECESSARIO  IMPEGNARSI PER CREARE COSCIENZA COLLETTIVA. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 21 -->
+	<question type="truefalse">
+		<name>
+			<text>l'uomo sostenibile deve comprare a priori il prodotto al prezzo piu basso  _Expo_U_2_1_vf_21</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>l'uomo sostenibile deve comprare a priori il prodotto al prezzo piu basso  <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> no, non deve comprare il prodotto a priori con il costo pi&#249; basso ma deve considerare anche il processo di smaltimento del prodotto
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 22 -->
+	<question type="truefalse">
+		<name>
+			<text>l'uomo sostenibile deve ignorare tutto come se niente fosse_Expo_U_2_1_vf_22</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>l'uomo sostenibile deve ignorare tutto come se niente fosse<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> no, &#232; sbagliato ! deve informarsi sulla provenienza del prodotto e sul consumo critico e sulle multinazionali perch&#233; ci&#242; porterebbe alla diminuzione di prodotti sul commercio equo e solidale presenti nei supermercati 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 23 -->
+	<question type="truefalse">
+		<name>
+			<text>prof sostenibile  deve avere un metodo di insegnamento efficente ._Expo_U_2_1_vf_23</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>prof sostenibile  deve avere un metodo di insegnamento efficente .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> si, perch&#233; aiuterebbe maggiormente al coinvolgimento degli studenti  migliorandone l'andamento .Altrimenti gli studenti sarebbero annoiati dalle lezioni perch&#233; incomprensibili e noiose.Questo potrebbe portare al disinteressamento dello studente nei confronti della materia .
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 24 -->
+	<question type="truefalse">
+		<name>
+			<text>lo studente sostenibile de saper sviluppare un metodo di apprendimento._Expo_U_2_1_vf_24</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>lo studente sostenibile de saper sviluppare un metodo di apprendimento.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> si deve saper sviluppare un metodo efficiente di apprendimento per sviluppare conoscenze e competenze. Altrimenti ci saranno dei risultati insoddisfacenti. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 25 -->
+	<question type="truefalse">
+		<name>
+			<text>elexpo deve reagire in modo permaloso ._Expo_U_2_1_vf_25</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>elexpo deve reagire in modo permaloso .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> deve reagire in maniera equilibrata migliorandosi assumendo un atteggiamento di apertura cercando di non prendersela
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 26 -->
+	<question type="truefalse">
+		<name>
+			<text>l'uomo sostenibile deve porsi domande  sulla  provenienza e  smaltimento di  ci&#242; che  consuma.. _Expo_U_2_1_vf_26</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>l'uomo sostenibile deve porsi domande  sulla  provenienza e  smaltimento di  ci&#242; che  consuma.. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> perch&#233; ignorando tutto quello che c'&#232; prima e dopo ci&#242; che consumo ora porterebbe a un crescente inquinamento dell'ambiente esterno ed interno , ignorando il ciclo di vita del prodotto
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 27 -->
+	<question type="truefalse">
+		<name>
+			<text>L'uomo sbaglia nel comprare a priori il prodotto a prezzo pi&#249; basso._Expo_U_2_1_vf_27</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'uomo sbaglia nel comprare a priori il prodotto a prezzo pi&#249; basso.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L'uomo sostenibile deve avere una maggiore attenzione nei confronti di ci&#242; che finisce nel carrello della spesa perch&#232; ormai sono pochi i produttori interessati a produrre prodotti migliori. 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 28 -->
+	<question type="truefalse">
+		<name>
+			<text>L'uomo sostenibile per aspirare ad un futuro migliore deve porsi delle domande sulla provenienza e smaltimento di ci&#242; che consuma ora._Expo_U_2_1_vf_28</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'uomo sostenibile per aspirare ad un futuro migliore deve porsi delle domande sulla provenienza e smaltimento di ci&#242; che consuma ora.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> l'uomo sostenibile riguardo l'aspetto del consumare, per evitare il crescente inquinamento dell'ambiente esterno ed interno deve porsi delle domande sulla provenienza e smaltimento di ci&#242; che consuma, al fine di arrivare ad aspirare ad un futuro migliore.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 29 -->
+	<question type="truefalse">
+		<name>
+			<text>L'elexpo deve rimanere con le vecchie abitudini d'acquisto._Expo_U_2_1_vf_29</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'elexpo deve rimanere con le vecchie abitudini d'acquisto.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L'elexpo deve consumare in modo sostenibile e deve comprare dopo aver considerato provenienza e smaltimento del prodotto, quindi non deve continuare come se nulla fosse.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 30 -->
+	<question type="truefalse">
+		<name>
+			<text>L'elexpo si impegna per promuovere sistemi di irrigazione pi&#249; efficienti per ottimizzare l'uso delle risorse in agricoltura. _Expo_U_2_1_vf_30</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'elexpo si impegna per promuovere sistemi di irrigazione pi&#249; efficienti per ottimizzare l'uso delle risorse in agricoltura. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'elexpo &#232; alla ricerca di infrastrutture idriche pi&#249; efficienti in modo da ridurre lo spreco inutile di acqua
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 31 -->
+	<question type="truefalse">
+		<name>
+			<text>L'elexpo compra a priori il prodotto al prezzo pi&#249; basso, senza considerare la provenienza e il metodo di produzione. _Expo_U_2_1_vf_31</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'elexpo compra a priori il prodotto al prezzo pi&#249; basso, senza considerare la provenienza e il metodo di produzione. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'elexpo si pone domande sui prodotti che acquista, sulla provenienza e sul tipo di produzione, in modo da consumare consapevolmente.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 32 -->
+	<question type="truefalse">
+		<name>
+			<text>L'elexpo vuole continuare a dipendere dall' importazione di energia dall'estero ._Expo_U_2_1_vf_32</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'elexpo vuole continuare a dipendere dall' importazione di energia dall'estero .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'elexpo vuole investire nella tecnologia per le fonti rinnovabili per sviluppare autonomia e indipendenza energetica
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 33 -->
+	<question type="truefalse">
+		<name>
+			<text>L'elexpo utilizza la diplomazia per gestire i contrasti e i conflitti._Expo_U_2_1_vf_33</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'elexpo utilizza la diplomazia per gestire i contrasti e i conflitti.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L'elexpo &#232; pacificatore, la diplomazia &#232; la sua arma.
+
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 34 -->
+	<question type="truefalse">
+		<name>
+			<text>L'elexpo vuole ridurre lo spreco di acqua per sprecare ancora pi&#249; sostanze che non siano acqua_Expo_U_2_1_vf_34</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'elexpo vuole ridurre lo spreco di acqua per sprecare ancora pi&#249; sostanze che non siano acqua<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>l'elexpo non vuole limitare i consumi per sprecare pi&#249; risorse, ma vuole ridurre gli sprechi per usare meno risorse del pianeta
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

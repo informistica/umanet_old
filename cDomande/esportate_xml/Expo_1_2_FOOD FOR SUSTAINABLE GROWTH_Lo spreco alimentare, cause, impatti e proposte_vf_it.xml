@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="truefalse">
+		<name>
+			<text>L'assorbimento di acqua dell'agricoltura sara' minore di quello dell'industria_Expo_1_2_vf_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'assorbimento di acqua dell'agricoltura sara' minore di quello dell'industria<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> no, perche' si stima che nel 2030 l&#8217;agricoltura rappresentera' ancora il comparto con il maggiore assorbimento di risorse idriche mondiali 18, mentre il peso dell&#8217;industria rimarr&#224; stabile o tutt&#8217;al pi&#249; in lieve diminuzione, grazie soprattutto all&#8217;incremento di efficienza che caratterizzer&#224; i processi produttivi.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="truefalse">
+		<name>
+			<text>I paesi emergenti utilizzano piu' risorse idriche._Expo_1_2_vf_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I paesi emergenti utilizzano piu' risorse idriche.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>analizzando l&#8217;incremento del prelievo di risorse idriche negli anni 2005- 2030 per area geografica, si osserva come l&#8217;incremento pi&#249; consistente della domanda d&#8217;acqua per uso agricolo avverr&#224; principalmente in Paesi emergenti come l&#8217;India &#8211; dove il comparto agricolo incider&#224; per oltre il 10% sul PIL del Paese nel 2030 &#8211; e l&#8217;Africa sub-sahariana, mentre l&#8217;aumento pi&#249; consistente per uso industriale si verificher&#224; soprattutto in Cina.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="truefalse">
+		<name>
+			<text>L'india dovra' in futuro produrre piu' cibo con meno acqua._Expo_1_2_vf_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'india dovra' in futuro produrre piu' cibo con meno acqua.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L&#8217;India in particolare, a causa del forte incremento demografico previsto, vivra' in futuro la sfida di dover produrre pi&#249; cibo con meno acqua a disposizione.
+La situazione non appare diversa se si considera direttamente la disponibilit&#224; prospettica di acqua pro capite nelle diverse aree mondiali, l&#8217;Africa passer&#224; dai quasi 16.000 m3 pro capite del 1960 a meno di 4000 nel 2025, l&#8217;Asia da circa 6000 a circa 2000, il Medio Oriente e il Nord Africa dai circa 4000 del 1960 a meno di 2000 nel 2025.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="truefalse">
+		<name>
+			<text>In Italia il costo della spesa incide di pi&#249; nel reddito familiare che negli Stati Uniti_Expo_1_2_vf_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>In Italia il costo della spesa incide di pi&#249; nel reddito familiare che negli Stati Uniti<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  La crescente disponibilit&#224; e variet&#224; di cibo, il prezzo tendenzialmente in calo e una percentuale sempre pi&#249; bassa di reddito destinata ai generi alimentari hanno progressivamente favorito una maggiore tolleranza verso gli sprechi alimentari. Negli Stati Uniti l&#8217;incidenza della spesa alimentare sul reddito medio familiare oggi &#232; pari al 5-10%, mentre nel 1937 era del 35% e nel 1914 del 60%. In Italia si &#232; passati dal 30% nel 1970 al 12% circa nel 2009.
+
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="truefalse">
+		<name>
+			<text>Si possono raccogliere alimenti scartati anche direttamente dalla filiera agricola _Expo_1_2_vf_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Si possono raccogliere alimenti scartati anche direttamente dalla filiera agricola <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Le pietanze ancora intatte e mai utilizzate prima possono provenire anche da ricevimenti pubblici, servizi di catering e concerti (come per esempio nel caso del progetto 'The Rock and Wrap It Up!' negli Stati Uniti). Infine, si possono raccogliere alimenti scartati anche direttamente dalla filiera agricola (Feeding America e della Society of St.Andrew negli Stati Uniti).
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="truefalse">
+		<name>
+			<text>Riguardo alla riduzione dello spreco alimentare, entro il 2015 il WRAP punta a risparmiare 3,2 milioni di tonnellate all'anno di emissioni equivalenti di CO 2_Expo_1_2_vf_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Riguardo alla riduzione dello spreco alimentare, entro il 2015 il WRAP punta a risparmiare 3,2 milioni di tonnellate all'anno di emissioni equivalenti di CO 2<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Il WRAP, infatti, si pone l&#8217;obiettivo di raggiungere su base annua almeno,
+- 7 milioni di tonnellate in meno di emissioni di CO2;
+- 3 milioni di tonnellate di rifiuti biodegradabili in meno nelle discariche inglesi;
+- 1,9 miliardi di sterline risparmiati da consumatori, imprese e settore pubblico;
+- 130 milioni di sterline in pi&#249; nella gestione delle risorse;
+- 3 milioni di tonnellate in meno delle risorse primarie utilizzate;
+- 2 milioni di tonnellate in meno di rifiuti prodotti.
+Riguardo alla riduzione dello spreco alimentare, entro il 2015 il WRAP punta a risparmiare 3,2 milioni di tonnellate all&#8217;anno di emissioni equivalenti di CO2, legate allo spreco &#8220;evitabile&#8221; di alimenti e bevande.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="truefalse">
+		<name>
+			<text>Una delle cause dello spreco sono i limiti tecnici e dei processi di trasformazione e produzione_Expo_1_2_vf_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Una delle cause dello spreco sono i limiti tecnici e dei processi di trasformazione e produzione<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Una delle cause maggiore dello spreco sono i limiti tecnici e dei processi di trasformazione e produzione. Anche altre cause, limiti nei sistemi distributivi; errori di previsione degli ordini e gestione delle scorte; deterioramento dei prodotti e imballaggi; strategie di marketing e vendita.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="truefalse">
+		<name>
+			<text>Perdite e sprechi alimentari generano impatti negativi ambientali ed economici e la loro esistenza solleva questioni di carattere sociale. _Expo_1_2_vf_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Perdite e sprechi alimentari generano impatti negativi ambientali ed economici e la loro esistenza solleva questioni di carattere sociale. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Perdite e sprechi alimentari generano impatti negativi ambientali ed economici e la loro esistenza solleva questioni di carattere sociale. Per stimare l&#8217;impatto ambientale di un alimento sprecato &#232; necessario considerare il suo intero &#8220;ciclo di vita&#8221; (ossia percorrere tutte le fasi della filiera agroalimentare) calcolando gli indicatori comunemente usati quali il Carbon Footprint (CO2 equivalente), l&#8217;Ecological Footprint (m2 equivalenti) e il Water Footprint (m3 di acqua virtuale). In Italia i dati raccolti hanno evidenziato come la frutta e gli ortaggi gettati via nei punti vendita abbiano da soli comportato il consumo di pi&#249; di 73 milioni di m3 d&#8217;acqua (Water Footprint) in un anno, l&#8217;utilizzo di risorse ambientali pari a quasi 400 m2 equivalenti (Ecological Footprint) e l&#8217;emissione in atmosfera di pi&#249; di 8 milioni di kg di CO2  -equivalente (Carbon Footprint).
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

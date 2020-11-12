@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>Quale tra i seguenti Paesi ha incentivi e i riconoscimenti per il whistleblower._Expo_6_4_sin_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quale tra i seguenti Paesi ha incentivi e i riconoscimenti per il whistleblower.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Israele &#232; uno tra i Paesi che hanno gli incentivi e i riconoscimenti per il whistleblower, come anche Australia, Belgio, Canada, Giappone, Slovacchia e altri Paesi
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Italia  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Gran Bretagna<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Portogallo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Israele<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>Quale tra le seguenti opzioni ha la percentuale minore come ritorsioni verso il whistleblower._Expo_6_4_sin_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quale tra le seguenti opzioni ha la percentuale minore come ritorsioni verso il whistleblower.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Perch&#233;, nel grafico della 'Protezione da atti ritorsivi', il 'Demansionamento' ha la percentuale minore, mentre il 'Licenziamento, sospensione e retrocessione' ha la percentuale maggiore (100%)
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Licenziamento, sospensione, retrocessione  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Demansionamento<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Sottoposizione a esami medici<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Trasferimento, spostamento<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>In quali campi sono disposti i seguenti paesi, 1.Giappone, 2.Spagna e 3.Italia._Expo_6_4_sin_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>In quali campi sono disposti i seguenti paesi, 1.Giappone, 2.Spagna e 3.Italia.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>I paesi con nessuna legislazione sul whistleblower,
+Finlandia, Polonia, Spagna, Svezia, Repubblica ceca;
+I paesi con testi unici di legge,
+Australia, Belgio, Canada, Ungheria, Irlanda, Israele, Giappone, Korea, Nuova Zelanda, Slovacchia, UK, USA;
+I paesi con singole disposizioni normative contenute in varie leggi,
+Austria, Cile, Estonia, Francia, Germania, Grecia, Islanda, Italia, Messico, Norvegia, Portogallo, Slovenia, Svizzera, Turchia. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1.Testi unici di legge; 2.Singole disposizioni normative contenute in varie leggi; 3.Nessuna legislazione sul whistleblower<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>1.Testi unici di legge; 2.Nessuna legislazione sul whistleblower; 3.Singole disposizioni normative contenute in varie leggi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1.Nessuna legislazione sul whistleblower; 2.Singole disposizioni normative contenute in varie leggi; 3.Testi unici di legge<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1.Singole disposizioni normative contenute in varie leggi; 2.Testi unici di legge; 3.Nessuna legislazione sul whistleblower<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>Public Concern At Work (PCaW) &#232;..._Expo_6_4_sin_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Public Concern At Work (PCaW) &#232;...<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Public Concern at Work &#232; un&#8217;organizzazione non profit, fondata nel 1993, che negli ultimi 20 anni ha prestato il suo sostegno, attraverso avvocati ed esperti in risorse umane, ad oltre 14000 segnalatori o potenziali segnalatori.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Un gruppo di persone contro i segnalatori<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Un'organizzazione che spiega come fare il whistleblower;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Un'organizzazione volta a sostenere i whistleblower; <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessuna delle precedenti.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="multichoice">
+		<name>
+			<text>Verso quali atti ritorsivi il whistleblower ha una protezione del 100%_Expo_6_4_sin_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Verso quali atti ritorsivi il whistleblower ha una protezione del 100%<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>   La protezione da atti ritorsivi garantisce contro i provvedimenti,
+- licenziamento, sospensione, retrocessione che il 100%;
+- trasferimento, spostamento che rappresenta pi&#249; del 95%;
+-demansionamento che rappresenta pi&#249; del 90%;
+-riduzione di stipendio, benefici o training che rappresenta il 90%;
+-sottoposizione a esami medici che rappresenta il 60%.
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Trasferimento, spostamento   <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Sottoposizione a esami medici<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Riduzione di stipendio, benefici o training <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Licenziamento, sospensione, retrocessione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="multichoice">
+		<name>
+			<text>Tra le condotte segnalabili  sono presenti la corruzione e l'abuso di potere._Expo_6_4_sin_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Tra le condotte segnalabili  sono presenti la corruzione e l'abuso di potere.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Le condotte segnalabili sono,
+- reati con circa il 99%;
+- violazioni di legge con circa il 93%;
+- corruzione con circa il 95%;
+- grave violazione di codici con circa l'85%;
+- abuso di potere con l'80%;
+- uso improprio di beni pubblici con l'80%;
+- grave pericolo con circa il 75%;
+- grave mala gestione con circa il 75%;
+- istigazione all'illecito con il 60%;
+- ingiusto provvedimento con il 60%.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>No  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Si, entrambe<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Solo la prima<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Solo la seconda<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="multichoice">
+		<name>
+			<text>La sezione consultiva della casa del whistleblower..._Expo_6_4_sin_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La sezione consultiva della casa del whistleblower...<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  La casa del whistleblower &#232; divisa in due sezioni separate. Quella consultiva accompagna i potenziali segnalanti fornendo informazioni su meccanismi di segnalazione e modalit&#224; del procedimento di tutela.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Ha lo scopo di scoraggiare i whistleblowers dal loro scopo;  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Serve a formare nuovi whistleblowers;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Serve ad accompagnare e proteggere i segnalatori;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Avvia un'inchiesta sull'illecito segnalato.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="multichoice">
+		<name>
+			<text>La sigla PCaW significa_Expo_6_4_sin_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La sigla PCaW significa<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> la sigla PCaW significa, Public Concern at Work ed &#232; un&#8217;organizzazione non profit, fondata nel 1993, che negli ultimi 20 anni ha prestato il suo sostegno, attraverso avvocati ed esperti in risorse umane, ad oltre 14000 segnalatori o potenziali segnalatori.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Post Concert at Work <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Personal Computer at Work<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Public Concern at Work<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Private Concern at Work<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="multichoice">
+		<name>
+			<text>La Casa del Whistleblower nei Paesi Bassi &#232; stata istituita con una legge del,_Expo_6_4_sin_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La Casa del Whistleblower nei Paesi Bassi &#232; stata istituita con una legge del,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Istituita con una legge dell&#8217;1 marzo 2016, nei Paesi Bassi, la Casa del whistleblower introduce una protezione legale per i dipendenti pubblici e privati che segnalano condotte illecite sul luogo di lavoro.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>17 gennaio 1997  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>6 maggio 2006<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>1 marzo 2016<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>8 aprile 2009<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="multichoice">
+		<name>
+			<text>Public Concern at Work ha pubblicato uno studio sui whistleblowers dal quale &#232; emerso che,_Expo_6_4_sin_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Public Concern at Work ha pubblicato uno studio sui whistleblowers dal quale &#232; emerso che,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>   Nel 2013 Public Concern at Work &#232; un&#8217;organizzazione non profit ha pubblicato uno studio su 1000 casi di whistleblowers dal quale &#232; emerso che,
+x L' 82% delle segnalazioni &#232; stato fatto internamente, il 15% esternamente
+x La maggioranza (44%) dei whistleblowers ha segnalato il fatto una volta sola, il 39% due volte
+x Il 60% di loro non ha ricevuto alcuna risposta da parte della dirigenza; del restante 40% che ha ottenuto risposta si &#232; trattato di atti formali di ritorsione (retrocessioni, sospensioni o azioni disciplinari)
+x Il 16% dei whistleblowers ha avuto problemi di salute durante il percorso di segnalazione. Tra loro, il 20% si recava ancora al lavoro, l&#8217;80% era in aspettativa per malattia
+x Il 54 % di loro ha affermato che il comportamento illecito o pericoloso &#232; cessato
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il 90% di loro non ha ricevuto alcuna risposta da parte della dirigenza <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p> Il 10% di loro ha ricevuto una risposta da parte della dirigenza<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p> Il 60% di loro ha ricevuto una risposta da parte della dirigenza<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p> Il 60% di loro non ha ricevuto alcuna risposta da parte della dirigenza<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="multichoice">
+		<name>
+			<text>Che cosa fa la sezione consultiva della la casa del Whistleblower._Expo_6_4_sin_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Che cosa fa la sezione consultiva della la casa del Whistleblower.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La sezione consultiva della la casa del Whistleblower accompagna i potenziali segnalanti fornendo informazioni su meccanismi di
+segnalazione e modalit&#224; del procedimento di tutela.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>true</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Avvia un&#8217;inchiesta sia sull&#8217;illecito segnalato sia sul modo in cui il datore si lavoro si &#232; comportato nei confronti del dipendente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Accompagna i potenziali segnalanti fornendo informazioni su meccanismi di segnalazione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p> Pu&#242; chiedere informazioni ed effettuare ispezioni<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p> Pu&#242; chiedere informazioni, ma non effettuare ispezioni<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

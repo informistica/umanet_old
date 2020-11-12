@@ -1,0 +1,1539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>In quale anno l'Australia ha avuto l'anno pi&#249; piovoso_Expo_1_3_sin_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>In quale anno l'Australia ha avuto l'anno pi&#249; piovoso<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L&#8217;Australia ha avuto il suo anno pi&#249; piovoso dal 2000, il terzo pi&#249; piovoso dall&#8217;inizio delle rilevazioni nel 1900 e nel suo complesso ha vissuto la sua primavera pi&#249; piovosa mai registrata (settembre&#8211;novembre). Settimane di piogge forti nel mese di dicembre hanno portato a gravi allagamenti in tutta l&#8217;Australia nord-orientale. Le peggiori inondazioni sono avvenute nel Queensland, dove sono stati segnalati 16 decessi e circa 200 mila persone colpite. Queste inondazioni sono state le pi&#249; significative dagli anni Settanta.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1998   <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>2000<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>2005<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1976<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>In quale anno il Canada ha avuto il periodo piu' caldo _Expo_1_3_sin_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>In quale anno il Canada ha avuto il periodo piu' caldo <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il 2010 &#232; stato l&#8217;anno pi&#249; caldo dall&#8217;inizio delle rilevazioni nazionali iniziate nel 1948. Il Canada ha avuto il suo inverno pi&#249; caldo e secco nel periodo di dicembre 2009-febbraio, la primavera pi&#249; calda nel periodo di marzo-maggio, la terza estate pi&#249; calda nel periodo di giugno-agosto e il secondo autunno pi&#249; caldo nel periodo di settembre-novembre.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>2000  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>2005<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>2010<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1996<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>Quando si &#232; tenuto il summit internazionale sullo sviluppo sostenibile a Rio de Janeiro,_Expo_1_3_sin_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quando si &#232; tenuto il summit internazionale sullo sviluppo sostenibile a Rio de Janeiro,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Dal 20 al 22 giugno 2012 si &#232; tenuto a Rio de Janeiro il summit internazionale sullo sviluppo sostenibile UNCSD (United Nations Conference on Sustainable Development).
+Si parla di Rio+20 in quanto la conferenza &#232; stata appositamente programmata a vent&#8217;anni di distanza dal Vertice della Terra UNCED (United Nations Conference on Environment and Development) &#8211; pietra miliare dell&#8217;impegno assunto dai Paesi industrializzati e da quelli in via di sviluppo per la tutela dell&#8217;ambiente &#8211;, svoltosi sempre a Rio nel 1992.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Dal 1 al 3 ottobre 2009<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Dal 20 al 22 giugno 2012<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Dal 9 al 11 giugno 1956<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Dal 28 al 30 novembre 2012<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>Quale era l'obiettivo identificato dall'Assemblea Generale delle Nazioni Unite del summit_Expo_1_3_sin_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quale era l'obiettivo identificato dall'Assemblea Generale delle Nazioni Unite del summit<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L&#8217;obiettivo, cos&#236; come identificato dall&#8217; Assemblea Generale delle Nazioni Unite, era quello di rinnovare l&#8217;impegno politico per lo sviluppo sostenibile, valutando lo stato di avanzamento e i Gap rimanenti nell&#8217; implementazione degli impegni internazionali assunti negli ultimi decenni e individuando le nuove sfide emergenti.
+Il summit ha raccolto 500 mila partecipanti e 191 tra capi di Stato e di governo, Vicepresidenti, Ministri e responsabili di delegazioni.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Trovare delle risposte alla continua erosione del patrimonio naturale <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Cercare nuove tecniche di coltivazione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Sconfiggere la povert&#224;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Rinnovare l'impegno politico per lo sviluppo sostenibile<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="multichoice">
+		<name>
+			<text>I lavori, del summit, si sono conclusi con l'approvazione del testo della dichiarazione intitolata,_Expo_1_3_sin_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I lavori, del summit, si sono conclusi con l'approvazione del testo della dichiarazione intitolata,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>I lavori si sono conclusi con l&#8217;approvazione del testo finale della dichiarazione intitolata &#8220;Il futuro che vogliamo&#8221;, risultato delle negoziazioni svolte negli ultimi mesi tra le delegazioni dei Paesi partecipanti.
+La dichiarazione si compone di 283 paragrafi in cui &#232; stato dato spazio alla trattazione delle due principali tematiche,
+- l&#8217;economia verde nel contesto dello sviluppo sostenibile e dello sradicamento della povert&#224;, ovvero la transizione verso il nuovo paradigma della green    economy, che concilia l&#8217;attenzione a problematiche di carattere ambientale con la promozione del benessere sociale ed economico;
+- il quadro istituzionale per lo sviluppo sostenibile, con riferimento al sistema globale di governance e alle istituzioni a cui &#232; deputata l&#8217;attuazione delle politiche di sviluppo sostenibile.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Il futuro che vogliamo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nuovi fronti per l'agricoltura<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Problema risolto<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Cibo eco-sostenibile<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="multichoice">
+		<name>
+			<text>I principali temi in comune con le attivit&#224; del BCFN non riguardano,_Expo_1_3_sin_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I principali temi in comune con le attivit&#224; del BCFN non riguardano,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>I principali temi in comune con le attivit&#224; del BCFN riguardano anzitutto la sicurezza alimentare, la nutrizione e l&#8217;agricoltura sostenibile.
+Un ulteriore punto di contatto con le tematiche affrontate dal BCFN &#232; quello relativo alle problematiche del cambiamento climatico dovuto all&#8217;aumento delle emissioni nell&#8217;atmosfera di gas a effetto serra. Nel dettaglio la dichiarazione evidenzia che,
+- la gestione del fenomeno e delle minacce che ne conseguono (in particolar modo per i Paesi in via di sviluppo) costituisce una priorit&#224; immediata e urgente a livello globale;
+- la cooperazione internazionale deve affrontare pi&#249; efficacemente il fenomeno, accelerando la riduzione globale delle emissioni di gas serra.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La sicurezza alimentare<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Nuove tecniche di coltivazione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La nutrizione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>L'agricoltura sostenibile<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="multichoice">
+		<name>
+			<text>Per avere una probabilit&#224; del 50 di rispettare la temperatura media globale di 2 gradi C &#232; necessario stabilizzare la concentrazione atmosferica di gas serra a 450 parti per milione in termini di CO2, entro il._Expo_1_3_sin_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per avere una probabilit&#224; del 50 di rispettare la temperatura media globale di 2 gradi C &#232; necessario stabilizzare la concentrazione atmosferica di gas serra a 450 parti per milione in termini di CO2, entro il.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Per avere una probabilit&#224; del 50% di rispettare la temperatura media globale di 2 gradi C, &#232; necessario stabilizzare la concentrazione atmosferica di gas serra a 450 parti per milione in termini di CO2 equivalente (ppm CO2-eq) entro il 2050, un valore circa il 5% al di sopra dei livelli attuali (IEA, 2011).
+Una politica climatica intesa a stabilizzare le concentrazioni a tale livello implica entro il 2050 drastiche riduzioni delle emissioni, superiori all&#8217;80% rispetto ai livelli del 1990 (IPCC, 2007).
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>2020 <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>2050<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>2100<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>2015<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali tra i seguenti Paesi non e' dell'Annex (ovvero, industrializzati)_Expo_1_3_sin_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali tra i seguenti Paesi non e' dell'Annex (ovvero, industrializzati)<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>I Paesi dell&#8217;Annex I (ovvero, industrializzati) sono Australia, Austria, Bielorussia, Belgio, Bulgaria, Canada, Croazia, Danimarca, Estonia, Federazione Russa, Finlandia, Francia, Germania, Grecia, Islanda, Irlanda, Italia, Giappone, Lettonia, Liechtenstein, Lituania, Lussemburgo, Monaco, Norvegia, Nuova Zelanda, Olanda, Polonia, Portogallo, Regno Unito, Repubblica Ceca, Romania, Slovacchia, Slovenia, Spagna, Stati Uniti, Svezia, Svizzera, Turchia, Ucraina, Ungheria e Unione Europea.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Bulgaria<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Italia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Spagna<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Albania<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="multichoice">
+		<name>
+			<text>In che anno l'Australia ha avuto il suo anno pi&#249; piovoso._Expo_1_3_sin_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>In che anno l'Australia ha avuto il suo anno pi&#249; piovoso.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L&#8217;Australia ha avuto il suo anno pi&#249; piovoso dal 2000, il terzo pi&#249; piovoso dall&#8217;inizio delle rilevazioni nel 1900 e nel suo complesso ha vissuto la sua primavera pi&#249; piovosa mai registrata (settembre&#8211; novembre). Settimane di piogge forti nel mese di dicembre hanno portato a gravi allagamenti in tutta l&#8217;Australia nord-orientale. Le peggiori inondazioni sono avvenute nel Queensland, dove sono stati segnalati 16 decessi e circa 200 mila persone colpite. Queste inondazioni sono state le pi&#249; significative dagli anni Settanta.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1990<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>2000<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>2010<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>1890<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="multichoice">
+		<name>
+			<text>Da cosa derivano i cambiamenti osservati nella criosfera._Expo_1_3_sin_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Da cosa derivano i cambiamenti osservati nella criosfera.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Le coseguenze dei cambiamenti osservati nella criosfera, ovvero quella parte della superficie terrestre e marina ricoperta dalle nevi e dai ghiacci, sono consistenti e derivano dall' incremento delle temperature registrate. Si pensi, a titolo d&#8217;esempio, ai ghiacciai dell&#8217;Himalaya che alimentando i maggiori fiumi asiatici costituiscono la principale fonte di approvvigionamento idrico per oltre due miliardi di persone, un terzo circa degli abitanti della terra.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Dal passare degli anni  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Dalla diminuzione delle temperature registrate<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Dall' incremento delle temperature registrate<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Dal disboscamento delle foreste<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="multichoice">
+		<name>
+			<text>Dove e quando si incontro' per la prima volta la Conferenza delle parti dell'UNFCCC._Expo_1_3_sin_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Dove e quando si incontro' per la prima volta la Conferenza delle parti dell'UNFCCC.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La Conferenza delle parti dell&#8217;UNFCCC si incontr&#242; per la prima volta a Berlino nella primavera del 1995. Da quel momento, le parti si sono riunite annualmente (Cop) per analizzare i progressi conseguiti nell&#8217;affrontare il cambiamento climatico, a cominciare dalla met&#224; degli anni Novanta, quando &#232; stato negoziato il protocollo di Kyoto col quale sono state stabilite azioni legalmente vincolanti per i paesi sviluppati al fine di ridurre le loro emissioni di gas serra.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Parigi 1997<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Milano 1996<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Berlino 1995<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Madrid 1994<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="multichoice">
+		<name>
+			<text>Cos'  e' successo nel 12 giugno 1992 ._Expo_1_3_sin_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cos'  e' successo nel 12 giugno 1992 .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La Convenzione Quadro delle Nazioni Unite sui Cambiamenti Climatici (United Nations Framework Convention on Climate Change, UNFCCC) fu aperta alle firme nell&#8217;ambito della Conferenza delle Nazioni Unite sull&#8217;Ambiente e lo Sviluppo,tenutasi a Rio De Janeiro nel 1992.
+Il 12 giugno 1992, 154 nazioni firmarono la UNFCCC, che dopo la ratifica obbligava i governi a perseguire un &#171;obiettivo non vincolante&#187; per ridurre le concentrazioni atmosferiche dei gas serra al fine di &#171;prevenire pericolose interferenze antropogeniche con il sistema climatico terrestre&#187;.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Un disastro ambientale ha causato vittime nel sud Italia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>154 nazioni firmarono la UNFCCC<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>C' e' stata la XV Conferenza delle Parti della Convenzione sui Cambiamenti Climatici<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Pubblicazione del 'Climate Change and Extreme Weather Events'<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="multichoice">
+		<name>
+			<text>Per affrontare la duplice sfida di ridurre i gas serra in atmosfera e contrastare gli effetti indotti dai cambiamenti climatici a livello locale, &#232; necessario,_Expo_1_3_sin_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per affrontare la duplice sfida di ridurre i gas serra in atmosfera e contrastare gli effetti indotti dai cambiamenti climatici a livello locale, &#232; necessario,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Per affrontare la duplice sfida di ridurre i gas serra in atmosfera e contrastare gli effetti indotti dai cambiamenti climatici a livello locale, &#232; necessario creare tutte le sinergie possi- bili tra mitigazione e adattamento, individuando e implementando provvedimenti in grado di abbattere le emissioni e rafforzare la resilienza degli ecosistemi agricoli, e promuovere un uso pi&#249; sostenibile ed efficiente delle risorse naturali.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>creare tutte le sinergie possibili tra mitigazione e adattamento, individuando e implementando provvedimenti;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Continuare a tagliare alberi per costruire le industrie;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Inquinare piu possibile i terreni;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Sprecare le risorse ;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="multichoice">
+		<name>
+			<text>La rotazione diversificata delle culture consente agli agricoltori di coltivare,_Expo_1_3_sin_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La rotazione diversificata delle culture consente agli agricoltori di coltivare,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La rotazione diversificata delle culture consente agli agricoltori di coltivare prodotti che possono essere raccolti in tempi diversi, e con caratteristiche di risposta differenti agli stress climatici-ambientali. Questa variet&#224; di risultati e di gradi di resilienza sono una copertura contro il rischio di siccit&#224;, temperature estreme o al di fuori delle medie stagionali che potrebbero influenzare negativamente le rese di una variet&#224; di coltura ma non di altre.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Solo un prodotto che reagisce bene al clima-ambiente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Diversi prodotti su terreni diversi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>prodotti che possono essere raccolti in tempi diversi, e con caratteristiche di risposta differenti agli stress climatici-ambientali. <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Prodotti che devono essere raccolti tutti allo stesso tempo con risposte differenti agli stress sul clima-ambiente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono gli elementi fondamentali per la pianificazione di strategie di mitigazione e adattamento di lungo termine._Expo_1_3_sin_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono gli elementi fondamentali per la pianificazione di strategie di mitigazione e adattamento di lungo termine.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La promozione e il sostegno alla ricerca agronomica e climatica sono elementi fondamentali per la pianificazione di strategie di mitigazione e adattamento di lungo termine, ma
+&#232; ancora pi&#249; rilevante assicurare che conoscenze e competenze siano moltiplicate e rese disponibili sul territorio, sia nei Paesi sviluppati che nei Paesi in via di sviluppo.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La protezione della biodiversita' ;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il sostegno sulla ricerca industriale;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La riduzione di gas e dell'effetto serra;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>La promozione e il sostegno alla ricerca agronomica e climatica;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="multichoice">
+		<name>
+			<text>Cos'e' il REDD+._Expo_1_3_sin_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cos'e' il REDD+.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>In generale &#232; necessario proseguire sulla strada della mobilitazione degli investimenti che devono sostenere l&#8217;impegno in ricerca e sviluppo, in particolare da parte dei Paesi
+sviluppati, anche attraverso strumenti come REDD+ (Reduction of Emissions from Deforestatin and forest Degradation) che si propone di ridurre sensibilmente la deforestazione tropicale sulla base della creazione di un meccanismo di investimenti e di mercato sui crediti di carbonio.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>La riduzione delle industrie nelle citta' sviluppate;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>L'aumento della desertificazione;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>La riduzione della deforestazione tropicale;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>L'aumento del colore rosso nel citta';<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="multichoice">
+		<name>
+			<text>Qual e' stata la temperatura maggiore in Russia._Expo_1_3_sin_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Qual e' stata la temperatura maggiore in Russia.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Le temperature alte hanno dominato le parti della Russia occidentale nei mesi di giugno e luglio. Mosca ha registrato la sua temperatura pi&#249; alta in assoluto (38,2 gradi C, o 100,8 gradi F) - il record precedente &#232; stato stabilito 91 anni fa.Il caldo estremo ha prodotto condizioni di siccit&#224;, causando la peggiore siccit&#224; dal 1972. Il periodo di giugno-agosto 2010 &#232; stato il pi&#249; caldo per la Federazione russa in 130 anni di registrazioni.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>40.1  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>21.3<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>38.2<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>36.5<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 18 -->
+	<question type="multichoice">
+		<name>
+			<text>Che cos'e' il Clean Development Mechanism ._Expo_1_3_sin_18</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Che cos'e' il Clean Development Mechanism .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> E' un meccanismo di collaborazione che consente ai paesi industrializzati di portare avanti progetti finalizzati alle riduzioni certificate di emissioni in Paesi in via di sviluppo, cos&#236; da promuovere in questi stessi Paesi uno sviluppo sostenibile
+                                                                                                                                                                 
+                                                                                                                                                                        
+                                                                                                                    
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>E' un meccanismo di collaborazione che consente ai paesi non industrializzati di sviluppare progetti per nuove industrie  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>E' un meccanismo di collaborazione che consente ai paesi industrializzati di sviluppare un meccanismo di pulizia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>E' un meccanismo di collaborazione che consente ai paesi industrializzati di portare avanti progetti finalizzati alle riduzioni <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>E' un meccanismo di collaborazione che consente ai paesi industializzati di portareavanti progetti finalizzati agli aumenti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 19 -->
+	<question type="multichoice">
+		<name>
+			<text>Quale tra questi paesi ha raggiunto una massima percentuale nell'obbiettivo di riduzione delle emissioni proposto da raggiungere entro il 2020 ._Expo_1_3_sin_19</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quale tra questi paesi ha raggiunto una massima percentuale nell'obbiettivo di riduzione delle emissioni proposto da raggiungere entro il 2020 .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La Cina con una percentuale di 40-50% delle intensita' delle emissioni sul PIL, nel 2005. Espressa l'intenzione di aumentare del 15% l'uso di combustibili non fossili nel consumo primario di energia entro il 2020 e di incrementare la superficie boschiva di 40 milioni di ettari entro lo stesso anno.
+                                                                                                                                                                        
+                                                                                                                                                                      
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Unione Europea <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Brasile<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Cina<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Giappone<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 20 -->
+	<question type="multichoice">
+		<name>
+			<text>Che cos'e' il Clean Development Mechanism ._Expo_1_3_sin_20</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Che cos'e' il Clean Development Mechanism .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il Clean Development Mechanism (indirizzato ai paesi in via di sviluppo) e' un meccanismo di collaborazione che consente ai paesi industrializzati o con un' economia in transizione (inclusi nell'Annex I del Protocollo di Kyoto) di portare avanti progetti finalizzati alle riduzioni certificate di emissioni in Paesi in via di sviluppo (non inclusi nell'Allegato I e che hanno retificato il Protocollo), cos&#236; da promuovere in questi stessi Paesi uno sviluppo sostenibile.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>E' un meccanismo di collaborazione che consente ai paesi non industrializzati di sviluppare progetti per nuove industrie<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>E' un meccanismo di collaborazione che consente ai paesi industrializzati di sviluppare un meccanismo di pulizia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>E' un meccanismo di collaborazione che consente ai paesi industrializzati di portare avanti progetti finalizzati alle riduzioni<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>E' un meccanismo di collaborazione che consente ai paesi industializzati di portareavanti progetti finalizzati agli aumenti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 21 -->
+	<question type="multichoice">
+		<name>
+			<text>In che anno i quotidiani e i siti mondiali riportano la notizia di quello che in seguito sarebbe chiamato Climategate ._Expo_1_3_sin_21</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>In che anno i quotidiani e i siti mondiali riportano la notizia di quello che in seguito sarebbe chiamato Climategate .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Nel novembre 2009, dopo neanche trenta giorni dalla conclusione della conferenza di Copenaghen (COP 15), i quotidiani , le riviste e i siti mondiali riportano la notizia di quello che in seguito sarebbe stato chiamato Climategate (o scandalo climatico). 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>2008<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>2009<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>2010<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>2011<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 22 -->
+	<question type="multichoice">
+		<name>
+			<text>Quale tra questi paesi ha raggiunto una massima percentuale nell'obbiettivo di riduzione delle emissioni proposto da raggiungere   entro il 2020 ._Expo_1_3_sin_22</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quale tra questi paesi ha raggiunto una massima percentuale nell'obbiettivo di riduzione delle emissioni proposto da raggiungere   entro il 2020 .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Cina con una percentuale di 40-50% delle intensita' delle emissioni sul PIL, nel 2005. Espressa l'intenzione di aumentare del 15% l'uso di combustibili non fossili nel consumo primario di energia entro il 2020 e di incrementare la superficie boschiva di 40 milioni di ettari entro lo stesso anno. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Unione Europea <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Brasile <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Cina <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Giappone<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 23 -->
+	<question type="multichoice">
+		<name>
+			<text>Quale tra questi paesi ha raggiunto una massima percentuale nell'obbiettivo di riduzione delle emissioni proposto da raggiungere   entro il 2020 ._Expo_1_3_sin_23</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quale tra questi paesi ha raggiunto una massima percentuale nell'obbiettivo di riduzione delle emissioni proposto da raggiungere   entro il 2020 .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Cina con una percentuale di 40-50% delle intensita' delle emissioni sul PIL, nel 2005. Espressa l'intenzione di aumentare del 15% l'uso di combustibili non fossili nel consumo primario di energia entro il 2020 e di incrementare la superficie boschiva di 40 milioni di ettari entro lo stesso anno. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Unione Europea <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Brasile <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Cina <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Giappone<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 24 -->
+	<question type="multichoice">
+		<name>
+			<text>A cosa si riferisce l'acronimo TEC ._Expo_1_3_sin_24</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>A cosa si riferisce l'acronimo TEC .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Al fine di favorire uno sviluppo a basse emissioni e resiliente ai cambiamenti climatici,
+nel corso della COP 16 &#232; stato introdotto il Technology Mechanism20, ovvero
+la promozione di azioni di cooperazione finalizzate allo sviluppo e al trasferimento
+tecnologici. Tali azioni devono riguardare l&#8217;intero processo dello sviluppo tecnologico,
+che comprende le attivit&#224; di ricerca, sviluppo, dimostrazione, diffusione e trasferimento
+(UNFCCC, 201021; ENEA, 2011).
+In merito a questo, l&#8217;Accordo di Canc&#250;n ha anche stabilito l&#8217;istituzione di un Comitato Esecutivo
+(Technology Executive Committee, TEC) composto da esperti provenienti sia dai Paesi
+in via di sviluppo che da quelli sviluppati, da un centro e da una rete regionale di coordinamento
+(Climate Technology Center and Network, CTCN) orientato alle esigenze dei Paesi in
+via di sviluppo.
+Aspetti riguardanti le modalit&#224; operative del Comitato Esecutivo, nonch&#233; il funzionamento
+del CTCN, le relazioni con i fondi di finanziamento, cos&#236; come aspetti relativi ai diritti di
+propriet&#224; sono rimasti al di fuori delle decisioni prese nell&#8217;ambito dell&#8217;Accordo di Canc&#250;n.
+Il Comitato Esecutivo &#232; stato oggetto di una delle decisioni adottate a Durban22, che ne
+ha definito in particolare modalit&#224; e procedure di funzionamento. Altri aspetti (come, per
+esempio, dove istituire il CTCN, UNFCCC, 2012) rimangono tuttavia ancora da negoziare.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Thechnology Economy Committee<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Thechnology Executive Committee<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Thechnology Ecology Committee<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Thechnology Esposition Committee<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 25 -->
+	<question type="multichoice">
+		<name>
+			<text>In che anno gli Stati Uniti hanno riaggiunto il 17% nell'obbiettivo di riduzione dell'emissioni proposto da raggiungere entro il 2020 ._Expo_1_3_sin_25</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>In che anno gli Stati Uniti hanno riaggiunto il 17% nell'obbiettivo di riduzione dell'emissioni proposto da raggiungere entro il 2020 .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Nell&#8217;ambito dell&#8217;Accordo di Copenaghen il target preposto era
+condizionato all&#8217;approvazione della normativa su energia ed
+emissioni. La normativa presente prevede ulteriori obiettivi di
+riduzione, del 30% al 2025 e del 42% al 2030, il tutto in linea
+con l&#8217;obiettivo di ridurre le emissioni dell&#8217;80% entro il 2050. La
+presentazione dell&#8217;obiettivo preposto era stato fatto nell&#8217;assunzione
+che le altre parti Annex I e le pi&#249; sviluppate tra le parti
+non-Annex I si associassero entro il 31 gennaio 2010.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>2004 <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>2005<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>2006<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>2007 <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 26 -->
+	<question type="multichoice">
+		<name>
+			<text>Che cos'&#232; l'agricoltura sostenibile._Expo_1_3_sin_26</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Che cos'&#232; l'agricoltura sostenibile.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Va da s&#232; che questo &#232; un concetto molto ampio, che racchiude in primis il concetto di agricoltura biologica per ci&#242; che riguarda l'utilizzo di tecniche agricole sostenibili e il rispetto della biodiversit&#224; e del suolo durante la produzione agricola.
+Ma il concetto di agricoltura sostenibile si estende anche in altre direzioni ed in particolare si pone il problema della domanda di prodotti alimentari di tutto il mondo e dell'accessibilit&#224; di tali prodotti da parte di quei paesi ancora in via di sviluppo o in cui si fa sentire il problema della fame. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Per agricoltura sostenibile si intende il rispetto dei criteri di sostenibilit&#224; in tutta la filiera agricola. <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>&#232; un'agricoltura sostenibile economicamente<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>&#232; un'agricoltura a basso impatto ambientale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>&#232; un'agricoltura a base di risorse vegetali<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 27 -->
+	<question type="multichoice">
+		<name>
+			<text>l'innalzamento del livello del mare &#232; causato da_Expo_1_3_sin_27</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>l'innalzamento del livello del mare &#232; causato da<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>l'innalzamento del livello del mare &#232; causato dallo scioglimento dei ghiacci in quanto, una volta sciolti, si riversano nelle acque degli oceani e dei mari
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>scioglimento dei ghiacci<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>troppe precipitazioni<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>inquinamento atmosferico<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>assestamento del fondale marino<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 28 -->
+	<question type="multichoice">
+		<name>
+			<text>hanno influenzato negativamente sull'agricoltura_Expo_1_3_sin_28</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>hanno influenzato negativamente sull'agricoltura<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>forte aumento-diminuzione della temperatura, forte aumento-diminuzione delle precipitazioni e lo sconvolgimento delle stagioni hanno influenzato negativamente sul settore agricolo
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>i cambiamenti climatici<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>la crisi economica<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>la precaria manodopera dei contadini<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>nessuna delle precedenti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

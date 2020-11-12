@@ -1,0 +1,18 @@
+- functions_chat inclusa da :
+	chatroom.asp
+	getuser.asp
+	default.asp
+	getmessages.asp
+	postmessages.asp
+
+- smile.asp contiene funzione SMILEFormat(sInput) che non viene chiamata da nessuno
+
+PROBLEMA CON I LINK
+
+la funzione getmessages alla linea 94 esegue strMessage = CheckForLink(strMessage)
+questo va bene per trasformare i messaggi digitati da console in link ma manda in tilt i link delle immagini(dopo le replace :-) in <img) perchè usando la regex
+trova https://www... che punta ad umanet e li mette come link anziche come immagini
+Possibile soluzione ... 
+
+
+	

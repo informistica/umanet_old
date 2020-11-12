@@ -1,0 +1,847 @@
+{"_comment": "Created with OWL2VOWL (version 0.3.3-SNAPSHOT), http://vowl.visualdataweb.org [Additional Information added by WebVOWL Exporter Version: 1.0.6]",
+"header": {
+"languages" : [ "Italiano" ],
+"title" : {
+"undefined" : "Mappa concettuale"
+},
+"description" : {
+"undefined" : "Capitolo/i 'Casi di studio'"
+}
+},
+"metrics": {
+"classCount":"1",
+"objectPropertyCount":22
+},
+"class": [ 
+{
+"id":"718",
+"type": "rdfs:Datatype"
+},
+{
+"id":"719",
+"type": "rdfs:Datatype"
+},
+{
+"id":"721",
+"type": "owl:equivalentClass"
+},
+{
+"id":"724",
+"type": "owl:Class"
+},
+{
+"id":"726",
+"type": "owl:Class"
+},
+{
+"id":"727",
+"type": "rdfs:Datatype"
+},
+{
+"id":"728",
+"type": "owl:Class"
+},
+{
+"id":"729",
+"type": "rdfs:Datatype"
+},
+{
+"id":"730",
+"type": "owl:Class"
+},
+{
+"id":"732",
+"type": "owl:Class"
+},
+{
+"id":"733",
+"type": "rdfs:Datatype"
+},
+{
+"id":"734",
+"type": "owl:equivalentClass"
+},
+{
+"id":"735",
+"type": "owl:equivalentClass"
+},
+{
+"id":"736",
+"type": "rdfs:Datatype"
+},
+{
+"id":"737",
+"type": "rdfs:Datatype"
+},
+{
+"id":"738",
+"type": "owl:equivalentClass"
+},
+{
+"id":"739",
+"type": "rdfs:Datatype"
+},
+{
+"id":"740",
+"type": "rdfs:Datatype"
+},
+{
+"id":"741",
+"type": "rdfs:Datatype"
+},
+{
+"id":"742",
+"type": "rdfs:Datatype"
+},
+{
+"id":"743",
+"type": "rdfs:Datatype"
+},
+{
+"id":"744",
+"type": "rdfs:Datatype"
+},
+{
+"id":"745",
+"type": "rdfs:Datatype"
+},
+{
+"id":"746",
+"type": "rdfs:Datatype"
+},
+{
+"id":"747",
+"type": "rdfs:Datatype"
+},
+{
+"id":"748",
+"type": "rdfs:Datatype"
+}
+],
+"classAttribute": [
+{
+"label": {
+"IRI-based":"I servizi aggiuntivi"
+},
+"comment": {
+"undefined": "I servizi aggiuntivi sono, il collegamento a internet degli immobili pubblici e delle scuole su cui saranno installati gli impianti, la disponibilita' di una intranet comunale e altri servizi secondari. e' anche possibile definire e attuare proprie strategie commerciali ed erogare altri servizi aggiuntivi, il tutto nel rispetto delle norme sulla concorrenza e di tariffe confrontabili con il mercato. (ID=718) (Autore=Filip S.)"
+ },
+"id":"718"
+},
+{
+"label": {
+"IRI-based":"Distribuzione antenne"
+},
+"comment": {
+"undefined": "Per la realizzazione del secondo obiettivo del comune, che e' la fornitura di connettivita' capillare wireless. Il comune di propone di favorire gli investimenti dei privati mettendo a disposizione una concessione con possibilita' di proroga, di tutti i siti necessari per l'installazione delle antenne.  (ID=719) (Autore=Catrambone L.)"
+ },
+"id":"719"
+},
+{
+"label": {
+"IRI-based":"soluzione"
+},
+"comment": {
+"undefined": "la soluzione raggruppa sotto di essa diverse categorie. In primo luogo il comune pubblichera' un bando per confrontare le diverse proposte,prendendo anche in considerazione i costi.  Chi si aggiudichera' il bando, dovra' tenere conto di specifici requisiti derivati dal problema. Successivamente si procedera' ad un collaudo per il funzionamento della soluzione proposta. Il tutto sara' scandito temporalmente secondo il cronoprogramma pre-approvato (ID=721) (Autore=Francioli L.)"
+ },
+"id":"721"
+},
+{
+"label": {
+"IRI-based":"Obiettivi"
+},
+"comment": {
+"undefined": "Il comune vuole superare il problema del 'digital divide' commissionando la realizzazione di una rete wireless, fornendo questo tipo di servizio in maniera capillare sul territorio comunale, soprattutto nei luoghi di maggiore interesse.Per consentire questa capillarita' intende investire sulla distribuzione delle antenne lungo tutto il territorio comunale. (ID=724) (Autore=Ballarini F.)"
+ },
+"id":"724"
+},
+{
+"label": {
+"IRI-based":"Comune"
+},
+"comment": {
+"undefined": "Il comune intende attivare una gara pubblica il cui obiettivo e' la realizzazione di una infrastruttura di rete wireless a banda larga distribuita sul territorio intesa come infrastruttura accessoria per l'erogazione di servizi. il comune provvedera' con ulteriori interventi a fornire di servizi di accesso WiFi tutte le aree di maggiore interesse economico e turistico del territorio comunale utilizzando i servizi della rete territoriale. (ID=726) (Autore=Urso M.)"
+ },
+"id":"726"
+},
+{
+"label": {
+"IRI-based":"Scalabilita'"
+},
+"comment": {
+"undefined": "la scalabilita' e' un software che sa adattarsi al momento di una domanda o un carico di lavoro all'interno del web 2.0 quando viene richiesta una domanda. Lo fa in due modi, orizzontale e verticale. Questo avviene al fine di conservare e migliorare l'efficienza (ID=727) (Autore=Mauro M.)"
+ },
+"id":"727"
+},
+{
+"label": {
+"IRI-based":"Digital Divide"
+},
+"comment": {
+"undefined": "Il 'Digital Divide' e' un fenomeno in cui sono presenti intere aree dove non e' presente la copertura Internet, a causa delle asperita' del territorio e della sua scarsa popolazione. Queste aree vengono completamente tagliate fuori rispetto a quelle coperte dalla rete.Le aziende di telecomunicazioni non investono in questi territori perche', a causa della scarsa popolazione, non costituiscono un'opportunita' diguadagno. tuttavia, si sta cercando di contattare degli investitori che, attraverso una gara pubblica, renderanno possibile la costruzione di una rete a banda larga distribuita sul territorio intesa come infrastruttura accessoria per l'erogatore di servizi. (ID=728) (Autore=Buratto R.)"
+ },
+"id":"728"
+},
+{
+"label": {
+"IRI-based":"Standard Trasmissivi"
+},
+"comment": {
+"undefined": "Gli Standard Trasmissivi specificano le caratteristiche di come trasferire i dati i una rete a banda larga. Cio' avviene quando bisogna collegare due o piu' utenze attraverso il wi-max che ricopre grande territorio. Con questo progetto si vuole rendere tecnologica e avanzata una citta', per portare la connessione ad alta velocita' ovunque non sia possibile stendere i cavi quindi si riuscira a connettere qualsiasi punto della citta (ID=729) (Autore=La china S.)"
+ },
+"id":"729"
+},
+{
+"label": {
+"IRI-based":"accesso a servizi"
+},
+"comment": {
+"undefined": "accesso ai servizi che sono causa dei  problemi in grandi parti del territorio per l'accesso a servizi di connettivita' a larga banda nei luoghi pubblici, intere aree periferiche, piccole frazioni, e tanti immobili sparsi presenti nel comprensorio. sopratutto quando si cerca di connettersi ai vari servizi, ma il vero problema e' la connettivita' e quindi si si deve garantire l'accesso ai servizi secondo le specifiche dei requisiti (ID=730) (Autore=Chiodini M.)"
+ },
+"id":"730"
+},
+{
+"label": {
+"IRI-based":"BANDA LARGA"
+},
+"comment": {
+"undefined": "Nel campo delle telecomunicazioni e informatica, indica generalmente la trasmissione e ricezione di dati informativi, inviati e ricevuti simultaneamente in maggiore quantita', sullo stesso cavo o mezzo radio grazie all'uso di mezzi trasmissivi e tecniche di trasmissione che supportino e sfruttino un'ampiezza di banda superiore ai precedenti sistemi di telecomunicazioni detti invece a banda stretta.   (ID=732) (Autore=Anicas S.)"
+ },
+"id":"732"
+},
+{
+"label": {
+"IRI-based":"Privatezza"
+},
+"comment": {
+"undefined": "La privatezza garantisce la sicurezza nell'invio delle informazioni. In tal modo, nel caso venissero intercettate, non siano interpretabili da un soggetto esterno al destinatario, in quanto queste sono soggette alla cifratura.   (ID=733) (Autore=Tumpay M.)"
+ },
+"id":"733"
+},
+{
+"label": {
+"IRI-based":"Requisiti"
+},
+"comment": {
+"undefined": "i requisiti della banda larga sono,-scalabilita'-estendibilita'-interoperabilita'-qualita' del segnale-privatezza (ID=734) (Autore=Magistrelli S.)"
+ },
+"id":"734"
+},
+{
+"label": {
+"IRI-based":"Wifi capillare"
+},
+"comment": {
+"undefined": "Il comune ha come obiettivo la realizzazione di una infrastruttura di rete wireless a banda larga distribuita sul territorio come servizio, in tutti i luoghi di maggiore interesse del territorio comunale. il prima possibile, il comune vuole attivare questo servizio, i siti in cui posizionarlo possono risiedere su edifici pubblici e-o su pali e tralicci attualmente esistenti sul territorio comunale di diretta proprieta' del comune, Obiettivo principale della copertura geografica della rete e' la fornitura di connettivita' capillare wireless, il comune provvedera' con interventi a fornire di servizi di accesso WiFi tutte le aree di maggiore interesse economico e turistico  (ID=735) (Autore=Castiglia G.)"
+ },
+"id":"735"
+},
+{
+"label": {
+"IRI-based":"Qualita' del segnale"
+},
+"comment": {
+"undefined": "L'antenna emittente in teoria dovrebbe trovarsi preferibilmente a meno di 20 km di distanza. Cio' significa che il segnale e la velocita' di connessione decadono drasticamente se fra le due antenne (provider e utente) si frappongono ostacoli elettrici, ma anche che il verificarsi di pioggia, neve o nebbia, danno luogo a fenomeni di scattering (le gocce d'acqua o di nebbia hanno una dimensione paragonabile alla lunghezza d'onda del segnale trasmesso), che si traduce in un'assenza del segnale. WiMAX e' una tecnologia di trasmissione senza fili a banda larga. Ha la possibilita', al pari di altre tecnologie wireless, di essere utilizzato su molti tipi di territorio (ID=736) (Autore=Rossi A.)"
+ },
+"id":"736"
+},
+{
+"label": {
+"IRI-based":"Interoperabilita'"
+},
+"comment": {
+"undefined": "Con l'utilizzo di questa metodologia e' possibile integrare molteplici varieta' di software, che forniscono diverse funzionalita', minimizzando la necessita' di intervenire a livello implementativo su ciascuno di essi. Inoltre viene garantita l'estensione del Sistema e la sua manutenzione con sforzi e costi limitati, non dipendenti dal numero di elementi architetturali componenti il Sistema stesso. (ID=737) (Autore=Margherita P.)"
+ },
+"id":"737"
+},
+{
+"label": {
+"IRI-based":"Aggiudicatario"
+},
+"comment": {
+"undefined": "............         TROPPO CORTA! (ID=738) (Autore=Admin                A.)"
+ },
+"id":"738"
+},
+{
+"label": {
+"IRI-based":"Cronoprogramma"
+},
+"comment": {
+"undefined": "La durata globale del progetto e' di circa 18 mesi cosi' ripartiti,1.pianificazione e progettazione del piano (del comune), 1 mese.2.espletamento delle procedure di gara e sottoscrizione del contratto, 3 mesi gg.3. realizzazione, 12 mesi, ripartiti in,a) redazione e approvazione del progetto esecutivo del fornitore - 1 mese.b1) prima fase di realizzazione, 6 mesi- copertura del territorio centrale del comune,- attivita' di comunicazione,- avvio;b2)seconda fase di realizzazione, 3 mesi- copertura delle aree commerciali, industriali e artigianali e delle frazioni con piu' di 500 abitanti e realizzazione della VPN comunale,- attivita' di comunicazione,- avvio; b3) terza fase di realizzazione, 3 mesi - copertura di tutte le rimanenti aree abitate all'interno del territorio comunale, comprese le frazioni con meno di 500 abitanti, - attivita' di comunicazione, - avvio. 4) collaudo finale 15 gg; 5) chiusura progetto 15 gg. (ID=739) (Autore=Admin                A.)"
+ },
+"id":"739"
+},
+{
+"label": {
+"IRI-based":"Costo"
+},
+"comment": {
+"undefined": "I costi sono ripartiti in due parti separando i costi del comune dai costi dell'aggiudicatario. La parte aggiudicatario e' una parte privata in quanto il comune non richiede nel bando un'offerta economica ma solo l'illustrazione del progetto comprendente tecnologie e livelli di servizi (SLA).Costi del comune Totale 80.000.Costo dell'azienda Totale 280.000  (ID=740) (Autore=Admin                A.)"
+ },
+"id":"740"
+},
+{
+"label": {
+"IRI-based":"Collaudo"
+},
+"comment": {
+"undefined": "La fornitura sara' sottoposta a collaudo, entro 30 giorni dalla data del suo completamento. Il collaudo verifichera' la conformita' della fornitura a quanto aggiudicato e specificato nel capitolato e nel progetto esecutivo, nonche' il perfetto funzionamento della infrastruttura. Il test e la verifica delle performance di banda internet dovra' essere effettuato mediante il tool IPERF, il quale permette l'analisi della capacita' di banda passante tra due host. Iperf e' uno strumento, sviluppato dalla Applications Support Team (Distributed DAST) presso il National Laboratory for Applied Research Network (NLANR), che eseguedi test di rete che crea flussi di dati Transmission Control Protocol (TCP) e User Datagram Protocol (UDP) e misura la velocita' di una rete che li trasporta. I test saranno effettuati da un host posizionato in vari punti finali di verifica (utenza residenziale, utenza aziendale, utenza pubblica) e con un host-server di test, collocato nelle sale server del proprio internet Exchange (carrier di connettivita' internet) di riferimento. I test dei link dell'infrastruttura di backbone saranno eseguiti mediante l'utilizzo di due pc portatili posizionati all'inizio e alla fine dello stesso link sempre con il IPERF appositamente installato nei due notebook. Ove il collaudo tecnico evidenzi malfunzionamenti di qualsiasi tipo o difformita' a quanto previsto, l'aggiudicatario dovra' eliminarli in un massimo di 15 (quindici) giorni dall'accertamento pena l'annullamento del contratto e il ritiro del materiale consegnato e-o installato e il ripristino delle situazioni iniziali. Il periodo di garanzia per tutta la durata del contratto decorre dalla data del collaudo eseguito con esito favorevole.  (ID=741) (Autore=Admin                A.)"
+ },
+"id":"741"
+},
+{
+"label": {
+"IRI-based":"Organizzazione (C)"
+},
+"comment": {
+"undefined": ".......         TROPPO CORTA! (ID=742) (Autore=Admin                A.)"
+ },
+"id":"742"
+},
+{
+"label": {
+"IRI-based":"Attivita' (C)"
+},
+"comment": {
+"undefined": ".....         TROPPO CORTA! (ID=743) (Autore=Admin                A.)"
+ },
+"id":"743"
+},
+{
+"label": {
+"IRI-based":"Organizzazione (A)"
+},
+"comment": {
+"undefined": "..         TROPPO CORTA! (ID=744) (Autore=Admin                A.)"
+ },
+"id":"744"
+},
+{
+"label": {
+"IRI-based":"Attivita' (A)"
+},
+"comment": {
+"undefined": "...         TROPPO CORTA! (ID=745) (Autore=Admin                A.)"
+ },
+"id":"745"
+},
+{
+"label": {
+"IRI-based":"Piano di infrastruttura"
+},
+"comment": {
+"undefined": "...         TROPPO CORTA! (ID=746) (Autore=Admin                A.)"
+ },
+"id":"746"
+},
+{
+"label": {
+"IRI-based":"Piano di erogazione"
+},
+"comment": {
+"undefined": "..         TROPPO CORTA! (ID=747) (Autore=Admin                A.)"
+ },
+"id":"747"
+},
+{
+"label": {
+"IRI-based":"Impegni"
+},
+"comment": {
+"undefined": "L'aggiudicatario, con la sottoscrizione del contratto, si impegnara a eseguire tutte le attivita' necessarie al mantenimento in efficienza della infrastruttura realizzata e in particolare dovra' garantire,- una garanzia su tutte le apparecchiature installate per almeno 24 (ventiquattro) mesi a decorrere dalla data del collaudo esperito con esito positivo;- la manutenzione ordinaria per l'intero periodo di durata della concessione;- la manutenzione straordinaria;- la gestione dei malfunzionamenti e delle sostituzioni e-o riparazioni necessarie, nei tempi programmati di intervento- l'utilizzo di una strumentazione automatica e l'utilizzo di metodologie necessarie per ridurre i tempi di intervento di diagnosi e riparazione dei guasti, con ricorso a protocolli di Simple Network Management Protocol (SNMP) o alternativamente all'utilizzo di altri metodi di gestione e supervisione remota della configurazione operativa complessiva- l'eventuale sostituzione e-o riparazione di ogni elemento attivo e passivo della infrastruttura di rete sara' a carico dell'aggiudicatario;- la predisposizione di un servizio Call-Center in grado di accettare segnalazioni H24 su 365 giorni.Gli SLA (Service Level Agreements) da proporre in offerta dovranno rispettare almeno i seguenti valori minimi (tempi massimi di intervento),- tempi di intervento massimo per anomalie o guasti che interrompono il servizio, 8 ore nel 100%;- tempo massimo di ripristino per anomalie bloccanti, 6 ore nel 100% dei casi;- tempi di intervento massimo per anomalie o guasti non urgenti risolvibili da remoto, 8 ore nel 100% dei casi;- tempi massimi di ripristino per guasti non urgenti, risolvibili esclusivamente in loco, 24 ore nel 100% dei casi.Tutti gli interventi si intendono conteggiati in 'giornate lavorative' e costi relativi a garanzia e manutenzione sono a totale carico dell'aggiudicatario. (ID=748) (Autore=Admin                A.)"
+ },
+"id":"748"
+}
+],
+"property": [
+{
+"id":"749",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"750",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"751",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"752",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"753",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"754",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"755",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"756",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"757",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"758",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"759",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"760",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"761",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"762",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"763",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"764",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"765",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"766",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"767",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"768",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"769",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"770",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"771",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"772",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"773",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"774",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"775",
+"type": "owl:datatypeProperty"
+}
+],
+"propertyAttribute": [
+{
+"range":"734",
+"label": {
+"IRI-based":"e' un"
+},
+"domain":"736",
+"comment": {
+"undefined": " (Autore=Rossi A.)"
+},
+"attributes": [
+"object"
+],
+"id":"749"
+},
+{
+"range":"734",
+"label": {
+"IRI-based":"e' un"
+},
+"domain":"727",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"750"
+},
+{
+"range":"721",
+"label": {
+"IRI-based":"cerca"
+},
+"domain":"726",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"751"
+},
+{
+"range":"724",
+"label": {
+"IRI-based":"e' un"
+},
+"domain":"728",
+"comment": {
+"undefined": " (Autore=Ballarini F.)"
+},
+"attributes": [
+"object"
+],
+"id":"752"
+},
+{
+"range":"730",
+"label": {
+"IRI-based":"Fa parte"
+},
+"domain":"718",
+"comment": {
+"undefined": " (Autore=Filip S.)"
+},
+"attributes": [
+"object"
+],
+"id":"753"
+},
+{
+"range":"721",
+"label": {
+"IRI-based":"riguardano"
+},
+"domain":"734",
+"comment": {
+"undefined": " (Autore=Magistrelli S.)"
+},
+"attributes": [
+"object"
+],
+"id":"754"
+},
+{
+"range":"724",
+"label": {
+"IRI-based":"e' un"
+},
+"domain":"735",
+"comment": {
+"undefined": " (Autore=Castiglia G.)"
+},
+"attributes": [
+"object"
+],
+"id":"755"
+},
+{
+"range":"735",
+"label": {
+"IRI-based":"necessita"
+},
+"domain":"730",
+"comment": {
+"undefined": " (Autore=Chiodini M.)"
+},
+"attributes": [
+"object"
+],
+"id":"756"
+},
+{
+"range":"729",
+"label": {
+"IRI-based":"necessita di"
+},
+"domain":"732",
+"comment": {
+"undefined": " (Autore=La china S.)"
+},
+"attributes": [
+"object"
+],
+"id":"757"
+},
+{
+"range":"734",
+"label": {
+"IRI-based":"e' un"
+},
+"domain":"737",
+"comment": {
+"undefined": " (Autore=Margherita P.)"
+},
+"attributes": [
+"object"
+],
+"id":"758"
+},
+{
+"range":"735",
+"label": {
+"IRI-based":"E' un obiettivo come"
+},
+"domain":"728",
+"comment": {
+"undefined": " (Autore=Buratto R.)"
+},
+"attributes": [
+"object"
+],
+"id":"759"
+},
+{
+"range":"740",
+"label": {
+"IRI-based":"prevede un"
+},
+"domain":"721",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"760"
+},
+{
+"range":"739",
+"label": {
+"IRI-based":"prevede un"
+},
+"domain":"721",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"761"
+},
+{
+"range":"721",
+"label": {
+"IRI-based":"propone"
+},
+"domain":"738",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"762"
+},
+{
+"range":"741",
+"label": {
+"IRI-based":"prevede un"
+},
+"domain":"721",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"763"
+},
+{
+"range":"743",
+"label": {
+"IRI-based":"prevede"
+},
+"domain":"726",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"764"
+},
+{
+"range":"742",
+"label": {
+"IRI-based":"prevede"
+},
+"domain":"726",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"765"
+},
+{
+"range":"738",
+"label": {
+"IRI-based":"riguarda"
+},
+"domain":"744",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"766"
+},
+{
+"range":"738",
+"label": {
+"IRI-based":"riguarda"
+},
+"domain":"745",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"767"
+},
+{
+"range":"738",
+"label": {
+"IRI-based":"elaborato da"
+},
+"domain":"746",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"768"
+},
+{
+"range":"738",
+"label": {
+"IRI-based":"elaborato da"
+},
+"domain":"747",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"769"
+},
+{
+"range":"748",
+"label": {
+"IRI-based":"assume"
+},
+"domain":"738",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"770"
+},
+{
+"range":"721",
+"label": {
+"IRI-based":"Riguarda"
+},
+"domain":"732",
+"comment": {
+"undefined": " (Autore=Francioli L.)"
+},
+"attributes": [
+"object"
+],
+"id":"771"
+},
+{
+"range":"734",
+"label": {
+"IRI-based":"e' un"
+},
+"domain":"733",
+"comment": {
+"undefined": " (Autore=Tumpay M.)"
+},
+"attributes": [
+"object"
+],
+"id":"772"
+},
+{
+"range":"724",
+"label": {
+"IRI-based":"persegue diversi"
+},
+"domain":"732",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"773"
+},
+{
+"range":"734",
+"label": {
+"IRI-based":"e' un"
+},
+"domain":"723",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"774"
+},
+{
+"range":"735",
+"label": {
+"IRI-based":"supporta"
+},
+"domain":"719",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"775"
+}
+]
+}

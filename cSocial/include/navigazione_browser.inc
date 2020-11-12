@@ -1,0 +1,11 @@
+<img width='50' height='50'  src=img_social/navigazione_browser/2_00.jpg align=absmiddle  title=':;2_00' onclick='javascript:addsmile(":;2_00")'> 
+<img width='50' height='50'  src=img_social/navigazione_browser/2_01.jpg align=absmiddle  title=':;2_01' onclick='javascript:addsmile(":;2_01")'> 
+<img width='50' height='50'  src=img_social/navigazione_browser/2_02.jpg align=absmiddle  title=':;2_02' onclick='javascript:addsmile(":;2_02")'> 
+<img width='50' height='50'  src=img_social/navigazione_browser/2_03.jpg align=absmiddle  title=':;2_03' onclick='javascript:addsmile(":;2_03")'> 
+<img width='50' height='50'  src=img_social/navigazione_browser/2_04.jpg align=absmiddle  title=':;2_04' onclick='javascript:addsmile(":;2_04")'> 
+<img width='50' height='50'  src=img_social/navigazione_browser/2_05.jpg align=absmiddle  title=':;2_05' onclick='javascript:addsmile(":;2_05")'> 
+<img width='50' height='50'  src=img_social/navigazione_browser/2_06.jpg align=absmiddle  title=':;2_06' onclick='javascript:addsmile(":;2_06")'> 
+<img width='50' height='50'  src=img_social/navigazione_browser/2_07.jpg align=absmiddle  title=':;2_07' onclick='javascript:addsmile(":;2_07")'> 
+<img width='50' height='50'  src=img_social/navigazione_browser/2_08.jpg align=absmiddle  title=':;2_08' onclick='javascript:addsmile(":;2_08")'> 
+<img width='50' height='50'  src=img_social/navigazione_browser/2_09.jpg align=absmiddle  title=':;2_09' onclick='javascript:addsmile(":;2_09")'> 
+<img width='50' height='50'  src=img_social/navigazione_browser/2_10.jpg align=absmiddle  title=':;2_10' onclick='javascript:addsmile(":;2_10")'> 

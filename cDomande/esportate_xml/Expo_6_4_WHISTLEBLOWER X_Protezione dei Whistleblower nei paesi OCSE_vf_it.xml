@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="truefalse">
+		<name>
+			<text>L'Italia da incentivi e riconoscimenti al whistleblowing_Expo_6_4_vf_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'Italia da incentivi e riconoscimenti al whistleblowing<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>   &#200; falsa perch&#233; l'Italia  attualmente non da alcun incentivo o protezione ai whistleblowers, a differenza del Belgio, di Israele, del Giappone o altri.
+ 
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="truefalse">
+		<name>
+			<text>Nei Paesi Bassi esiste una legge che offre protezione ai whistleblower_Expo_6_4_vf_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Nei Paesi Bassi esiste una legge che offre protezione ai whistleblower<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  &#232; vera perch&#233; nel 2016 la casa dei whistleblowers ha promulgato una legge volta a proteggere i whistleblowers.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="truefalse">
+		<name>
+			<text>La &#8220;legge anticorruzione&#8221;  ha individuato nel superiore gerarchico il soggetto  per ricevere le segnalazioni_Expo_6_4_vf_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La &#8220;legge anticorruzione&#8221;  ha individuato nel superiore gerarchico il soggetto  per ricevere le segnalazioni<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La &#8220;legge anticorruzione&#8221; e il Codice di comportamento hanno individuato nel superiore gerarchico il soggetto interno all&#8217;amministrazione per ricevere le segnalazioni del whistleblower.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="truefalse">
+		<name>
+			<text>l'articolo 1 comma 51, della legge 109 &#232; la 'legge anticorruzione'_Expo_6_4_vf_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>l'articolo 1 comma 51, della legge 109 &#232; la 'legge anticorruzione'<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L&#8217;art. 1, comma 51 della legge 6 novembre 2012, n. 190, recante &#8220;Disposizioni per la prevenzione e la repressione della corruzione e della illegalit&#224; nella pubblica
+amministrazione&#8221; e pi&#249; nota come &#8220;legge anticorruzione&#8221; (&#8220;Legge Severino&#8221;)
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="truefalse">
+		<name>
+			<text>La casa del whistleblower introduce una protezione legale solo per dipendenti privati_Expo_6_4_vf_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La casa del whistleblower introduce una protezione legale solo per dipendenti privati<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La Casa del whistleblower introduce una protezione legale per i dipendenti pubblici e privati che segnalano condotte illecite sul luogo di lavoro.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="truefalse">
+		<name>
+			<text>La sezione investigativa presente nella casa del Whistleblower pu&#242; avviare un'inchiesta solo su richiesta del dipendente._Expo_6_4_vf_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La sezione investigativa presente nella casa del Whistleblower pu&#242; avviare un'inchiesta solo su richiesta del dipendente.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Pu&#242;, su richiesta del dipendente, avviare un&#8217;inchiesta sia sull&#8217;illecito segnalato sia sul modo in cui il datore si lavoro si &#232; comportato nei confronti del dipendente a seguito di una segnalazione interna.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="truefalse">
+		<name>
+			<text>La sezione consultiva della casa del Whistleblower fornisce informazioni ai potenziali segnalanti _Expo_6_4_vf_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La sezione consultiva della casa del Whistleblower fornisce informazioni ai potenziali segnalanti <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La sezione consultiva, accompagna i potenziali segnalanti fornendo informazioni su meccanismi di segnalazione e modalit&#224; del procedimento di tutela.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="truefalse">
+		<name>
+			<text>Tra i paesi che garantiscono incentivi e riconoscimenti &#233; presente l'Italia_Expo_6_4_vf_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Tra i paesi che garantiscono incentivi e riconoscimenti &#233; presente l'Italia<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>   I paesi che garantiscono incentivi e riconoscimenti rappresentano il 30% e sono,
+-Australia, Belgio, Canada, Israele, Giappone, Korea,Slovacchia, USA.
+I paesi che non la garantiscono rappresentano il 70% e sono,
+Austria, Cile, Estonia, Francia, Germania, Grecia, Ungheria, Islanda, Irlanda, Italia, Messico, Nuova Zelanda, Norvegia, Portogallo, Slovenia, Svizzera, Turchia, UK.
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="truefalse">
+		<name>
+			<text>I paesi che non garantiscono l'anonimato sono superiori a quelli che lo garantiscono._Expo_6_4_vf_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I paesi che non garantiscono l'anonimato sono superiori a quelli che lo garantiscono.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>I paesi che garantiscono l'anonimato rappresentano il 59% mentre quelli che non lo garantiscono rappresentano il 41%.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="truefalse">
+		<name>
+			<text>Public Concern at Work &#232; un&#8217;organizzazione non profit, fondata nel 1993_Expo_6_4_vf_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Public Concern at Work &#232; un&#8217;organizzazione non profit, fondata nel 1993<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Nel Regno Unito. Public Concern at Work (PcaW) &#232; un&#8217;organizzazione non profit fondata nel 1993. Nel corso degli ultimi 20 anni, oltre 14.000 segnalatori o potenziali segnalatori hanno ricevuto sostegno nel loro difficile cammino.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

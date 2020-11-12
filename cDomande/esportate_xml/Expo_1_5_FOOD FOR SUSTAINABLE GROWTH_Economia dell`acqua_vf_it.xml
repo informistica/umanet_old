@@ -1,0 +1,1695 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="truefalse">
+		<name>
+			<text>Ci sono 9-14 km cubi di acqua disponibili_Expo_1_5_vf_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Ci sono 9-14 km cubi di acqua disponibili<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>A livello complessivo, il nostro pianeta dispone di circa 1,4 miliardi di Km3 d&#8217;acqua. Si stima per&#242; che solo 9-14 mila Km3 d&#8217;acqua, pari a circa lo 0,001% del totale, siano effettiva- mente disponibili per l&#8217;utilizzo da parte dell&#8217;uomo. Le ri- sorse di acqua dolce sono distribuite in modo disomogeneo tra le regioni del pianeta.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="truefalse">
+		<name>
+			<text>il virtual water &#232; costituito da 3 componenti ._Expo_1_5_vf_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il virtual water &#232; costituito da 3 componenti .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Pu&#242; essere costituito da tre componenti, la green virtual water, che rappresenta il volume di acqua piovana evaporata durante il processo produttivo; la blue virtual water, che rappresenta il volume d&#8217;acqua, di superficie o di falda, evaporata durante il pro- cesso produttivo; la grey virtual water, che rappresenta il volume d&#8217;acqua che viene inquinata nel corso del processo produttivo. 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="truefalse">
+		<name>
+			<text>la distribuzione dell'acqua &#232; sbilanciate verso il settore agricolo_Expo_1_5_vf_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>la distribuzione dell'acqua &#232; sbilanciate verso il settore agricolo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> l&#8217;allocazione delle risorse idriche &#232; sbilanciata verso il settore agricolo, con il 70% dei consumi di acqua dolce, mentre il 22% riguarda l&#8217;industria e il restante 8% &#232; utilizzato per usi domestici.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="truefalse">
+		<name>
+			<text>meno di una persona al giorno non raggiunge i limiti imposti dall'ONU per l'assunzione di acqua potabile_Expo_1_5_vf_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>meno di una persona al giorno non raggiunge i limiti imposti dall'ONU per l'assunzione di acqua potabile<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Pi&#249; di una persona su sei nel mondo non raggiunge gli standard minimi, indicati dall&#8217;ONU in 20-50 litri di acqua dolce giornalieri pro capite, necessari ad assicurare i bisogni primari legati all&#8217;alimentazione e all&#8217;igiene.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="truefalse">
+		<name>
+			<text>Nel 2025 ci sar&#224; pi&#249; scarsit&#224; nelle risorse d'acqua disponibili._Expo_1_5_vf_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Nel 2025 ci sar&#224; pi&#249; scarsit&#224; nelle risorse d'acqua disponibili.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Lo scenario al 2025 della scarsit&#224; di acqua appare drammaticamente peggiore rispetto all&#8217;attuale. Le aree caratterizzate da un elevato tasso di prelievo delle risorse disponibili (superiore al 20%) aumenteranno sostanzialmente, allargandosi all&#8217;intero territorio degli Stati Uniti, dell&#8217;Europa continentale e del sud dell&#8217;Asia e peggiorando in termini di valore percentuale in ampie aree dell&#8217;Africa e della penisola indiana. 
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="truefalse">
+		<name>
+			<text>Il 12% dei prelievi d'acqua non sar&#224; pi&#249; sostenibile in futuro._Expo_1_5_vf_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il 12% dei prelievi d'acqua non sar&#224; pi&#249; sostenibile in futuro.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Si stima che una quota compresa tra il 15% e il 35% degli attuali prelievi d&#8217;acqua per irrigazione non sar&#224; sosteni- bile in futuro, a causa della crescita demografica, del permanere di pratiche di irrigazione inefficienti e della crescente competizione in essere per l&#8217;utilizzo della risorsa idrica.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="truefalse">
+		<name>
+			<text>il virtual water di un prodotto &#232; sostituita dal volume dell'acqua che possiede al suo interno_Expo_1_5_vf_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il virtual water di un prodotto &#232; sostituita dal volume dell'acqua che possiede al suo interno<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il contenuto di acqua virtuale4 (virtual water) di un prodot- to (una commodity, un bene o un servizio) &#232; costituito dal volume d&#8217;acqua dolce consumata per produrlo, sommando tutte le fasi della catena di produzione
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="truefalse">
+		<name>
+			<text>le abitudini alimentari possono implicare un minore o un maggiore consumo di risorse idriche in base alle scelte fatte ._Expo_1_5_vf_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>le abitudini alimentari possono implicare un minore o un maggiore consumo di risorse idriche in base alle scelte fatte .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Le diverse abitudini alimentari implicano un maggiore o minore consumo di risorse idriche. Infatti, un individuo utilizza in media da 2 a 5 litri d&#8217;acqua al giorno per bere, mentre il consumo d&#8217;acqua virtuale giornaliero per alimentarsi varia da circa 1.500-2.600 litri nel caso di una dieta vegetariana a circa 4.000-5.400 litri in caso di una dieta ricca di carne.
+
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="truefalse">
+		<name>
+			<text>il water footprint rappresenta la misurazione dell'acqua in kg._Expo_1_5_vf_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il water footprint rappresenta la misurazione dell'acqua in kg.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il Water Footprint (impronta idrica) rappresenta un nuovo indicatore dell&#8217;utilizzo dell&#8217;acqua. Questo, infatti, misura l&#8217;utilizzo d&#8217;acqua in termini di volume (espresso in m3) di acqua evaporata e-o inquinata e pu&#242; essere calcolato non solo per ogni prodotto o attivit&#224;, ma anche per ogni gruppo ben definito di consumatori (un individuo, una famiglia, gli abitanti di una citt&#224;, un&#8217;intera nazione) o produttori (aziende private, organizzazioni pubbliche, settori economici). Non indica semplicemente il volume dell&#8217;acqua consumata, ma si riferisce anche alla qualit&#224; dell&#8217;acqua e a dove e quando avviene il consumo. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="truefalse">
+		<name>
+			<text>il water footprint globale ammonta a 7.452 miliardi di metri cubi di acqua dolce all'anno._Expo_1_5_vf_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il water footprint globale ammonta a 7.452 miliardi di metri cubi di acqua dolce all'anno.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il Water Footprint globale ammonta a 7.452 miliardi di m3 di acqua dolce all&#8217;anno, pari a 1.243 m3 all&#8217;anno pro ca- pite. Considerando il Water Footprint in valore assoluto, il Paese che consuma il volume maggiore d&#8217;acqua &#232; l&#8217;India (987 miliardi di m3), seguita dalla Cina (883 miliardi di m3) e dagli Stati Uniti (696 miliardi di m3). Prendendo in considerazione invece i valori pro capite, i cittadini degli Sta- ti Uniti hanno un Water Footprint medio pari a 2.483 m3 all&#8217;anno, seguiti dagli italiani (2.232 m3) e dai tailandesi (2.223 m3). 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="truefalse">
+		<name>
+			<text>gli scambi commerciali determinano un trasferimento di flussi d'acqua._Expo_1_5_vf_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>gli scambi commerciali determinano un trasferimento di flussi d'acqua.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>gli scambi commerciali tra Paesi determinano un trasferimento di flussi di acqua virtuale (Virtual Water Trade), in quanto le materie prime, i beni e i servizi sono caratterizzati da un certo contenuto di acqua virtuale.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="truefalse">
+		<name>
+			<text>il water footprint &#232; diviso in 3 parti._Expo_1_5_vf_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il water footprint &#232; diviso in 3 parti.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il Water Footprint &#232; scomponibile in due parti, Water Footprint interno, ovvero il consumo di risorse d&#8217;acqua domestiche, e Water Footprint esterno, ovvero il consumo di risorse d&#8217;acqua esterne, provenienti cio&#232; da altri Paesi.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="truefalse">
+		<name>
+			<text>la globalizzazione dell'impegno dell'acqua comporta rischi._Expo_1_5_vf_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>la globalizzazione dell'impegno dell'acqua comporta rischi.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il rischio maggiore &#232; rappresentato dal fatto che le importazioni di prodotti ad alto contenuto d&#8217;acqua virtuale implicano l&#8217;esternalizzazione degli effetti indiretti dello sfruttamento di questa risorsa dal Paese importatore a quello esportatore. Inoltre, per ogni Paese, potrebbe verificarsi un&#8217;eccessiva dipendenza dalle risorse idriche di altre nazioni. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="truefalse">
+		<name>
+			<text>la globalizzazione dell'impegno dell'acqua comporta opportunit&#224;._Expo_1_5_vf_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>la globalizzazione dell'impegno dell'acqua comporta opportunit&#224;.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Una delle opportunit&#224; principali &#232; costituita dal fatto che l&#8217;acqua virtuale pu&#242; essere considerata come una fonte d&#8217;acqua alternativa, permettendo di preservare le risorse locali. Inoltre, a livello globale, &#232; possibile ottenere un risparmio del volume d&#8217;acqua consumata quando un prodotto viene commercializzato da un Paese con elevata produttivit&#224; delle risorse idriche (per quel determinato prodotto) a un Paese con una bassa produttivit&#224;. 
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="truefalse">
+		<name>
+			<text>Per il valore economico dell'acqua viene considerato solo il prezzo._Expo_1_5_vf_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Per il valore economico dell'acqua viene considerato solo il prezzo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il valore economico dell&#8217;acqua prende in considerazione, oltre al prezzo (quanto le persone pagano per l&#8217;acqua, relativamente al consumo e agli oneri fiscali) e al costo (complesso delle spese necessarie per fornire l&#8217;acqua ai consumatori), anche il significato socio-culturale e l&#8217;insieme dei benefici diretti e indiretti generati dalla disponibilit&#224; e dall&#8217;utilizzo della risorsa
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="truefalse">
+		<name>
+			<text>il diritto dell'acqua permette ad ogni individuo di accedere sia fisicamente che economicamente a una quantit&#224; d'acqua sufficiente e sicura._Expo_1_5_vf_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il diritto dell'acqua permette ad ogni individuo di accedere sia fisicamente che economicamente a una quantit&#224; d'acqua sufficiente e sicura.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il &#8220;diritto all&#8217;acqua&#8221; si sostanzia nel riconoscimento a ciascun individuo, senza alcuna discriminazione, della possibilit&#224; di accedere fisicamente e economicamente a una quantit&#224; d&#8217;acqua sufficiente e sicura. Attualmente 1 miliardo di persone circa non ha accesso a risorse idriche sufficienti e adeguate, mentre 2,5 miliardi di persone non beneficiano di adeguati sistemi igienico-sanitari. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="truefalse">
+		<name>
+			<text>la quantit&#224; d'acqua potabile &#232; un fattore critico per la prevenzione di malattie idrotrasmissibili._Expo_1_5_vf_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>la quantit&#224; d'acqua potabile &#232; un fattore critico per la prevenzione di malattie idrotrasmissibili.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La disponibilit&#224; di acqua non contaminata &#232; un fattore critico per la prevenzione di malattie idrotrasmissibili quali dissenteria e tifo, causa di circa 1,5 milioni di morti ogni anno, il 90% dei quali &#232; rappresentato da bambini di et&#224; inferiore ai 5 anni. 
+
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 18 -->
+	<question type="truefalse">
+		<name>
+			<text>le aree prioritarie d'intervento sono sette._Expo_1_5_vf_18</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>le aree prioritarie d'intervento sono sette.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Le aree prioritarie di intervento sono, a nostro giudizio,  sette,
+1. Modelli e strumenti per favorire la gestione integrata dell&#8217;acqua. Mettere a punto politiche, modelli e strumenti di gestione integrati per affrontare con efficacia le problematiche legate alle risorse idriche.
+2. Tecnologia, pratiche e know how per l&#8217;incremento della produttivit&#225; dell&#8217;acqua. Spezzare la correlazione esistente, e oggi molto forte, tra crescita economica, crescita demografica e conseguente incremento nei livelli di consumo d&#8217;acqua.
+3. Stili di vita e consumo a minor contenuto di acqua virtuale. Orientare i comportamenti individuali e i modelli di consumo verso stili di vita che implichino un impiego pi&#249; attento dell&#8217;acqua. 
+4. Impegno e responsabilit&#224; diffusi per garantire l&#8217;accesso all&#8217;acqua. Favorire l&#8217;accesso all&#8217;acqua potabile e a infrastrutture igienico-sanitarie per le popolazioni oggi pi&#249; svantaggiate sotto questo profilo, promuovendo gli investimenti necessari e rimuovendo i vincoli di natura tecnica e politica. 
+5. Localizzazione efficiente delle colture e virtual water tra- de per un risparmio globale delle risorse idriche consuma- te. Ripensare la localizzazione su scala globale delle attivit&#224; di produzione dei beni a maggiore incidenza di consumo di acqua secondo criteri di efficienza. 
+6. Water neutrality per indurre alla riduzione del consumo d&#8217;acqua e alla compensazione delle esternalit&#225; derivanti dal suo sfruttamento. Sviluppare ulteriormente il concetto di water neutrality, quale chiave di lettura per affrontare efficacemente il complesso delle tematiche inerenti il contenimento del consumo delle risorse idriche e strumento concreto di promozione di un impiego pi&#249; efficiente della risorsa. 
+7. Valorizzazione economica delle risorse idriche e internalizzazione del costo dell&#8217;acqua nel prezzo dei prodotti. Ripensare il funzionamento dei mercati sui quali l&#8217;acqua viene scambiata mediante la definizione di modelli e meccanismi economici caratterizzati da maggior efficacia e efficienza e in grado di definire con precisione il valore economico associato all&#8217;uso dell&#8217;acqua.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 19 -->
+	<question type="truefalse">
+		<name>
+			<text>Il problema dell'acqua e' limitato soltato ai Paesi piu' sfortunati_Expo_1_5_vf_19</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il problema dell'acqua e' limitato soltato ai Paesi piu' sfortunati<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>     Le cose potrebbero cambiare perche' l'acqua ''di qualita' '', ossia dolce e non inquinata, rappresenta solo una minima percentuale delle nostre riserve. E noi ne usiamo sempre di piu', sia perche' aumenta la popolazione della Terra, sia per il maggiore benessere raggiunto da molti Paesi che spinge le persone a consumare (e sprecare) piu' acqua.
+ 
+                                              
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 20 -->
+	<question type="truefalse">
+		<name>
+			<text>Abbiamo acqua in abbondanza_Expo_1_5_vf_20</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Abbiamo acqua in abbondanza<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>   L' acqua, elemento essenziale per la vita e per l&#8217;ecosistema terrestre, &#232; sempre stata relativamente abbondante, tanto che l&#8217;uomo tende a dare per scontata la sua perenne disponibilit&#224;. Certamente a livello globale sono ancora disponibili fonti d&#8217;acqua sufficientemente ampie, ma in alcune regioni i fabbisogni non sempre coincidono con l&#8217;effettiva disponibilit&#224;.
+                                                                   
+  
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 21 -->
+	<question type="truefalse">
+		<name>
+			<text>Se i trend dello sviluppo demografico ed economico attuali dovessero essere confermati, l'acqua dolce potabile sar&#224; sufficiente per tutti in futuro_Expo_1_5_vf_21</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Se i trend dello sviluppo demografico ed economico attuali dovessero essere confermati, l'acqua dolce potabile sar&#224; sufficiente per tutti in futuro<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> In un futuro prossimo, anche a causa del riscaldamento globale e dell&#8217;inquinamento, la quantita' d&#8217;acqua dolce a disposizione dell&#8217;umanita' potrebbe non essere piu' sufficiente a soddisfare la crescente domanda. Se i trend dello sviluppo demografico ed economico dovessero essere confermati e se non adotteremo nuovi sistemi per evitare gli sprechi e ridurre i consumi, il valore della risorsa idrica finira' per aumentare al punto da condizionare gravemente l&#8217;economia globale e gli equilibri geopolitici. Per questo gestire e governare la risorsa-acqua e il suo utilizzo rappresenta una delle piu' grandi sfide che la collettivita' si trovi oggi ad affrontare su scala globale.   
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 22 -->
+	<question type="truefalse">
+		<name>
+			<text>L'Europa un importatore netto d'acqua virtuale_Expo_1_5_vf_22</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'Europa un importatore netto d'acqua virtuale<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L&#8217;Europa e' un importatore netto di acqua virtuale e la sua sicurezza idrica dipende fortemente da risorse esterne. La globalizzazione dell&#8217;impiego dell&#8217;acqua sembra comportare sia opportunita' sia rischi, in quanto il livello di interdipendenza tra i Paesi nello scambio virtuale di risorse idriche e' destinato a crescere, dato il processo continuo di liberalizzazione del commercio internazionale.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 23 -->
+	<question type="truefalse">
+		<name>
+			<text>Tutta l'acqua piovuta puo' essere recuperata e utilizzata a fini agricoli_Expo_1_5_vf_23</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Tutta l'acqua piovuta puo' essere recuperata e utilizzata a fini agricoli<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>    Pi&#249; della met&#224; dell&#8217;acqua caduta attraverso le precipitazioni non &#232; disponibile per la coltivazione,perch&#233; evapora subito o traspira dalle piante. Questa frazione d&#8217;acqua costituisce le &#8220;acque verdi&#8221;, mentre la restante porzione d&#8217;acqua &#232; definita &#8220;acque blu&#8221; (fiumi, laghi, zone umide e falde sotterranee) e indica l&#8217;ammontare di acqua disponibile per il prelievo prima dell&#8217;evapotraspirazione.
+                                
+                                                            
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 24 -->
+	<question type="truefalse">
+		<name>
+			<text> Limitando il consumo di proteine animali, e' possibile ridurre anche in modo significativo i consumi di acqua virtuale'_Expo_1_5_vf_24</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p> Limitando il consumo di proteine animali, e' possibile ridurre anche in modo significativo i consumi di acqua virtuale'<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> E' vero, basti pensare che se si modifica il proprio stile alimentare per esempio passando a una dieta piu' ricca di frutta, verdura e cereali, limitando la quantita' di proteine animali assunte, e' possibile ridurre anche in modo significativo i consumi di acqua 'virtuale'.                          
+                            
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 25 -->
+	<question type="truefalse">
+		<name>
+			<text>La siccita' e' ancora un problema nei Paesi sviluppati_Expo_1_5_vf_25</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La siccita' e' ancora un problema nei Paesi sviluppati<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Anche nei Paesi sviluppati le carenze idriche stanno diventando sempre pi&#249; frequenti, a causa della realizzazione di impianti idroelettrici e di un uso indiscriminato in ambito agricolo. Negli Stati Uniti, per esempio, di recente la siccit&#224; ha colpito molte citt&#224; della Georgia
+settentrionale e vaste aree del sudovest del Paese. Emblematico &#232; il caso dei laghi artificiali Mead e Powell, entrambi alimentati dall&#8217;ormai esausto fiume Colorado, la cui portata totale va da 113 m2-sec durante la siccit&#224; a 28.000 m2-sec durante i periodi di massima piena.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 26 -->
+	<question type="truefalse">
+		<name>
+			<text>L'irrigazione a goccia si sta diffondendo con facilita'. _Expo_1_5_vf_26</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'irrigazione a goccia si sta diffondendo con facilita'. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L&#8217;irrigazione a goccia, in particolare, si sta diffondendo molto velocemente nelle aree in cui la risorsa idrica &#232; limitata, in quanto consente il risparmio idrico riducendo l&#8217;evapotraspirazione e il drenaggio in profondit&#224;, dal momento che l&#8217;acqua pu&#242; essere somministrata con maggiore precisione alle radici delle piante rispetto a quanto accade nei sistemi di irrigazione a pioggia o a scorrimento.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 27 -->
+	<question type="truefalse">
+		<name>
+			<text>le nanotecnologie hanno un ruolo fondamentale nelle tecniche di desalinizzazione._Expo_1_5_vf_27</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>le nanotecnologie hanno un ruolo fondamentale nelle tecniche di desalinizzazione.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Le nanotecnologie sembrano avere un grande potenziale in relazione alle tecniche di desalinizzazione e di depurazione delle acque da metalli inquinanti, permettendo in prospettiva di recuperare, a costi contenuti, quantit&#224; d&#8217;acqua per uso domestico, per la sanit&#224; e per l&#8217;irrigazione.
+In particolar modo i dispositivi di desalinizzazione permettono di sfruttare l&#8217;enorme risorsa costituita dal mare, visto che il 97% dell&#8217;acqua sulla Terra &#232; salata.
+Recentemente si &#232; ottenuta una sostanziale riduzione dei costi per una delle tecnologie di desalinizzazione pi&#249; efficienti (la membrana a osmosi inversa) grazie all&#8217;applicazione di una serie di miglioramenti tra cui membrane che necessitano di minore
+pressione, e quindi minore energia, e una modularit&#224; dei sistemi, che semplifica la costruzione degli impianti
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 28 -->
+	<question type="truefalse">
+		<name>
+			<text>la ricerca delle energie rinnovabili ha ridotto le emissioni nocive._Expo_1_5_vf_28</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>la ricerca delle energie rinnovabili ha ridotto le emissioni nocive.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> la ricerca legata alle energie rinnovabili, essa ha beneficiato recentemente del deciso orientamento politico verso la riduzione delle emissioni nocive per l&#8217;atmosfera. Grazie a questi sforzi, in questa fase si stanno realizzando importanti innovazioni tecnologiche che favoriranno un impiego crescente delle fonti rinnovabili, ad esempio nel campo dell&#8217;energia solare, dell&#8217;energia prodotta dallo sfruttamento delle maree, dei sistemi geotermici di nuova generazione e di quelli basati sull&#8217;integrazione di diverse fonti bioenergetiche. Tuttavia, nel prossimo futuro, solo una parte della domanda energetica sar&#224; realizzata per mezzo delle rinnovabili, mentre le fonti tradizionali
+(combustibili fossili ed energia nucleare) saranno ancora predominanti.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 29 -->
+	<question type="truefalse">
+		<name>
+			<text>l'aera caratterizzata da una maggiore scarsit&#224; &#232; il nord africa_Expo_1_5_vf_29</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>l'aera caratterizzata da una maggiore scarsit&#224; &#232; il nord africa<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>In base al criterio ambientale, a livello mondiale le aree caratterizzate da scarsit&#224; d&#8217;acqua sono principalmente nel Nord Africa, in alcune aree interne dell&#8217;Asia meridionale, in parte dell&#8217;Australia e degli Stati Uniti sud-orientali. Se invece si analizza la scarsit&#224; d&#8217;acqua dal punto di vista economico, &#232; possibile notare come le aree maggiormente colpite siano quelle dell&#8217;Africa centrale e di una parte della penisola indiana
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 30 -->
+	<question type="truefalse">
+		<name>
+			<text>La giornata per celebrare l'acqua venne raccomandata dalla Conferenza delle nazioni unite su ambiente e sviluppo._Expo_1_5_vf_30</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La giornata per celebrare l'acqua venne raccomandata dalla Conferenza delle nazioni unite su ambiente e sviluppo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L'organizzazione di una giornata internazionale per celebrare l'acqua venne raccomandata nel 1992 alla Conferenza delle Nazioni Unite su Ambiente E Sviluppo e successivamente adottata dall'Assemblea generale dell'ONU che, il 22 marzo 1993 organizzo' la prima Giornata Mondiale dell'Acqua
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 31 -->
+	<question type="truefalse">
+		<name>
+			<text>le moderne tecniche di irrigazione giocano un ruolo importante per la gestione dell'acqua. _Expo_1_5_vf_31</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>le moderne tecniche di irrigazione giocano un ruolo importante per la gestione dell'acqua. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Accanto alle tecnologie emergenti per la gestione dell&#8217;acqua, un ruolo importante &#232; giocato anche dalle moderne tecniche di irrigazione. Nel comparto agricolo, infatti, l&#8217;apporto idrico pluviale garantisce adeguate risorse all&#8217;80% della superficie coltivata a livello mondiale, mentre il restante 20% si basa sull&#8217;irrigazione. Le tecniche di irrigazione, responsabili del 40% della produzione agricola totale, consentono per&#242; di ottenere rendimenti superiori, in quanto permettono di incrementare la produttivit&#224; dei terreni agricoli tramite una maggior quantit&#224; d&#8217;acqua resa disponibile per le colture
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 32 -->
+	<question type="truefalse">
+		<name>
+			<text>a scarsit&#224; economica si verifica invece quando ostacoli legati ai capitali umani, impediscono l'accesso all'acqua_Expo_1_5_vf_32</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>a scarsit&#224; economica si verifica invece quando ostacoli legati ai capitali umani, impediscono l'accesso all'acqua<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>In termini tecnici, la scarsit&#224; economica si verifica invece quando ostacoli legati ai capitali umani, istituzionali e finanziari impediscono l&#8217;accesso all&#8217;acqua, anche se le risorse idriche sarebbero disponibili a livello locale e potrebbero soddisfare il fabbisogno umano.
+In particolare, si parla di scarsit&#224; economica quando meno del 25% dell&#8217;acqua fluviale pu&#242; essere prelevata per soddisfare il fabbisogno umano
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 33 -->
+	<question type="truefalse">
+		<name>
+			<text>l'attuale domanda d'acqua, gi&#224; molto elevata, crescer&#224; costantemente in futuro._Expo_1_5_vf_33</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>l'attuale domanda d'acqua, gi&#224; molto elevata, crescer&#224; costantemente in futuro.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>l'attuale domanda d&#8217;acqua, gi&#224; molto elevata, crescer&#224; costantemente in futuro provocando una situazione di progressiva scarsit&#224;, soprattutto in alcune aree del Pianeta.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 34 -->
+	<question type="truefalse">
+		<name>
+			<text>l'acqua &#232; considerata &#8220;scarsa&#8221; quando pi&#249; del 75% del - le risorse fluviali e sotterranee vengono prelevate_Expo_1_5_vf_34</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>l'acqua &#232; considerata &#8220;scarsa&#8221; quando pi&#249; del 75% del - le risorse fluviali e sotterranee vengono prelevate<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>l&#8217;acqua &#232; considerata &#8220;scarsa&#8221; quando pi&#249; del 75% delle risorse fluviali e sotterranee vengono prelevate er essere impiegate nell&#8217;agricoltura, nell&#8217;industria e per uso domestico, in questo caso lo sfruttamento si sta avvicinando (o ha gi&#224; oltrepassato) al limite di sostenibilit&#224;. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 35 -->
+	<question type="truefalse">
+		<name>
+			<text>Si parla invece di &#8220;incipiente scarsit&#224;&#8221; d'acqua quando pi&#249; del 60% delle acque fluviali vengono prelevate_Expo_1_5_vf_35</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Si parla invece di &#8220;incipiente scarsit&#224;&#8221; d'acqua quando pi&#249; del 60% delle acque fluviali vengono prelevate<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Si parla invece di &#8220;incipiente scarsit&#224;&#8221; d&#8217;acqua dal punto di vista ambientale quando pi&#249; del 60% delle acque fluviali vengono prelevate, lasciando al prossimo futuro una quantit&#224; d&#8217;acqua insufficiente.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 36 -->
+	<question type="truefalse">
+		<name>
+			<text>L'acqua negli ultimi anni sta scarseggiando. _Expo_1_5_vf_36</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'acqua negli ultimi anni sta scarseggiando. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L'attuale domanda d&#8217;acqua, gi&#224; molto elevata, crescer&#224; costantemente in futuro
+(come illustrato nei paragrafi seguenti) provocando una situazione di progressiva
+scarsit&#224;, soprattutto in alcune aree del Pianeta.
+L'acqua non &#232; una risorsa naturale infinita, per cui dobbiamo fare attenzione a come viene usata; e negli ultimi anni abbiamo la prova che spesso facciamo uno spreco gratuito di questa preziosa risorsa. L'acqua &#232; vita
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 37 -->
+	<question type="truefalse">
+		<name>
+			<text>L'acqua &#232; una risorsa naturale infinita._Expo_1_5_vf_37</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'acqua &#232; una risorsa naturale infinita.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L'acqua non &#232; una risorsa naturale infinita,perche' se lo fosse moltissimi problemi della nostra societa' e del mondo sarebbero risolti.
+L'acqua, elemento essenziale per la vita e per l&#8217;ecosistema terrestre, &#232; sempre stata relativamente abbondante, tanto che l&#8217;uomo tende a dare per scontata la sua
+perenne disponibilit&#224;. Certamente a livello globale sono ancora disponibili fonti d&#8217;acqua sufficientemente ampie, ma in alcune regioni i fabbisogni non sempre coincidono con l&#8217;effettiva disponibilit&#224;.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 38 -->
+	<question type="truefalse">
+		<name>
+			<text>L'incremento demografico &#232; una delle possibili cause dell'aumento della domanda dell'acqua in futuro._Expo_1_5_vf_38</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'incremento demografico &#232; una delle possibili cause dell'aumento della domanda dell'acqua in futuro.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Tra le cause che influiranno in futuro sulla domanda di acqua a livello mondiale, un ruolo particolarmente
+significativo &#232; giocato dalla dinamica demografica e dalla crescente urbanizzazione.
+Le stime relative all&#8217;incremento demografico indicano che la popolazione globale aumenter&#224;
+fino a oltre 8 miliardi di persone nel 2030 e raggiunger&#224; i 9 miliardi nel 2050.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 39 -->
+	<question type="truefalse">
+		<name>
+			<text>Lo sviluppo socio-economico &#232; una delle possibili cause dell'aumento della domanda dell'acqua in futuro._Expo_1_5_vf_39</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Lo sviluppo socio-economico &#232; una delle possibili cause dell'aumento della domanda dell'acqua in futuro.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Tra le cause della crescita della domanda futura di acqua incide notevolmente anche lo sviluppo
+economico. Il miglioramento delle condizioni economiche e di vita della popolazione
+che vive nei Paesi emergenti, nonch&#233; l&#8217;espansione delle attivit&#224; economiche &#8211; a partire da
+quelle industriali fino ai servizi e al turismo &#8211; comportano infatti pressioni crescenti sulle
+risorse idriche disponibili e sull&#8217;ecosistema naturale.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 40 -->
+	<question type="truefalse">
+		<name>
+			<text>L'inquinamento &#232; una delle maggiori cause della riduzione di acqua._Expo_1_5_vf_40</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'inquinamento &#232; una delle maggiori cause della riduzione di acqua.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Tra le principali cause della riduzione della disponibilit&#224; d&#8217;acqua vi sono i problemi generati
+dall&#8217;inquinamento, che minaccia la qualit&#224; delle risorse idriche disponibili.
+In particolare, la crescita economica e l&#8217;affacciarsi sui mercati di ampie fasce di popolazione
+precedentemente escluse dal consumo di massa generano problematiche molto
+serie soprattutto sul versante della gestione dei rifiuti.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 41 -->
+	<question type="truefalse">
+		<name>
+			<text>Il cambiamento climatico incider&#224; sulla disponibilit&#224; futura dell'acqua._Expo_1_5_vf_41</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il cambiamento climatico incider&#224; sulla disponibilit&#224; futura dell'acqua.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Un altro importante fattore che incider&#224; sulla disponibilit&#224; futura delle risorse idriche &#232; il climate change. Vi &#232; ormai un largo consenso in merito ai suoi effetti sull&#8217;acqua e sulla sua disponibilit&#224;,
+- una forte contrazione della superficie terrestre e marittima coperta dai ghiacci (secondoalcune proiezioni, una parte consistente dei ghiacci artici potrebbe scomparire definitivamente entro la fine del XXI secolo);
+- un consistente aumento del livello medio del mare, che, nella seconda met&#224; del XX secolo, &#232; aumentato di 1,75 millimetri all&#8217;anno;
+- un graduale spostamento verso i poli delle tempeste non tropicali, con conseguenti effetti significativi su venti, precipitazioni e temperature;
+- un significativo incremento della frequenza di fenomeni &#8220;estremi&#8221;, quali intense precipitazioni o forti ondate di calore;
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 42 -->
+	<question type="truefalse">
+		<name>
+			<text>L'irrigazione a goccia spreca risorse idriche._Expo_1_5_vf_42</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'irrigazione a goccia spreca risorse idriche.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L&#8217;irrigazione a goccia, si sta diffondendo molto velocemente nelle aree in cui la risorsa idrica &#232; limitata, in quanto consente il risparmio idrico riducendo l&#8217;evapotraspirazione e il drenaggio in profondit&#224;, dal momento che l&#8217;acqua pu&#242;
+essere somministrata con maggiore precisione alle radici delle piante rispetto a quanto accade nei sistemi di irrigazione a pioggia o a scorrimento.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 43 -->
+	<question type="truefalse">
+		<name>
+			<text>I paesi in via di sviluppo sono i maggiormente soggetti agli effetti negativi del cambiamento climatico._Expo_1_5_vf_43</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I paesi in via di sviluppo sono i maggiormente soggetti agli effetti negativi del cambiamento climatico.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Come prevedibile, gli impatti dei cambiamenti climatici affliggeranno maggiormente i Paesi in via di sviluppo, particolarmente vulnerabili non solo a causa della loro posizione geografica, ma anche della loro debolezza istituzionale e finanziaria.
+Tali fattori, uniti a un&#8217;economia fondata sulla necessit&#224; di forti prelievi d&#8217;acqua per uso agricolo, minano la capacit&#224; di questi Paesi nel far fronte a una sensibile futura riduzione delle risorse idriche disponibili
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 44 -->
+	<question type="truefalse">
+		<name>
+			<text>i cicloni fanno parte dei forti cambiamenti climatici_Expo_1_5_vf_44</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>i cicloni fanno parte dei forti cambiamenti climatici<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Tipologie di eventi estremi come siccit&#224;, forti precipitazioni, ondate di calore e intensit&#224; dei 
+cicloni tropicali venivano inseriti nell&#8217;AR4 tra i numerosi cambiamenti del clima di lungo 
+periodo osservati dal 195023,
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 45 -->
+	<question type="truefalse">
+		<name>
+			<text>nel 2010 in canada si e verificato l'anno pi&#249; freddo_Expo_1_5_vf_45</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>nel 2010 in canada si e verificato l'anno pi&#249; freddo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> in canada nel 2010 si &#232; verificato l'anno pi&#249; caldo,a Il 2010 &#232; stato l&#8217;anno pi&#249; caldo dall&#8217;inizio delle rilevazioni nazionali iniziate nel 1948. 
+questo clima ha portato a diverse conseguenze, come il blocco dei mezzi pubblici
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 46 -->
+	<question type="truefalse">
+		<name>
+			<text>l'IPCC ha verificato negli ultimi anni degli elementi climatici estremi_Expo_1_5_vf_46</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>l'IPCC ha verificato negli ultimi anni degli elementi climatici estremi<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L&#8217;IPCC nel 2011 ha rivelato, in particolare, come le analisi finora disponibili permettono di 
+comprendere i fenomeni osservati e le proiezioni future in maniera pi&#249; affidabile.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 47 -->
+	<question type="truefalse">
+		<name>
+			<text>in america negli ultimi anni si sono osservati cambiamenti climatici_Expo_1_5_vf_47</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>in america negli ultimi anni si sono osservati cambiamenti climatici<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Nonostante le precipitazioni mostrino un&#8217;elevata variabilit&#224; spaziale e temporale, e bench&#233; 
+per alcune regioni i dati disponibili siano limitati, nel periodo 1900-2005 &#232; stato possibile 
+osservare significativi incrementi nelle parti orientali dell&#8217;America settentrionale 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 48 -->
+	<question type="truefalse">
+		<name>
+			<text>Le moderne tecniche di irrigazione non favoriscono il risparmio idrico_Expo_1_5_vf_48</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Le moderne tecniche di irrigazione non favoriscono il risparmio idrico<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> le moderne tecniche di irrigazione permettono di mantenere un buon risparmio idrico permettendo di sprecare meno acqua ma di gestire allo stesso tempoi raccolti
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 49 -->
+	<question type="truefalse">
+		<name>
+			<text>per gestire l'acqua  non si sono sviluppate nuove tecniche di irrigazione_Expo_1_5_vf_49</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>per gestire l'acqua  non si sono sviluppate nuove tecniche di irrigazione<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> per gestire l'acqua si sono sviluppate nuove tevniche di irrigazione negli ultimi anni come la tecnica di irrigazione a goccia, che permette di irrigare senza sprechi di acqua
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 50 -->
+	<question type="truefalse">
+		<name>
+			<text>Si stima infatti che il massimo rendimento che pu&#242; essere ottenuto dall'irrigazione sia pi&#249;  del doppio di quello che pu&#242; essere ottenuto attraverso l'apporto idrico pluviale._Expo_1_5_vf_50</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Si stima infatti che il massimo rendimento che pu&#242; essere ottenuto dall'irrigazione sia pi&#249;  del doppio di quello che pu&#242; essere ottenuto attraverso l'apporto idrico pluviale.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>il rendimento delle tecniche di irrigazione puo essere sviluppato in modo che diventi il doppio delle tecniche di raccoglimento di acqu in modo fluviale
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 51 -->
+	<question type="truefalse">
+		<name>
+			<text>i cambiamenti climatici negli ultimi anni si sono incrementati di frequenza e forza_Expo_1_5_vf_51</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>i cambiamenti climatici negli ultimi anni si sono incrementati di frequenza e forza<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Tipologie di eventi estremi come siccit&#224;, forti precipitazioni, ondate di calore e intensit&#224; dei 
+cicloni tropicali venivano inseriti nell&#8217;AR4 tra i numerosi cambiamenti del clima di lungo 
+periodo osservati dal 195023, di cui &#232; stato segnalato un incremento di intensit&#224; e frequenza
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 52 -->
+	<question type="truefalse">
+		<name>
+			<text>i cambiamenti climatici portano anche a dei cambiamenti spaziali_Expo_1_5_vf_52</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>i cambiamenti climatici portano anche a dei cambiamenti spaziali<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>I cambiamenti nel clima inducono anche variazioni nell&#8217;estensione spaziale, durata e manifestazione temporale di tali eventi climatici24
+.
+La confidenza nell&#8217;aumento osservato in eventi quali l&#8217;ondata di calore che si &#232; verificata i
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 53 -->
+	<question type="truefalse">
+		<name>
+			<text>negli stati uniti di recente si e verificato l'inverno piu freddo_Expo_1_5_vf_53</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>negli stati uniti di recente si e verificato l'inverno piu freddo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> I L&#8217;inverno 2009-2010 (dicembre 2009-febbraio 2010) &#232; stato il pi&#249; freddo dal 1984 al 1985.
+un inverno cosi freddo negli stati uniti non si vedeva da molto tempo, questo ha portato al blocco di areoporti e mezzi di trasporto
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 54 -->
+	<question type="truefalse">
+		<name>
+			<text>e' possibile promuovere una nuova dieta_Expo_1_5_vf_54</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>e' possibile promuovere una nuova dieta<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Per fare in modo che le persone adottino uno stile alimentare coerente con la Doppia Piramide occorre prima di tutto informarle ed educarle sui benee#64257;ci che la dieta 
+mediterranea apporta a salute ed ambiente.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 55 -->
+	<question type="truefalse">
+		<name>
+			<text> per quanto riguarda la disponibilit&#224; d'acqua per uso domestico, l'ONU indica in 20-50 litri di acqua dolce il fabbisogno minimo giornaliero pro capite necessario ad assicurare i bisogni primari legati all'alimentazione e all'igiene. _Expo_1_5_vf_55</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p> per quanto riguarda la disponibilit&#224; d'acqua per uso domestico, l'ONU indica in 20-50 litri di acqua dolce il fabbisogno minimo giornaliero pro capite necessario ad assicurare i bisogni primari legati all'alimentazione e all'igiene. <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  per quanto riguarda la disponibilit&#224; d&#8217;acqua per uso domestico, l&#8217;ONU indica in 20-50 litri di acqua dolce il fabbisogno minimo giornaliero pro capite necessario ad assicurare i bisogni primari legati all&#8217;alimentazione e all&#8217;igiene. Nel mondo, pi&#249; di una persona su sei non raggiunge questi standard. Le conseguenze di una simile sperequazione sono significative non solo da un punto di vista di efficienza economica, ma anche e soprattutto umanitario e sanitario. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 56 -->
+	<question type="truefalse">
+		<name>
+			<text>Il 70 dell'acqua dolce viene usata per scopi agricoli_Expo_1_5_vf_56</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il 70 dell'acqua dolce viene usata per scopi agricoli<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>                    Il 70% dell'acqua dolce viene usata per l'irrigazione delle aree coltivabili, infatti quest'ultime sono molte e vaste
+
+
+
+
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 57 -->
+	<question type="truefalse">
+		<name>
+			<text>L'acqua del rubinetto alcune volte sa di cloro._Expo_1_5_vf_57</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'acqua del rubinetto alcune volte sa di cloro.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> L'acqua potabile deve essere protetta dai microrganismi e dagli agenti inquinanti che possono entrare in essa attraverso le condutture che la trasportano ai domicili. Ci&#242; e' realizzato per mezzo di disinfezione con i vari agenti, tra cui il cloro che &#232; il pi&#249; ampiamente usato
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

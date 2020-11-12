@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>qual'era la certezza di fondo della scienza medioevale._Expo_3_1_sin_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>qual'era la certezza di fondo della scienza medioevale.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il rapporto fra piacere e salute, che viene spesso percepito in modo conflittuale, per lungo tempo &#232; stato pensato nel segno dell&#8217;alleanza e del reciproco vantaggio.La scienza dietetica medievale era governata da una certezza di fondo, ' ci&#242; che piace fa bene ' . E viceversa,  'ci&#242; che fa bene piace ' . In tale prospettiva, il piacere di mangiare era la principale verifica della salubrit&#224; di un cibo e una vera guida alla salute, &#171;Se il corpo dell&#8217;uomo &#232; sano, tutte le cose che gli danno miglior sapore alla bocca sono quelle che lo nutrono meglio&#187;, scrive Aldobrandino da Siena, medico del XIII secolo.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>cio' che piace fa bene <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>non mangiare fa dimagrire<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>entrambe<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>nessuna delle due<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>cosa succede se si condisce il cibo._Expo_3_1_sin_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>cosa succede se si condisce il cibo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Anche il medico milanese Maino de&#8217; Maineri, nel secolo successivo, lo afferma con chiarezza, &#171;attraverso i condimenti, i cibi diventano migliori al gusto, e di conseguenza pi&#249; digeribili. Infatti ci&#242; che piace di pi&#249;, va meglio per la digestione&#187;.Il rapporto fra piacere e salute, che viene spesso percepito in modo conflittuale,
+per lungo tempo &#232; stato pensato nel segno dell&#8217;alleanza e del reciproco vantaggio. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>appesantisce molto il cibo che si mangia <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>diventa migliore al gusto e piu' digeribile<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>non cambia niente <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>il cibo non e' piu' facilmente digeribile<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>nel medioevo come erano classificati gli elementi._Expo_3_1_sin_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>nel medioevo come erano classificati gli elementi.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>All&#8217;interno di questa tradizione di pensiero, le &#8220;regole della salute&#8221; erano anzitutto regole alimentari.Per comprenderne il senso dobbiamo calarci nella cultura dietetica antica, che s&#8217;ispirava alla fisica di Aristotele &#8211; ancora lui &#8211; classificando gli alimenti in base alle quattro qualit&#224; (&#8220;freddo&#8221; e &#8220;caldo&#8221;, &#8220;umido&#8221; e &#8220;secco&#8221;) che si ritenevano prodotte dalla combinazione degli elementi naturali (terra, fuoco, acqua, aria).
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>freddo, caldo, umido e secco <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>freddo, caldo, fritto, crudo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>freddo, secco, bollito, fritto<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>caldo, surgelato, scotto, gratinato<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>su che fattori agivano i cuochi del medioevo._Expo_3_1_sin_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>su che fattori agivano i cuochi del medioevo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> alla cucina si assegnava il compito di eliminare gli eccessi preparando e combinando i prodotti in modo che le loro qualit&#224; risultassero il piu' possibile equilibrate. il cuoco aveva quindi il compito di agire soprattutto su due fonti,
+-tecniche di cottura
+-modalit&#224; di accostamento 
+
+Per esempio, un prodotto classificato come &#8220;umido&#8221; era opportuno cucinarlo senz&#8217;acqua, ossia arrostirlo;
+un prodotto &#8220;secco&#8221; era meglio temperarlo con l&#8217;acqua, ossia bollirlo. La stessa regola valeva per gli accostamenti, una carne di natura &#8220;calda&#8221; si doveva accompagnare con una salsa, o abbinare a un cibo di natura opposta.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>solamente sulle svariate tecniche di cottura   <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>solamente sulle tecniche di accostamento dei cibi che cucinavano<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>tecniche di cottura e le modalit&#224; di accostamento <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>cucinavano solo carne<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="multichoice">
+		<name>
+			<text>nel medioevo, come del resto anche oggi, le scelte alimentari sono limitate da dei fattori quali._Expo_3_1_sin_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>nel medioevo, come del resto anche oggi, le scelte alimentari sono limitate da dei fattori quali.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Nel Medioevo come oggi, come sempre, le scelte alimentari non dipendono solo dai segnali che il corpo ci manda, ma anche o soprattutto da considerazioni estranee all&#8217;atto nutritivo, quali le convenzioni sociali, le ragioni del prestigio e del potere (mangiare certe cose perch&#233; fanno status symbol), le ragioni della fede (un determinato credo pu&#242; vietarmi certi cibi), le ragioni della fame o del mercato (preferire un cibo perch&#233; pi&#249; economico o conveniente), dell&#8217;intemperanza (perch&#233; no) e via dicendo. In un mondo, come il nostro, dominato dalla pubblicit&#224; alimentare, non &#232; difficile comprendere come le scelte possano essere variamente condizionate da considerazioni e sentimenti non legati all&#8217;ascolto del corpo. 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>dalle convenzioni sociali, ragioni di prestigio e potere <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>da credo religiosi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>ragioni della fame o del mercato<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>sono vere tutte e tre<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="multichoice">
+		<name>
+			<text>cosa dicono i dietologi._Expo_3_1_sin_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>cosa dicono i dietologi.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Tuttavia la dietetica continua a incidere profondamente sul modo di avvicinarsi al cibo, per esempio &#232; evidente il rapporto fra la scoperta (novecentesca) delle vitamine e la predilezione, tipica del nostro tempo, per gli alimenti crudi o poco cotti (mentre fino all&#8217;Ottocento il crudo e il poco cotto erano ritenuti valori assolutamente negativi). L&#8217;alleanza fra gastronomia e dietetica sembra un dato permanente della storia. Le regole della salute continuano a essere, prima di tutto, regole alimentari. E i dietologi pi&#249; avveduti non esitano a riconoscere che la ricerca del piacere &#232; perfettamente compatibile con le esigenze della salute.  
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>mangiare tanti carboidrati fa bene  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>la ricerca del piacere &#232; perfettamente compatibile con le esigenze della salute<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>mangiare soprattutto uova e verdura<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>ci&#242; che piace non &#232; compatibile con l'esigenza della salute<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="multichoice">
+		<name>
+			<text>il detto gallina vecchia fa buon brodo significa..._Expo_3_1_sin_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il detto gallina vecchia fa buon brodo significa...<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Idee semplici, che facilmente si trasmettevano in forme proverbiali, la gallina vecchia &#8220;fa buon brodo&#8221; e non bisogna arrostirla, perch&#233;
+con l&#8217;avanzare dell&#8217;et&#224; gli animali perdono progressivamente umidit&#224; (la giovane porchetta, invece, va bene arrosto). La stessa regola valeva per gli accostamenti, una carne di natura &#8220;calda&#8221; si doveva accompagnare con una salsa, o abbinare a un cibo di natura opposta.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>che con l'avanzare dell'et&#224; gli animali perdono progressivamente umidit&#224;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>gli animali bolliti sono piu' buoni<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>preferivano mangiare animali bolliti e con questo detto speravano di convincere sempre piu' persone<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>nessuna di queste e' vera<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali malattie puo' prevenire una dieta ricca di verdure._Expo_3_1_sin_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali malattie puo' prevenire una dieta ricca di verdure.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Secondo un recente rapporto del Barilla Center for Food e Nutrition, Alimentazione e benessere per una vita sana, il consumo delle verdure pu&#242; avere un effetto preventivo contro le patologie cardiovascolari, a conferma che spesso il cibo &#232; la migliore medicina.
+ Inoltre la coltivazione delle verdure pu&#242; essere uno dei modi pi&#249; sostenibili ed economicamente accessibili per alleviare le carenze di micronutrienti tra le popolazioni povere.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Tumori <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Malattie cardiovascolari <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Pressione alta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Diabete<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="multichoice">
+		<name>
+			<text>il numero di diabetici nel mondo di quanto &#232; cresciuto tra il 2003 e i 2009._Expo_3_1_sin_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il numero di diabetici nel mondo di quanto &#232; cresciuto tra il 2003 e i 2009.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'obesit&#224; &#232; una condizione medica in cui si &#232; accumulato del grasso corporeo in eccesso che pu&#242; portare effetti negativi sulla salute, con una conseguente riduzione dell'aspettativa di vita e un aumento dei problemi di salute.[1][2]
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>34%<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>44%<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>54%<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>64%<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa significa che il cibo &#232; il simbolo della salute._Expo_3_1_sin_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa significa che il cibo &#232; il simbolo della salute.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Si intende che se assunto in giuste quantit&#224; e in diverse variet&#224;, &#232; indispensabile per la nostra salute, non bisogna n&#232; esagerare n&#232; mangiare troppo poco, insomma 'In medium stat virtus' cio&#232; la virt&#249; sta nel mezzo
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Si intende che se assunto in giuste quantit&#224; e in diverse variet&#224;, &#232; indispensabile per la nostra salute  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Che dobbiamo mangiare tantissimo per stare bene<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Che dobbiamo mangiare molto poco per stare bene<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Non sono d'accordo con l'affermazione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="multichoice">
+		<name>
+			<text>L'obesita' a livello globale dal 1980 ad oggi e' ,_Expo_3_1_sin_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'obesita' a livello globale dal 1980 ad oggi e' ,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  in trent&#8217;anni le persone obese o sovrappeso sono raddoppiate. La situazione varia molto da Paese a Paese. Ci sono al cuni Paesi in cui il valore attuale &#232; basso, come per esempio gli stati asiatici, ma questo risultato &#232; dovuto soprattutto al fatto che si partiva da livelli molto pi&#249; bassi che altrove, perch&#233; se guardiamo i tassi di crescita sono comunque analoghi a quelli degli altri Paesi. Prendiamo per esempio gli Stati Uniti, che per molti aspetti rappresentano un caso emblematico di questa trasformazione, oggi solo un americano su tre &#232; normopeso, gli altri presentano almeno un problema di sovrappeso
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Diminuita  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Rimasta invariata<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Raddoppiata<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Triplicata<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="multichoice">
+		<name>
+			<text>Qual'e' l'argomento dell'OMS nella giornata mondiale di quest'anno._Expo_3_1_sin_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Qual'e' l'argomento dell'OMS nella giornata mondiale di quest'anno.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L&#8217;OMS celebra ogni anno la Giornata Mondiale della Salute e l&#8217;argomento principe di quest&#8217;anno sara' l&#8217;ipertensione. In tutto il mondo un adulto su tre soffre di pressione alta, alla quale si deve peraltro circa la met&#224; dei decessi per ictus e patologie cardiache. E le sue cause sovrappeso, cattiva alimentazione, abuso di sale, carenza di sostanze nutritive, fumo, alcool  non sono altro che dieta e stile di vita occidentali. Malgrado l&#8217;apparente varieta' di alimentazione,nel mondo oggi tutti sono soggetti all'ipertensione , che si manifesta soprattutto in alcuni dei Paesi africani piu' poveri, dove riguarda circa il 40% della popolazione.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>malnutrizione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>ipertensione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>sovrappeso<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>anoressia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="multichoice">
+		<name>
+			<text>Qual'e' la malattia che ha colpito maggiormente i grandi e che Michelle Obama ha voluto aiutare le persone affette da questa malattia._Expo_3_1_sin_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Qual'e' la malattia che ha colpito maggiormente i grandi e che Michelle Obama ha voluto aiutare le persone affette da questa malattia.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Un gesto importante, simbolico, che conferma l&#8217;impegno dell&#8217;amministrazione Obama nella battaglia per un cambiamento radicale delle abitudini alimentari di un Paese in cui il sovrappeso &#232; la maggiore causa di morte. In questa lotta per uno stile di vita radicalmente nuovo, Michelle Obama ha avuto un ruolo di primissimo rilievo. Appena arrivata alla Casa Bianca, il 20 gennaio 2009, la First Lady ha allestito, accanto al celebre Giardino delle Rose, un vasto orto dove coltiva, assieme alle figlie Sasha e Malia, pomodori, cavoli, patate e cipolle rigorosamente biologici, senza additivi chimici o diserbanti.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>sovvrappeso<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>anoressia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>anemia mediterranea<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>cancro<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="multichoice">
+		<name>
+			<text>Cos'e' e in cosa consiste l'EPODE._Expo_3_1_sin_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cos'e' e in cosa consiste l'EPODE.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'Epode-Ensemble,Pre'venos l'Obe'site' des Enfants(Preveniamo insieme l'obesita' infantile) e' un programma che ha l'obiettivo di ridurre l'obesit&#224; e il sovrappeso nei bambini attraverso il coinvolgimento di tutti gli attori delle comunite' locali in Europa , perche' si creino le condizioni per cambiare permanentemente le abitudini delle famiglie.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>aiutare i bambini malati di AIDS<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>combattere il cancro <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>ridurre l'obesita' infantile e il sovvrappeso<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>combattere l'anoressia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="multichoice">
+		<name>
+			<text>Quanti sono i bambini obesi al mondo._Expo_3_1_sin_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quanti sono i bambini obesi al mondo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Oggi nel mondo ci sono quarantacinque milioni di bambini obesi compresi tra i cinque e i diciasette anni, e' per questo che sono nate tante associazioni e comunita' che hanno come scopo di aiutare le famiglie con dei loro progetti e dei programmi.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>seicento mila<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>un milione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>quarantacinque milioni<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>dieci mila<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="multichoice">
+		<name>
+			<text>Qual'e' il risultato del programma dell'Epode._Expo_3_1_sin_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Qual'e' il risultato del programma dell'Epode.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>I  risultati  del  programma  sono  estremamente  interessanti e hanno ottenuto un buon risultato , la  prevalenza  del  sovrappeso  e dell&#8217;obesita'  infantile  e' scesa  dal  22  al  9%  nelle prime citt&#224; coinvolte nel progetto (in Francia e in Belgio), riconfermando la validita' della teoria a base del metodo.Oggi il metodo EPODE e' usato da una trentina di programmi, in piu' di venti Paesi nel mondo, uniti nella rete EPODE International Network, creata nel 2011.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>la prevalenza del sovvrappeso e dell'obesita' infantile e' scesa dal 22% al 9%<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>la prevalenza del sovvrappeso e dell'obesita' infantile e' scesa de 50% <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>la prevalenza del sovvrappeso e dell'obesita' infantile e' salita 10 %<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>la prevalenza del sovvrappeso e dell'obesita' infantile e' salita 80 %<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono le cause dell'obesit&#224; infantile._Expo_3_1_sin_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono le cause dell'obesit&#224; infantile.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>ALIMENTAZIONE
+Se &#232; vero che una dieta insufficiente pu&#242; portare a deficit di vario tipo (proteine, calcio, ferro, vitamine ed altri nutrienti essenziali alla crescita), per contro, un introito calorico eccessivo determina dapprima un sovrappeso del bambino, poi, nella maggioranza dei casi, una manifesta obesit&#224;.
+L'iperalimentazione nei primi due anni di vita, oltre a causare un aumento di volume delle cellule adipose (ipertrofia), determina anche un aumento del loro numero (iperplasia); da adulti, pertanto, si avr&#224; una maggiore predisposizione all'obesit&#224; ed una difficolt&#224; a scendere di peso o a mantenerlo nei limiti, perch&#233; sar&#224; possibile ridurre le dimensioni delle cellule, ma non sar&#224; possibile eliminarle. Intervenire durante l'et&#224; evolutiva &#232; quindi di fondamentale importanza, perch&#233; d&#224; la garanzia di risultati migliori e duraturi. (Confalone, 2002).
+SEDENTARIET&#192;
+Oltre all'alimentazione scorretta e squilibrata, non &#232; da sottovalutare, come fattore di rischio, la ridotta attivit&#224; fisica o la sedentariet&#224;, frutto di uno stile di vita sbagliato, ma sempre di pi&#249; frequente riscontro.
+I piccoli, infatti, sono spesso accompagnati in macchina dai genitori (anche se la scuola o la palestra distano pochi metri da casa), prendono l'ascensore anche per un solo piano, passano ore ed ore davanti al computer e alla televisione (con gli esempi negativi che accentuano le cattive abitudini alimentari), escono sempre meno e cos&#236; via.
+Nel rapporto &#8220;Obesit&#224; in bambini e giovani, Una crisi nella sanit&#224; pubblica&#8221; scritto da un gruppo di esperti internazionali (IOTF) facente capo alla WHO (World Health Organisation), ed in collaborazione con la IASO (l'Associazione Internazionale per lo Studio sull'Obesit&#224;), sono state identificate le principali tendenze sociali che contribuiscono all'aumento dell'obesit&#224; infantile,
+
+    aumento dell'uso di trasporto motorizzato (ad esempio per andare a scuola);
+    diminuzione dell'attivit&#224; fisica durante il tempo libero e conseguente aumento della sedentariet&#224;;
+    aumento del tempo trascorso davanti la tv;
+    aumento della quantit&#224; e variet&#224; degli alimenti grassi ed energetici e relativo aumento della loro pubblicit&#224;;
+    aumento dell'uso di ristoranti e fast food per pranzare e cenare, i quali offrono grandi porzioni a poco prezzo;
+    aumento del numero dei pasti durante la giornata;
+    aumento dell'uso di bibite analcoliche dolci e gasate come sostituzione all'acqua.
+
+L'esercizio fisico &#232; di fondamentale importanza per il bambino che cresce, in quanto, oltre a farlo dimagrire, lo rende pi&#249; attivo, contribuendo a ridistribuire le proporzioni tra massa magra (tessuto muscolare) e massa grassa (tessuto adiposo). (Confalone, 2002).
+Secondo Schoeller e coll. (1997), per evitare l'aumento di peso &#232; ipotizzabile un &#8220;livello soglia&#8221; di esercizio corrispondente a circa 80 minuti di attivit&#224; fisica moderata o 35 minuti di attivit&#224; intensa al giorno,. (Giampietro,1998 - pagina 7).
+E' quindi sufficiente praticare, in maniera costante, un'attivit&#224; aerobica leggera, senza affaticare troppo l'organismo (come una pedalata in bici od una camminata); ci&#242; sottopone i muscoli ad uno sforzo moderato ma costante, inducendoli ad attingere carburante soprattutto dal serbatoio dei grassi. (Confalone, 2002).
+FAMILIARIT&#192;
+I fattori familiari non sono meno determinanti dei precedenti. L'obesit&#224;, sotto certi aspetti, pu&#242; considerarsi un problema di natura ereditaria e, sotto altri, una conseguenza di fattori ambientali.
+Un'indagine multiscopo realizzata dall'ISTAT nel 2000 dimostra che circa il 25% dei bambini ed adolescenti in sovrappeso ha un genitore obeso o in sovrappeso, mentre la percentuale dei bambini sale a circa il 34% quando sono obesi o in sovrappeso entrambi i genitori.
+L'esempio della famiglia &#232; fondamentale, non si pu&#242; parlare di educazione alimentare se i genitori non iniziano per primi a seguire una dieta equilibrata.
+Per quanto riguarda la natura ereditaria dell'obesit&#224;, sono state evidenziate alterazioni di alcuni geni aventi un ruolo nella produzione delle cellule adipose, ma gli studi sono tutt'ora in corso. (Confalone, 2002).
+
+
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>true</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+		<correctfeedback format="html">
+ 		 <text>Risposta corretta.</text>
+		</correctfeedback>
+		<partiallycorrectfeedback format="html">
+ 			<text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>alimentazione scorretta, sedentariet&#224;, fattori familiari<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>alimentazione scorretta, eccesso di attivit&#224; fisica, fattori familiari<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>soltanto una scorretta alimentazione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>soltanto una carenza di attivit&#224; fisica<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

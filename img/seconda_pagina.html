@@ -1,0 +1,121 @@
+ <!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Verifica TPS</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container-fluid">
+	<div class="row">
+    	<div class="col-sm-12"> 
+        	<span style="text-align:center">
+        	<h1>Verifica TPS</h1>
+  			<h3>Cognome Nome</h3>
+            </span>
+        </div>	
+    </div>
+    <hr>
+    <div class="row">  
+ 	  <div class="col-sm-4">
+        <ul style='list-style-type:square;'>
+          <li>Il mio Cognome</li>
+          <li>Il mio Nome</li>
+          <li>La mia classe</li>
+        </ul>
+      </div>
+ 	  <div class="col-sm-4"> 
+        <ol>
+          <li><a href="https://www.umanetexpo.net/siti/elexpo/index.asp" target="_self"> Link aperto nella stessa pagina</a></li>
+          <li><a href="https://evo.elexpo.net/portale/" target="_blank"> Link aperto in un'altra scheda</a></li>
+        </ol>
+      </div>
+      <div class="col-sm-4">Vai a https://evo.elexpo.net/portale  <br>
+      <a href="https://evo.elexpo.net/portale" target="_blank">
+      <img src="img/elexperience.jpg" class="rounded-circle img-fluid" alt="Vai al portale elexperience">
+      </a>
+     </div>
+    </div>
+     <hr>
+    <div class="row">
+      
+ 	  <div class="col-sm-4">Circle<br>
+          <img src="img/elexpo.jpg" class="rounded-circle img-fluid" alt="Cinque Terre"> 
+      </div>
+      <div class="col-sm-4">Thumbnail<br>
+          <img src="img/uet.png" class="img-thumbnail img-fluid" alt="Cinque Terre"> 
+      </div>
+      <div class="col-sm-4">Clicca l'immagine per aprire https://evo.elexpo.net/portale  <br>
+        <a href="https://evo.elexpo.net/portale" target="_blank">
+       	 <img src="img/elexperience.jpg" class="rounded-circle img-fluid" alt="Vai al portale elexperience">
+        </a>
+     </div>
+    </div>
+    <hr>
+    <div class="row text-center">  
+      <div class="col-sm-3"><p id="1" class="text-success">Il bottone qui sotto modifica il mio colore</p></div>
+      <div class="col-sm-3"><p id="2" class="text-info">Il bottone qui sotto modifica la mia dimensione</p></div>
+ 	  <div class="col-sm-3"><p id="3" class="text-warning">Il bottone qui sotto modifica il mio colore di sfondo</p></div>
+      <div class="col-sm-3"><p id="4" class="text-danger">Il bottone qui sotto modifica il mio testo con Cognome e Nome</p></div>
+    </div>
+    <hr>
+    <div class="row" style="text-align:center">  
+      <div class="col-sm-3"><p class="bg-success text-white">Click per modificare il colore.<br><button onclick="document.getElementById(1).className='bg-success text-white';">Click</button></p></div>
+      <div class="col-sm-3"><p class="bg-info text-white">Click per modificare la dimensione a 20px<br><button onclick="document.getElementById(2).style.fontSize='20px';">Click</button></p></div>
+ 	  <div class="col-sm-3"><p class="bg-warning text-white">Click per modificare il colore di sfondo a red<br><button onclick="document.getElementById(3).style.backgroundColor='red';">Click</button></p></div>
+      <div class="col-sm-3"><p class="bg-danger text-white">Click per modificare il mio testo e fare un alert con Cognome e Nome<br><button onclick="document.getElementById(4).innerHTML= 'Cognome Nome';alert('Cognome Nome');">Click</button></p></div>
+    </div>
+    <hr>
+    <div class="row" style="padding:20px;">
+        <table class="table table-bordered">
+        <thead>
+          <tr>
+            <th>Firstname</th>
+            <th>Lastname</th>
+            <th>Email</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>John</td>
+            <td>Doe</td>
+            <td>john@example.com</td>
+          </tr>
+          <tr>
+            <td>Mary</td>
+            <td>Moe</td>
+            <td>mary@example.com</td>
+          </tr>
+          <tr>
+            <td>July</td>
+            <td>Dooley</td>
+            <td>july@example.com</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+   
+    <div class="row">
+      <div class="col-sm-12"> 
+        <div class="jumbotron">
+         <h1>Bootstrap Tutorial</h1>      
+         <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web.</p>
+        </div>
+      </div>
+    </div>
+    <hr>
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container">
+        <h1>Bootstrap Tutorial</h1>      
+        <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile-first projects on the web.</p>
+      </div>
+  	</div>
+</div>
+
+</body>
+</html> 

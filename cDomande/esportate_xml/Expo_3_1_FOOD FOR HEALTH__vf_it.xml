@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="truefalse">
+		<name>
+			<text>Secondo il BCFN le verdure hanno  un effetto preventivo contro le patologie  cardiovascolari, a conferma che spesso il cibo e'  la migliore medicina._Expo_3_1_vf_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Secondo il BCFN le verdure hanno  un effetto preventivo contro le patologie  cardiovascolari, a conferma che spesso il cibo e'  la migliore medicina.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Vero, perche' , secondo un recente rapporto del Barilla Center  for Food e Nutrition, Alimentazione e benessere per una vita sana, il consumo delle verdure puo'  avere un effetto preventivo contro le patologie  cardiovascolari , a conferma che spesso il cibo e' la migliore medicina . Inoltre la coltivazione delle verdure puo' essere uno dei modi piu' sostenibili ed economicamente accessibili per alleviare le carenze di micronutrienti tra le popolazioni povere.
+Spesso chiamata &#8220;fame nascosta&#8221;, la carenza di  micronutrienti compresa quella di vitamina  A, ferro e iodio  riguarda circa un miliardo di persone in tutto il mondo. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="truefalse">
+		<name>
+			<text>In Europa le malattie croniche sono all'origine dell'86 % di mortalita' e del 77% delle spese mediche._Expo_3_1_vf_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>In Europa le malattie croniche sono all'origine dell'86 % di mortalita' e del 77% delle spese mediche.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Vero ,perch&#233; oggi i dati dell'OMS ci rivelano e ci confermano che intervenendo sull'alimentazione e su attivita' fisica e su fumo , si puo'  prevenire  l&#8217;80% delle malattie cardiovascolari, l&#8217;80% dei casi di diabete di tipo 2 e il 40% dei casi di tumore.  Purtroppo la tendenza non e' positiva, ci muoviamo troppo poco, la nostra alimentazione e' troppo ricca di grassi, zuccheri e sale e contiene troppe calorie.
+
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="truefalse">
+		<name>
+			<text>L'ipertensione e' quella che minaccia la salute globale._Expo_3_1_vf_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'ipertensione e' quella che minaccia la salute globale.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Vero ma anche il sovrappeso, l&#8217;iperglicemia,
+la scarsa attivit&#224; fisica, l&#8217;eccesso di sale nella
+dieta, l&#8217;ipercolesterolemia e un&#8217;alimentazione povera
+di pesce e cereali integrali. In salita risulta infine
+essere l&#8217;osteoporosi, che colpisce 150 milioni di
+persone in tutto il mondo e interessa in Europa
+una donna su tre fra le ultracinquantenni. Sempre
+pi&#249; chiaramente, insomma, emerge come in quasi
+tutto il mondo la popolazione risenta della globalizzazione
+delle cattive abitudini a tavola.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="truefalse">
+		<name>
+			<text>Un alto apporto giornaliero di sale fa bene alla salute ._Expo_3_1_vf_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Un alto apporto giornaliero di sale fa bene alla salute .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Falso perche' una riduzione
+anche modesta nella sua assunzione quotidiana
+implica un effetto positivo sulla salute dei soggetti
+ipertesi. Malgrado le numerose evidenze per&#242;, nel
+2012 uno studio dell&#8217;Istituto Superiore di Sanit&#224;
+ha valutato che in Italia il consumo giornaliero di
+sale &#232; circa doppio rispetto ai 5 grammi raccomandati
+dall&#8217;OMS.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="truefalse">
+		<name>
+			<text>Il diabete e' una malattia in espansione negli ultimi anni._Expo_3_1_vf_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il diabete e' una malattia in espansione negli ultimi anni.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>vero perche' sempre piu' pero' lo stile di vita occidentale dimentica
+queste abitudini, e il risultato e' che il numero
+di diabetici e' salito del 34% fra il 2003 e il 2009.
+E la cifra e' destinata ad aumentare e a produrre
+costi notevoli per i singoli e per la collettivita'. Il
+diabete, infatti, e' una delle malattie che piu' compromettono
+la qualita' della vita, ed &#232; una delle piu'
+costose per i servizi sanitari.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="truefalse">
+		<name>
+			<text>La dieta meditterranea e' la soluzione migliore._Expo_3_1_vf_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La dieta meditterranea e' la soluzione migliore.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>vero perche' e' emerso da studi scientifici che La dieta mediterranea
+e' infatti senza dubbio la piu' sana, ed &#232; anche quella
+pi&#249; ecocompatibile, perch&#233; costituita principalmente
+da alimenti che, come la frutta, la verdura e i legumi,
+hanno un minore impatto sull&#8217;ambiente.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="truefalse">
+		<name>
+			<text>Dall'alimentazione e dal nostro stile di vita dipende quanto possiamo aspettarci di vivere.._Expo_3_1_vf_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Dall'alimentazione e dal nostro stile di vita dipende quanto possiamo aspettarci di vivere..<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Vero perch&#233; In particolare, studi scienti.ci di tutto il mondo disegnano un quadro in cui il tipo 
+di alimenti che assumiamo influenza non solo il nostro peso ma anche il nostro benessere. 
+Obesit&#224;, diabete, malattie cardiovascolari, tumori, morbo di Alzheimer.
+Oggi il cibo sulle nostre tavole pu&#242; voler dire salute, oppure no.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="truefalse">
+		<name>
+			<text>E' vero che l'Organizzazione Mondiale della Sanita' ha valutato la diffusione nel Pianeta di 291 condizioni con l'obiettivo di capire come sono cambiate le malattie negli ultimi decenni._Expo_3_1_vf_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>E' vero che l'Organizzazione Mondiale della Sanita' ha valutato la diffusione nel Pianeta di 291 condizioni con l'obiettivo di capire come sono cambiate le malattie negli ultimi decenni.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>vero e anche per  fornire dati preziosi a chi dovra'
+programmare le politiche sanitarie del futuro. Il
+risultato piu' importante e' per molti versi anche il
+piu' sorprendente, per la prima volta nella storia, infatti,
+il peso delle patologie legate alla cattiva alimentazione
+ha superato quello delle malattie determinate
+da un insufficiente apporto calorico.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="truefalse">
+		<name>
+			<text> e' vero che in questi anni la soglia di vita si e' innalzata con anche il miglioramento della qualita' di vita._Expo_3_1_vf_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p> e' vero che in questi anni la soglia di vita si e' innalzata con anche il miglioramento della qualita' di vita.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Falso perche' il rapporto fotografa poi un incremento generalizzato
+dell&#8217;aspettativa di vita, che dal 1970 al 2010
+&#232; passata da 61,2 anni a 73,3 per le donne, e da
+56,4 a 67,5 anni per gli uomini. A questa non corrisponde
+pero' una performance altrettanto buona
+del miglioramento della qualit&#224; della vita. In buona
+sostanza, si vive piu' a lungo, ma la seconda parte
+della vita pu&#242; risultare pi&#249; difficile di un tempo;
+invece il vero obiettivo &#232; vivere bene a lungo.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="truefalse">
+		<name>
+			<text>La salute del cuore e dei vasi sanguigni e' compromessa solo dal fumo._Expo_3_1_vf_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La salute del cuore e dei vasi sanguigni e' compromessa solo dal fumo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>falso perche' e' compromessa anche dall&#8217;attivita' fisica e
+la dieta. Riguardo a quest&#8217;ultima, sotto i riflettori
+degli studi scientifici ci sono l&#8217;assunzione di acidi
+grassi saturi (derivanti in particolare da prodotti
+a base di carne e formaggio) ma soprattutto gli
+acidi grassi trans, derivanti principalmente da
+prodotti industriali contenenti grassi idrogenati e
+da fritture estreme (con inadeguati cambi degli
+oli usati) e, solo in minima parte, come contenuto
+naturale in prodotti derivati dal latte. In particolare
+gli acidi grassi trans fanno aumentare la quantit&#224;
+di colesterolo LDL (conosciuto come quello
+cattivo) nel sangue, favorendo l&#8217;accumulo sulla
+parete delle arterie e la formazione di trombi e la
+riduzione di colesterolo HDL, conosciuto come
+quello buono.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="truefalse">
+		<name>
+			<text>L'OMS celebra ogni anno la Giornata Mondiale della Salute_Expo_3_1_vf_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'OMS celebra ogni anno la Giornata Mondiale della Salute<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'OMS celebra ogni anno la Giornata Mondiale della Salute e l&#8217;argomento principe di quest&#8217;anno sar&#224; l&#8217;ipertensione. In tutto il mondo un adulto su tre soffre di pressione alta, alla quale si deve peraltro circa la met&#224; dei decessi per ictus e patologie cardiache.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="truefalse">
+		<name>
+			<text>Dalla fine degli anni Settanta, abbiamo permesso un maggiore consolidamento delle mega-aziende agricole e alimentari_Expo_3_1_vf_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Dalla fine degli anni Settanta, abbiamo permesso un maggiore consolidamento delle mega-aziende agricole e alimentari<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Dalla fine degli anni Settanta, abbiamo permesso un maggiore consolidamento delle mega-aziende agricole e alimentari, abbiamo creato nuovi composti food-like (come lo sciroppo di mais ad alto contenuto di fruttosio e i mangimi
+animali a base di mais e soia), una specie di discarica in cui i coltivatori possono riversare nel mondo
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="truefalse">
+		<name>
+			<text> oggi tutti sono soggetti all'ipertensione._Expo_3_1_vf_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p> oggi tutti sono soggetti all'ipertensione.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> oggi tutti sono soggetti all&#8217;ipertensione  che si manifesta soprattutto in alcuni dei Paesi africani pi&#249; poveri, dove riguarda circa il 40% della popolazione. Tanto per cambiare, per&#242;, questa patologia &#232; una conseguenza dell&#8217;impatto, negli ultimi trent&#8217;anni, della dieta occidentale
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="truefalse">
+		<name>
+			<text>Sono avvenuti dei cambiamenti nel sistema alimentare._Expo_3_1_vf_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Sono avvenuti dei cambiamenti nel sistema alimentare.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Pi&#249; o meno nel periodo in cui l&#8217;obesit&#224; ha cominciato a diffondersi, nel sistema alimentare globale sono avvenuti alcuni cambiamenti portande una grave malnutrtizine specialmente nei paesi pi&#249; sviluppati
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="truefalse">
+		<name>
+			<text>l BCFN e il Food Tank pongono domande sulla nutrizione nel nostro pianeta_Expo_3_1_vf_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>l BCFN e il Food Tank pongono domande sulla nutrizione nel nostro pianeta<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Organizzazioni come il BCFN e come Food Tank sono partite dal punto giusto, ponendo le domande pi&#249; difficili e fondamentali sullo stato del nostro sistema alimentare e sulla salute della polazione e del Pianeta
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="truefalse">
+		<name>
+			<text>Gli alimenti che mangiamo diventano sempre pi&#249; salubri_Expo_3_1_vf_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Gli alimenti che mangiamo diventano sempre pi&#249; salubri<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Sviluppando un sistema che sovraproduce e sovvenziona alcuni beni e li usa per fabbricare decine di migliaia di prodotti alimentari meno nutrienti, abbiamo intrappolato il mondo nella nostra dieta malsana e a buon mercato. E abbiamo trascinato gli affamati nella corrente del nostro eccesso, che scoraggia la concorrenza di mercato e l&#8217;autosufficienza.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="truefalse">
+		<name>
+			<text>L'obesita' porta svantaggi,ma solo a chi la ha _Expo_3_1_vf_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'obesita' porta svantaggi,ma solo a chi la ha <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L&#8217;aumento globale dell&#8217;obesit&#224; significa cattiva salute, ma anche costi economici e sociali che stanno caratterizzando la nostra contemporaneit&#224;. Costi che pesano sulla spesa della salute pubblica e sulla vita quotidiana. 
+ 
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 18 -->
+	<question type="truefalse">
+		<name>
+			<text>Il tasso di obesita' italiana e' maggiore rispetto a quello degli Stati Uniti_Expo_3_1_vf_18</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il tasso di obesita' italiana e' maggiore rispetto a quello degli Stati Uniti<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  In Italia gli obesi o in sovrappeso sono il 45,2% della popolazione adulta,mentre negli Stati Uniti sono il 68% . I dati devono per&#242; essere presi al meno in parte con le dovute cautele. I numeri italiani infatti si riferiscono al risultato di in terviste in cui sono gli stessi intervistati a di chiarare peso e altezza. La possibilit&#224; che pi&#249; di qualcuno si sia tolto qualche chilo, migliorando la propria condizione, &#232; quindi reale. 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 19 -->
+	<question type="truefalse">
+		<name>
+			<text>Una persona obesa ha maggiori difficolta' nel trovare lavoro_Expo_3_1_vf_19</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Una persona obesa ha maggiori difficolta' nel trovare lavoro<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Le mansioni che puo' eseguire una persona obesa sono minori
+ Una obesit&#224; di secondo-terzo grado modifica la geometria del
+corpo impedendo un&#8217;escursione fisiologica dei movimenti
+e determinando non solo una ridotta capacit&#224; nello svolgimento
+di attivit&#224; di base della vita quotidiana, quali alzarsi
+da una sedia, afferrare un oggetto da terra o in alto, camminare,
+trasportare la spesa (9-18), ma anche in diverse attivit&#224;
+lavorative (11, 14, 18, 19-22).
+L&#8217;obesit&#224; di grado elevato impaccia i movimenti globali
+del corpo (come camminare (15, 23-24) ed alzarsi da
+posizione seduta (11)), come quelli segmentari e di precisione
+svolti con l&#8217;arto superiore in talune attivit&#224; lavorative
+(25); infatti a causa della riduzione nell&#8217;escursione articolare
+(gomito, segmento mano-polso (16), rachide dorsale
+(26)), si determina un sovraccarico compensatorio
+che &#232; alla base di una maggiore incidenza di patologie muscoloscheletriche
+(27, 28).
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 20 -->
+	<question type="truefalse">
+		<name>
+			<text>L'ipertensione puo' essere causata  dalla cattiva alimentazione_Expo_3_1_vf_20</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'ipertensione puo' essere causata  dalla cattiva alimentazione<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>In tutto il mondo un adulto su tre soffre di pressione alta, alla quale si deve peraltro circa la met&#224; dei decessi per ictus e patologie cardiache. E le sue cause &#8211; sovrappeso, cattiva alimentazione, abuso di sale, carenza di sostanze nutritive, fumo, alcool &#8211; non sono altro che dieta e stile di vita occidentali. Malgrado l&#8217;apparente variet&#224; di alimentazione, nel mondo oggi tutti sono soggetti all&#8217;ipertensione, che si manifesta soprattutto in alcuni dei Paesi africani pi&#249; poveri, dove riguarda circa il 40% della popolazione. Tanto per cambiare, per&#242;, questa patologia &#232; una conseguenza dell&#8217;impatto, negli ultimi trent&#8217;anni, della dieta occidentale, mentre l&#8217;obesit&#224; mondiale &#232; raddoppiata e la fame ha continuato ad affliggere una persona su sette, l&#8217;ipertensione si &#232; diffusa per tutto il Pianeta. In questi tre decenni abbiamo sviluppato un sistema alimentare che invece di ridurre il peso delle malattie legate al tipo
+di dieta lo aumenta.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 21 -->
+	<question type="truefalse">
+		<name>
+			<text>In Europa le morti sono dovute a malattie croniche per l'86%_Expo_3_1_vf_21</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>In Europa le morti sono dovute a malattie croniche per l'86%<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>In Europa le malattie croniche sono all&#8217;origine dell&#8217;86% della mortalit&#224; e del 77% delle spese mediche. I dati dell&#8217;OMS confermano che intervenendo su alimentazione, attivit&#224; fisica e fumo si pu&#242; prevenire l&#8217;80% delle malattie cardiovascolari, l&#8217;80% dei casi di diabete di tipo 2 e il 40% dei casi di tumore. Purtroppo la tendenza non &#232; positiva, ci muoviamo troppo poco, la nostra alimentazione &#232; troppo ricca di grassi, zuccheri e sale, contiene troppe calorie. Invertire la tendenza avrebbe un impatto decisivo sull&#8217;economia e sulla produttivit&#224; delle nostre societ&#224;.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 22 -->
+	<question type="truefalse">
+		<name>
+			<text>La Piattaforma d'azione europea per l'alimentazione, l'attivit&#224; fisica e la salute promuove azioni concrete _Expo_3_1_vf_22</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La Piattaforma d'azione europea per l'alimentazione, l'attivit&#224; fisica e la salute promuove azioni concrete <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>La Piattaforma d&#8217;azione europea per l&#8217;alimentazione, l&#8217;attivit&#224; fisica e la salute, che promuove azioni concrete da parte di diverse organizzazioni europee per migliorare l&#8217;alimentazione e l&#8217;attivit&#224; fisica. Questo forum raccoglie rappresentanti dell&#8217;industria alimentare, associazioni di tutela dei consumatori e altre organizzazioni a livello europeo che s&#8217;impegnano volontariamente a portare avanti una serie di azioni per la riduzione dell&#8217;obesit&#224; in Europa. I membri della piattaforma si sono impegnati eliminando tra l&#8217;altro la promozione di bibite gassate destinate ai bambini, a fornire informazioni nutrizionali sul cibo prodotto dai fast food, a ridurre i grassi vegetali idrogenati in una serie di prodotti, a promuovere l&#8217;attivit&#224; fisica.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 23 -->
+	<question type="truefalse">
+		<name>
+			<text>L'ipertensione colpisce una persona su sette nel mondo_Expo_3_1_vf_23</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'ipertensione colpisce una persona su sette nel mondo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Questa patologia &#232; una conseguenza dell&#8217;impatto, negli ultimi trent&#8217;anni, della dieta occidentale, mentre l&#8217;obesit&#224; mondiale &#232; raddoppiata e la fame ha continuato ad affliggere una persona su sette, l&#8217;ipertensione si &#232; diffusa per tutto il Pianeta. In questi tre decenni abbiamo
+sviluppato un sistema alimentare che invece di ridurre il peso delle malattie legate al tipo di dieta lo aumenta.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 24 -->
+	<question type="truefalse">
+		<name>
+			<text>Michelle Obama cerca di combattere l'obesit&#224; tra i ragazzi_Expo_3_1_vf_24</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Michelle Obama cerca di combattere l'obesit&#224; tra i ragazzi<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Pamela Green Jackson nel 2004 perse l&#8217;unico fratello, Bernard, gravemente obeso sin dall&#8217;infanzia, stroncato a soli 43 anni da un infarto. Da quel giorno decise che nessun&#8217;altra persona doveva vivere quella tragedia. Fermare &#8220;l&#8217;epidemia di obesit&#224;&#8221; tra i ragazzi americani &#232; diventata la missione della sua vita, ha fondato l&#8217;organizzazione no profit Youth Becoming Healthy Project che ha per simbolo una bella mela rossa. Grazie al suo impegno, migliaia di bambini sono usciti di casa, hanno avuto un&#8217;alternativa al fast food e al divano davanti alla TV, hanno fatto sport, incontrando altri ragazzi per giocare e correre assieme. Per la sua opera, il presidente Barack Obama l&#8217;ha premiata, nel corso di una cerimonia ufficiale alla Casa Bianca lo scorso 15 febbraio, con la Presidential Citizens Medal, una delle pi&#249; importanti onorificenze civili americane. Appena arrivata alla Casa Bianca, il 20 gennaio 2009, la First Lady ha allestito, accanto al celebre Giardino delle Rose, un vasto orto dove coltiva, assieme alle figlie Sasha e Malia, pomodori, cavoli, patate e cipolle rigorosamente biologici, senza additivi chimici o diserbanti.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 25 -->
+	<question type="truefalse">
+		<name>
+			<text>Sono 45 milioni i bambini obesi dai 5 ai 17 anni._Expo_3_1_vf_25</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Sono 45 milioni i bambini obesi dai 5 ai 17 anni.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Uno studio ha dimostrato una significativa riduzione dei livelli di obesit&#224; infantile grazie ad un intervento di lunga durata su una comunit&#224; di persone. &#232; stato avviato questo progetto in dieci citt&#224; in Francia.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 26 -->
+	<question type="truefalse">
+		<name>
+			<text>Le verdure rendono appetitosi alimenti base ricchi di amido_Expo_3_1_vf_26</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Le verdure rendono appetitosi alimenti base ricchi di amido<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Le verdure non solo sono nutrienti, ma rendono appetitosi alimenti base ricchi di amido come il mais, il frumento, il riso, la manioca e altri cereali.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 27 -->
+	<question type="truefalse">
+		<name>
+			<text>Avere nella dieta un solo ingrediente base puo' favorire disturbi cronici_Expo_3_1_vf_27</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Avere nella dieta un solo ingrediente base puo' favorire disturbi cronici<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Le verdure non solo sono nutrienti, ma rendono appetitosi alimenti base ricchi di amido come il mais, il frumento, il riso, la manioca e altri cereali.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 28 -->
+	<question type="truefalse">
+		<name>
+			<text>Negli ultimi anni in America e in Africa hanno privilegiato la produzione di leguminose e verdure_Expo_3_1_vf_28</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Negli ultimi anni in America e in Africa hanno privilegiato la produzione di leguminose e verdure<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Negli ultimi trent&#8217;anni la produzione alimentare dell&#8217;Africa Subsahariana, dell&#8217;Asia e dell&#8217;America Latina &#8211; e del Nord America &#8211; ha privilegiato le materie prime agricole a scapito di colture ricche di nutrienti come le leguminose e le verdure.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 29 -->
+	<question type="truefalse">
+		<name>
+			<text>In molti Paesi pi&#249; del 70 delle diete consiste di un unico ingrediente base_Expo_3_1_vf_29</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>In molti Paesi pi&#249; del 70 delle diete consiste di un unico ingrediente base<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Oggi sia gli abitanti delle nazioni industrializzate sia quelli dei Paesi in via di sviluppo hanno una dieta ricca di carboidrati. In molti Paesi pi&#249; del 70% delle diete consiste di un unico ingrediente base, quest&#8217;eccessiva importanza attribuita agli alimenti base si traduce in pi&#249; alti tassi di obesit&#224;, ipertensione, diabete di tipo 2 e altri disturbi cronici.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 30 -->
+	<question type="truefalse">
+		<name>
+			<text>La carenza di micronutrienti come vitamina a, iodio e ferro puo' compromettere anche il rendimento scolastico_Expo_3_1_vf_30</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La carenza di micronutrienti come vitamina a, iodio e ferro puo' compromettere anche il rendimento scolastico<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Spesso chiamata &#8220;fame nascosta&#8221;, la carenza di micronutrienti &#8211; compresa quella di vitamina A, ferro e iodio &#8211; riguarda circa un miliardo di persone in tutto il mondo. Queste carenze si riflettono negativamente sullo sviluppo fisico e
+mentale dei bambini, e sono la causa dello scarso rendimento scolastico e lavorativo &#8211; danneggiando ulteriormente comunit&#224; gi&#224; afflitte dalla povert&#224; e da altri problemi sanitari.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 31 -->
+	<question type="truefalse">
+		<name>
+			<text>Produrre verdure &#232; uno dei modi pi&#249; importanti per i piccoli coltivatori di generare dei profitti dentro e fuori le fattorie._Expo_3_1_vf_31</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Produrre verdure &#232; uno dei modi pi&#249; importanti per i piccoli coltivatori di generare dei profitti dentro e fuori le fattorie.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Produrre verdure &#232; uno dei modi pi&#249; importanti per i piccoli coltivatori di generare dei profitti dentro e fuori le fattorie.Le verdure non sono solo un ingrediente chiave di una dieta sana, ma possono anche migliorare la sostenibilit&#224; economica e ambientale dei Paesi ricchi e di quelli poveri, cos&#236; da nutrire sia la popolazione sia il Pianeta.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 32 -->
+	<question type="truefalse">
+		<name>
+			<text>Le verdure sono molto pi&#249; soggette al rischio siccita' rispetto alle altre colture_Expo_3_1_vf_32</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Le verdure sono molto pi&#249; soggette al rischio siccita' rispetto alle altre colture<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Le verdure sono meno soggette al rischio di siccit&#224; rispetto alle colture di base, perch&#233; normalmente hanno tempi di coltivazione inferiori. E possono contribuire a massimizzare risorse idriche scarse e i nutrienti del suolo.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 33 -->
+	<question type="truefalse">
+		<name>
+			<text>Le verdure dovrebbero essere alla base della nostra dieta_Expo_3_1_vf_33</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Le verdure dovrebbero essere alla base della nostra dieta<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Secondo lo studio del BCFN (Barilla center for food and nutrition, un centro di pensiero nato per raccogliere conoscenze su aspetti e problematiche dell'alimentazione e proporre soluzioni concrete), insieme ai cereali e alla frutta le verdure dovrebbero essere alla base della nostra dieta, per migliorare la nostra salute e proteggere l&#8217;ambiente.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 34 -->
+	<question type="truefalse">
+		<name>
+			<text>I grandi produttori tendono a sviluppare la produzione di verdure_Expo_3_1_vf_34</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I grandi produttori tendono a sviluppare la produzione di verdure<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Purtroppo la maggior parte degli istituti di ricerca e dei finanziatori tendono a concentrarsi sulle calorie invece che sui nutrienti. Le colture principali amidacee ricevono il grosso degli investimenti e dei fondi per la ricerca.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 35 -->
+	<question type="truefalse">
+		<name>
+			<text>Oggi sia gli abitanti delle nazioni industrializzate  sia quelli dei Paesi in via di sviluppo hanno una dieta ricca di carboidrati_Expo_3_1_vf_35</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Oggi sia gli abitanti delle nazioni industrializzate  sia quelli dei Paesi in via di sviluppo hanno una dieta ricca di carboidrati<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>in molti paesi il 70% delle diete consiste in un unico ingrediente,questa eccessiva importanza dedicata agli alimenti base si traduce in piu alti tassi di obesit&#224;.Secondo un recente rapporto del Barilla Center for Food e Nutrition, Alimentazione e benessere per una vita sana, il consumo delle verdure pu  avere un effetto preventivo contro le patologie cardiovascolari, a conferma che spesso il cibo &#232; la migliore medicina. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 36 -->
+	<question type="truefalse">
+		<name>
+			<text>Spesso chiamata &#8220;fame nascosta&#8221;, la carenza di macronutrienti_Expo_3_1_vf_36</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Spesso chiamata &#8220;fame nascosta&#8221;, la carenza di macronutrienti<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>in molti paesi il 70% delle diete consiste in un unico ingrediente,questa eccessiva importanza dedicata agli alimenti base si traduce in piu alti tassi di obesit&#224;.Secondo un recente rapporto del Barilla Center for Food e Nutrition, Alimentazione e benessere per una vita sana, il consumo delle verdure pu  avere un effetto preventivo contro le patologie cardiovascolari, a conferma che spesso il cibo &#232; la migliore medicina. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 37 -->
+	<question type="truefalse">
+		<name>
+			<text>Spesso le cose che non piacciono o che non hanno un buon sapore fanno molto bene al nostro organismo_Expo_3_1_vf_37</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Spesso le cose che non piacciono o che non hanno un buon sapore fanno molto bene al nostro organismo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Le verdure, ricche di vitamine e sali minerali, fanno molto bene al nostro corpo perch&#232; ogni verdura ha una propriet&#224; benefica particolare. Spesso per&#242; alcune verdure, per esempio cicoria, coste, asparagi, carciofo, hanno un sapore molto forte che ad alcuni potrebbe risultare sgradevole. In questi casi non dobbiamo mai dimenticare che, ad esempio, una delle propriet&#224; del carciofo &#232; la seguente, 
+L'organo che trae maggior beneficio dalle propriet&#224; del carciofo &#232; il fegato; la cinarina, i cui benefici vengono disattivati dalla cottura (per questo motivo &#232; meglio consumare il carciofo crudo), favorisce la diuresi e la secrezione biliare. Secondo recenti ricerche scientifiche &#232; stato dimostrato che mangiare carciofi contribuisce al benessere del nostro organismo e soprattutto a prevenire diverse malattie. Il carciofo ha propriet&#224; digestive e diuretiche e, grazie alla presenza di inulina permette di abbassare i livelli di colesterolo; inoltre, nel cuore del carciofo &#232; presente un acido clorogenico, antiossidante, che &#232; in grado di prevenire malattie arteriosclerotiche e cardiovascolari. Le sostanze con propriet&#224; antiossidanti contenute nel carciofo hanno una potenziale attivit&#224; antitumorale che &#232; tutt' ora oggetto di ricerche onde poterne confermare la veridicit&#224;.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 38 -->
+	<question type="truefalse">
+		<name>
+			<text>Mangiare sano comporta una vita sana_Expo_3_1_vf_38</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Mangiare sano comporta una vita sana<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>bisogna mangiare molte verdure ma anche carboidrati, come la pasta, e poca carne. Un'alimentazione varia &#232; preferibile rispetto ad un'alimentazione sempre uguale
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 39 -->
+	<question type="truefalse">
+		<name>
+			<text>L'obesit&#224; infantile &#232; provocata da un consumo maggiore di calorie_Expo_3_1_vf_39</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>L'obesit&#224; infantile &#232; provocata da un consumo maggiore di calorie<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Questo fenomeno provoca un aumento del tessuto adiposo, viene causata in primis da un consumo maggiore di calorie, rispetto a quello che il bambino dovrebbe ingerire quotidianamente per restare in salute; il fenomeno inoltre accelera le possibilit&#224;, nel bambino, di contrarre malattie quali, problemi cardiovascolari, ipercolesterolemia, pressione alta, diabete).
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

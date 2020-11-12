@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>tramite cosa viene promosso l'esperienza degli 'Eletti' di Expo 2015_Expo_9_1_mul_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>tramite cosa viene promosso l'esperienza degli 'Eletti' di Expo 2015<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'esperienza degli 'Eletti' di Expo 2015 per promuoverne l'eredit&#224; culturale tramite prodotti e servizi on line.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>prodotti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>volantini<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>vestiti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>servizi online<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>A cosa pu&#242; servire un 'gioco sociale'._Expo_9_1_mul_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>A cosa pu&#242; servire un 'gioco sociale'.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Estendere su ampia scala un 'gioco sociale' in cui i comportamenti scorretti vengono contrastati e quelli socialmente vantaggiosi ricompensati e promossi. Costituire una rete della sostenibilit&#224;, che prevede la collaborazione tra scuole, famiglie, aziende e societ&#224; civile. Creare uno scenario in cui la somma di tante piccole cose possa fare la differenza nel sostenere la crescita e il progresso del territorio grazie a nuovi prodotti e servizi per aumentare la consapevolezza
+relazionale.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessuna delle seguenti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>costituire una rete della sostenibilit&#224;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>a promuovere e ricompensare i comportamenti socialmente vantaggiosi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>a contrastare i comportamenti scorretti <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa intende promuovere il nostro brand._Expo_9_1_mul_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa intende promuovere il nostro brand.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il nostro brand intende promuovere nuovi comportamenti guidati da un'etica della sostenibilit&#224; come della legalit&#224;.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Promuovere l'energia nucleare <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Nuovi comportamenti guidati da un'etica della sostenibilit&#224;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nuove idee religiose<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Contro la corruzione e un'etica di sostenibilit&#224; come nella legalit&#224;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>Grazie a chi possiamo iniziare il nostro viaggio._Expo_9_1_mul_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Grazie a chi possiamo iniziare il nostro viaggio.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Ogni lungo viaggio inizia con piccoli passi, grazie a Junior Achivement e Prometeo forse oggi possiamo compiere un&#8217;altro passo avanti nella realizzazione della mission di 'Umanet Evolution Technologies'.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Il prof. Spinarelli<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Prometeo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>A noi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p> Junior Achivement <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="multichoice">
+		<name>
+			<text>per cosa si affrontano i costi._Expo_9_1_mul_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>per cosa si affrontano i costi.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> i costi riguardano l'allestimento di laboratori per una scuola aperta sul territorio per offrire servizi alla
+comunit&#224; offrendo una spazio di ascolto e creativit&#224; alla comunit&#224;.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>l'elettricit&#224;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>l' allestimento di laboratorio <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>l' offerta di servizi per il pubblico<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>il riscaldamento<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="multichoice">
+		<name>
+			<text>I costi che vanno finanziati sono relativi,_Expo_9_1_mul_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I costi che vanno finanziati sono relativi,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>I costi che vanno finanziati sono relativi all'approvvigionamento degli occhiali stenopeici e alla loro trasformazione in ElexpoGlasses. In alternativa si potrebbero finanziare i costi per produrre nel nostro istituto tramite stampa 3D occhiali e gadget personalizzabili.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>occhiali stenopeici e alla loro trasformazione in ElexpoGlasses<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p> i costi per produrre nel nostro istituto tramite stampa 3D occhiali <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>gadget personalizzabili<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nessuna delle precedenti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="multichoice">
+		<name>
+			<text> i costi a cosa riguardano riguardano._Expo_9_1_mul_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p> i costi a cosa riguardano riguardano.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>In generale i costi riguardano l'allestimento di laboratori per una scuola aperta sul territorio per offrire servizi alla comunit&#224; offrendo una spazio di ascolto e creativit&#224; alla comunit&#224;. Finanziare un percorso per integrare la filiera formativa, quella produttiva e quella sociale, nella co-progettazione-sperimentazione di nuove forme organizzative e nuovi servizi. Quindi realizzare un modello di alternanza scuola lavoro tra reti di scuole ed imprese socialmente responsabili dove la scuola potrebbe costituirsi in forma cooperativa di studenti ed ex studenti.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="25" format="html">
+			<text><![CDATA[<p>finanziare un percorso per integrare la filiera formativa<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="25" format="html">
+			<text><![CDATA[<p>allestimento di laboratori per una scuola aperta<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="25" format="html">
+			<text><![CDATA[<p>Finanziare un percorso per integrare la filiera produttiva e sociale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="25" format="html">
+			<text><![CDATA[<p>co-progettazione-sperimentazione di nuove forme organizzative e nuovi servizi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="multichoice">
+		<name>
+			<text>Attraverso cosa l'elexperience promuove l'eredit&#224; colturale di EXPO 2015_Expo_9_1_mul_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Attraverso cosa l'elexperience promuove l'eredit&#224; colturale di EXPO 2015<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>L'esperienza degli 'Eletti' di Expo 2015 per promuoverne l'eredit&#224; culturale tramite prodotti e servizi on line.
+Nutrire l'Uomo per nutrire il pianeta. Cons@pevolezza=Energia per la vita.
+Tramite applicazioni digitali stimolare una trasformazione culturale che si muove da ego-sistema ad eco-sistema.
+'Ognuno deve fare la sua parte, ognuno nel suo piccolo
+ognuno per quello che pu&#242;
+ognuno per quello che sa.'
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>Tramite prodotti e servizi on line<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>Tramite applicazioni digitali <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Tramite pubblicit&#224; televisive<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>Tramite passa parola e canali social<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="multichoice">
+		<name>
+			<text>qual &#232; lo scopo del portale Umanet Expo_Expo_9_1_mul_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>qual &#232; lo scopo del portale Umanet Expo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Nel portale Umanet Expo, tramite videogame, app, quiz, siti tematici, simulatori, diffondiamo consapevolezza digitale circa il 'cibo per la mente' di cui ha bisogno l'Uomo per evolvere e rendere il proprio comportamento pi&#249; consapevole e sostenibile.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>diffondere consapevolezza digitale circa il 'cibo per la mente'<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>per farci perdere tempo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>per spingerci di pi&#249; a utilizzare i videogiochi e app <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>diffondere il cibo per la mente per rendere il proprio comportamento pi&#249; consapevole e sostenibile<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="multichoice">
+		<name>
+			<text>In quale area tematica occupa l'elexperience_Expo_9_1_mul_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>In quale area tematica occupa l'elexperience<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Nell'area tematica 'Cibo Sostenibile = Mondo Equo'
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Nell'area tematica 'Cibo Sostenibile = Mondo Equo'. <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nella spiegazione di videogiochi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nella lettura di romanzi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Per avere un comportamento efficace nel mondo in cui viviamo e annullare lo spreco<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa promuove il nostro brand._Expo_9_1_mul_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa promuove il nostro brand.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il nostro brand intende promuovere nuovi comportamenti guidati da un'etica della sostenibilit&#224; come della legalit&#224;
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Nuovi comportamenti guidati da un'etica della sostenibilit&#224;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Nuovi comportamenti guidati da un'etica della legalit&#224;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nuovi comportamenti sportivi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nuovi comportamenti guidati da un'etica amorale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="multichoice">
+		<name>
+			<text>Chi pu&#242; diventare una persona pi&#249; consapevole, equilibrata e sostenibile._Expo_9_1_mul_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Chi pu&#242; diventare una persona pi&#249; consapevole, equilibrata e sostenibile.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Ognuno pu&#242; essere una persona pi&#249; consapevole, equilibrata e sostenibile. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Tutti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Le persone al di sotto di 25 anni<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Solo gli italiani<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Solo i politici<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

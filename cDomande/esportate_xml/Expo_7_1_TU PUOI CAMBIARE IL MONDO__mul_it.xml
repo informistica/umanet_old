@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>I Moderni sono convinti che,_Expo_7_1_mul_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I Moderni sono convinti che,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  I moderni sono convinti che, pi&#249; grande &#232; meglio, le organizzazioni sono come macchine e che quindi il corpo umano lo &#232;, che efficienza e rapidit&#224; sono le priorit&#224; essenziali. Inoltre per loro il tempo &#232; denaro e che analizzare le cose separandole nelle loro parti &#232; il modo migliore di risolvere un problema. 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>     Corpo e organizzazioni sono come macchine  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>      Pi&#249; piccolo &#232; meglio<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>       Efficienza e rapidit&#224; sono le priorit&#224; essenziali<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>      Il tempo non &#232; denaro<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>Gli obiettivi dei Moderni sono,_Expo_7_1_mul_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Gli obiettivi dei Moderni sono,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Le principali aspirazioni dei Moderni includono questi obiettivi, Fare attenzione alle ultime mode, avere un bell&#8217;aspetto, fare molti soldi, arrampicarsi lungo la scala del successo rapidamente e farsi intrattenere dai mezzi di comunicazione di massa.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>     - Fare o avere molti soldi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>     - Farsi intrattenere dai mezzi di comunicazione di massa<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>     - Fregarsene delle ultime mode<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>     - Avere un bell'aspetto<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>Le condizioni iniziali per i possibili scenari mondiali sono,_Expo_7_1_mul_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Le condizioni iniziali per i possibili scenari mondiali sono,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Le condizioni iniziali sono uguali per tutti, crescente pressione demografica,povert&#224; diffusa,divario sempre pi&#249; ampio tra ricchi e poveri,minaccia di disgregazione sociale,intolleranza religiosa,fondamentalismo e fanatismo,scarsit&#224; di cibo e acqua,cambiamento climatico in accelerazione,peggioramento dell'inquinamento,accelerazione del disboscamento e livelli del mare in aumento.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Crescente pressione demografica<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Divario sempre meno ampio tra gente ricca e gente povera<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Miglioramento dell'inquinamento industriale,urbano e agricolo<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Scarsit&#224; di cibo e acqua<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>La crescente pressione demografica comporta,_Expo_7_1_mul_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La crescente pressione demografica comporta,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> La crescente pressione demografica comporta a 77 milioni di creature umane che si aggiungono alla popolazione mondiale ogni anno,il 97% dei quali nei paesi poveri.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>77 milioni di creature umane che si aggiungono alla popolazione ogni anno <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>40 milioni di creature umane che si aggiungono alla popolazione ogni anno,il 97 dei quali nei paesi ricchi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>50 milioni di creature umane che si aggiungono alla popolazione ogni anno,il 97 dei quali nei paesi poveri<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>77 milioni di creature umane che si aggiungono alla popolazione ogni anno,il 97% dei quali nei paesi poveri<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="multichoice">
+		<name>
+			<text>Scarsit&#224; di cibo e acqua,_Expo_7_1_mul_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Scarsit&#224; di cibo e acqua,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Scarsit&#224; di cibo e acqua nell'Africa subsahariana, in Cina, nell'Asia meridionale, in America Centrale
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>In America ed Europa<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Nell'Africa subsahariana,in Cina<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Anche in Asia meridionale e America centrale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Nell'Africa subsahariana,Asia meridionale e America centrale<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="multichoice">
+		<name>
+			<text>Il risultato di tutto ci&#242; comporta che,_Expo_7_1_mul_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il risultato di tutto ci&#242; comporta che,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Waste Watcher, osservatorio nazionale sugli sprechi alimentari, stima che in totale il valore economico degli sprechi lungo la filiera, in Italia, &#232; pari a pi&#249; di 15 miliardi di euro oltre l&#8217;1% del PIL.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>L'agricoltura viene messa in secondo piano nell'economia;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>In tutto il mondo viene creato un programma di energia rinnovabile<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>L'agricoltura non serve solo per la produzione di alimenti, ma anche per ottenere raccolti da utilizzare in diversi comparti manifatturieri; <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>Si avvia la creazione di un mondo pi&#249; pacifico e sostenibile, fondato sulla cooperazione tra i molti popoli e culture economiche del mondo. <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="multichoice">
+		<name>
+			<text>I primi sviluppi che vengono attuati sono,_Expo_7_1_mul_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I primi sviluppi che vengono attuati sono,<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>sono ci&#242; che avviene dai cambiamenti
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Oppressione dei movimenti sociali dei civili;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Movimenti che equilibrano le forme univoche di globalizzazione attraverso l'uso delle risorse naturali e finanziarie dei governi locali;  	<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Viene messo il potere in mano a poche persone;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Riforma del World Bank Group, creando un flusso pi&#249; equo di denato tra le disparate economie del mondo. <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="multichoice">
+		<name>
+			<text>I primi segnali che portano a fare un salto in avanti nel futuro sono, _Expo_7_1_mul_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>I primi segnali che portano a fare un salto in avanti nel futuro sono, <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>In Europa, i dati raccolti nel 2009 dal DG Ambiente indicano una produzione di food waste lungo la filiera agroalimentare (considerando le fasi che vanno dalla distribuzione fino al consumo finale) pari a circa 90 milioni di tonnellate. La produzione e lo smaltimento di questi rifiuti agroalimentari porta all&#8217;emissione di 170 milioni di tonnellate di CO2 e consuma 261 milioni di tonnellate di risorse (che includono sia la terra consumata sia l&#8217;acqua).
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>L'idea che il mondo possa cambiare in meglio<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>Sviluppo e condivisione, tramite organizzazioni non governative, di strategie per ripristinare economie ed ambienti locali e nazionali.<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Idee di privatizzazione di beni pubblici;<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="33.33333" format="html">
+			<text><![CDATA[<p>Governi che cominciano a soddisfare le richieste dei crescenti movimenti nella societ&#224; civile. <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="multichoice">
+		<name>
+			<text>Quanto si spreca mediamente in una guerra._Expo_7_1_mul_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quanto si spreca mediamente in una guerra.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>questa &#232; una regola aurea universale espressa in tutte le grandi religioni dell'umanit&#224;.nel cristianesimo venne pronunciata da ges&#249;, 'in tutte le cose,fate agli altri come avreste voluto venisse fatto a voi'.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>-40 miliardi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>-40 milioni<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>-25 miliardi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>-30 milioni<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="multichoice">
+		<name>
+			<text>Quando si definisce un'etica_Expo_7_1_mul_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quando si definisce un'etica<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>questa &#232; una regola aurea universale espressa in tutte le grandi religioni dell'umanit&#224;.nel cristianesimo venne pronunciata da ges&#249;, 'in tutte le cose,fate agli altri come avreste voluto venisse fatto a voi'.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>la si pu&#242; condividere con tutti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>la si pu&#242; condividere solo con chi si vuole<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>la si definisce per conto nostro<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>la si definisce con la famiglia<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa si intende per libert&#224; negative.                _Expo_7_1_mul_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa si intende per libert&#224; negative.                <br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Alcuni dei diritti adottati come obbiettivi dalla comunit&#224; internazionali sono difficili e costosi da realizzare.Comunque i diritti civili e politici, il diritto di non essere torturati e il diritto di libert&#224; di parola,non rientrano in questa categoria.
+Queste sono essenzialmente libert&#224; negative,libert&#224; dalla discriminazione,libert&#224; dalla oppressione.Richiedono l'eliminazione delle pratiche dittatoriali e repressive, e sopratutto atti di omissione entro i limiti degli stati democratici 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>libert&#224; che conducono ad una vita fatta di sanit&#224; mentale <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>libert&#224; dalla discriminazione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>libert&#224; di dignit&#224; e benessere<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>libert&#224; dalla oppressione<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="multichoice">
+		<name>
+			<text>Come cambiano le credenze nel tempo._Expo_7_1_mul_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Come cambiano le credenze nel tempo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Tutti noi abbiamo delle credenze.Alcune di queste credenze a noi pi&#249; care possono diventare obsolete e non essere pi&#249; all'altezza delle condizioni del mondo.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Non cambiano<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>cambiano in base ai tempi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>cambiano se diventano obsolete <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>i ricchi decidono di cambiarle<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="multichoice">
+		<name>
+			<text>come &#232; meglio vivere la propria vita in modo sostenibile._Expo_7_1_mul_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>come &#232; meglio vivere la propria vita in modo sostenibile.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>1) vivi in modo che soddisfi i tuoi bisogni senza togliere ad altri la possibilit&#224; di soddisfare i loro.
+5) fai del tuo meglio per aiutare i meno privilegiati di te, siano essi vicini o lontani.
+6) frequenta persone che la pensano come te per aiutare l'ambiente in modo che possa rigenerare le risorse essenziali.
+7)aiutare gli altri, specie piu giovani a conoscere modi sostenibili di vivere.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>soddisfare solo i propri bisogni<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>aiutare soprattutto i meno privilegiati<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>frequentare persone che vogliono vivere anch'essi una vita sostenibile<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>tenere per se i modi sostenibili di agire<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="multichoice">
+		<name>
+			<text>che cos'&#232; una leadership illuminata._Expo_7_1_mul_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>che cos'&#232; una leadership illuminata.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>una leadership illuminata riconosce e tiene conto dei movimenti positivi che possono iniziare e cerca di stabilire un dialogo tra le parti ai fini di una migliore convivenza.
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>una leadership luminosa<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>avere come leader un massone<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>&#232; l'avere come punto di riferimento un capo che cerca il dialogo tra le parti per migliorare la comprensione reciproca<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>l'essere pronti a seguire ogni comando senza porsi domande<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa richiede nuovi modi di pensare e di vivere._Expo_7_1_mul_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa richiede nuovi modi di pensare e di vivere.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Nuovi modi di pensare e di vivere richiedono un riesame delle nostre credenze, un rispetto dei diritti basilari e aggiornamento della nostra etica e un aggiornamento della nostra etica
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>consumare senza rispettare gli altri<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>riesame delle nostre credenze <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>rispetto dei diritti basilari e aggiornamento della nostra etica<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>essere credenti e avere una fede<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="multichoice">
+		<name>
+			<text>Come appare la scienza con la nostra coscienza e con la nostra personalit&#224;._Expo_7_1_mul_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Come appare la scienza con la nostra coscienza e con la nostra personalit&#224;.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Waste Watcher, osservatorio nazionale sugli sprechi alimentari, stima che in totale il valore economico degli sprechi lungo la filiera, in Italia, &#232; pari a pi&#249; di 15 miliardi di euro oltre l&#8217;1% del PIL.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>appare come una raccolta astratta e astrusa dei dati  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>appare come un cumulo di fatti e misurazioni fredde e impersonali <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>fare aumentare esponenzialmente i guadagni personali<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>appare come un modello nuovo di istruzione <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="multichoice">
+		<name>
+			<text>Come superare le esperienze negative._Expo_7_1_mul_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Come superare le esperienze negative.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Waste Watcher, osservatorio nazionale sugli sprechi alimentari, stima che in totale il valore economico degli sprechi lungo la filiera, in Italia, &#232; pari a pi&#249; di 15 miliardi di euro oltre l&#8217;1% del PIL.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>affogare la disperazione in alchool<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>attraverso tecniche secolari ( esperienze di gruppo ) <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>diverse psicoterapie <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>dristarsi dal dolore assumendo stupefacienti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 18 -->
+	<question type="multichoice">
+		<name>
+			<text>Cosa richiede nuovi modi di pensare e di vivere._Expo_7_1_mul_18</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Cosa richiede nuovi modi di pensare e di vivere.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Waste Watcher, osservatorio nazionale sugli sprechi alimentari, stima che in totale il valore economico degli sprechi lungo la filiera, in Italia, &#232; pari a pi&#249; di 15 miliardi di euro oltre l&#8217;1% del PIL.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+<single>false</single>
+<shuffleanswers>true</shuffleanswers>
+<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+  <text>Risposta corretta.</text>
+</correctfeedback>
+<partiallycorrectfeedback format="html">
+ <text>Risposta parzialmente esatta.</text>
+</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+  <text>Risposta errata.</text>
+</incorrectfeedback>
+<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>consumare senza rispettare gli altri <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>riesame delle nostre credenze <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>rispetto dei diritti basilari e aggiornamento della nostra etica<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>essere credenti e avere una fede<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

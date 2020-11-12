@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="multichoice">
+		<name>
+			<text>Il primo punto della BCFN per salvaguardare il pianeta dallo spreco alimentare ._Expo_1_2_mul_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il primo punto della BCFN per salvaguardare il pianeta dallo spreco alimentare .<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Il primo punto della BCFN per salvaguardare il pianeta dallo spreco alimentare , 
+1) Dee#64257;nizioni e metrica comuni. Dare un signie#64257;cato univoco ai termini food losses e food  waste e armonizzare a livello internazionale la raccolta dei da+
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Capire le cause. Comprendere pi nel dettaglio il perch degli sprechi alimentari nelle  varie e#64257;liere agroalimentari e valutarne meglio gli impat<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Cooperare per risparmiare. Sviluppare accordi di e#64257;liera tra agricoltori, produttori e  distributori per una programmazione pi corretta delloffe<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Dee#64257;nizioni e metrica comuni. Dare un signie#64257;cato univoco ai termini food losses e food  waste e armonizzare a livello internazionale la r<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Ridurre per recuperare meno. Investire prima nella riduzione delle perdite e degli sprechi alimentari e poi sul loro recupero<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono le cause dello spreco alimentare._Expo_1_2_mul_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono le cause dello spreco alimentare.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Fattori climatici e ambientali sono nemici dell'agricoltura, nella maggior parte dei casi. inoltre per eccedenza delle porzioni preparate si intende che molto cibo viene sprecato o perch&#232; ce ne &#232; in abbondanza o perch&#232; non piace a quel 'fortunato' che sta mangiando
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Fattori climatici e ambientali <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Eccedenza delle porzioni preparate<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Lo spreco alimentare non esiste<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Trasporti non efficienti<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono i tipi di impatti dello spreco alimentare._Expo_1_2_mul_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono i tipi di impatti dello spreco alimentare.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Impatti Ambientali, 
+1) Emissione gas effetto serra
+2) Degrado del suolo
+3) Spreco di risorse
+4) Consumo di energia
+Impatti Economici,
+1) Costo del cibo sprecato
+Impatti Etico-sociali,
+1) Difficolt&#224; di accesso al cibo
+2) Denutrizione
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>ambientali, economici, etico-sociali  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Difficolt&#224; nello smaltimento dei rifiuti organici<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>solo economici<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="50" format="html">
+			<text><![CDATA[<p>Molti paesi soffrono la fame<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="multichoice">
+		<name>
+			<text>Quali sono i 7 punti a cui dare maggiore priorit&#224;._Expo_1_2_mul_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Quali sono i 7 punti a cui dare maggiore priorit&#224;.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  1) Definizioni e metrica comuni. Dare un significato univoco ai termini food losses e food waste e armonizzare a livello internazionale la raccolta dei dati statistici.
+2) Capire le cause. Comprendere pi&#249; nel dettaglio il perch&#233; degli sprechi alimentari nelle varie filiere agroalimentari e valutarne meglio gli impatti.
+3) Ridurre per recuperare meno. Investire prima nella riduzione delle perdite e degli sprechi alimentari e poi sul loro recupero.
+4) (Ri)utilizzare. Avviare iniziative di recupero degli sprechi non ancora eliminati attraverso la distribuzione a persone svantaggiate, l&#8217;impiego come mangime o, come ultima alternativa, per produrre bioenergia.
+5) Una priorit&#224; politica. Governare la riduzione dello spreco a livello istituzionale, anche assicurando che l&#8217;adozione di standard non introduca perdite e sprechi ingiustificati lungo la filiera agroalimentare.
+6) Cooperare per risparmiare. Sviluppare accordi di filiera tra agricoltori, produttori e distributori per una programmazione pi&#249; corretta dell&#8217;offerta alimentare.
+7) Informare per educare. Rendere il consumatore consapevole dello spreco e insegnargli come rendere pi&#249; sostenibili l&#8217;acquisto, la conservazione, la preparazione e lo smaltimento finale del cibo.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>0.3333333</penalty>
+		<hidden>0</hidden>
+		<single>false</single>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>abc</answernumbering>
+<correctfeedback format="html">
+ 			 <text>Risposta corretta.</text>
+</correctfeedback>
+		<partiallycorrectfeedback format="html">
+			 <text>Risposta parzialmente esatta.</text>
+		</partiallycorrectfeedback>
+<incorrectfeedback format="html">
+ 			 <text>Risposta errata.</text>
+		</incorrectfeedback>
+	<shownumcorrect/>
+		<answer fraction="100" format="html">
+			<text><![CDATA[<p>Definizioni e metrica comuni, capire le cause, ridurre per recuperare meno, utilizzare,  una priorit&#224; politica, cooperare per risparmiare  <br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Non ci sono 7 punti in particolare<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Viste le dimensioni assunte dal fenomeno dello spreco alimentare e soprattutto dalla portata dei suoi impatti, il BCFN ha individuato 7 istituzioni<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="html">
+			<text><![CDATA[<p>Capire le cause e cercare di porre rimedio, non utilizzare ancora ancora i cibi<br></p>]]></text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

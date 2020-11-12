@@ -1,0 +1,573 @@
+{"_comment": "Created with OWL2VOWL (version 0.3.3-SNAPSHOT), http://vowl.visualdataweb.org [Additional Information added by WebVOWL Exporter Version: 1.0.6]",
+"header": {
+"languages" : [ "Italiano" ],
+"title" : {
+"undefined" : "Mappa concettuale"
+},
+"description" : {
+"undefined" : "Capitolo/i 'I servizi di rete'"
+}
+},
+"metrics": {
+"classCount":"1",
+"objectPropertyCount":22
+},
+"class": [ 
+{
+"id":"498",
+"type": "rdfs:Datatype"
+},
+{
+"id":"499",
+"type": "rdfs:Datatype"
+},
+{
+"id":"500",
+"type": "owl:Class"
+},
+{
+"id":"501",
+"type": "owl:Class"
+},
+{
+"id":"502",
+"type": "owl:Class"
+},
+{
+"id":"504",
+"type": "owl:equivalentClass"
+},
+{
+"id":"507",
+"type": "rdfs:Datatype"
+},
+{
+"id":"511",
+"type": "owl:Class"
+},
+{
+"id":"517",
+"type": "owl:Class"
+},
+{
+"id":"538",
+"type": "rdfs:Datatype"
+},
+{
+"id":"558",
+"type": "owl:equivalentClass"
+},
+{
+"id":"559",
+"type": "owl:Class"
+},
+{
+"id":"578",
+"type": "rdfs:Datatype"
+},
+{
+"id":"579",
+"type": "rdfs:Datatype"
+},
+{
+"id":"580",
+"type": "owl:equivalentClass"
+},
+{
+"id":"581",
+"type": "owl:Class"
+}
+],
+"classAttribute": [
+{
+"label": {
+"IRI-based":"http"
+},
+"comment": {
+"undefined": "L'HTTP e' un protocollo utilizzato per tramettere informazioni sul web in modo client-server.Il client rimane in ascolto sulla porta usando il protocollo TCP a livello di trasporto. (ID=498) (Autore=Mauro M.)"
+ },
+"id":"498"
+},
+{
+"label": {
+"IRI-based":"DHCP(Dynamic Host Configuration Protocol)"
+},
+"comment": {
+"undefined": "il DHCP(Dynamic Host Configuration Protocol) e' un protocollo di rete che permette ai dispositivi di una rete locale di ricevere automaticamente un indirizzo ip. questa azione viene ripetuta ogni volta che un host viene messo in funzione per permettergli un accesso a internet. questo ip viene scelto dal DHCP tra quelli disponibili nel range e rimane occupato per un certo tempo anche dopo lo spegnimento della macchina. in questo modo non e' necessario associare manualmente un indirizzo ip ad ogni host             POTEVI OTTENERE 1 BONUS! MA NON SEI STATO FORTUNATO (ID=499) (Autore=Francioli L.)"
+ },
+"id":"499"
+},
+{
+"label": {
+"IRI-based":"PAT"
+},
+"comment": {
+"undefined": "l PAT permette quindi di utilizzare un singolo indirizzo IP pubblico per accedere a numerosi servizi da una rete locale che utilizza indirizzi IP privati. Il dispositivo che funziona da PAT cancella periodicamente le varie assegnazioni dalla propria tabella man mano che esse non sono piu' utilizzate. Il PAT permettte di mappare gli indirizzi di una rete privata. (ID=500) (Autore=Li Greci F.)"
+ },
+"id":"500"
+},
+{
+"label": {
+"IRI-based":"DNS"
+},
+"comment": {
+"undefined": "Al momento della richiesta per un determinato indirizzo il server DNS del proprio provider controlla nella propria cache se e' presente la risoluzione, altrimenti contatta direttamente uno dei Root Server. I Root Servers sono i server che gestiscono le estensioni .com, .org, .net, .edu, ecc. Il DNS contatta uno di questi server, e come risposta avra' un'altra serie di DNS Server che gestiscono l'estensione richiesta.Verra' fatta richiesta quindi ad uno di questi server, che daranno come risposta una lista di server che gestiscono il dominio interessato.All'ultimo passaggio al server che gestisce il dominio verra' richiesto di tradurre il 'www' in indirizzo IP. A questo punto si ottiene la risposta definitiva. Il server DNS conservera' nella propria cache questa risoluzione, in modo che ad una successiva ed identica richiesta, la risposta sara' piu' veloce, senza dover necessariamente ripercorrere tutti i passaggi gia' esposti.             POTEVI OTTENERE 1 BONUS! MA NON SEI STATO FORTUNATO (ID=501) (Autore=Filip S.)"
+ },
+"id":"501"
+},
+{
+"label": {
+"IRI-based":"NAT"
+},
+"comment": {
+"undefined": "Il NAT e' un meccanismo delle reti che serve per tradurre gli indirizzi IP delle macchine. Esso avviene nel passaggio tra rete pubblica e privata e viceversa. Il Nat agisce quando devono comunicare due dispositivi su reti diverse. Esso consente al router di sostituire l'indirizzo IP privato nel suo corrispondente indirizzo IP pubblico e viceversa. Questo avviene perche' gli indirizzi IP delle macchine devono essere tradotti per comunicare tra rete green(privata) e red (pubblica). Quindi grazie a cio' e' possibile interfacciare delle macchine private sulla rete pubblica per raggiungere il server desiderato e viceversa.                         HAI OTTENUTO 1 BONUS! (ID=502) (Autore=La China S.)"
+ },
+"id":"502"
+},
+{
+"label": {
+"IRI-based":"Indirizzi IP"
+},
+"comment": {
+"undefined": "e' un'etichetta numerica che identifica univocamente un dispositivo detto host collegato a una rete informatica che utilizza l'Internet Protocol (protocollo di rete).Viene assegnato a una interfaccia che identifica l'host di rete. Gli indirizzi IP pubblici e i range di indirizzi sono rilasciati e regolamentati dall'ICANN (ente di gestione internazionale). Gli indirizzi IP possono essere assegnati in maniera permanente oppure in maniera temporanea. Gli indirizzi dinamici sono utilizzati per identificare dispositivi non permanenti in una LAN. Gli indirizzi statici sono utilizzati per identificare dispositivi con indirizzi permanenti. Con lo scopo di fornire la destinazione di un altro terminale o dispositivo di rete in una comunicazione dati a pacchetto. L'indirizzo IP e' suddiviso in due parti, network che identifica la rete e l'host-ID che identifica l'host e le eventuali sotto-reti.             HAI OTTENUTO 1 BONUS! (ID=504) (Autore=Catrambone L.)"
+ },
+"id":"504"
+},
+{
+"label": {
+"IRI-based":"Protocollo di rete"
+},
+"comment": {
+"undefined": "Un protocollo di rete e' un insieme di regole che due macchine devono rispettare per poter comunicare tra di loro. L'utilizzo di protocolli diventa necessaria quando la tipologia di macchina varia (es, computer e palmare) o piu' semplicemente quando il costruttore e' diverso.In senso piu' lato, un protocollo di comunicazione si puo' definire come un insieme di regole che vengono stabilite per instaurare una comunicazione corretta, ad esempio due persone di differenti madrelingue potrebbero mettersi d'accordo nell'utilizzo della lingua inglese per comunicare.             HAI OTTENUTO 1 BONUS!              HAI OTTENUTO 1 BONUS! (ID=507) (Autore=Ballarini F.)"
+ },
+"id":"507"
+},
+{
+"label": {
+"IRI-based":"Server Mail"
+},
+"comment": {
+"undefined": "Un server mail e' un programma, che si occupa della ricezione e smistamento da un computer all'altro di messaggi di posta elettronica. Per essere usato su Internet, un mail server deve essere connesso alla Rete. viene utilizzato per la condivisone di dati, come ad esempio file da un utente all'altro (ID=511) (Autore=Magistrelli S.)"
+ },
+"id":"511"
+},
+{
+"label": {
+"IRI-based":"I confini della rete e lo spazio di indirizzamento"
+},
+"comment": {
+"undefined": "Un router-firewall, fungendo da Server DHCP, assegna gli indirizzi IP compresi, nel caso della rete scolastica, tra '192.168.8.1' a '192.168.9.254' ai vari host della rete al fine di identificarli. Il DHCP funge anche da firewall in modo da separare la rete GREEN interna dalla rete RED esterna. In questo modo vengono delimitati i confini della rete. (ID=517) (Autore=Buratto R.)"
+ },
+"id":"517"
+},
+{
+"label": {
+"IRI-based":"Protocollo Di Trasposto"
+},
+"comment": {
+"undefined": "Il livello di trasporto e' il quarto dei livelli nel modello ISO-OSI. Il suo compito e' di fornire servizi al soprastante livello 5 (livello sessione) e per raggiungere tale scopo sfrutta i servizi offerti dal sottostante livello 3 (livello rete). Lo scopo del livello di trasporto e' fornire un canale logico-affidabile di comunicazione end-to-end per pacchetti (ID=538) (Autore=Anicas S.)"
+ },
+"id":"538"
+},
+{
+"label": {
+"IRI-based":"Client"
+},
+"comment": {
+"undefined": "Il client accede a risorse remote inviando delle richiesta ad un server che risponde erogando un servizio, una funzione o dei dati.In ogni rete di comunicazione, sia internet che umanet, avviene questa interazione tra chi domanda (.) e chi risponde (!).L'architettura client-server e' un modello di organizzazione universale.Per quanto riguarda la rete tecnologica internet un buon esempio di client e' un PC che fa girare un web browser per visualizzare siti web. Per quanto riguarda la rete di relazioni umane un buon esempio di client e' una persona  che chiede ad un'altra di soddisfare un proprio bisogno e aspettativa.Potrebbe essere ad esempio uno (o piu') studenti che chiedono alla scuola di evolvere i processi didattici per realizzare una scuola migliore.             POTEVI OTTENERE 1 BONUS! MA NON SEI STATO FORTUNATO (ID=558) (Autore=Admin                A.)"
+ },
+"id":"558"
+},
+{
+"label": {
+"IRI-based":"Server"
+},
+"comment": {
+"undefined": "Server dall'inglese (to) serve 'servire', dunque letteralmente 'serviente, servitore'.  E' un componente informatico che fornisce, a livello logico e fisico, un qualunque tipo di servizio ad altre componenti tipicamente chiamate clients, cioe' clienti. (ID=559) (Autore=Admin                A.)"
+ },
+"id":"559"
+},
+{
+"label": {
+"IRI-based":"Indirizzo MAC"
+},
+"comment": {
+"undefined": "e' un codice di 48 bit  assegnato in modo univoco dal produttore ad ogni scheda di rete ethernet o wireless prodotta al mondo,svolge la sua funzione a livello di rete locale,quando due computer devono comunicare,viene usato per indicare un computer e per far si che esso sia univoco. (ID=578) (Autore=Chiodini M.)"
+ },
+"id":"578"
+},
+{
+"label": {
+"IRI-based":"Numeri di porta"
+},
+"comment": {
+"undefined": "i Numeri di porta fanno in modo che i dati contenuti nei pacchetti in arrivo vengano indirizzati al processo che li sta aspettando, questi terminale necessitano dunque di una porta per l'instaurazione, l'esecuzione ed il completamento del servizio preposto.Quando un processo aspetta dalla rete i pacchetti per continuare le porte identificano e discriminano il traffico dati di una connessione da quello di un'altra. Perche' tutti i pacchetti che arrivano alla rete non devono andare tutti nello stesso terminale quindi ci deve essere un dispositivo che divida il traffico;Tutti i processi di rete tra i vari terminali di rete necessitano dunque di una porta per l'instaurazione, l'esecuzione ed il completamento del servizio preposto.             POTEVI OTTENERE 1 BONUS! MA NON SEI STATO FORTUNATO (ID=579) (Autore=Castiglia G.)"
+ },
+"id":"579"
+},
+{
+"label": {
+"IRI-based":"Firewall"
+},
+"comment": {
+"undefined": "I firewall sono dispositivi software od hardware posti a protezione dei punti di interconnessione eventualmente esistenti tra una rete privata interna.Usando una metafora e' come se questi dispositivi rappresentassero i punti di una dogana, la loro funzione principale e' quella di agire come dei filtri controllando tutto il traffico di rete che proviene dall'esterno, nonche' quello che viene generato dall'interno, e permettendo soltanto quel traffico che risulta effettivamente autorizzato.             POTEVI OTTENERE 1 BONUS! MA NON SEI STATO FORTUNATO (ID=580) (Autore=Urso M.)"
+ },
+"id":"580"
+},
+{
+"label": {
+"IRI-based":"SFTP"
+},
+"comment": {
+"undefined": "In telecomunicazioni e informatica l'SSH File Transfer Protocol o SFTP e' un protocollo di rete che prevede il trasferimento dei dati e funzionalita' di manipolazione. E' tipicamente usato con il protocollo SSH-2 che utilizza un trasferimento dei file sicuro, anche se e' utilizzabile con un qualsiasi altro protocollo.L'idea di fondo e' simile a quella di FTP-S in cui la comunicazione tra client e server avviene tramite connessioni criptate utilizzando pero' in questo caso il protocollo SSH anziche' SSL.Mentre l'idea di fondo rimane la stessa i due protocolli hanno comunque una logica di funzionamento molto diversa.-Mentre con FTP l'invio di dati avviene tramite comandi testuali (ad esempio se voglio cancellare un file il comando da inviare al server sara' 'DELE file.txt') nel secondo la comunicazione e' packet-based. Sempre facendo l'esempio che io voglia eliminare un file sul server non dovro' mandare un comando testuale ma un file binario, in questo caso 0xBC seguito dal nome del file 'file.txt'. Il vantaggio di questo meccanismo e' che la quantita' di dati scambiata e' inferiore rendendo quindi piu' veloci i trasferimenti che coinvolgono un grande numero di file.-La seconda differenza e' che SFTP non utilizza due connessioni separate ma una unica in cui invia sia comandi che dati. Dal punto di vista della sicurezza questo ha il notevole vantaggio di utilizzare una singola connessione sicura che rende quindi la comunicazione piu' efficiente e snella.             POTEVI OTTENERE 1 BONUS! MA NON SEI STATO FORTUNATO (ID=581) (Autore=Pindaro M.)"
+ },
+"id":"581"
+}
+],
+"property": [
+{
+"id":"582",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"583",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"584",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"585",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"586",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"587",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"588",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"589",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"590",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"591",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"592",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"593",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"594",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"595",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"596",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"597",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"598",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"599",
+"type": "owl:datatypeProperty"
+},
+{
+"id":"600",
+"type": "owl:datatypeProperty"
+}
+],
+"propertyAttribute": [
+{
+"range":"559",
+"label": {
+"IRI-based":"accede alla risorse"
+},
+"domain":"558",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"582"
+},
+{
+"range":"502",
+"label": {
+"IRI-based":"lavora insieme"
+},
+"domain":"500",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"583"
+},
+{
+"range":"579",
+"label": {
+"IRI-based":"individua"
+},
+"domain":"500",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"584"
+},
+{
+"range":"504",
+"label": {
+"IRI-based":"ha bisogno di un"
+},
+"domain":"558",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"585"
+},
+{
+"range":"499",
+"label": {
+"IRI-based":"puo' ricevere indirizzo tramite"
+},
+"domain":"504",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"586"
+},
+{
+"range":"558",
+"label": {
+"IRI-based":"Utilizzato da"
+},
+"domain":"507",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"587"
+},
+{
+"range":"501",
+"label": {
+"IRI-based":"per conoscere ip dell'host utilizza"
+},
+"domain":"498",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"588"
+},
+{
+"range":"581",
+"label": {
+"IRI-based":"accede al server tramite"
+},
+"domain":"558",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"589"
+},
+{
+"range":"581",
+"label": {
+"IRI-based":"dialoga con il client tramite"
+},
+"domain":"559",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"590"
+},
+{
+"range":"517",
+"label": {
+"IRI-based":"Mantiene e protegge"
+},
+"domain":"580",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"591"
+},
+{
+"range":"511",
+"label": {
+"IRI-based":"controlla l'accesso al"
+},
+"domain":"580",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"592"
+},
+{
+"range":"502",
+"label": {
+"IRI-based":"gestiti tramite"
+},
+"domain":"517",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"593"
+},
+{
+"range":"504",
+"label": {
+"IRI-based":"trasforma i nomi simbolici in"
+},
+"domain":"501",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"594"
+},
+{
+"range":"578",
+"label": {
+"IRI-based":"e' associato ad un"
+},
+"domain":"504",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"595"
+},
+{
+"range":"559",
+"label": {
+"IRI-based":"controlla l'accesso al"
+},
+"domain":"580",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"596"
+},
+{
+"range":"580",
+"label": {
+"IRI-based":"accede alle risorse attraverso"
+},
+"domain":"558",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"597"
+},
+{
+"range":"511",
+"label": {
+"IRI-based":"accede alle risorse"
+},
+"domain":"558",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"598"
+},
+{
+"range":"558",
+"label": {
+"IRI-based":"utilizzato da"
+},
+"domain":"538",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"599"
+},
+{
+"range":"502",
+"label": {
+"IRI-based":"implementa funzioni di"
+},
+"domain":"580",
+"comment": {
+"undefined": " (Autore=Admin                A.)"
+},
+"attributes": [
+"object"
+],
+"id":"600"
+}
+]
+}

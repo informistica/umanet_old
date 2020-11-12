@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="truefalse">
+		<name>
+			<text>Il 75 delle risorse genetiche sara' presente solo entro il 2050._Expo_2_1_vf_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il 75 delle risorse genetiche sara' presente solo entro il 2050.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>E' vero perche' la biodiversit&#224; vegetale della Terra e' in pericolo, il 75% delle risorse genetiche del Pianeta si e' gia' estinto, e si prevede che un altro terzo di cio' che ne rimane scomparira' entro il 2050.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="truefalse">
+		<name>
+			<text>In Polonia e' stato raccomandato e dimostrato nella piramide alimentare che si deve consumare piu' pesce e carne rossa._Expo_2_1_vf_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>In Polonia e' stato raccomandato e dimostrato nella piramide alimentare che si deve consumare piu' pesce e carne rossa.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Falso perche' la piramide alimentare raccomandata in Polonia utilizza delle foto per mostrare ai consumatori cosa dovrebbero mangiare di piu', o di meno, ogni giorno, in particolare evidenzia l&#8217;importanza di consumare pi&#249; cereali e di limitare il consumo di carne e pesce.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="truefalse">
+		<name>
+			<text>La 'pagoda alimentare' consiste in una dieta con il consumo di tanto latte pastorizzato e tanta frutta._Expo_2_1_vf_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La 'pagoda alimentare' consiste in una dieta con il consumo di tanto latte pastorizzato e tanta frutta.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Falso, perche' in Cina la popolazione e' incoraggiata a seguire la &#8220;pagoda alimentare&#8221; che raccomanda un maggior apporto alla dieta di patate dolci, legumi e fagioli di soia, e un minore consumo di olio e sale.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="truefalse">
+		<name>
+			<text>Lo scopo della BCFN e' quello di far seguire alle persone una dieta salutare che sia  anche favorevole all'ambiente._Expo_2_1_vf_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Lo scopo della BCFN e' quello di far seguire alle persone una dieta salutare che sia  anche favorevole all'ambiente.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Falso,Sono diverse le organizzazioni e le campagne di sensibilizzazione in tutto il mondo che stanno prendendo in considerazione la relazione tra salute e sostenibilit&#224; ambientale aiutando le persone a scegliere cibi salutari, privi di rischi e a basso impatto ambientale. Il BCFN, ad esempio, ha come scopo programmatico quello di far s&#236; che le persone comprendano le conseguenze delle loro scelte alimentari tramite la cosiddetta Doppia Piramide.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="truefalse">
+		<name>
+			<text>Nel 2012 Jessika Franzo e' stata premiata per degli studi che aveva fatto sull'alimentazione e sull'agricoltura._Expo_2_1_vf_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Nel 2012 Jessika Franzo e' stata premiata per degli studi che aveva fatto sull'alimentazione e sull'agricoltura.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Veroeperche' la fondazione di Daniel e Nina Carasso conferisce ogni anno un premio a quei ricercatori che lavorano per sviluppare delle linee-guida per un&#8217;alimentazione che sia al contempo salutare e sostenibile. Nel 2012 il premio e' stato consegnato a Jessika Franzo,una scienziata del centro di ricerca Biodiversity International, che ha dedicato la sua carriera allo stadio della relazione tra alimentazione e agricoltura ecologicamente responsabile. 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="truefalse">
+		<name>
+			<text>La grande varieta' di cibi presenti nella dieta mediterranea e' indice di alta qualita' e di alto costo._Expo_2_1_vf_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La grande varieta' di cibi presenti nella dieta mediterranea e' indice di alta qualita' e di alto costo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> falso perche' la grande variet&#224; di cibi presenti nella dieta mediterranea e' si indice di alta qualita' nutrizionale e di rispetto della biodiversita.
+ma non solo.Seguire questo tipo di alimentazione aiuta a contenere le spese,
+e' infatti una boccata d'ossigeno per il portafogli,e a rispettare l'ambiente,grazie al minore impatto ambientale di frutta,verdura,pasta,pane e yogurt.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="truefalse">
+		<name>
+			<text>E' vero che la dieta mediterranea e' patrimonio culturale immateriale dell'UNESCO._Expo_2_1_vf_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>E' vero che la dieta mediterranea e' patrimonio culturale immateriale dell'UNESCO.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> vero , Perche' il Patrimonio culturale immateriale dell&#8217;UNESCO, presente nelle tradizioni di italiani, 
+spagnoli, francesi, greci, la dieta mediterranea &#232; riconosciuta ormai globalmente uno 
+stile di alimentazione sano. Negli ultimi anni, ne hanno apprezzato i pregi soprattutto 
+attori, sportivi, modelle, che ne sono diventati veri e propri testimonial, esportandola 
+non come una semplice moda, ma come uno stile di vita..
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="truefalse">
+		<name>
+			<text>La dieta mediterranea e' usata da piu' secoli dagli americani._Expo_2_1_vf_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La dieta mediterranea e' usata da piu' secoli dagli americani.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> falso perche' gli americani la usano da quando e' venuta fuori la notizia che fa piacere a tutti, mangiare 
+&#8220;med&#8221; ci mantiene belli e in forma pi&#249; a lungo.I primi che se ne sono accorti, e si sono appropriati di queste abitudini alimentari sono proprio i belli e bravi di professione..
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="truefalse">
+		<name>
+			<text>Nella dieta mediterranea sono presenti prodotti raffinati._Expo_2_1_vf_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Nella dieta mediterranea sono presenti prodotti raffinati.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>falso perche' nella dieta mediterranea sono banditi i prodotti raffinati ma i suoi prodotti detti magici ci sono prodotti genuini e le giuste proporzioni tra i diversi nutrienti come vegetali,carboidrati,proteine e grassi. Ma anche una delle cose pi&#249; sottovalutate nel mondo occidentale,la sempilicita'..
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="truefalse">
+		<name>
+			<text>Le pietanze poco elaborate si digeriscono piu' facilmente._Expo_2_1_vf_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Le pietanze poco elaborate si digeriscono piu' facilmente.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> vero perche' Mettere in tavola piu' verdure,frutta e proteine vegetali,significa non solo risparmio di risorse energetiche ma anche personali.
+L'attore Jason Sudeikis ha dichiarato che mangiando piatti a base di verdure un po&#8217; 
+pi&#249; spesso, ha smesso di ingrassare. Le pietanze poco elaborate si digeriscono pi&#249; facilmente e le 
+ cotture leggere e veloci esaltano le qualita' nutrizionali degli alimenti.Questo aiuta a ottenere 
+prestazioni migliori a scuola, al lavoro e anche in 
+campo sportivo e gli Azzurri della Nazionale di 
+calcio lo sanno bene..
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="truefalse">
+		<name>
+			<text>My Pyramid for kids e' un esempio di come sia possibile accompagnare le comunicazioni dirette ai bambini con suggerimenti alla famiglia_Expo_2_1_vf_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>My Pyramid for kids e' un esempio di come sia possibile accompagnare le comunicazioni dirette ai bambini con suggerimenti alla famiglia<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il Center for Nutrition Policy and Promotion &#232; un&#8217;organizzazione dello USDA, istituita nel 1994 per migliorare la nutrizione e il benessere degli americani. Per orientare i consumatori nella direzione di corrette abitudini alimentari il Centro ha sviluppato programmi educativi in funzione dell&#8217;et&#224; e sulla base delle raccomandazioni delle Dietary Guidelines for Americans,pubblicate e aggiornate ogni cinque anni dallo USDA e dall&#8217;HHS. Uno di questi programmi &#232; My Pyramid for kids, la piramide alimentare dei bambini (di et&#224; compresa tra i 6 e gli 11 anni), in cui sono evidenziate con una grafica colorata e divertente le diverse tipologie di cibo che dovrebbero essere consumate ogni giorno. Anche se di fatto superato dal modello ChooseMyPlate, questo approccio &#232; in ogni caso interessante in quanto rappresenta un esempio di come sia possibile accompagnare le comunicazioni dirette ai bambini
+con suggerimenti alla famiglia, incoraggiando alla corretta distribuzione degli alimenti durante il giorno e mettendo in rilievo il ruolo fondamentale dell&#8217;attivit&#224; fisica per una crescita sana.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="truefalse">
+		<name>
+			<text>Il modello alimentare mediterraneo e' un metodo ottimale di nutrirsi,ma non e' tra i piu' sostenibili_Expo_2_1_vf_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Il modello alimentare mediterraneo e' un metodo ottimale di nutrirsi,ma non e' tra i piu' sostenibili<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Tramite studi e' stato dimostrato che le diete piu' sane sono anche quelle piu' sostenibili.
+La grande varieta' di cibi nella dieta mediterranea e' si indice di alta qualita' nutrizionale e rispetto della biodiversita',ma non solo. Seguire questo tipo di alimentazione aiuta a contenere le spese - e' infatti una boccata d'ossigeno per il portafogli - e a rispettare l'ambiente,grazie al minore impatto della frutta,verdura,pasta,pane,yougurt. Inoltre,una notizia che fa piacere a tutti,mangiare mediterraneo ci mantiene belli e in forma piu' lunga
+
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="truefalse">
+		<name>
+			<text>Gli alimenti di cui si dovrebbe moderare il consumo sono queli che hanno un impatto maggiore sull'ambiente_Expo_2_1_vf_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Gli alimenti di cui si dovrebbe moderare il consumo sono queli che hanno un impatto maggiore sull'ambiente<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> I prodotto che dovremmo mangiare con moderazione spesso sono prodotti con sostanze chimiche e consumano tante risorse ambientali,invece i prodotti tipo la frutta non consumano tante risorse ambientali.
+ es.
+Il cittadino italiano medio, con la propria produzione agricola e con l&#8217;alimentazione, inquina meno del cittadino statunitense e anche meno della media europea, merito, forse, dell&#8217;ancora persistente fedelt&#224; alla Dieta Mediterranea (la cui aderenza sta tuttavia diminuendo). Malgrado ci&#242;, l&#8217;indice di sostenibilit&#224;, &#8211; cio&#232; il rapporto tra la quantit&#224; di energia necessaria per produrre una unit&#224; di cibo e il contenuto di energia metabolica che tale cibo apporta all&#8217;organismo, &#8211; &#232; ormai del tutto sbilanciato, oggi &#232; di circa 100,1. In altre parole, utilizziamo 100 unit&#224; di energia per produrre l&#8217;energia metabolica di cui abbiamo bisogno. Per secoli e fino agli anni Settanta del Novecento, questo indice &#232; rimasto di poco superiore all&#8217;unit&#224;.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="truefalse">
+		<name>
+			<text>Con i nuovi studi effettuati l'impatto alimentare dell'uomo sull'ambiente non e' piu' fuori controllo_Expo_2_1_vf_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Con i nuovi studi effettuati l'impatto alimentare dell'uomo sull'ambiente non e' piu' fuori controllo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Le istituzioni non si sono ancora mosse a favore di questi studi e inoltre la maggior consapevolezza delle persone non ha portato,nella maggior parte dei casi,ad una sensibilizzazione su questo tema.
+Mia personale opinione dire che solo quando il problema sar&#224; diventato grave a tal punto da non poterlo piu' evitare si comincera' a cercare una soluzione al problema come e' stato sempre fatto (che non e' una cosa buona).
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="truefalse">
+		<name>
+			<text>La dieta mediterranea  &#232; stata riconosciuta patrimonio immateriale dell'umanit&#224;_Expo_2_1_vf_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La dieta mediterranea  &#232; stata riconosciuta patrimonio immateriale dell'umanit&#224;<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Dopo oltre cinquant&#8217;anni di lavori, la dieta mediterranea &#232; stata pi&#249; volte definita una delle pi&#249; solide a livello scientifico, per essere infine riconosciuta dall&#8217;UNESCO come patrimonio immateriale dell&#8217;umanit&#224;. La parte alimentare della Doppia Piramide, frutto del lavoro di sintesi di diverse linee guida nutrizionali a livello internazionale, &#232; facilmente riconducibile al modello alimentare mediterraneo e, in ogni caso, rappresenta in modo semplice una &#8220;bussola&#8221; per la corretta alimentazione. Indipendentemente dalla traduzione fatta dal modello mediterraneo, tali indicazioni sono molto coerenti fra loro e convergono sul fatto che la base della nutrizione &#232; costituita da frutta e verdura, a seguire si trovano cereali, latte e latticini, per arrivare in cima dove si trovano i prodotti alimentari di origine animale e i dolci. Sintetizzando le considerazioni gi&#224; ampiamente trattate in altri documenti, in questa sede &#232; possibile affermare che qualunque sia la dieta alimentare scelta, gli alimenti che ne stanno alla base hanno un impatto minore sull&#8217;ambiente, mentre quelli che devono essere consumati con moderazione sono i pi&#249; dannosi anche per l&#8217;ambiente. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="truefalse">
+		<name>
+			<text>i fast food ci danno delle porzioni di cibo adeguate._Expo_2_1_vf_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>i fast food ci danno delle porzioni di cibo adeguate.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>negli ultimi 30 anni le porzioni di cibo sono quasi aumentate il doppio creando cosi dei problemi di obesita e di alimentazione.
+molti dei consumatori abituali di fast food cercanodi ricreare questo ambiente anche  a casa, ingerendo cosi piu cibo del dovuto
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="truefalse">
+		<name>
+			<text>il cibo puo essere sprecato._Expo_2_1_vf_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il cibo puo essere sprecato.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>il cibo non puo essere sprecato anche se prossimo o in giorno di scadenza in quanto piu di 1 terzo della popolazione globale soffre di poterta e quindi a volte di mancanza di cibo
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 18 -->
+	<question type="truefalse">
+		<name>
+			<text>&#233; vero che la popolazione globale nel 2050 raggiunger&#224; i nove miliardi._Expo_2_1_vf_18</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>&#233; vero che la popolazione globale nel 2050 raggiunger&#224; i nove miliardi.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Il fatto &#232; che quando le popolazioni accrescono la loro ricchezza, aumenta anche la domanda di prodotti animali. E la produzione di carne, specialmente se allevata in modo intensivo o industriale, comporta un uso di energia, cibo e acqua straordinariamente antieconomico e dannoso per l&#8217;ambiente                                                           .
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 19 -->
+	<question type="truefalse">
+		<name>
+			<text>se tutti gli abitanti del nostro Pianeta diventassero solamente carnivori sarebbe un vantaggio per la salute di ogni individuo_Expo_2_1_vf_19</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>se tutti gli abitanti del nostro Pianeta diventassero solamente carnivori sarebbe un vantaggio per la salute di ogni individuo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>se tutti gli abitanti della Terra diventassero solamente carnivori non sarebbe n&#232; uno svantaggio n&#232; uno vantaggio per la salute di ogni individuo. L'uomo deve nutrirsi sia di vegetali (insalata, legumi, frutta, verdura) e, in quantit&#224; minori, di proteine animali (formaggi, carne, uova...)
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 20 -->
+	<question type="truefalse">
+		<name>
+			<text>legumi e pesce sono i prodotti PIU' consumati da una maggiore quantita' di persone._Expo_2_1_vf_20</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>legumi e pesce sono i prodotti PIU' consumati da una maggiore quantita' di persone.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>legumi e pesce sono i prodotti MENO consumati dalla popolazione rispetto a quanto avviene per altri alimenti consumati dal 90%della popolazione analizzata.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 21 -->
+	<question type="truefalse">
+		<name>
+			<text>i francesi sono i consumatori di carne per eccellenza seguiti dagli americani e poi dagli italiani_Expo_2_1_vf_21</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>i francesi sono i consumatori di carne per eccellenza seguiti dagli americani e poi dagli italiani<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>gli americani sono i primi consumatori di carne con circa, 200 g-giorno procapite seguiti da Italia, Francia, Germania  e Svezia che consumano 76 g-giorno circa.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 22 -->
+	<question type="truefalse">
+		<name>
+			<text>il piatto del benessere alimentare &#232; diviso in 8 sezioni con lo scopo di semplificare una dieta bilanciata._Expo_2_1_vf_22</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il piatto del benessere alimentare &#232; diviso in 8 sezioni con lo scopo di semplificare una dieta bilanciata.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Sulla stessa linea la Food Standards Agency ha proposto l&#8217;Eatwell Plate (&#8220;il piatto del benessere
+alimentare&#8221;), diviso in cinque sezioni, con lo scopo di esemplificare una dieta bilanciata. Le sezioni pi&#249; ampie sono quelle che comprendono frutta, verdura e cereali. Alimenti quali carne, pesce, uova, fagioli, latte
+e latticini, e i cibi ricchi di grassi o di zuccheri, sono consentiti solo in quantit&#224; minori. In tutto il mondo, le linee guide nazionali sull&#8217;alimentazione stanno incoraggiando lo sviluppo di diete che prevedono un consumo maggiore di alimenti a basso impatto ecologico e un minore consumo di cibi che contribuiscono al degrado ambientale.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 23 -->
+	<question type="truefalse">
+		<name>
+			<text>una ricerca del BODE3 ha dimostrato che una dieta basata su cibi a minori emissioni di gas serra era associata a un minor rischio di problemi cardiovascolari._Expo_2_1_vf_23</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>una ricerca del BODE3 ha dimostrato che una dieta basata su cibi a minori emissioni di gas serra era associata a un minor rischio di problemi cardiovascolari.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Le istituzioni di ricerca e le associazioni volontaristiche stanno collaborando per portare dei contributi allo studio dell&#8217;alimentazione sostenibile. Nel 2012 in Nuova Zelanda, uno studio condotto dal programma Burden of Disease Epidemiology, Equity and Cost-Effectiveness (BODE3) dell&#8217;universit&#224; di Otago ha dimostrato che una dieta composta di alimenti la cui produzione comporta minori emissioni di gas a effetto serra era associata a un minor rischio di problemi cardiovascolari.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

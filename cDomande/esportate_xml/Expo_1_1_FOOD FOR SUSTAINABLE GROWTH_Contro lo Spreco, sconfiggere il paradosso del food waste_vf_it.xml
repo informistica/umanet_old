@@ -1,0 +1,899 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+<!-- question: 1 -->
+	<question type="truefalse">
+		<name>
+			<text>vengono recuperati i cibi dalle strutture caritatevoli_Expo_1_1_vf_1</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>vengono recuperati i cibi dalle strutture caritatevoli<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> le strutture caritatevoli in un solo anno scolastico con il loro lavoro riescono a recuperare piu di 8 tonnellate di pane e 20 di frutta, prendendo dalle mense pubbliche il cibo che in quella giornata non &#232; stato utilizzato.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 2 -->
+	<question type="truefalse">
+		<name>
+			<text>&#232; un arte il recupero dei resti_Expo_1_1_vf_2</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>&#232; un arte il recupero dei resti<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  il recupero dei resti &#232; una vera e propria arte con la 'A' maiuscola della quale andare fieri per tutti i vantaggi che comporta e anche perch&#233; cos&#236; facendo si inquina meno e si pu&#242; far avere il cibo ai pi&#249; bisognosi
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 3 -->
+	<question type="truefalse">
+		<name>
+			<text>il gleaning &#232; l'atto di raccoglie dai campi gli scarti dei contadini._Expo_1_1_vf_3</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il gleaning &#232; l'atto di raccoglie dai campi gli scarti dei contadini.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Si chiama gleaning l&#8217;atto di raccogliere dai campi dei contadini quella parte di raccolto abbandonato perch&#233; non commerciabile.
+Si tratta di una pratica molto antica, di cui si trova traccia persino nella Bibbia, che &#232; stata di recente ripristinata e resa celebre proprio dal movimento dei Freegans
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 4 -->
+	<question type="truefalse">
+		<name>
+			<text>i freegans vivono in comunita'._Expo_1_1_vf_4</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>i freegans vivono in comunita'.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  vivono in comunita' per risparmiare e sostenersi a vicenda e a volte vivono anche in case disabitate, cercano di lavorare il meno possibile per evitare di sostenere un sistema capitalistico.
+I Freegans non comprano, raccolgono, separano, recuperano e riciclano. Non possiedono automobili, al massimo fanno l&#8217;autostop.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 5 -->
+	<question type="truefalse">
+		<name>
+			<text>i supermercati creano degli scarti alimentari._Expo_1_1_vf_5</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>i supermercati creano degli scarti alimentari.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>i supermercati sono tra i massimi produttori di sprechi alimentari, creano tonnellate di sprechi di cibo in un solo giorno.
+il giorno della scadenza, prima dell'apertura del negozio alimentare gli addetti ritirano i prodotti con la scadenza del giorno e li buttano.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 6 -->
+	<question type="truefalse">
+		<name>
+			<text>i prodotti vicino alla scadenza vengono scartati dai supermercati prima del dovuto._Expo_1_1_vf_6</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>i prodotti vicino alla scadenza vengono scartati dai supermercati prima del dovuto.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>gli alimenti venduto nei supermercati vengono eliminati il giorno della scadenza anche se ancora in buone condizioni,i prodotti poi vengono buttati e non 'riciclati' O UTILIZZATI X CREARE ALTRI PRODOTTI ALIMENTARI
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 7 -->
+	<question type="truefalse">
+		<name>
+			<text>GLI ALIMENTI, PRIMA DI ESSERE COMMERCIALIZZATI( IN FASE DI PRODUZIONE) POSSONO ESSERE SCARTATI._Expo_1_1_vf_7</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>GLI ALIMENTI, PRIMA DI ESSERE COMMERCIALIZZATI( IN FASE DI PRODUZIONE) POSSONO ESSERE SCARTATI.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>si, gli alimnei possono essere scartati anche solo per forma o colore non perfetti e al posto di creare altri alimenti vengono buttati creando tonnellate di cibo scartato al giorno
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 8 -->
+	<question type="truefalse">
+		<name>
+			<text>gli USA utilizzano tonnellate di carne al giorno._Expo_1_1_vf_8</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>gli USA utilizzano tonnellate di carne al giorno.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>gli USA sono tra i piu grandi consumatori di carne al giorno, con l'invenzione dei fast-food vengono consumate tonnellate di carne al giorno creando una dieta carnivora dannosa alla saluta e alla natura
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 9 -->
+	<question type="truefalse">
+		<name>
+			<text>se il cibo nei fast food non viene consumato in poco tempo viene buttato._Expo_1_1_vf_9</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>se il cibo nei fast food non viene consumato in poco tempo viene buttato.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>il cibo dei fast food ha la caratteristica di essere consumato in poco tempo,se il cibo viene cucinato e nel giro di circa 10 minuti non viene consumato viene buttato come vero e proprio scarto, creando scarti di carne e di pane pari a sfamara quasi una intera popolazione
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 10 -->
+	<question type="truefalse">
+		<name>
+			<text>con la produzione di molta carne, viene consumato molto foraggio._Expo_1_1_vf_10</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>con la produzione di molta carne, viene consumato molto foraggio.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>gli animali che devono essere macellati consumano molto foraggio, ovvero verdure anche trattate per cibare gli animali da allevamento ma che potrebbero anche essere usate per sfamare una intera popolazione
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 11 -->
+	<question type="truefalse">
+		<name>
+			<text>scartare cibo crea una differenza tra chi ha e chi non ha_Expo_1_1_vf_11</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>scartare cibo crea una differenza tra chi ha e chi non ha<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> scartare cibo &#232; lultimo passo di una lunga catena che separa chi ha e chi non ha, mettendo ancora piu in difficolta chi vive nella poverta, evitando di scartare il cibo diminuisce la poverta nei paesi africani
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 12 -->
+	<question type="truefalse">
+		<name>
+			<text>il termine spreco consiste nel comprare il cibo e non consumarlo_Expo_1_1_vf_12</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il termine spreco consiste nel comprare il cibo e non consumarlo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> sprecare cibo vuol dire comprare cibo, non consumarlo e buttarlo creando e aumentanto il fenomeno della famenel mondo che ancora nel 2014 colpisce molte aree nel pianeta come il sud africa 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 13 -->
+	<question type="truefalse">
+		<name>
+			<text>il texas &#232; il paese con piu sensibilita verso l'ambiente._Expo_1_1_vf_13</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il texas &#232; il paese con piu sensibilita verso l'ambiente.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> il texas si rivelato il paese con piu sensibilita verso il pianeta, con attenzione verso gli sprechi di acqua e di cibo della popolazione, alcuni scarti non vengono butati ma vengono riutilzati, come per esempio per mangimi aminali
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 14 -->
+	<question type="truefalse">
+		<name>
+			<text>il 15% della popolazione americana non ha accesso al cibo._Expo_1_1_vf_14</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il 15% della popolazione americana non ha accesso al cibo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>un indagine di mercato dice che la popolazione americana spreca circa il 40% del cibo e circ ail 15% non riesce ad accedere al cibo necessario per sfamarsi appena
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 15 -->
+	<question type="truefalse">
+		<name>
+			<text>con l'aumento dei prezzi il consumo di cibo &#232; diminuito._Expo_1_1_vf_15</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>con l'aumento dei prezzi il consumo di cibo &#232; diminuito.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>il consumo e di conseguenza lo spreco di cibo, malgrado il rialzo dei prezzi non e diminuito mantenendo,purtroppo, un consumo di cibo sopra il dovuto e quindi anche il suo spreco
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 16 -->
+	<question type="truefalse">
+		<name>
+			<text>la cina e il paese con piu spreco di cibo_Expo_1_1_vf_16</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>la cina e il paese con piu spreco di cibo<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> e stato verificato che i paese con piu spreco di cibo e l'america con circa il 60% di spreco alimentare,i fast food portano a uno spreco del cibo, la popolazionesi ciba in modo errato e molta di essa ha problemi di salute
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 17 -->
+	<question type="truefalse">
+		<name>
+			<text>il foraggio animale puo essere ricavato da scarti di cibo._Expo_1_1_vf_17</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il foraggio animale puo essere ricavato da scarti di cibo.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> il foraggio animale che viene utilizzato per nutrire gli animali da macello puo essere prodotto da scarti di cibo vegetale,creando il foraggio dagli scarti alimentari si risparmi quasi il 50% degli scarti
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 18 -->
+	<question type="truefalse">
+		<name>
+			<text>una dieta solo di carne come quella fast food puo creare problemi._Expo_1_1_vf_18</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>una dieta solo di carne come quella fast food puo creare problemi.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> si puo creare problemi al corpo umano e problemi all' ambiente uccidendo migliaia di animali per la produzione del nostro cibo, questo problema si puo facilmente evitare, creando una dieta equilibrata 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 19 -->
+	<question type="truefalse">
+		<name>
+			<text>il fast food e un alimento sano._Expo_1_1_vf_19</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il fast food e un alimento sano.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>il cibo del fast food, se consumato molto spesso, puo creare degli scompensi nel nostro organismo in quanto viene cotto con oli particolari e ricco di grassi e coloranti per dare un bel aspetto alla carne e al pane utilizzato. 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 20 -->
+	<question type="truefalse">
+		<name>
+			<text>molta gente porta il fast-food anche a casa._Expo_1_1_vf_20</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>molta gente porta il fast-food anche a casa.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>molta gente mangiando al fast food decide di portare questa 'pratica' anche a casa cibandosi e cucinando cibi poco sani e veloci, ricchi di oli e di grassi che possono potare degli scompensi al nostro prganismo
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 21 -->
+	<question type="truefalse">
+		<name>
+			<text>il 97 del cibo americano finisce per essere buttato._Expo_1_1_vf_21</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il 97 del cibo americano finisce per essere buttato.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>   il 97% dello spreco alimentare prodotto negli stati Uniti finisce nella discarica o nell&#8217;inceneritore, danneggiando l&#8217;ambiente ev provocando uno dei fenomeni piu temuti dalla popolazione, la fame nel mondo
+ 
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 22 -->
+	<question type="truefalse">
+		<name>
+			<text>gli alimenti che vengono scartati finiscono negli inceneritori._Expo_1_1_vf_22</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>gli alimenti che vengono scartati finiscono negli inceneritori.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>gli alimenti scartarti finiscono negli inceneritori al posto di essere utilizzati per creare di nuovo un prodotto alimentare, concimi o foraggipo animale
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 23 -->
+	<question type="truefalse">
+		<name>
+			<text>il cibo scartato e che finisce nell' inceneritore crea inquinamento ambientale._Expo_1_1_vf_23</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>il cibo scartato e che finisce nell' inceneritore crea inquinamento ambientale.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>il fumo prodotto da questi scarti di cibo, che si rilasca negli ambienti, crea degli scompensi anche all'aria, creando anke un inquinamento ambientale oltre al numeroso spreco di cibo
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 24 -->
+	<question type="truefalse">
+		<name>
+			<text>eliminando i vassoi dai fast food, e quindi evitando di lavarli, si puo aver un risparmio di acqua._Expo_1_1_vf_24</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>eliminando i vassoi dai fast food, e quindi evitando di lavarli, si puo aver un risparmio di acqua.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>si e fatta la prova in una  scuola superiore, che eliminando i vassoi e d evitando ai ragazzi di trasportare 3 piatti alla volta e quindi diminuendo l'acqua usata x il lavaggio si avev a un risparmio del 40% circa
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 25 -->
+	<question type="truefalse">
+		<name>
+			<text>La popolazione  mondiale aumentera', e nel 2050 arriveremo a circa 9 miloni, occorre aumentare la produzione agricola del 30_Expo_1_1_vf_25</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>La popolazione  mondiale aumentera', e nel 2050 arriveremo a circa 9 miloni, occorre aumentare la produzione agricola del 30<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>  Oggi i dati diffusi dalle Nazioni Unite nel rapporto How to Feed the World in 2050 indicano che la popolazione mondiale raggiunger&#224; i 9,1 miliardi di abitanti entro il 2050 e questo dovr&#224; comportare un aumento della produzione agroalimentare del 70%.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 26 -->
+	<question type="truefalse">
+		<name>
+			<text>Eliminare i rifiuti alimentari dalle discariche porterebbe a una riduzione delle emissioni di gas serra equivalente a quella che si otterrebbe togliendo un quinto delle automobili dalle strade del Paese._Expo_1_1_vf_26</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Eliminare i rifiuti alimentari dalle discariche porterebbe a una riduzione delle emissioni di gas serra equivalente a quella che si otterrebbe togliendo un quinto delle automobili dalle strade del Paese.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Secondo lo studio svolto nel Regno Unito dalla non profit WasteeResources Action Programme (WRAP), eliminare i rifiuti alimentari dalle discariche porterebbe a una riduzione delle emissioni di gas serra equivalente
+a quella che si otterrebbe togliendo un quinto delle automobili dalle strade del Paese.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 27 -->
+	<question type="truefalse">
+		<name>
+			<text>Si stima che il prezzo dello spreco in Italia equivale a circa 500 milioni di euro_Expo_1_1_vf_27</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Si stima che il prezzo dello spreco in Italia equivale a circa 500 milioni di euro<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Si stima che i rifiuti agroalimentari in Italia determinano uno spreco di circa 19 milioni di tonnellate di barili di petrolio, che equivale a buttare via circa un miliardo e duecentomila euro.
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 28 -->
+	<question type="truefalse">
+		<name>
+			<text>Ridurre lo spreco alimentare del 25% sarebbe sufficiente a dare da mangiare a 25 milioni di americani_Expo_1_1_vf_28</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Ridurre lo spreco alimentare del 25% sarebbe sufficiente a dare da mangiare a 25 milioni di americani<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p> Ridurre il food waste anche solo del 15% sarebbe sufficiente a dare da mangiare a pi&#249; di 25 milioni di americani all&#8217;anno, e questo &#232; un dato particolarmente importante se si considera che in questo periodo di crisi un americano su sei non riesce a sfamare la propria famiglia.
+ 
+ 
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 29 -->
+	<question type="truefalse">
+		<name>
+			<text>In Italia, gli sprechi agroalimentari, emetterebbero circa 2 milioni di tonnellate di CO2_Expo_1_1_vf_29</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>In Italia, gli sprechi agroalimentari, emetterebbero circa 2 milioni di tonnellate di CO2<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>In Italia, secondo uno studio svolto nel 2011 dall&#8217;Universit&#224; di Bologna e dal Last Minute Market, gli sprechi agroalimentari prodotti lungo la filiera, dalla fase di produzione fino alla distribuzione, emetterebbero circa 4 milioni di tonnellate di CO2, e questo valore corrisponde a circa un quarto di quanto l&#8217;Italia dovrebbe tagliare per rispettare gli accordi di Kyoto.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>Siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 30 -->
+	<question type="truefalse">
+		<name>
+			<text>Sprecare 415 milioni di tonnellate di pomodoro equivale a dire buttare via 7 milioni di ore di lavoro_Expo_1_1_vf_30</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>Sprecare 415 milioni di tonnellate di pomodoro equivale a dire buttare via 7 milioni di ore di lavoro<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>Secondo i dati raccolti, nel 2008 sono stati persi o sprecati lungo la filiera circa 415 milioni di tonnellate di pomodori. Aver buttato via questa enorme quantit&#224; di pomodori equivale ad aver consumato inutilmente circa 9000 ettari di terreno, 15 miliardi di litri di acqua e aver sprecato in media 7 milioni di ore di lavoro.
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+<!-- question: 31 -->
+	<question type="truefalse">
+		<name>
+			<text>&#232; vero che il recupero degli scarti alimentari &#232; una vera e propria arte._Expo_1_1_vf_31</text>
+		</name>
+		<questiontext format="html">
+			<text><![CDATA[<p>&#232; vero che il recupero degli scarti alimentari &#232; una vera e propria arte.<br></p>]]></text>
+		</questiontext>
+		<generalfeedback format="html">
+			<text><![CDATA[<p>non solo il recupero degli scarti alimentari &#232; molto importante ma anche quello degli scarti industriali. Qualche anno fa, in televisione, hanno dimostrato che &#232; possibile ricavare dell'acqua dolce da un semplice mucchio di scarti alimentari; successivamente degli operatori ecologici l'hanno resa potabile al 100%
+<br></p>]]></text>
+		</generalfeedback>
+		<defaultgrade>1.0000000</defaultgrade>
+		<penalty>1.0000000</penalty>
+		<hidden>0</hidden>
+		<answer fraction="100" format="moodle_auto_format">
+			<text>true</text>
+			<feedback format="html">
+			<text><![CDATA[<p>siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+		<answer fraction="0" format="moodle_auto_format">
+			<text>false</text>
+			<feedback format="html">
+			<text><![CDATA[<p>non siamo d'accordo<br></p>]]></text>
+			</feedback>
+		</answer>
+	</question>
+</quiz>

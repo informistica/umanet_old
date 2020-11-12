@@ -1,0 +1,84 @@
+{
+  "_comment": "Created with OWL2VOWL (version 0.3.3-SNAPSHOT), http://vowl.visualdataweb.org [Additional Information added by WebVOWL Exporter Version: 1.0.6]",
+  "header": {
+	"languages" : [ "Italiano" ],
+	"title" : {
+      "undefined" : "Mappa concettuale"
+    },
+	"description" : {
+      "undefined" : "Mappe concettuali del capitolo/modulo"
+    }
+  },
+  "metrics": {
+    "classCount": 2,
+    "objectPropertyCount": 2,
+    "datatypePropertyCount": 0,
+    "individualCount": 0
+  },
+  "class": [ 
+    {
+      "id": "0",
+      "type": "owl:Class"
+    },
+    {
+      "id": "1",
+      "type": "owl:Class"
+    }
+  ],
+  "classAttribute": [
+    {
+      "label": {
+        "IRI-based": "Server0"
+      },
+	   "comment" : {
+       "undefined" : "Server dall'inglese (to) serve «servire», dunque letteralmente «serviente, servitore». E' un componente informatico che fornisce, a livello logico e fisico, un qualunque tipo di servizio ad altre componenti tipicamente chiamate clients, cioè clienti."
+    },
+      "id": "0"
+    },
+    {
+      "label": {  
+        "IRI-based": "Client1"
+      },
+	  "comment" : {
+       "undefined" : "Il <a href='https://www.umanetexpo.net/expo2015Server/UECDL/home.asp'>client </a>accede a risorse remote inviando delle richiesta ad un server che risponde erogando un servizio, una funzione o dei dati. In ogni rete di comunicazione, sia internet che umanet, avviene questa interazione tra chi domanda (?) e chi risponde (!).L'architettura client/server è un modello di organizzazione universale.Per quanto riguarda la rete tecnologica internet un buon esempio di client è un PC che fa girare un web browser per visualizzare siti web. Per quanto riguarda la rete di relazioni umane un buon esempio di client è una persona  che chiede ad un'altra di soddisfare un proprio bisogno e aspettativa.Potrebbe essere ad esempio uno (o più) studenti che chiedono alla scuola di evolvere i processi didattici per realizzare una scuola migliore."
+    },
+      "id": "1"
+    }
+  ],
+  "property": [
+    {
+      "id": "2",
+      "type": "owl:objectProperty"
+    }, 
+	{
+      "id" : "3",
+      "type" : "owl:objectProperty"
+    }
+	
+  ],
+  "propertyAttribute": [
+     {
+      "range": "0",
+      "label": {
+        "IRI-based": "chiama"
+      },
+      "domain": "1",
+      "attributes": [
+        "object"
+      ],
+      "id": "2"
+    },
+	 {
+      "range": "1",
+      "label": {
+        "IRI-based": "risponde"
+      },
+      "domain": "0",
+      "attributes": [
+        "object"
+      ],
+      "id": "3"
+    }
+	
+  ]
+}
